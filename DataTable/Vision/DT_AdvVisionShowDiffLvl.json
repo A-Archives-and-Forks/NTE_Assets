@@ -1,0 +1,78 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_AdvVisionShowDiffLvl",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'VisionDifficultyData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "1": {
+        "BackImage": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FontColor": {
+          "SpecifiedColor": {
+            "R": 0.258183,
+            "G": 0.258183,
+            "B": 0.258183,
+            "A": 1.0,
+            "Hex": "8B8B8B"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "BottomImage": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "TitleBackImage": {
+          "AssetPathName": "/Game/UI/UI/VisionExplore/UI_YH_Archive_FilePaperYellowBg.UI_YH_Archive_FilePaperYellowBg",
+          "SubPathString": ""
+        },
+        "TitleBackImageSudden": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ComboBoxShowText": {
+          "CultureInvariantString": null
+        }
+      },
+      "2": {
+        "BackImage": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FontColor": {
+          "SpecifiedColor": {
+            "R": 0.258183,
+            "G": 0.258183,
+            "B": 0.258183,
+            "A": 1.0,
+            "Hex": "8B8B8B"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "BottomImage": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "TitleBackImage": {
+          "AssetPathName": "/Game/UI/UI/VisionExplore/UI_YH_Archive_FilePaperPinkBg.UI_YH_Archive_FilePaperPinkBg",
+          "SubPathString": ""
+        },
+        "TitleBackImageSudden": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ComboBoxShowText": {
+          "CultureInvariantString": null
+        }
+      }
+    }
+  }
+]

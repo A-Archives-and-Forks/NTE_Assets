@@ -11,7 +11,7 @@
       }
     },
     "Rows": {
-      "Wearher_Defulat": {
+      "Weather_Defulat": {
         "WeatherIndex": "EWeatherIndex::Weather_Defulat",
         "WeatherDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -34,7 +34,7 @@
           "SubPathString": ""
         }
       },
-      "Wearher_Sunny": {
+      "Weather_Sunny": {
         "WeatherIndex": "EWeatherIndex::Weather_Sunny",
         "WeatherDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -57,7 +57,7 @@
           "SubPathString": ""
         }
       },
-      "Wearher_Rain": {
+      "Weather_Rain": {
         "WeatherIndex": "EWeatherIndex::Weather_Rain",
         "WeatherDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -80,7 +80,7 @@
           "SubPathString": ""
         }
       },
-      "Wearher_Snow": {
+      "Weather_Snow": {
         "WeatherIndex": "EWeatherIndex::Weather_Snow",
         "WeatherDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -96,8 +96,8 @@
         "UnlockDesc": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "Wearher_Snow_Lock",
-          "SourceString": "完成任务<blue>【写给你的逆行诗】</>解锁",
-          "LocalizedString": "完成任务<blue>【写给你的逆行诗】</>解锁"
+          "SourceString": "完成支线任务 <blue>「 写给你的逆行诗 」</>解锁",
+          "LocalizedString": "完成支线任务 <blue>「 写给你的逆行诗 」</>解锁"
         },
         "bAutoUnlock": false,
         "UnlockCondition": {

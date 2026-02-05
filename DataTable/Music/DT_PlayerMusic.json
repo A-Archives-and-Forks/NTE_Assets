@@ -30,7 +30,8 @@
           "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Deep_House_001.Play_Music_Radio_Deep_House_001",
           "SubPathString": ""
         },
-        "SourceItemID": "None"
+        "SourceItemID": "None",
+        "bIsListMusic": true
       },
       "Bass001": {
         "MusicTitle": {
@@ -51,7 +52,8 @@
           "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Futrue_Bass_001.Play_Music_Radio_Futrue_Bass_001",
           "SubPathString": ""
         },
-        "SourceItemID": "None"
+        "SourceItemID": "None",
+        "bIsListMusic": true
       },
       "HipHop001": {
         "MusicTitle": {
@@ -72,12 +74,13 @@
           "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Jazz_HipHop_001.Play_Music_Radio_Jazz_HipHop_001",
           "SubPathString": ""
         },
-        "SourceItemID": "None"
+        "SourceItemID": "None",
+        "bIsListMusic": true
       },
       "MissionEleven": {
         "MusicTitle": {
-          "Namespace": "",
-          "Key": "880D5D4A4724E308B1210CBFD81CEE9F",
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_4",
           "SourceString": "MissionEleven",
           "LocalizedString": "MissionEleven"
         },
@@ -93,12 +96,13 @@
           "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Phonk_001.Play_Music_Radio_Phonk_001",
           "SubPathString": ""
         },
-        "SourceItemID": "disc_0004"
+        "SourceItemID": "disc_0004",
+        "bIsListMusic": true
       },
       "NightRun": {
         "MusicTitle": {
-          "Namespace": "",
-          "Key": "AC7F76F44B21FFC7F4B572BB0A9C3BB4",
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_5",
           "SourceString": "NightRun",
           "LocalizedString": "NightRun"
         },
@@ -114,12 +118,13 @@
           "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Synthwave_001.Play_Music_Radio_Synthwave_001",
           "SubPathString": ""
         },
-        "SourceItemID": "disc_0005"
+        "SourceItemID": "disc_0005",
+        "bIsListMusic": true
       },
       "Elysium": {
         "MusicTitle": {
-          "Namespace": "",
-          "Key": "AA18AB044FA33018B785B28968BC5826",
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_6",
           "SourceString": "Elysium",
           "LocalizedString": "Elysium"
         },
@@ -135,12 +140,13 @@
           "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Trancestep_001.Play_Music_Radio_Trancestep_001",
           "SubPathString": ""
         },
-        "SourceItemID": "disc_0006"
+        "SourceItemID": "disc_0006",
+        "bIsListMusic": true
       },
       "DreamLand": {
         "MusicTitle": {
-          "Namespace": "",
-          "Key": "D803CA4141C346B1E6819FADFC319C06",
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_7",
           "SourceString": "Dream Land",
           "LocalizedString": "Dream Land"
         },
@@ -156,12 +162,13 @@
           "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Progressive_Metal_001.Play_Music_Radio_Progressive_Metal_001",
           "SubPathString": ""
         },
-        "SourceItemID": "disc_0007"
+        "SourceItemID": "disc_0007",
+        "bIsListMusic": true
       },
       "TideGravity": {
         "MusicTitle": {
-          "Namespace": "",
-          "Key": "0D734A2146ACF1F1B96BA6B8110DD2F3",
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_8",
           "SourceString": "Tide Gravity",
           "LocalizedString": "Tide Gravity"
         },
@@ -177,12 +184,13 @@
           "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_UKGarage_001.Play_Music_Radio_UKGarage_001",
           "SubPathString": ""
         },
-        "SourceItemID": "disc_0008"
+        "SourceItemID": "disc_0008",
+        "bIsListMusic": true
       },
       "Chandelier": {
         "MusicTitle": {
-          "Namespace": "",
-          "Key": "9BFCE19746ABDCB85DB591AD4EDD3F6D",
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_9",
           "SourceString": "Chandelier",
           "LocalizedString": "Chandelier"
         },
@@ -198,12 +206,13 @@
           "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Fusion_001.Play_Music_Radio_Fusion_001",
           "SubPathString": ""
         },
-        "SourceItemID": "disc_0009"
+        "SourceItemID": "disc_0009",
+        "bIsListMusic": true
       },
       "CityNoPop": {
         "MusicTitle": {
-          "Namespace": "",
-          "Key": "90E8C0CB42BA886D7DB1ABACD8F4E13A",
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_10",
           "SourceString": "City No Pop",
           "LocalizedString": "City No Pop"
         },
@@ -219,7 +228,8 @@
           "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_CityNoPop_001.Play_Music_Radio_CityNoPop_001",
           "SubPathString": ""
         },
-        "SourceItemID": "disc_0010"
+        "SourceItemID": "disc_0010",
+        "bIsListMusic": true
       },
       "moondog": {
         "MusicTitle": {
@@ -237,10 +247,231 @@
           "CultureInvariantString": null
         },
         "MusicEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_RhythmGame/Play_Music_RhythmGame_MXJ_190BPM_44.Play_Music_RhythmGame_MXJ_190BPM_44",
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_MXJ_001.Play_Music_Radio_MXJ_001",
           "SubPathString": ""
         },
-        "SourceItemID": "disc_0011"
+        "SourceItemID": "disc_0011",
+        "bIsListMusic": true
+      },
+      "Ride": {
+        "MusicTitle": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "disc_0012_name",
+          "SourceString": "Ride",
+          "LocalizedString": "Ride"
+        },
+        "Comment": "",
+        "MusicCover": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/ride_256.ride_256",
+          "SubPathString": ""
+        },
+        "MusicDescription": {
+          "CultureInvariantString": null
+        },
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Ride_001.Play_Music_Radio_Ride_001",
+          "SubPathString": ""
+        },
+        "SourceItemID": "disc_0012",
+        "bIsListMusic": true
+      },
+      "RoundandRound": {
+        "MusicTitle": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "disc_0013_name",
+          "SourceString": "Round and Round",
+          "LocalizedString": "Round and Round"
+        },
+        "Comment": "",
+        "MusicCover": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/RoundandRound_256.RoundandRound_256",
+          "SubPathString": ""
+        },
+        "MusicDescription": {
+          "CultureInvariantString": null
+        },
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_Vehicle/Play_Music_Radio_Round_and_Round_001.Play_Music_Radio_Round_and_Round_001",
+          "SubPathString": ""
+        },
+        "SourceItemID": "disc_0013",
+        "bIsListMusic": false
+      },
+      "House001Achievement": {
+        "MusicTitle": {
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_1",
+          "SourceString": "Wandering In The Night",
+          "LocalizedString": "Wandering In The Night"
+        },
+        "Comment": "",
+        "MusicCover": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_icon_record_02.YH_UI_icon_record_02",
+          "SubPathString": ""
+        },
+        "MusicDescription": {
+          "CultureInvariantString": null
+        },
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_UI/Music_VehicleRadio_UI/Play_Music_UI_Deep_House_001.Play_Music_UI_Deep_House_001",
+          "SubPathString": ""
+        },
+        "SourceItemID": "None",
+        "bIsListMusic": false
+      },
+      "Bass001Achievement": {
+        "MusicTitle": {
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_2",
+          "SourceString": "Day Dream",
+          "LocalizedString": "Day Dream"
+        },
+        "Comment": "",
+        "MusicCover": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_icon_record_03.YH_UI_icon_record_03",
+          "SubPathString": ""
+        },
+        "MusicDescription": {
+          "CultureInvariantString": null
+        },
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_UI/Music_VehicleRadio_UI/Play_Music_UI_Futrue_Bass_001.Play_Music_UI_Futrue_Bass_001",
+          "SubPathString": ""
+        },
+        "SourceItemID": "None",
+        "bIsListMusic": false
+      },
+      "HipHop001Achievement": {
+        "MusicTitle": {
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_3",
+          "SourceString": "Drowning",
+          "LocalizedString": "Drowning"
+        },
+        "Comment": "",
+        "MusicCover": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_icon_record_01.YH_UI_icon_record_01",
+          "SubPathString": ""
+        },
+        "MusicDescription": {
+          "CultureInvariantString": null
+        },
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_UI/Music_VehicleRadio_UI/Play_Music_UI_Jazz_HipHop_001.Play_Music_UI_Jazz_HipHop_001",
+          "SubPathString": ""
+        },
+        "SourceItemID": "None",
+        "bIsListMusic": false
+      },
+      "MissionElevenAchievement": {
+        "MusicTitle": {
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_4",
+          "SourceString": "MissionEleven",
+          "LocalizedString": "MissionEleven"
+        },
+        "Comment": "",
+        "MusicCover": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_icon_record_04.YH_UI_icon_record_04",
+          "SubPathString": ""
+        },
+        "MusicDescription": {
+          "CultureInvariantString": null
+        },
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_UI/Music_VehicleRadio_UI/Play_Music_UI_Phonk_001.Play_Music_UI_Phonk_001",
+          "SubPathString": ""
+        },
+        "SourceItemID": "disc_0004",
+        "bIsListMusic": false
+      },
+      "NightRunAchievement": {
+        "MusicTitle": {
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_5",
+          "SourceString": "NightRun",
+          "LocalizedString": "NightRun"
+        },
+        "Comment": "",
+        "MusicCover": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_icon_record_05.YH_UI_icon_record_05",
+          "SubPathString": ""
+        },
+        "MusicDescription": {
+          "CultureInvariantString": null
+        },
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_UI/Music_VehicleRadio_UI/Play_Music_UI_Synthwave_001.Play_Music_UI_Synthwave_001",
+          "SubPathString": ""
+        },
+        "SourceItemID": "disc_0005",
+        "bIsListMusic": false
+      },
+      "ElysiumAchievement": {
+        "MusicTitle": {
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_6",
+          "SourceString": "Elysium",
+          "LocalizedString": "Elysium"
+        },
+        "Comment": "",
+        "MusicCover": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/YH_UI_icon_record_06.YH_UI_icon_record_06",
+          "SubPathString": ""
+        },
+        "MusicDescription": {
+          "CultureInvariantString": null
+        },
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_UI/Music_VehicleRadio_UI/Play_Music_UI_Trancestep_001.Play_Music_UI_Trancestep_001",
+          "SubPathString": ""
+        },
+        "SourceItemID": "disc_0006",
+        "bIsListMusic": false
+      },
+      "DreamLandAchievement": {
+        "MusicTitle": {
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_7",
+          "SourceString": "Dream Land",
+          "LocalizedString": "Dream Land"
+        },
+        "Comment": "",
+        "MusicCover": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/dreamland_256.dreamland_256",
+          "SubPathString": ""
+        },
+        "MusicDescription": {
+          "CultureInvariantString": null
+        },
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_UI/Music_VehicleRadio_UI/Play_Music_UI_Progressive_Metal_001.Play_Music_UI_Progressive_Metal_001",
+          "SubPathString": ""
+        },
+        "SourceItemID": "disc_0007",
+        "bIsListMusic": false
+      },
+      "TideGravityAchievement": {
+        "MusicTitle": {
+          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
+          "Key": "DT_PlayerMusic_8",
+          "SourceString": "Tide Gravity",
+          "LocalizedString": "Tide Gravity"
+        },
+        "Comment": "",
+        "MusicCover": {
+          "AssetPathName": "/Game/UI/UI_Icon/Item/tidegravity_256.tidegravity_256",
+          "SubPathString": ""
+        },
+        "MusicDescription": {
+          "CultureInvariantString": null
+        },
+        "MusicEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Music/Music_UI/Music_VehicleRadio_UI/Play_Music_UI_UKGarage_001.Play_Music_UI_UKGarage_001",
+          "SubPathString": ""
+        },
+        "SourceItemID": "disc_0008",
+        "bIsListMusic": false
       }
     }
   }

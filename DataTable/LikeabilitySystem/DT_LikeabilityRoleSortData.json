@@ -81,6 +81,20 @@
           "SubPathString": ""
         }
       },
+      "7": {
+        "NameText": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_05",
+          "SourceString": "德沃夏克家族",
+          "LocalizedString": "德沃夏克家族"
+        },
+        "SortLevel": 6,
+        "MapID": "None",
+        "SortMaterial": {
+          "AssetPathName": "/Game/Movies/UI_HD/MI_Movie_BG03_Inst.MI_Movie_BG03_Inst",
+          "SubPathString": ""
+        }
+      },
       "3": {
         "NameText": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",

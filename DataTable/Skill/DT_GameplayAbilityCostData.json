@@ -12,55 +12,59 @@
     },
     "Rows": {
       "GA_Mint_UltraSkill": {
-        "GACost": 30.0,
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       },
       "GA_Female_UltraSkill": {
-        "GACost": 30.0,
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       },
       "GA_Mint_UltraSkill_New": {
-        "GACost": 30.0,
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       },
       "GA_Mint016_UltraSkill": {
-        "GACost": 30.0,
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       },
       "GA_Mint019_UltraSkill": {
-        "GACost": 30.0,
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       },
       "GA_Mint_UtraSkill_Test1": {
-        "GACost": 30.0,
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       },
       "GA_Mint_UtraSkill_Test2": {
-        "GACost": 30.0,
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       },
       "GA_Sagiri_UltraSkill": {
-        "GACost": 45.0,
+        "GACost": 120.0,
         "GAStrengthCost": 0.0
       },
       "GA_Nanally_UltraSkill": {
-        "GACost": 30.0,
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       },
       "GA_Adler_UltraSkill": {
-        "GACost": 45.0,
+        "GACost": 120.0,
         "GAStrengthCost": 0.0
       },
       "GA_Skia_UltraSkill": {
-        "GACost": 30.0,
+        "GACost": 100.0,
+        "GAStrengthCost": 0.0
+      },
+      "GA_Lacrimosa_UltraSkillModA": {
+        "GACost": 120.0,
         "GAStrengthCost": 0.0
       },
       "GA_Lacrimosa_UltraSkill": {
-        "GACost": 45.0,
+        "GACost": 120.0,
         "GAStrengthCost": 0.0
       },
       "GA_Fadia_UltraSkill": {
-        "GACost": 45.0,
+        "GACost": 120.0,
         "GAStrengthCost": 0.0
       },
       "GA_Jin_UltraSkill": {
@@ -112,15 +116,15 @@
         "GAStrengthCost": 15.0
       },
       "GA_Bat_UltraSkill": {
-        "GACost": 45.0,
+        "GACost": 120.0,
         "GAStrengthCost": 0.0
       },
       "GA_Cang_UltraSkill": {
-        "GACost": 45.0,
+        "GACost": 120.0,
         "GAStrengthCost": 0.0
       },
       "GA_Hathor_UltraSkill": {
-        "GACost": 30.0,
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       },
       "GA_Female051_Evade": {
@@ -128,7 +132,7 @@
         "GAStrengthCost": 15.0
       },
       "GA_Female051_UltraSkill": {
-        "GACost": 30.0,
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       },
       "GA_Female046_Evade": {
@@ -136,7 +140,47 @@
         "GAStrengthCost": 15.0
       },
       "GA_Female046_UltraSkill": {
-        "GACost": 30.0,
+        "GACost": 100.0,
+        "GAStrengthCost": 0.0
+      },
+      "GA_Edgar_UltraSkill": {
+        "GACost": 100.0,
+        "GAStrengthCost": 0.0
+      },
+      "GA_Edgar_Evade": {
+        "GACost": 0.0,
+        "GAStrengthCost": 15.0
+      },
+      "GA_Kuhara_UltraSkill": {
+        "GACost": 100.0,
+        "GAStrengthCost": 0.0
+      },
+      "GA_Kuhara_Evade": {
+        "GACost": 0.0,
+        "GAStrengthCost": 15.0
+      },
+      "GA_Daffodill_UltraSkill": {
+        "GACost": 120.0,
+        "GAStrengthCost": 0.0
+      },
+      "GA_Daffodill_Evade": {
+        "GACost": 0.0,
+        "GAStrengthCost": 15.0
+      },
+      "GA_Haniel_UltraSkill": {
+        "GACost": 120.0,
+        "GAStrengthCost": 0.0
+      },
+      "GA_Haniel_Evade": {
+        "GACost": 0.0,
+        "GAStrengthCost": 15.0
+      },
+      "GA_Chiichan073_Evade": {
+        "GACost": 0.0,
+        "GAStrengthCost": 15.0
+      },
+      "GA_Chiichan073_UltraSkill": {
+        "GACost": 100.0,
         "GAStrengthCost": 0.0
       }
     }

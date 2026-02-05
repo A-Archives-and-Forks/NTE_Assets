@@ -12,24 +12,32 @@
     },
     "Rows": {
       "Fons": {
-        "bShowAddIcon": false,
+        "ItemID": "Fons",
         "OpenUIName": ""
       },
       "Annulith": {
-        "bShowAddIcon": false,
+        "ItemID": "Annulith",
         "OpenUIName": ""
       },
       "Riftcrystal": {
-        "bShowAddIcon": false,
+        "ItemID": "Riftcrystal",
         "OpenUIName": ""
       },
       "ExchangeTicket": {
-        "bShowAddIcon": false,
+        "ItemID": "ExchangeTicket",
         "OpenUIName": ""
       },
       "OracleStone": {
-        "bShowAddIcon": false,
+        "ItemID": "OracleStone",
         "OpenUIName": ""
+      },
+      "AnnulithAdd": {
+        "ItemID": "Annulith",
+        "OpenUIName": "CurrencyConvert"
+      },
+      "RiftcrystalAdd": {
+        "ItemID": "Riftcrystal",
+        "OpenUIName": "Mall&RechargeShop"
       }
     }
   }

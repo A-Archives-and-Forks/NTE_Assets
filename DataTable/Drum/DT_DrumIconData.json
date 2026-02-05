@@ -13,10 +13,7 @@
     "Rows": {
       "EDMTT_Playlist": {
         "TabName": {
-          "Namespace": "",
-          "Key": "7F69AA8C48E115E2ACC48486D9F58337",
-          "SourceString": "播放列表",
-          "LocalizedString": "播放列表"
+          "CultureInvariantString": "播放列表"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -34,10 +31,7 @@
       },
       "EDMTT_Archives": {
         "TabName": {
-          "Namespace": "",
-          "Key": "D98533554AEBF5516721A098203C30C4",
-          "SourceString": "存档",
-          "LocalizedString": "存档"
+          "CultureInvariantString": "存档"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -55,10 +49,7 @@
       },
       "EDMTT_Search": {
         "TabName": {
-          "Namespace": "",
-          "Key": "D4E811344CC91C867C14B1982909DB50",
-          "SourceString": "搜索",
-          "LocalizedString": "搜索"
+          "CultureInvariantString": "搜索"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -76,10 +67,7 @@
       },
       "EDMTT_Favorites": {
         "TabName": {
-          "Namespace": "",
-          "Key": "67C8237C4705070E0EFAB89ECF65EC20",
-          "SourceString": "收藏",
-          "LocalizedString": "收藏"
+          "CultureInvariantString": "收藏"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -97,10 +85,7 @@
       },
       "Clear": {
         "TabName": {
-          "Namespace": "",
-          "Key": "98B209974F9D88EED53AC79C96F187C6",
-          "SourceString": "清空",
-          "LocalizedString": "清空"
+          "CultureInvariantString": "清空"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -118,10 +103,7 @@
       },
       "Share": {
         "TabName": {
-          "Namespace": "",
-          "Key": "CF57E7C44F2EE6675EC67CA71A80373C",
-          "SourceString": "分享",
-          "LocalizedString": "分享"
+          "CultureInvariantString": "分享"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -139,10 +121,7 @@
       },
       "SaveAs": {
         "TabName": {
-          "Namespace": "",
-          "Key": "A515415D4DC42FA6A9259EBC88A460E8",
-          "SourceString": "另存为",
-          "LocalizedString": "另存为"
+          "CultureInvariantString": "另存为"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -160,10 +139,7 @@
       },
       "Import": {
         "TabName": {
-          "Namespace": "",
-          "Key": "1F5EAC7440E3FF02F1A620A2F226572E",
-          "SourceString": "导入谱面",
-          "LocalizedString": "导入谱面"
+          "CultureInvariantString": "导入谱面"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -181,10 +157,7 @@
       },
       "EDSLT_Easy": {
         "TabName": {
-          "Namespace": "",
-          "Key": "E9CC2C21434356F4875641A5F00770A7",
-          "SourceString": "容易",
-          "LocalizedString": "容易"
+          "CultureInvariantString": "容易"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -202,10 +175,7 @@
       },
       "EDSLT_Normal": {
         "TabName": {
-          "Namespace": "",
-          "Key": "FA3E90784B135726E13093BFAD9AD7D7",
-          "SourceString": "正常",
-          "LocalizedString": "正常"
+          "CultureInvariantString": "正常"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -223,10 +193,7 @@
       },
       "EDSLT_Hard": {
         "TabName": {
-          "Namespace": "",
-          "Key": "F01DDA0145AC41CBD48C1DA4F509829F",
-          "SourceString": "困难",
-          "LocalizedString": "困难"
+          "CultureInvariantString": "困难"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -244,10 +211,7 @@
       },
       "EDSLT_Hardest": {
         "TabName": {
-          "Namespace": "",
-          "Key": "EB910CD54F5792C48D8875831FF654D7",
-          "SourceString": "最难",
-          "LocalizedString": "最难"
+          "CultureInvariantString": "最难"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -265,10 +229,7 @@
       },
       "ImportHitAudio": {
         "TabName": {
-          "Namespace": "",
-          "Key": "575541A143DCA266638C628937374F26",
-          "SourceString": "导入点击音频",
-          "LocalizedString": "导入点击音频"
+          "CultureInvariantString": "导入点击音频"
         },
         "NormalIcon": {
           "AssetPathName": "",
@@ -286,10 +247,7 @@
       },
       "Publish": {
         "TabName": {
-          "Namespace": "",
-          "Key": "A9A1E3C34B411D19D49ECBA1F2999C4E",
-          "SourceString": "发布",
-          "LocalizedString": "发布"
+          "CultureInvariantString": "发布"
         },
         "NormalIcon": {
           "AssetPathName": "",

@@ -25,7 +25,9 @@
         "Range": 0.0,
         "DropID": "drop_mainquest_q1100591_food",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_NPF_Subway": {
         "Index": 10001,
@@ -41,7 +43,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_L110036_A2": {
         "Index": 10002,
@@ -57,7 +61,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_K110334_1": {
         "Index": 10003,
@@ -73,7 +79,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_K110334_2": {
         "Index": 10004,
@@ -89,7 +97,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_K110334_3": {
         "Index": 10005,
@@ -105,7 +115,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_K110205": {
         "Index": 10006,
@@ -121,7 +133,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110042_1": {
         "Index": 10007,
@@ -137,7 +151,9 @@
         "Range": 0.0,
         "DropID": "drop_L110042_01",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110042_2": {
         "Index": 10008,
@@ -153,7 +169,9 @@
         "Range": 0.0,
         "DropID": "drop_L110042_02",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110042_3": {
         "Index": 10009,
@@ -169,7 +187,9 @@
         "Range": 0.0,
         "DropID": "drop_L110042_03",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110035_F1": {
         "Index": 10010,
@@ -185,7 +205,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110035_F2": {
         "Index": 10011,
@@ -201,7 +223,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110035_F3": {
         "Index": 10012,
@@ -217,7 +241,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110035_F4": {
         "Index": 10013,
@@ -233,7 +259,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110035_F5": {
         "Index": 10014,
@@ -249,7 +277,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "S110101_1": {
         "Index": 10015,
@@ -265,7 +295,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "S110101_2": {
         "Index": 10016,
@@ -281,7 +313,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_K110355_1": {
         "Index": 10017,
@@ -297,7 +331,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_K110355_2": {
         "Index": 10018,
@@ -313,7 +349,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_K110355_3": {
         "Index": 10019,
@@ -329,7 +367,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_K110505_1": {
         "Index": 10020,
@@ -345,7 +385,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_K110505_2": {
         "Index": 10021,
@@ -361,7 +403,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_K110505_3": {
         "Index": 10022,
@@ -377,7 +421,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_1_1": {
         "Index": 10023,
@@ -393,7 +439,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_1_2": {
         "Index": 10024,
@@ -409,7 +457,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_2_1": {
         "Index": 10025,
@@ -425,7 +475,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_2_2": {
         "Index": 10026,
@@ -441,7 +493,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_2_3": {
         "Index": 10027,
@@ -457,7 +511,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_3_1": {
         "Index": 10028,
@@ -473,7 +529,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_3_2": {
         "Index": 10029,
@@ -489,7 +547,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_3_3": {
         "Index": 10030,
@@ -505,7 +565,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_4_1": {
         "Index": 10031,
@@ -521,7 +583,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_4_2": {
         "Index": 10032,
@@ -537,7 +601,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_4_3": {
         "Index": 10033,
@@ -553,7 +619,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_5_1": {
         "Index": 10034,
@@ -569,7 +637,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_5_2": {
         "Index": 10035,
@@ -585,7 +655,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_6_1": {
         "Index": 10036,
@@ -601,7 +673,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_7_1": {
         "Index": 10037,
@@ -617,7 +691,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_8_1": {
         "Index": 10038,
@@ -633,7 +709,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_8_2": {
         "Index": 10039,
@@ -649,7 +727,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_9_1": {
         "Index": 10040,
@@ -665,7 +745,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_1_9_2": {
         "Index": 10041,
@@ -681,7 +763,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_1_1": {
         "Index": 10042,
@@ -697,7 +781,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_1_2": {
         "Index": 10043,
@@ -713,7 +799,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_2_1": {
         "Index": 10044,
@@ -729,7 +817,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_2_2": {
         "Index": 10045,
@@ -745,7 +835,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_2_3": {
         "Index": 10046,
@@ -761,7 +853,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_3_1": {
         "Index": 10047,
@@ -777,7 +871,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_3_2": {
         "Index": 10048,
@@ -793,7 +889,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_3_3": {
         "Index": 10049,
@@ -809,7 +907,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_4_1": {
         "Index": 10050,
@@ -825,7 +925,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_4_2": {
         "Index": 10051,
@@ -841,7 +943,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_4_3": {
         "Index": 10052,
@@ -857,7 +961,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_5_1": {
         "Index": 10053,
@@ -873,7 +979,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_5_2": {
         "Index": 10054,
@@ -889,7 +997,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_6_1": {
         "Index": 10055,
@@ -905,7 +1015,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_7_1": {
         "Index": 10056,
@@ -921,7 +1033,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_8_1": {
         "Index": 10057,
@@ -937,7 +1051,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_8_2": {
         "Index": 10058,
@@ -953,7 +1069,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_9_1": {
         "Index": 10059,
@@ -969,7 +1087,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_2_9_2": {
         "Index": 10060,
@@ -985,7 +1105,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_1_1": {
         "Index": 10061,
@@ -1001,7 +1123,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_1_2": {
         "Index": 10062,
@@ -1017,7 +1141,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_2_1": {
         "Index": 10063,
@@ -1033,7 +1159,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_2_2": {
         "Index": 10064,
@@ -1049,7 +1177,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_2_3": {
         "Index": 10065,
@@ -1065,7 +1195,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_3_1": {
         "Index": 10066,
@@ -1081,7 +1213,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_3_2": {
         "Index": 10067,
@@ -1097,7 +1231,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_3_3": {
         "Index": 10068,
@@ -1113,7 +1249,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_4_1": {
         "Index": 10069,
@@ -1129,7 +1267,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_4_2": {
         "Index": 10070,
@@ -1145,7 +1285,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_4_3": {
         "Index": 10071,
@@ -1161,7 +1303,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_5_1": {
         "Index": 10072,
@@ -1177,7 +1321,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_5_2": {
         "Index": 10073,
@@ -1193,7 +1339,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_6_1": {
         "Index": 10074,
@@ -1209,7 +1357,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_7_1": {
         "Index": 10075,
@@ -1225,7 +1375,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_8_1": {
         "Index": 10076,
@@ -1241,7 +1393,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_8_2": {
         "Index": 10077,
@@ -1257,7 +1411,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_9_1": {
         "Index": 10078,
@@ -1273,7 +1429,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110347_EbisuFood_3_9_2": {
         "Index": 10079,
@@ -1289,7 +1447,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110227_1": {
         "Index": 10080,
@@ -1305,7 +1465,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110227_2": {
         "Index": 10081,
@@ -1321,7 +1483,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110227_3": {
         "Index": 10082,
@@ -1337,7 +1501,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_1_1": {
         "Index": 10083,
@@ -1353,7 +1519,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_1_2": {
         "Index": 10084,
@@ -1369,7 +1537,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_2_1": {
         "Index": 10085,
@@ -1385,7 +1555,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_2_2": {
         "Index": 10086,
@@ -1401,7 +1573,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_2_3": {
         "Index": 10087,
@@ -1417,7 +1591,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_3_1": {
         "Index": 10088,
@@ -1433,7 +1609,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_3_2": {
         "Index": 10089,
@@ -1449,7 +1627,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_3_3": {
         "Index": 10090,
@@ -1465,7 +1645,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_4_1": {
         "Index": 10091,
@@ -1481,7 +1663,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_4_2": {
         "Index": 10092,
@@ -1497,7 +1681,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_4_3": {
         "Index": 10093,
@@ -1513,7 +1699,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_5_1": {
         "Index": 10094,
@@ -1529,7 +1717,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_5_2": {
         "Index": 10095,
@@ -1545,7 +1735,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_6_1": {
         "Index": 10096,
@@ -1561,7 +1753,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_7_1": {
         "Index": 10097,
@@ -1577,7 +1771,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_8_1": {
         "Index": 10098,
@@ -1593,7 +1789,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_8_2": {
         "Index": 10099,
@@ -1609,7 +1807,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_9_1": {
         "Index": 10100,
@@ -1625,7 +1825,9 @@
         "Range": 0.0,
         "DropID": "drop_food_103",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_q110342_EbisuFood_1_9_2": {
         "Index": 10101,
@@ -1641,7 +1843,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110006_1": {
         "Index": 10102,
@@ -1657,12 +1861,14 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110006_2": {
         "Index": 10103,
         "YahahaId": "L110006_2",
-        "TableName": "None",
+        "TableName": "Quest",
         "Type": "None",
         "CD": 0,
         "Location": {
@@ -1673,12 +1879,14 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "L110006_3": {
-        "Index": 10106,
+        "Index": 10104,
         "YahahaId": "L110006_3",
-        "TableName": "None",
+        "TableName": "Quest",
         "Type": "None",
         "CD": 0,
         "Location": {
@@ -1689,7 +1897,333 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "L110203_1": {
+        "Index": 10105,
+        "YahahaId": "L110203_1",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "L110203_2": {
+        "Index": 10106,
+        "YahahaId": "L110203_2",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "S111318_01": {
+        "Index": 10107,
+        "YahahaId": "S111318_01",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "S111318_02": {
+        "Index": 10108,
+        "YahahaId": "S111318_02",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "S111318_03": {
+        "Index": 10109,
+        "YahahaId": "S111318_03",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "SexChange": {
+        "Index": 10110,
+        "YahahaId": "SexChange",
+        "TableName": "Quest",
+        "Type": "SexChange",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "q110468_1": {
+        "Index": 10111,
+        "YahahaId": "q110468_1",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "q110468_2": {
+        "Index": 10112,
+        "YahahaId": "q110468_2",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "q110468_3": {
+        "Index": 10113,
+        "YahahaId": "q110468_3",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "q110468_4": {
+        "Index": 10114,
+        "YahahaId": "q110468_4",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "q110468_5": {
+        "Index": 10115,
+        "YahahaId": "q110468_5",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "q110468_6": {
+        "Index": 10116,
+        "YahahaId": "q110468_6",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "S111908_1": {
+        "Index": 10117,
+        "YahahaId": "S111908_1",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "S111908_2": {
+        "Index": 10118,
+        "YahahaId": "S111908_2",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "S111908_3": {
+        "Index": 10119,
+        "YahahaId": "S111908_3",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "S111908_4": {
+        "Index": 10121,
+        "YahahaId": "S111908_4",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "K110027": {
+        "Index": 10122,
+        "YahahaId": "K110027",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "K110045": {
+        "Index": 10124,
+        "YahahaId": "K110045",
+        "TableName": "Quest",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       }
     }
   }

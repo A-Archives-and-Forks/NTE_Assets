@@ -591,6 +591,34 @@
           }
         ]
       },
+      "YeHuIsland": {
+        "Locations": [
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "City001",
+            "SourceString": "海特洛市",
+            "LocalizedString": "海特洛市"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Region001",
+            "SourceString": "老城区",
+            "LocalizedString": "老城区"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area002",
+            "SourceString": "未闻浦 ",
+            "LocalizedString": "未闻浦 "
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area00204",
+            "SourceString": "耶呼岛",
+            "LocalizedString": "耶呼岛"
+          }
+        ]
+      },
       "---绘空町---": {
         "Locations": []
       },
@@ -837,6 +865,62 @@
             "Key": "Area00307",
             "SourceString": "玉饼街",
             "LocalizedString": "玉饼街"
+          }
+        ]
+      },
+      "XiaoYeRongLu": {
+        "Locations": [
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "City001",
+            "SourceString": "海特洛市",
+            "LocalizedString": "海特洛市"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Region001",
+            "SourceString": "老城区",
+            "LocalizedString": "老城区"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area003",
+            "SourceString": "绘空町",
+            "LocalizedString": "绘空町"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area00605",
+            "SourceString": "小叶榕路",
+            "LocalizedString": "小叶榕路"
+          }
+        ]
+      },
+      "LuoBoTou": {
+        "Locations": [
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "City001",
+            "SourceString": "海特洛市",
+            "LocalizedString": "海特洛市"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Region001",
+            "SourceString": "老城区",
+            "LocalizedString": "老城区"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area003",
+            "SourceString": "绘空町",
+            "LocalizedString": "绘空町"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area00606",
+            "SourceString": "萝卜头路",
+            "LocalizedString": "萝卜头路"
           }
         ]
       },
@@ -1233,6 +1317,68 @@
           }
         ]
       },
+      "JinPingGuoCangGuan": {
+        "Locations": [
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "City001",
+            "SourceString": "海特洛市",
+            "LocalizedString": "海特洛市"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Region002",
+            "SourceString": "新赫兰德区",
+            "LocalizedString": "新赫兰德区"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area00406",
+            "SourceString": "鳄鱼钟大道",
+            "LocalizedString": "鳄鱼钟大道"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area0040601",
+            "SourceString": "金苹果藏馆",
+            "LocalizedString": "金苹果藏馆"
+          }
+        ]
+      },
+      "WuSiZhanTin": {
+        "Locations": [
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "City001",
+            "SourceString": "海特洛市",
+            "LocalizedString": "海特洛市"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Region002",
+            "SourceString": "新赫兰德区",
+            "LocalizedString": "新赫兰德区"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area00406",
+            "SourceString": "鳄鱼钟大道",
+            "LocalizedString": "鳄鱼钟大道"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area0040601",
+            "SourceString": "金苹果藏馆",
+            "LocalizedString": "金苹果藏馆"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area0040602",
+            "SourceString": "钨丝展厅",
+            "LocalizedString": "钨丝展厅"
+          }
+        ]
+      },
       "---半港区---": {
         "Locations": []
       },
@@ -1332,8 +1478,8 @@
           {
             "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
             "Key": "Area00603",
-            "SourceString": "水菱路",
-            "LocalizedString": "水菱路"
+            "SourceString": "水菱湖路",
+            "LocalizedString": "水菱湖路"
           }
         ]
       },
@@ -1356,50 +1502,6 @@
             "Key": "Area00604",
             "SourceString": "白尾树盘山公路",
             "LocalizedString": "白尾树盘山公路"
-          }
-        ]
-      },
-      "XiaoYeRongLu": {
-        "Locations": [
-          {
-            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
-            "Key": "City001",
-            "SourceString": "海特洛市",
-            "LocalizedString": "海特洛市"
-          },
-          {
-            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
-            "Key": "Region004",
-            "SourceString": "米格尔区",
-            "LocalizedString": "米格尔区"
-          },
-          {
-            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
-            "Key": "Area00605",
-            "SourceString": "小叶榕路",
-            "LocalizedString": "小叶榕路"
-          }
-        ]
-      },
-      "LuoBoTou": {
-        "Locations": [
-          {
-            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
-            "Key": "City001",
-            "SourceString": "海特洛市",
-            "LocalizedString": "海特洛市"
-          },
-          {
-            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
-            "Key": "Region004",
-            "SourceString": "米格尔区",
-            "LocalizedString": "米格尔区"
-          },
-          {
-            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
-            "Key": "Area00606",
-            "SourceString": "萝卜头路",
-            "LocalizedString": "萝卜头路"
           }
         ]
       },
@@ -1488,6 +1590,28 @@
             "Key": "Area00610",
             "SourceString": "轨外之境",
             "LocalizedString": "轨外之境"
+          }
+        ]
+      },
+      "ShengTuoLiSiDaDao": {
+        "Locations": [
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "City001",
+            "SourceString": "海特洛市",
+            "LocalizedString": "海特洛市"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Region004",
+            "SourceString": "米格尔区",
+            "LocalizedString": "米格尔区"
+          },
+          {
+            "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",
+            "Key": "Area00611",
+            "SourceString": "圣托里斯大道",
+            "LocalizedString": "圣托里斯大道"
           }
         ]
       }

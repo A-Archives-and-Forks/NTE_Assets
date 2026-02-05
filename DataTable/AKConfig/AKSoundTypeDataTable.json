@@ -53,7 +53,7 @@
       },
       "NewRow_2": {
         "SoundObjectName": "Vehicle",
-        "MaxLimitCount": 15,
+        "MaxLimitCount": 25,
         "Commont": "玩家车辆"
       },
       "NewRow_3": {

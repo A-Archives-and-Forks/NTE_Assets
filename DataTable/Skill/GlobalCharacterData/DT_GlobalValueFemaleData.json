@@ -11,31 +11,31 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 22.0
+            "Value": 18.0
           },
           {
             "Time": 6.0,
-            "Value": 27.0
+            "Value": 23.0
           },
           {
             "Time": 7.0,
-            "Value": 29.0
-          },
-          {
-            "Time": 8.0,
-            "Value": 30.0
+            "Value": 25.0
           },
           {
             "Time": 9.0,
-            "Value": 32.0
+            "Value": 27.0
           },
           {
             "Time": 10.0,
-            "Value": 33.0
+            "Value": 29.0
+          },
+          {
+            "Time": 12.0,
+            "Value": 31.0
           },
           {
             "Time": 13.0,
-            "Value": 39.0
+            "Value": 33.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -47,27 +47,23 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 17.0
+            "Value": 14.0
           },
           {
-            "Time": 2.0,
-            "Value": 17.0
+            "Time": 3.0,
+            "Value": 16.0
           },
           {
-            "Time": 8.0,
-            "Value": 23.0
-          },
-          {
-            "Time": 9.0,
-            "Value": 25.0
+            "Time": 4.0,
+            "Value": 16.0
           },
           {
             "Time": 12.0,
-            "Value": 28.0
+            "Value": 24.0
           },
           {
             "Time": 13.0,
-            "Value": 30.0
+            "Value": 26.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -79,15 +75,35 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 15.0
+            "Value": 13.0
           },
           {
             "Time": 2.0,
+            "Value": 13.0
+          },
+          {
+            "Time": 4.0,
             "Value": 15.0
           },
           {
+            "Time": 5.0,
+            "Value": 15.0
+          },
+          {
+            "Time": 9.0,
+            "Value": 19.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 19.0
+          },
+          {
+            "Time": 12.0,
+            "Value": 21.0
+          },
+          {
             "Time": 13.0,
-            "Value": 26.0
+            "Value": 23.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -99,39 +115,27 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 18.0
-          },
-          {
-            "Time": 2.0,
-            "Value": 19.0
+            "Value": 15.0
           },
           {
             "Time": 3.0,
-            "Value": 19.0
+            "Value": 17.0
           },
           {
-            "Time": 6.0,
-            "Value": 22.0
-          },
-          {
-            "Time": 7.0,
-            "Value": 24.0
+            "Time": 4.0,
+            "Value": 17.0
           },
           {
             "Time": 10.0,
-            "Value": 27.0
+            "Value": 23.0
           },
           {
             "Time": 11.0,
-            "Value": 29.0
-          },
-          {
-            "Time": 12.0,
-            "Value": 30.0
+            "Value": 25.0
           },
           {
             "Time": 13.0,
-            "Value": 32.0
+            "Value": 27.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -143,23 +147,27 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 37.0
+            "Value": 32.0
           },
           {
-            "Time": 6.0,
-            "Value": 47.0
+            "Time": 2.0,
+            "Value": 33.0
           },
           {
-            "Time": 7.0,
-            "Value": 50.0
+            "Time": 10.0,
+            "Value": 49.0
           },
           {
-            "Time": 8.0,
+            "Time": 11.0,
             "Value": 52.0
           },
           {
+            "Time": 12.0,
+            "Value": 54.0
+          },
+          {
             "Time": 13.0,
-            "Value": 67.0
+            "Value": 57.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -171,39 +179,27 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 18.0
-          },
-          {
-            "Time": 2.0,
-            "Value": 19.0
+            "Value": 15.0
           },
           {
             "Time": 3.0,
-            "Value": 19.0
+            "Value": 17.0
           },
           {
-            "Time": 6.0,
-            "Value": 22.0
-          },
-          {
-            "Time": 7.0,
-            "Value": 24.0
+            "Time": 4.0,
+            "Value": 17.0
           },
           {
             "Time": 10.0,
-            "Value": 27.0
+            "Value": 23.0
           },
           {
             "Time": 11.0,
-            "Value": 29.0
-          },
-          {
-            "Time": 12.0,
-            "Value": 30.0
+            "Value": 25.0
           },
           {
             "Time": 13.0,
-            "Value": 32.0
+            "Value": 27.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -215,47 +211,43 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 62.0
-          },
-          {
-            "Time": 2.0,
-            "Value": 65.0
+            "Value": 53.0
           },
           {
             "Time": 3.0,
-            "Value": 69.0
+            "Value": 59.0
           },
           {
             "Time": 4.0,
-            "Value": 72.0
+            "Value": 61.0
           },
           {
             "Time": 5.0,
-            "Value": 76.0
+            "Value": 65.0
           },
           {
-            "Time": 6.0,
-            "Value": 79.0
+            "Time": 7.0,
+            "Value": 71.0
           },
           {
             "Time": 8.0,
-            "Value": 87.0
+            "Value": 75.0
           },
           {
             "Time": 9.0,
-            "Value": 92.0
+            "Value": 78.0
           },
           {
-            "Time": 10.0,
-            "Value": 96.0
+            "Time": 11.0,
+            "Value": 86.0
           },
           {
             "Time": 12.0,
-            "Value": 106.0
+            "Value": 91.0
           },
           {
             "Time": 13.0,
-            "Value": 112.0
+            "Value": 95.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -267,35 +259,39 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 94.0
-          },
-          {
-            "Time": 2.0,
-            "Value": 99.0
+            "Value": 80.0
           },
           {
             "Time": 3.0,
-            "Value": 103.0
+            "Value": 88.0
           },
           {
             "Time": 4.0,
-            "Value": 109.0
+            "Value": 93.0
           },
           {
             "Time": 5.0,
-            "Value": 114.0
+            "Value": 97.0
+          },
+          {
+            "Time": 7.0,
+            "Value": 107.0
           },
           {
             "Time": 8.0,
-            "Value": 132.0
+            "Value": 113.0
           },
           {
-            "Time": 12.0,
-            "Value": 160.0
+            "Time": 9.0,
+            "Value": 118.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 130.0
           },
           {
             "Time": 13.0,
-            "Value": 168.0
+            "Value": 144.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -307,23 +303,63 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 89.0
+            "Value": 16.0
           },
           {
-            "Time": 6.0,
-            "Value": 114.0
+            "Time": 2.0,
+            "Value": 16.0
           },
           {
-            "Time": 9.0,
-            "Value": 132.0
+            "Time": 10.0,
+            "Value": 24.0
           },
           {
-            "Time": 12.0,
-            "Value": 153.0
+            "Time": 11.0,
+            "Value": 26.0
           },
           {
             "Time": 13.0,
-            "Value": 161.0
+            "Value": 28.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Female_Melee_5_2": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 71.0
+          },
+          {
+            "Time": 6.0,
+            "Value": 91.0
+          },
+          {
+            "Time": 7.0,
+            "Value": 96.0
+          },
+          {
+            "Time": 8.0,
+            "Value": 100.0
+          },
+          {
+            "Time": 9.0,
+            "Value": 105.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 111.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 116.0
+          },
+          {
+            "Time": 13.0,
+            "Value": 128.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -379,11 +415,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 29.0
+            "Value": 27.0
           },
           {
             "Time": 13.0,
-            "Value": 29.0
+            "Value": 27.0
           }
         ],
         "DefaultValue": 3.4028235E+38,

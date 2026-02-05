@@ -20,8 +20,15 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
-        "Conditions": [],
+        "Conditions": [
+          {
+            "ChatConditionType": "ELikeabilityChatConditionType::Quest",
+            "ConfigValue": 1,
+            "ConfigID": "L110139"
+          }
+        ],
         "bIsImmediatelyShow": true,
         "ChatItemType": "ELikeabilityChatItemType::Normal",
         "Content": {
@@ -76,7 +83,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_2_1": {
         "ChatID": "1039_1",
@@ -87,10 +98,11 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "ChatItemType": "ELikeabilityChatItemType::Emoji",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1039_1_2_1",
@@ -99,7 +111,7 @@
         },
         "ParaContent": "",
         "IconSource": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_Y_003.UI_T_Memes_Y_003",
           "SubPathString": ""
         },
         "QuestId": "None",
@@ -116,7 +128,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_2_2": {
         "ChatID": "1039_1",
@@ -127,10 +143,11 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "ChatItemType": "ELikeabilityChatItemType::Emoji",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1039_1_2_2",
@@ -139,7 +156,7 @@
         },
         "ParaContent": "",
         "IconSource": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_AHQ_004.UI_T_Memes_AHQ_004",
           "SubPathString": ""
         },
         "QuestId": "None",
@@ -156,7 +173,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_3": {
         "ChatID": "1039_1",
@@ -167,6 +188,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -196,7 +218,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_4": {
         "ChatID": "1039_1",
@@ -207,6 +233,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -236,7 +263,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_5": {
         "ChatID": "1039_1",
@@ -247,6 +278,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -276,7 +308,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_6": {
         "ChatID": "1039_1",
@@ -287,6 +323,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -316,7 +353,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_7": {
         "ChatID": "1039_1",
@@ -327,6 +368,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -383,7 +425,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_8_1": {
         "ChatID": "1039_1",
@@ -394,6 +440,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -423,7 +470,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_8_2": {
         "ChatID": "1039_1",
@@ -434,10 +485,11 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "ChatItemType": "ELikeabilityChatItemType::Emoji",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1039_1_8_2",
@@ -446,7 +498,7 @@
         },
         "ParaContent": "",
         "IconSource": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_Y_001.UI_T_Memes_Y_001",
           "SubPathString": ""
         },
         "QuestId": "None",
@@ -463,7 +515,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_9_1": {
         "ChatID": "1039_1",
@@ -474,6 +530,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -503,7 +560,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_9_2": {
         "ChatID": "1039_1",
@@ -514,6 +575,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -543,7 +605,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_10": {
         "ChatID": "1039_1",
@@ -554,6 +620,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -597,7 +664,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_11": {
         "ChatID": "1039_1",
@@ -608,6 +679,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -637,7 +709,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_12": {
         "ChatID": "1039_1",
@@ -648,6 +724,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -677,7 +754,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_13": {
         "ChatID": "1039_1",
@@ -688,6 +769,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -717,7 +799,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_14": {
         "ChatID": "1039_1",
@@ -728,6 +814,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -757,7 +844,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_15": {
         "ChatID": "1039_1",
@@ -768,6 +859,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -797,7 +889,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_16": {
         "ChatID": "1039_1",
@@ -808,6 +904,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -837,7 +934,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_17": {
         "ChatID": "1039_1",
@@ -848,6 +949,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -877,7 +979,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_18": {
         "ChatID": "1039_1",
@@ -888,6 +994,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -917,7 +1024,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_19": {
         "ChatID": "1039_1",
@@ -928,6 +1039,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -957,7 +1069,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_20": {
         "ChatID": "1039_1",
@@ -968,6 +1084,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -997,7 +1114,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_21": {
         "ChatID": "1039_1",
@@ -1008,6 +1129,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1037,7 +1159,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_22": {
         "ChatID": "1039_1",
@@ -1048,6 +1174,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1104,7 +1231,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_23_1": {
         "ChatID": "1039_1",
@@ -1115,6 +1246,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1144,7 +1276,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_23_2": {
         "ChatID": "1039_1",
@@ -1155,6 +1291,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1184,7 +1321,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_24": {
         "ChatID": "1039_1",
@@ -1195,6 +1336,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1224,7 +1366,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_25": {
         "ChatID": "1039_1",
@@ -1235,6 +1381,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1264,7 +1411,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_26": {
         "ChatID": "1039_1",
@@ -1275,6 +1426,7 @@
         "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1304,7 +1456,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_27": {
         "ChatID": "1039_1",
@@ -1315,6 +1471,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1344,7 +1501,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_28": {
         "ChatID": "1039_1",
@@ -1355,6 +1516,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1398,7 +1560,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_29": {
         "ChatID": "1039_1",
@@ -1409,10 +1575,11 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "ChatItemType": "ELikeabilityChatItemType::Emoji",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1039_1_29",
@@ -1421,7 +1588,7 @@
         },
         "ParaContent": "",
         "IconSource": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_BC_004.UI_T_Memes_BC_004",
           "SubPathString": ""
         },
         "QuestId": "None",
@@ -1438,7 +1605,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_30": {
         "ChatID": "1039_1",
@@ -1449,6 +1620,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1505,7 +1677,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_31_1": {
         "ChatID": "1039_1",
@@ -1516,6 +1692,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1545,7 +1722,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_31_2": {
         "ChatID": "1039_1",
@@ -1556,6 +1737,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1585,7 +1767,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_32": {
         "ChatID": "1039_1",
@@ -1596,6 +1782,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1625,7 +1812,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_33": {
         "ChatID": "1039_1",
@@ -1636,6 +1827,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1692,7 +1884,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_34_1": {
         "ChatID": "1039_1",
@@ -1703,6 +1899,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1732,7 +1929,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_34_2": {
         "ChatID": "1039_1",
@@ -1743,6 +1944,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1772,7 +1974,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_35_1": {
         "ChatID": "1039_1",
@@ -1783,6 +1989,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1812,7 +2019,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_35_2": {
         "ChatID": "1039_1",
@@ -1823,6 +2034,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1866,7 +2078,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_36_2": {
         "ChatID": "1039_1",
@@ -1877,6 +2093,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1906,7 +2123,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_37": {
         "ChatID": "1039_1",
@@ -1917,6 +2138,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1986,7 +2208,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_38_1": {
         "ChatID": "1039_1",
@@ -1997,6 +2223,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2026,7 +2253,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_38_2": {
         "ChatID": "1039_1",
@@ -2037,6 +2268,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2066,7 +2298,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_38_3": {
         "ChatID": "1039_1",
@@ -2077,6 +2313,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2106,7 +2343,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_39_1": {
         "ChatID": "1039_1",
@@ -2117,6 +2358,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2146,7 +2388,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_39_2": {
         "ChatID": "1039_1",
@@ -2157,6 +2403,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2200,7 +2447,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_39_3": {
         "ChatID": "1039_1",
@@ -2211,6 +2462,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2240,7 +2492,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_40_2": {
         "ChatID": "1039_1",
@@ -2251,6 +2507,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2280,7 +2537,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_41": {
         "ChatID": "1039_1",
@@ -2291,6 +2552,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2360,7 +2622,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_42_1": {
         "ChatID": "1039_1",
@@ -2371,6 +2637,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2400,7 +2667,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_42_2": {
         "ChatID": "1039_1",
@@ -2411,6 +2682,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2440,7 +2712,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_42_3": {
         "ChatID": "1039_1",
@@ -2451,6 +2727,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2480,7 +2757,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_43": {
         "ChatID": "1039_1",
@@ -2491,6 +2772,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2520,7 +2802,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_44": {
         "ChatID": "1039_1",
@@ -2531,6 +2817,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2600,7 +2887,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_45_1": {
         "ChatID": "1039_1",
@@ -2611,6 +2902,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2640,7 +2932,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_45_2": {
         "ChatID": "1039_1",
@@ -2651,6 +2947,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2680,7 +2977,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_45_3": {
         "ChatID": "1039_1",
@@ -2691,6 +2992,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2720,7 +3022,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_46_1": {
         "ChatID": "1039_1",
@@ -2731,6 +3037,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2774,7 +3081,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_46_2": {
         "ChatID": "1039_1",
@@ -2785,6 +3096,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2828,7 +3140,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_46_3": {
         "ChatID": "1039_1",
@@ -2839,6 +3155,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2882,7 +3199,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_48_1": {
         "ChatID": "1039_1",
@@ -2893,10 +3214,11 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "ChatItemType": "ELikeabilityChatItemType::LivingEmoji",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1039_1_48_1",
@@ -2922,7 +3244,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0008.YH_UI_Memes_0008",
+          "SubPathString": ""
+        }
       },
       "1039_1_48_2": {
         "ChatID": "1039_1",
@@ -2933,10 +3259,11 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "ChatItemType": "ELikeabilityChatItemType::LivingEmoji",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1039_1_48_2",
@@ -2962,7 +3289,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0008.YH_UI_Memes_0008",
+          "SubPathString": ""
+        }
       },
       "1039_1_48_3": {
         "ChatID": "1039_1",
@@ -2973,10 +3304,11 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "ChatItemType": "ELikeabilityChatItemType::LivingEmoji",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1039_1_48_3",
@@ -3002,7 +3334,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0008.YH_UI_Memes_0008",
+          "SubPathString": ""
+        }
       },
       "1039_1_49_1": {
         "ChatID": "1039_1",
@@ -3013,6 +3349,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3056,7 +3393,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_49_2": {
         "ChatID": "1039_1",
@@ -3067,6 +3408,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3110,7 +3452,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_49_3": {
         "ChatID": "1039_1",
@@ -3121,6 +3467,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3164,7 +3511,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_50": {
         "ChatID": "1039_1",
@@ -3175,6 +3526,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3204,7 +3556,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_51": {
         "ChatID": "1039_1",
@@ -3215,6 +3571,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3244,7 +3601,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_52": {
         "ChatID": "1039_1",
@@ -3255,6 +3616,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3284,7 +3646,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_53": {
         "ChatID": "1039_1",
@@ -3295,6 +3661,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3324,7 +3691,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_1_54": {
         "ChatID": "1039_1",
@@ -3335,6 +3706,7 @@
         "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::MainPlot",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3364,7 +3736,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_1": {
         "ChatID": "1039_2",
@@ -3375,6 +3751,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3426,12 +3803,16 @@
         "ForceRefreshChatDatas": [],
         "ForceRefreshChatID": "None",
         "AddLikeabilityValue": 0,
-        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "ChatPushType": "ELikeabilityChatPushType::GameTime",
         "PustGameTimeDay": 1,
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_2_1": {
         "ChatID": "1039_2",
@@ -3442,10 +3823,11 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "ChatItemType": "ELikeabilityChatItemType::LivingEmoji",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1039_2_2_1",
@@ -3471,7 +3853,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "/Game/UI/UI_Effect/UIMaterial/Memes/YH_UI_Memes_0013.YH_UI_Memes_0013",
+          "SubPathString": ""
+        }
       },
       "1039_2_2_2": {
         "ChatID": "1039_2",
@@ -3482,6 +3868,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3511,7 +3898,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_3": {
         "ChatID": "1039_2",
@@ -3522,6 +3913,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3565,7 +3957,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_4": {
         "ChatID": "1039_2",
@@ -3576,6 +3972,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3605,7 +4002,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_5": {
         "ChatID": "1039_2",
@@ -3616,6 +4017,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3645,7 +4047,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_6": {
         "ChatID": "1039_2",
@@ -3656,6 +4062,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3685,7 +4092,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_7": {
         "ChatID": "1039_2",
@@ -3696,6 +4107,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3752,7 +4164,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_8_1": {
         "ChatID": "1039_2",
@@ -3763,6 +4179,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3792,7 +4209,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_8_2": {
         "ChatID": "1039_2",
@@ -3803,6 +4224,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3832,7 +4254,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_9_1": {
         "ChatID": "1039_2",
@@ -3843,6 +4269,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3872,7 +4299,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_9_2": {
         "ChatID": "1039_2",
@@ -3883,6 +4314,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3912,7 +4344,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_10_1": {
         "ChatID": "1039_2",
@@ -3923,10 +4359,11 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "ChatItemType": "ELikeabilityChatItemType::Emoji",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1039_2_10_1",
@@ -3935,7 +4372,7 @@
         },
         "ParaContent": "",
         "IconSource": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_BC_002.UI_T_Memes_BC_002",
           "SubPathString": ""
         },
         "QuestId": "None",
@@ -3952,7 +4389,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_11_1": {
         "ChatID": "1039_2",
@@ -3963,6 +4404,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3992,7 +4434,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_12_1": {
         "ChatID": "1039_2",
@@ -4003,6 +4449,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -4032,7 +4479,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_13": {
         "ChatID": "1039_2",
@@ -4043,6 +4494,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -4072,7 +4524,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_14": {
         "ChatID": "1039_2",
@@ -4083,6 +4539,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -4112,7 +4569,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_15": {
         "ChatID": "1039_2",
@@ -4123,6 +4584,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -4192,7 +4654,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_16_1": {
         "ChatID": "1039_2",
@@ -4203,6 +4669,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -4232,7 +4699,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_16_2": {
         "ChatID": "1039_2",
@@ -4243,6 +4714,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -4272,7 +4744,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_16_3": {
         "ChatID": "1039_2",
@@ -4283,6 +4759,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -4312,7 +4789,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_17_1": {
         "ChatID": "1039_2",
@@ -4323,6 +4804,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -4352,7 +4834,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039_2_18": {
         "ChatID": "1039_2",
@@ -4363,10 +4849,11 @@
         "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "ChatItemType": "ELikeabilityChatItemType::Emoji",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "1039_2_18",
@@ -4375,7 +4862,7 @@
         },
         "ParaContent": "",
         "IconSource": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_FDA_003.UI_T_Memes_FDA_003",
           "SubPathString": ""
         },
         "QuestId": "None",
@@ -4392,7 +4879,1469 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_1": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": true,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": true,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::DailyLife",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [
+          {
+            "ChatConditionType": "ELikeabilityChatConditionType::LikeabilityLevel",
+            "ConfigValue": 3,
+            "ConfigID": "1039"
+          }
+        ],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_1",
+          "SourceString": "鉴定师，晚上去ARPTS喝一杯吗？",
+          "LocalizedString": "鉴定师，晚上去ARPTS喝一杯吗？"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_2",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
+        "LikeabilityID": "1039",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_2": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_2",
+          "SourceString": "最近办了不少案子，需要酒精犒劳一下自己。",
+          "LocalizedString": "最近办了不少案子，需要酒精犒劳一下自己。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Text",
+        "Options": [
+          {
+            "OptionText": {
+              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+              "Key": "1039_a_2_a",
+              "SourceString": "好，去喝一杯",
+              "LocalizedString": "好，去喝一杯"
+            },
+            "OptionIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "NextSetenceID": "1039_a_3"
+          }
+        ],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_3": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_3",
+          "SourceString": "工作辛苦了，放松放松！",
+          "LocalizedString": "工作辛苦了，放松放松！"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_4",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_4": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_4",
+          "SourceString": "温馨提示——跟我喝酒可能会听到秘密，也可能被套出秘密……风险自负哦。",
+          "LocalizedString": "温馨提示——跟我喝酒可能会听到秘密，也可能被套出秘密……风险自负哦。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Text",
+        "Options": [
+          {
+            "OptionText": {
+              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+              "Key": "1039_a_4_a",
+              "SourceString": "我千杯不醉",
+              "LocalizedString": "我千杯不醉"
+            },
+            "OptionIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "NextSetenceID": "1039_a_5_1"
+          },
+          {
+            "OptionText": {
+              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+              "Key": "1039_a_4_b",
+              "SourceString": "我酒量不佳",
+              "LocalizedString": "我酒量不佳"
+            },
+            "OptionIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "NextSetenceID": "1039_a_5_2"
+          }
+        ],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_5_1": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_5_1",
+          "SourceString": "我酒量还不错，会随时保持清醒的。",
+          "LocalizedString": "我酒量还不错，会随时保持清醒的。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_6_1",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_5_2": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_5_2",
+          "SourceString": "我不确定……喝醉后会不会胡言乱语。",
+          "LocalizedString": "我不确定……喝醉后会不会胡言乱语。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_6_2",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_6_1": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_6_1",
+          "SourceString": "唔……可惜了。",
+          "LocalizedString": "唔……可惜了。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_7_1",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_6_2": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_6_2",
+          "SourceString": "唔，我能想象鉴定师喝醉后的样子，一定很可爱。",
+          "LocalizedString": "唔，我能想象鉴定师喝醉后的样子，一定很可爱。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_7_2",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_7_1": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Emoji",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_7_1",
+          "SourceString": "高兴",
+          "LocalizedString": "高兴"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_FDA_001.UI_T_Memes_FDA_001",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Text",
+        "Options": [
+          {
+            "OptionText": {
+              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+              "Key": "1039_a_7_a",
+              "SourceString": "……",
+              "LocalizedString": "……"
+            },
+            "OptionIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "NextSetenceID": "1039_a_8"
+          }
+        ],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_7_2": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Emoji",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_7_2",
+          "SourceString": "高兴",
+          "LocalizedString": "高兴"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_FDA_001.UI_T_Memes_FDA_001",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Text",
+        "Options": [
+          {
+            "OptionText": {
+              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+              "Key": "1039_a_7_a",
+              "SourceString": "……",
+              "LocalizedString": "……"
+            },
+            "OptionIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "NextSetenceID": "1039_a_8"
+          }
+        ],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_8": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_8",
+          "SourceString": "……呃。那我们几点见面？",
+          "LocalizedString": "……呃。那我们几点见面？"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_9",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_9": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_9",
+          "SourceString": "<Red>晚上十点，ARPTS酒吧</>，不见不散。",
+          "LocalizedString": "<Red>晚上十点，ARPTS酒吧</>，不见不散。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_9end",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_9end": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": true,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::CancelActive",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Quest",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_9",
+          "SourceString": "<Red>晚上十点，ARPTS酒吧</>，不见不散。",
+          "LocalizedString": "<Red>晚上十点，ARPTS酒吧</>，不见不散。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "k111300",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "1039",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_10": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": true,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": true,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::DailyLife",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [
+          {
+            "ChatConditionType": "ELikeabilityChatConditionType::Quest",
+            "ConfigValue": 1,
+            "ConfigID": "K111303"
+          },
+          {
+            "ChatConditionType": "ELikeabilityChatConditionType::LikeabilityLevel",
+            "ConfigValue": 4,
+            "ConfigID": "1039"
+          }
+        ],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_10",
+          "SourceString": "今天天气真好，鉴定师，出来晒太阳吗？",
+          "LocalizedString": "今天天气真好，鉴定师，出来晒太阳吗？"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Text",
+        "Options": [
+          {
+            "OptionText": {
+              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+              "Key": "1039_a_10_a",
+              "SourceString": "好。",
+              "LocalizedString": "好。"
+            },
+            "OptionIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "NextSetenceID": "1039_a_11"
+          }
+        ],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
+        "LikeabilityID": "1039",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_11": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_11",
+          "SourceString": "这样好的天气，确实不该浪费。",
+          "LocalizedString": "这样好的天气，确实不该浪费。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_12",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_12": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_12",
+          "SourceString": "那就去水菱湖步道吧，那儿的樱花开得正盛。",
+          "LocalizedString": "那就去水菱湖步道吧，那儿的樱花开得正盛。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Text",
+        "Options": [
+          {
+            "OptionText": {
+              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+              "Key": "1039_a_12_a",
+              "SourceString": "嗯",
+              "LocalizedString": "嗯"
+            },
+            "OptionIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "NextSetenceID": "1039_a_13"
+          }
+        ],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_13": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_13",
+          "SourceString": "嗯，待会儿见。",
+          "LocalizedString": "嗯，待会儿见。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_13end",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_13end": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": true,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::CancelActive",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Quest",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_13",
+          "SourceString": "嗯，待会儿见。",
+          "LocalizedString": "嗯，待会儿见。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "k111304",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "1039",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_14": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": true,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": true,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::DailyLife",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [
+          {
+            "ChatConditionType": "ELikeabilityChatConditionType::Quest",
+            "ConfigValue": 1,
+            "ConfigID": "K111306_1"
+          },
+          {
+            "ChatConditionType": "ELikeabilityChatConditionType::LikeabilityLevel",
+            "ConfigValue": 5,
+            "ConfigID": "1039"
+          }
+        ],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_14",
+          "SourceString": "鉴定师，能陪我去趟家具店吗？",
+          "LocalizedString": "鉴定师，能陪我去趟家具店吗？"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_15",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
+        "LikeabilityID": "1039",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_15": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_15",
+          "SourceString": "前几天和异象战斗的时候，一不小心，把市民的家给拆了~",
+          "LocalizedString": "前几天和异象战斗的时候，一不小心，把市民的家给拆了~"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Text",
+        "Options": [
+          {
+            "OptionText": {
+              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+              "Key": "1039_a_15_a",
+              "SourceString": "?",
+              "LocalizedString": "?"
+            },
+            "OptionIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "NextSetenceID": "1039_a_16"
+          }
+        ],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_16": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_16",
+          "SourceString": "一不？小心？",
+          "LocalizedString": "一不？小心？"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_17",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_17": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Emoji",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_17",
+          "SourceString": "惊讶",
+          "LocalizedString": "惊讶"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/Chat/EmojiImage/UI_T_Memes_Y_001.UI_T_Memes_Y_001",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_18",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_18": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_18",
+          "SourceString": "哎呀，打架时哪顾得上这些？当然是要先玩得尽兴嘛！",
+          "LocalizedString": "哎呀，打架时哪顾得上这些？当然是要先玩得尽兴嘛！"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_19",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_19": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_19",
+          "SourceString": "总之，我已经和房主人承诺过了，所有损失都会记在我的账上。",
+          "LocalizedString": "总之，我已经和房主人承诺过了，所有损失都会记在我的账上。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_20",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_20": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_20",
+          "SourceString": "为表歉意，再去家具店挑选几件家具送给她吧~",
+          "LocalizedString": "为表歉意，再去家具店挑选几件家具送给她吧~"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Text",
+        "Options": [
+          {
+            "OptionText": {
+              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+              "Key": "1039_a_20_a",
+              "SourceString": "好",
+              "LocalizedString": "好"
+            },
+            "OptionIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "NextSetenceID": "1039_a_21"
+          }
+        ],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_21": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": true,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_21",
+          "SourceString": "好，那我现在就出发。",
+          "LocalizedString": "好，那我现在就出发。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_22",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_22": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_22",
+          "SourceString": "那在诺提克桥附近的家具店碰头哦？",
+          "LocalizedString": "那在诺提克桥附近的家具店碰头哦？"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_23",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_23": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": false,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": false,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": false,
+        "ChatItemType": "ELikeabilityChatItemType::Normal",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_23",
+          "SourceString": "我已经快到了，等你。",
+          "LocalizedString": "我已经快到了，等你。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "None",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "1039_a_23end",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1039_a_23end": {
+        "ChatID": "1039_a",
+        "RoleId": "1039",
+        "bIsPlayer": false,
+        "bIsLastSetenceInDay": true,
+        "bIsFirstSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
+        "bActiveRedPoint": false,
+        "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::CancelActive",
+        "ChatType": "ELikeabilityChatType::Event",
+        "Conditions": [],
+        "bIsImmediatelyShow": true,
+        "ChatItemType": "ELikeabilityChatItemType::Quest",
+        "Content": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1039_a_23",
+          "SourceString": "我已经快到了，等你。",
+          "LocalizedString": "我已经快到了，等你。"
+        },
+        "ParaContent": "",
+        "IconSource": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "QuestId": "k111307",
+        "DropID": "None",
+        "OptionType": "ELikeabilityChatOptionType::Null",
+        "Options": [],
+        "NextSetenceID": "None",
+        "HideChatIDs": [],
+        "ForceRefreshChatDatas": [],
+        "ForceRefreshChatID": "None",
+        "AddLikeabilityValue": 0,
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
+        "PustGameTimeDay": 1,
+        "PustGameTimeHour": 8,
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
+        "LikeabilityID": "1039",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       }
     }
   }

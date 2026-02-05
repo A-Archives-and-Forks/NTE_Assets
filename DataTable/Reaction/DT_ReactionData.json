@@ -17,7 +17,9 @@
         "CharacterElementType2": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
         "ReactionDisplayText": {
           "CultureInvariantString": null
-        }
+        },
+        "DefaultDamageGE": "GE_ActorReaction_1_Damage",
+        "DamageGEConditionArray": []
       },
       "REACTION_RESULT_TYPE_2": {
         "ReactionResult": "EReactionResultType::REACTION_RESULT_TYPE_2",
@@ -25,7 +27,9 @@
         "CharacterElementType2": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
         "ReactionDisplayText": {
           "CultureInvariantString": null
-        }
+        },
+        "DefaultDamageGE": "None",
+        "DamageGEConditionArray": []
       },
       "REACTION_RESULT_TYPE_3": {
         "ReactionResult": "EReactionResultType::REACTION_RESULT_TYPE_3",
@@ -33,7 +37,9 @@
         "CharacterElementType2": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
         "ReactionDisplayText": {
           "CultureInvariantString": null
-        }
+        },
+        "DefaultDamageGE": "Buff_Reaction_5_new",
+        "DamageGEConditionArray": []
       },
       "REACTION_RESULT_TYPE_4": {
         "ReactionResult": "EReactionResultType::REACTION_RESULT_TYPE_4",
@@ -41,7 +47,9 @@
         "CharacterElementType2": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
         "ReactionDisplayText": {
           "CultureInvariantString": null
-        }
+        },
+        "DefaultDamageGE": "Buff_Reaction_4_new",
+        "DamageGEConditionArray": []
       },
       "REACTION_RESULT_TYPE_5": {
         "ReactionResult": "EReactionResultType::REACTION_RESULT_TYPE_5",
@@ -49,7 +57,9 @@
         "CharacterElementType2": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
         "ReactionDisplayText": {
           "CultureInvariantString": null
-        }
+        },
+        "DefaultDamageGE": "None",
+        "DamageGEConditionArray": []
       },
       "REACTION_RESULT_TYPE_6": {
         "ReactionResult": "EReactionResultType::REACTION_RESULT_TYPE_6",
@@ -57,7 +67,9 @@
         "CharacterElementType2": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
         "ReactionDisplayText": {
           "CultureInvariantString": null
-        }
+        },
+        "DefaultDamageGE": "None",
+        "DamageGEConditionArray": []
       }
     }
   }

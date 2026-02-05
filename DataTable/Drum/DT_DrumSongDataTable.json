@@ -37,16 +37,13 @@
           "SubPathString": ""
         },
         "MusicDescription": {
-          "Namespace": "",
-          "Key": "3404E8144A037212DC04B7ACDC70D857",
-          "SourceString": "描述",
-          "LocalizedString": "描述"
+          "CultureInvariantString": null
         },
         "MedalIcon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
-        "LevelFactor": "1",
+        "LevelFactor": "02",
         "bUnlockHidden": false,
         "Requires": [],
         "SpecialTimespan": {
@@ -65,10 +62,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Easy",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "EDF8E49D44BC9FF84EDE818717CF919B",
-              "SourceString": "容易",
-              "LocalizedString": "容易"
+              "CultureInvariantString": "容易"
             },
             "Description": {
               "CultureInvariantString": null
@@ -91,10 +85,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Normal",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "02BAB3064B8D1771B2532381D97E33BF",
-              "SourceString": "正常",
-              "LocalizedString": "正常"
+              "CultureInvariantString": "正常"
             },
             "Description": {
               "CultureInvariantString": null
@@ -117,10 +108,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Hard",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "0402542044FC596FFBD5EB86EEB86071",
-              "SourceString": "困难",
-              "LocalizedString": "困难"
+              "CultureInvariantString": "困难"
             },
             "Description": {
               "CultureInvariantString": null
@@ -143,10 +131,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Hardest",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "56B932364C1058F93413D1BCE52B3973",
-              "SourceString": "最难",
-              "LocalizedString": "最难"
+              "CultureInvariantString": "最难"
             },
             "Description": {
               "CultureInvariantString": null
@@ -167,6 +152,10 @@
           }
         ],
         "SongType": "EDrumSongActionType::EDSAT_Story",
+        "NPCDataLayer": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "SongTypeIcon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -232,6 +221,24 @@
               }
             ]
           }
+        ],
+        "GradeStaminaBaseMap": [
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_S",
+            "Value": 5
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_A",
+            "Value": 4
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_B",
+            "Value": 3
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_C",
+            "Value": 2
+          }
         ]
       },
       "StorySong2": {
@@ -260,16 +267,13 @@
           "SubPathString": ""
         },
         "MusicDescription": {
-          "Namespace": "",
-          "Key": "8415FD4141D6350873AA67B620DF9168",
-          "SourceString": "描述",
-          "LocalizedString": "描述"
+          "CultureInvariantString": null
         },
         "MedalIcon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
-        "LevelFactor": "0",
+        "LevelFactor": "01",
         "bUnlockHidden": false,
         "Requires": [],
         "SpecialTimespan": {
@@ -288,10 +292,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Easy",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "EDF8E49D44BC9FF84EDE818717CF919B",
-              "SourceString": "容易",
-              "LocalizedString": "容易"
+              "CultureInvariantString": "容易"
             },
             "Description": {
               "CultureInvariantString": null
@@ -314,10 +315,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Normal",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "02BAB3064B8D1771B2532381D97E33BF",
-              "SourceString": "正常",
-              "LocalizedString": "正常"
+              "CultureInvariantString": "正常"
             },
             "Description": {
               "CultureInvariantString": null
@@ -340,10 +338,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Hard",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "0402542044FC596FFBD5EB86EEB86071",
-              "SourceString": "困难",
-              "LocalizedString": "困难"
+              "CultureInvariantString": "困难"
             },
             "Description": {
               "CultureInvariantString": null
@@ -366,10 +361,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Hardest",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "56B932364C1058F93413D1BCE52B3973",
-              "SourceString": "最难",
-              "LocalizedString": "最难"
+              "CultureInvariantString": "最难"
             },
             "Description": {
               "CultureInvariantString": null
@@ -390,6 +382,10 @@
           }
         ],
         "SongType": "EDrumSongActionType::EDSAT_Story",
+        "NPCDataLayer": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "SongTypeIcon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -441,7 +437,8 @@
               }
             ]
           }
-        ]
+        ],
+        "GradeStaminaBaseMap": []
       },
       "StorySong3": {
         "SongID": "StorySong3",
@@ -469,16 +466,13 @@
           "SubPathString": ""
         },
         "MusicDescription": {
-          "Namespace": "",
-          "Key": "3404E8144A037212DC04B7ACDC70D857",
-          "SourceString": "描述",
-          "LocalizedString": "描述"
+          "CultureInvariantString": null
         },
         "MedalIcon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
-        "LevelFactor": "2",
+        "LevelFactor": "03",
         "bUnlockHidden": false,
         "Requires": [],
         "SpecialTimespan": {
@@ -497,10 +491,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Easy",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "EDF8E49D44BC9FF84EDE818717CF919B",
-              "SourceString": "容易",
-              "LocalizedString": "容易"
+              "CultureInvariantString": "容易"
             },
             "Description": {
               "CultureInvariantString": null
@@ -523,10 +514,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Normal",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "02BAB3064B8D1771B2532381D97E33BF",
-              "SourceString": "正常",
-              "LocalizedString": "正常"
+              "CultureInvariantString": "正常"
             },
             "Description": {
               "CultureInvariantString": null
@@ -549,10 +537,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Hard",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "0402542044FC596FFBD5EB86EEB86071",
-              "SourceString": "困难",
-              "LocalizedString": "困难"
+              "CultureInvariantString": "困难"
             },
             "Description": {
               "CultureInvariantString": null
@@ -575,10 +560,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Hardest",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "56B932364C1058F93413D1BCE52B3973",
-              "SourceString": "最难",
-              "LocalizedString": "最难"
+              "CultureInvariantString": "最难"
             },
             "Description": {
               "CultureInvariantString": null
@@ -599,6 +581,10 @@
           }
         ],
         "SongType": "EDrumSongActionType::EDSAT_Story",
+        "NPCDataLayer": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "SongTypeIcon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -682,6 +668,24 @@
               }
             ]
           }
+        ],
+        "GradeStaminaBaseMap": [
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_S",
+            "Value": 8
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_A",
+            "Value": 6
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_B",
+            "Value": 4
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_C",
+            "Value": 3
+          }
         ]
       },
       "StorySong4": {
@@ -710,16 +714,13 @@
           "SubPathString": ""
         },
         "MusicDescription": {
-          "Namespace": "",
-          "Key": "3404E8144A037212DC04B7ACDC70D857",
-          "SourceString": "描述",
-          "LocalizedString": "描述"
+          "CultureInvariantString": null
         },
         "MedalIcon": {
           "AssetPathName": "",
           "SubPathString": ""
         },
-        "LevelFactor": "3",
+        "LevelFactor": "04",
         "bUnlockHidden": false,
         "Requires": [],
         "SpecialTimespan": {
@@ -738,10 +739,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Easy",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "EDF8E49D44BC9FF84EDE818717CF919B",
-              "SourceString": "容易",
-              "LocalizedString": "容易"
+              "CultureInvariantString": "容易"
             },
             "Description": {
               "CultureInvariantString": null
@@ -764,10 +762,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Normal",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "02BAB3064B8D1771B2532381D97E33BF",
-              "SourceString": "正常",
-              "LocalizedString": "正常"
+              "CultureInvariantString": "正常"
             },
             "Description": {
               "CultureInvariantString": null
@@ -790,10 +785,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Hard",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "0402542044FC596FFBD5EB86EEB86071",
-              "SourceString": "困难",
-              "LocalizedString": "困难"
+              "CultureInvariantString": "困难"
             },
             "Description": {
               "CultureInvariantString": null
@@ -816,10 +808,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Hardest",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "56B932364C1058F93413D1BCE52B3973",
-              "SourceString": "最难",
-              "LocalizedString": "最难"
+              "CultureInvariantString": "最难"
             },
             "Description": {
               "CultureInvariantString": null
@@ -840,6 +829,10 @@
           }
         ],
         "SongType": "EDrumSongActionType::EDSAT_Story",
+        "NPCDataLayer": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "SongTypeIcon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -923,6 +916,24 @@
               }
             ]
           }
+        ],
+        "GradeStaminaBaseMap": [
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_S",
+            "Value": 8
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_A",
+            "Value": 6
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_B",
+            "Value": 4
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_C",
+            "Value": 3
+          }
         ]
       },
       "FreeSong1": {
@@ -957,7 +968,7 @@
           "AssetPathName": "",
           "SubPathString": ""
         },
-        "LevelFactor": "3",
+        "LevelFactor": "04",
         "bUnlockHidden": true,
         "Requires": [
           {
@@ -982,10 +993,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Easy",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "EDF8E49D44BC9FF84EDE818717CF919B",
-              "SourceString": "容易",
-              "LocalizedString": "容易"
+              "CultureInvariantString": "容易"
             },
             "Description": {
               "CultureInvariantString": null
@@ -1008,10 +1016,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Normal",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "02BAB3064B8D1771B2532381D97E33BF",
-              "SourceString": "正常",
-              "LocalizedString": "正常"
+              "CultureInvariantString": "正常"
             },
             "Description": {
               "CultureInvariantString": null
@@ -1034,10 +1039,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Hard",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "0402542044FC596FFBD5EB86EEB86071",
-              "SourceString": "困难",
-              "LocalizedString": "困难"
+              "CultureInvariantString": "困难"
             },
             "Description": {
               "CultureInvariantString": null
@@ -1060,10 +1062,7 @@
             "LevelType": "EDrumSongLevelType::EDSLT_Hardest",
             "PassRate": 0.8,
             "LevelName": {
-              "Namespace": "",
-              "Key": "56B932364C1058F93413D1BCE52B3973",
-              "SourceString": "最难",
-              "LocalizedString": "最难"
+              "CultureInvariantString": "最难"
             },
             "Description": {
               "CultureInvariantString": null
@@ -1084,6 +1083,10 @@
           }
         ],
         "SongType": "EDrumSongActionType::EDSAT_Daliy",
+        "NPCDataLayer": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "SongTypeIcon": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -1097,12 +1100,27 @@
         "SequenceDatas": [],
         "QuestId": "None",
         "UnLockFunctionDes": {
-          "Namespace": "",
-          "Key": "453935914AB1CE347FD5E2A1FBE545CD",
-          "SourceString": "完成L110266后解锁",
-          "LocalizedString": "完成L110266后解锁"
+          "CultureInvariantString": "完成L110266后解锁"
         },
-        "NPCActions": []
+        "NPCActions": [],
+        "GradeStaminaBaseMap": [
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_S",
+            "Value": 10
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_A",
+            "Value": 8
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_B",
+            "Value": 6
+          },
+          {
+            "Key": "EDrumScoreGradeType::ScoreGrade_C",
+            "Value": 4
+          }
+        ]
       }
     }
   }

@@ -26,9 +26,9 @@
         "SynthesisProductId": "1010",
         "SynthesisProductNumber": 6
       },
-      "Characterawaken_dafudier": {
+      "Characterawaken_daffodill": {
         "NeedNumber": 1,
-        "SynthesisProductId": "1005",
+        "SynthesisProductId": "1054",
         "SynthesisProductNumber": 6
       },
       "Characterawaken_Adler": {
@@ -64,6 +64,26 @@
       "Characterawaken_Jin": {
         "NeedNumber": 1,
         "SynthesisProductId": "1052",
+        "SynthesisProductNumber": 6
+      },
+      "Characterawaken_Kuhara": {
+        "NeedNumber": 1,
+        "SynthesisProductId": "1055",
+        "SynthesisProductNumber": 6
+      },
+      "Characterawaken_Haniel": {
+        "NeedNumber": 1,
+        "SynthesisProductId": "1020",
+        "SynthesisProductNumber": 6
+      },
+      "Characterawaken_edgar": {
+        "NeedNumber": 1,
+        "SynthesisProductId": "1021",
+        "SynthesisProductNumber": 6
+      },
+      "Characterawaken_chiichan": {
+        "NeedNumber": 1,
+        "SynthesisProductId": "1021",
         "SynthesisProductNumber": 6
       }
     }

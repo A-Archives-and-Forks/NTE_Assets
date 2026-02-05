@@ -7,7 +7,7 @@
     "CurveTableMode": "SimpleCurves",
     "Rows": {
       "Sagiri_SwallowCD": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -19,7 +19,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_Suppress": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -31,7 +31,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_lv1_Suppress": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -43,7 +43,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_lv2_FloatValue": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -55,7 +55,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_lv2_Max": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -67,7 +67,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_Lv3_DamUpDur": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -79,7 +79,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_Lv3_DamUp": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -91,11 +91,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_lv4_AtkAdd": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
+            "Value": 0.3
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -103,7 +103,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_lv4_AtkAddDur": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -115,7 +115,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_lvExtra_DamupMax": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -127,7 +127,7 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_lvExtra_Damup": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
@@ -139,11 +139,11 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_Pas1_AtkAdd": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.15
+            "Value": 0.3
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -151,7 +151,31 @@
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
       "Sagiri_Pas1_AtkAddDur": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 20.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Melee_Heterochrome_Show": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 42.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Skill_Heterochrome_Show": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Constant",
         "Keys": [
           {
             "Time": 1.0,

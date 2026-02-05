@@ -45,7 +45,7 @@
           "s111234",
           "s111235",
           "s111236",
-          "None"
+          "s111222_01"
         ],
         "bNeedTrace": false,
         "QuestConditionRange": {
@@ -87,7 +87,114 @@
             "AssetPathName": "/Game/Maps/Map_bigworld/DataLayer/WorldDataLayer/Museum/W_load_Museum_Story01_OutNer.W_load_Museum_Story01_OutNer",
             "SubPathString": ""
           }
-        ]
+        ],
+        "bNeedUnload": false,
+        "bCanSwitchInDialogue": false
+      },
+      "DLC_DunnerHouse": {
+        "QuestList": [],
+        "bNeedTrace": false,
+        "QuestConditionRange": null,
+        "BelongWorldName": "DLC_DunnerHouse",
+        "RealDataLayerAssets": [
+          {
+            "AssetPathName": "/Game/Maps/Map_DLC/DLC_DunnerHouse/DataLayer/Dunnerhouse_Broken.Dunnerhouse_Broken",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Maps/Map_DLC/DLC_DunnerHouse/DataLayer/Dunnerhouse_greenhouse_broken.Dunnerhouse_greenhouse_broken",
+            "SubPathString": ""
+          }
+        ],
+        "FakeDataLayerAssets": [
+          {
+            "AssetPathName": "/Game/Maps/Map_DLC/DLC_DunnerHouse/DataLayer/Dunnerhouse_new.Dunnerhouse_new",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Maps/Map_DLC/DLC_DunnerHouse/DataLayer/Dunnerhouse_greenhouse_new.Dunnerhouse_greenhouse_new",
+            "SubPathString": ""
+          }
+        ],
+        "bNeedUnload": false,
+        "bCanSwitchInDialogue": true
+      },
+      "Mu_Lamp_02": {
+        "QuestList": [
+          "S111301",
+          "S111302",
+          "S111303",
+          "S1113031",
+          "S111304",
+          "S111305",
+          "S111307",
+          "S111308",
+          "S111309",
+          "S111310",
+          "S111311",
+          "S1113141",
+          "S111315",
+          "S1113151",
+          "S111316",
+          "S111318",
+          "S111319",
+          "S1113191",
+          "S111320",
+          "S111321",
+          "S111322",
+          "S1113221",
+          "S1113222",
+          "S111323",
+          "S1113231",
+          "S1113232",
+          "S1113233",
+          "S111324",
+          "S1113241",
+          "S1113242",
+          "S1113243",
+          "S1113244",
+          "S1113245",
+          "S1113246",
+          "S1113247",
+          "S1113248",
+          "S111325",
+          "S111326",
+          "S111327",
+          "S111328",
+          "S111329"
+        ],
+        "bNeedTrace": false,
+        "QuestConditionRange": {
+          "BeginQuest": "S111301",
+          "EndQuest": "S111329",
+          "bNeedInRange": true,
+          "NotSatisfyDesc": {
+            "CultureInvariantString": null
+          }
+        },
+        "BelongWorldName": "DLC_Museum_Lamp_Story2",
+        "RealDataLayerAssets": [
+          {
+            "AssetPathName": "/Game/Maps/Map_bigworld/DataLayer/WorldDataLayer/Museum/Story02/W_Art_load_Museum_OutNer.W_Art_load_Museum_OutNer",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Maps/Map_bigworld/DataLayer/WorldDataLayer/Museum/Story02/W_load_Museum_Story02_OutNer.W_load_Museum_Story02_OutNer",
+            "SubPathString": ""
+          }
+        ],
+        "FakeDataLayerAssets": [
+          {
+            "AssetPathName": "/Game/Maps/Map_bigworld/DataLayer/WorldDataLayer/Museum/Story02/W_Art_load_Museum_InNer.W_Art_load_Museum_InNer",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Maps/Map_bigworld/DataLayer/WorldDataLayer/Museum/Story02/W_load_Museum_Story02_InNer.W_load_Museum_Story02_InNer",
+            "SubPathString": ""
+          }
+        ],
+        "bNeedUnload": false,
+        "bCanSwitchInDialogue": true
       }
     }
   }

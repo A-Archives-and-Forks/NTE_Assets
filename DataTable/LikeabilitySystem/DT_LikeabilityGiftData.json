@@ -13,76 +13,88 @@
     "Rows": {
       "Furniture_Gacha_MiniBlack_003": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_MiniBlack_004": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_MiniBlack_005": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Blue_003": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Blue_004": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Blue_005": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Red_003": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Red_004": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Red_005": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Pink_003": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Pink_004": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Pink_005": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_eri_003": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_eri_004": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_eri_005": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_001": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_002": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "H_NPC_00411",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_003": {
         "DefaultLikeabilityValue": 50,
@@ -91,7 +103,8 @@
             "RoleId": "1025",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_004": {
         "DefaultLikeabilityValue": 50,
@@ -100,7 +113,8 @@
             "RoleId": "1014",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_005": {
         "DefaultLikeabilityValue": 50,
@@ -109,7 +123,8 @@
             "RoleId": "1020",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_006": {
         "DefaultLikeabilityValue": 50,
@@ -122,19 +137,23 @@
             "RoleId": "1020",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_007": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_008": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_009": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_010": {
         "DefaultLikeabilityValue": 50,
@@ -143,7 +162,8 @@
             "RoleId": "1057",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_011": {
         "DefaultLikeabilityValue": 50,
@@ -152,7 +172,8 @@
             "RoleId": "1039",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_012": {
         "DefaultLikeabilityValue": 50,
@@ -161,20 +182,18 @@
             "RoleId": "1010",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_013": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_014": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_018",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_015": {
         "DefaultLikeabilityValue": 50,
@@ -183,11 +202,13 @@
             "RoleId": "1003",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_016": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_017": {
         "DefaultLikeabilityValue": 50,
@@ -196,7 +217,8 @@
             "RoleId": "1019",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_018": {
         "DefaultLikeabilityValue": 50,
@@ -205,31 +227,38 @@
             "RoleId": "1008",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_019": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_020": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_021": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_022": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_023": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_024": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_025": {
         "DefaultLikeabilityValue": 50,
@@ -238,7 +267,8 @@
             "RoleId": "1023",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_026": {
         "DefaultLikeabilityValue": 50,
@@ -247,7 +277,8 @@
             "RoleId": "1020",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_027": {
         "DefaultLikeabilityValue": 50,
@@ -255,8 +286,13 @@
           {
             "RoleId": "1005",
             "LikeabilityValue": 100
+          },
+          {
+            "RoleId": "1073",
+            "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_028": {
         "DefaultLikeabilityValue": 50,
@@ -265,24 +301,23 @@
             "RoleId": "1057",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_029": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "H_NPC_01902",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_030": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_031": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_032": {
         "DefaultLikeabilityValue": 50,
@@ -291,7 +326,8 @@
             "RoleId": "1021",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_033": {
         "DefaultLikeabilityValue": 50,
@@ -300,33 +336,28 @@
             "RoleId": "1019",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_034": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_035": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_036": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_037": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Tajiduo",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_038": {
         "DefaultLikeabilityValue": 50,
@@ -334,12 +365,9 @@
           {
             "RoleId": "1029",
             "LikeabilityValue": 100
-          },
-          {
-            "RoleId": "NPC_017",
-            "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_039": {
         "DefaultLikeabilityValue": 50,
@@ -348,11 +376,13 @@
             "RoleId": "1004",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_040": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_041": {
         "DefaultLikeabilityValue": 50,
@@ -361,7 +391,8 @@
             "RoleId": "1057",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_044": {
         "DefaultLikeabilityValue": 50,
@@ -369,12 +400,9 @@
           {
             "RoleId": "1021",
             "LikeabilityValue": 100
-          },
-          {
-            "RoleId": "NPC_018",
-            "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_045": {
         "DefaultLikeabilityValue": 50,
@@ -383,64 +411,53 @@
             "RoleId": "1008",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_046": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_047": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "H_NPC_01902",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_048": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_049": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Tajiduo",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_050": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_051": {
         "DefaultLikeabilityValue": 50,
         "SpeicalGiftDatas": [
           {
-            "RoleId": "H_NPC_03404",
+            "RoleId": "1073",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_052": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_053": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_017",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_054": {
         "DefaultLikeabilityValue": 50,
@@ -449,27 +466,33 @@
             "RoleId": "1014",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_055": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_056": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_057": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_058": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_059": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_060": {
         "DefaultLikeabilityValue": 50,
@@ -478,7 +501,8 @@
             "RoleId": "1039",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_061": {
         "DefaultLikeabilityValue": 50,
@@ -487,7 +511,8 @@
             "RoleId": "1033",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_062": {
         "DefaultLikeabilityValue": 50,
@@ -496,7 +521,8 @@
             "RoleId": "1008",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_063": {
         "DefaultLikeabilityValue": 50,
@@ -506,10 +532,11 @@
             "LikeabilityValue": 100
           },
           {
-            "RoleId": "H_NPC_03404",
+            "RoleId": "1073",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_064": {
         "DefaultLikeabilityValue": 50,
@@ -518,16 +545,13 @@
             "RoleId": "1003",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_065": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_018",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_066": {
         "DefaultLikeabilityValue": 50,
@@ -536,61 +560,63 @@
             "RoleId": "1005",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_067": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "H_NPC_03404",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_068": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_069": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Tajiduo",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_070": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_071": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_072": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_073": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_074": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_075": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_076": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_077": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_078": {
         "DefaultLikeabilityValue": 50,
@@ -599,33 +625,28 @@
             "RoleId": "1021",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_079": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_080": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "H_NPC_01902",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_081": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_082": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "H_NPC_00411",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_083": {
         "DefaultLikeabilityValue": 50,
@@ -634,7 +655,8 @@
             "RoleId": "1023",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_084": {
         "DefaultLikeabilityValue": 50,
@@ -643,7 +665,8 @@
             "RoleId": "1010",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_085": {
         "DefaultLikeabilityValue": 50,
@@ -652,41 +675,38 @@
             "RoleId": "1039",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_086": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_087": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_017",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_088": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_089": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_090": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_091": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_092": {
         "DefaultLikeabilityValue": 50,
@@ -695,7 +715,8 @@
             "RoleId": "1025",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_093": {
         "DefaultLikeabilityValue": 50,
@@ -708,7 +729,8 @@
             "RoleId": "1003",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_094": {
         "DefaultLikeabilityValue": 50,
@@ -721,7 +743,8 @@
             "RoleId": "1025",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_095": {
         "DefaultLikeabilityValue": 50,
@@ -730,16 +753,13 @@
             "RoleId": "1033",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_096": {
         "DefaultLikeabilityValue": 50,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "H_NPC_00411",
-            "LikeabilityValue": 100
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Food_097": {
         "DefaultLikeabilityValue": 50,
@@ -748,7 +768,8 @@
             "RoleId": "1033",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_098": {
         "DefaultLikeabilityValue": 50,
@@ -757,7 +778,8 @@
             "RoleId": "1029",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_100": {
         "DefaultLikeabilityValue": 50,
@@ -766,7 +788,8 @@
             "RoleId": "1004",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_101": {
         "DefaultLikeabilityValue": 50,
@@ -775,7 +798,8 @@
             "RoleId": "1004",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_102": {
         "DefaultLikeabilityValue": 50,
@@ -784,7 +808,8 @@
             "RoleId": "1004",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Food_103": {
         "DefaultLikeabilityValue": 50,
@@ -797,7 +822,18 @@
             "RoleId": "1014",
             "LikeabilityValue": 100
           }
-        ]
+        ],
+        "bUnlimit": false
+      },
+      "Food_104": {
+        "DefaultLikeabilityValue": 50,
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
+      },
+      "Food_114": {
+        "DefaultLikeabilityValue": 50,
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Flower0000": {
         "DefaultLikeabilityValue": 100,
@@ -810,7 +846,8 @@
             "RoleId": "1039",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Flower0001": {
         "DefaultLikeabilityValue": 100,
@@ -823,7 +860,8 @@
             "RoleId": "1014",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Flower0002": {
         "DefaultLikeabilityValue": 100,
@@ -836,7 +874,8 @@
             "RoleId": "1021",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Flower0003": {
         "DefaultLikeabilityValue": 100,
@@ -848,8 +887,13 @@
           {
             "RoleId": "1004",
             "LikeabilityValue": 200
+          },
+          {
+            "RoleId": "1073",
+            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Flower0004": {
         "DefaultLikeabilityValue": 100,
@@ -862,7 +906,8 @@
             "RoleId": "1057",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Flower0005": {
         "DefaultLikeabilityValue": 100,
@@ -871,16 +916,18 @@
             "RoleId": "1005",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Flower0006": {
         "DefaultLikeabilityValue": 100,
         "SpeicalGiftDatas": [
           {
-            "RoleId": "H_NPC_03404",
+            "RoleId": "1073",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Flower0007": {
         "DefaultLikeabilityValue": 100,
@@ -889,16 +936,13 @@
             "RoleId": "1010",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Flower0008": {
         "DefaultLikeabilityValue": 100,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_017",
-            "LikeabilityValue": 200
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Flower0009": {
         "DefaultLikeabilityValue": 100,
@@ -906,8 +950,13 @@
           {
             "RoleId": "1020",
             "LikeabilityValue": 200
+          },
+          {
+            "RoleId": "1073",
+            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Flower0010": {
         "DefaultLikeabilityValue": 100,
@@ -915,12 +964,9 @@
           {
             "RoleId": "1019",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "NPC_018",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_FlowerPot_001": {
         "DefaultLikeabilityValue": 100,
@@ -929,7 +975,8 @@
             "RoleId": "1029",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_FlowerPot_002": {
         "DefaultLikeabilityValue": 100,
@@ -937,21 +984,14 @@
           {
             "RoleId": "1014",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "H_NPC_00411",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_FlowerPot_003": {
         "DefaultLikeabilityValue": 100,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_017",
-            "LikeabilityValue": 200
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_FlowerPot_004": {
         "DefaultLikeabilityValue": 100,
@@ -959,12 +999,9 @@
           {
             "RoleId": "1033",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "H_NPC_01902",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_draw_002": {
         "DefaultLikeabilityValue": 100,
@@ -981,7 +1018,8 @@
             "RoleId": "1057",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_draw_003": {
         "DefaultLikeabilityValue": 100,
@@ -990,7 +1028,8 @@
             "RoleId": "1005",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_draw_004": {
         "DefaultLikeabilityValue": 100,
@@ -999,7 +1038,8 @@
             "RoleId": "1023",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_draw_005": {
         "DefaultLikeabilityValue": 100,
@@ -1007,25 +1047,14 @@
           {
             "RoleId": "1039",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "H_NPC_01902",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_draw_007": {
         "DefaultLikeabilityValue": 100,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "H_NPC_00411",
-            "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "NPC_018",
-            "LikeabilityValue": 200
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "BigPoster001": {
         "DefaultLikeabilityValue": 100,
@@ -1037,21 +1066,14 @@
           {
             "RoleId": "1020",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "H_NPC_03404",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "BigPoster002": {
         "DefaultLikeabilityValue": 100,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 200
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "BigPoster003": {
         "DefaultLikeabilityValue": 100,
@@ -1063,39 +1085,24 @@
           {
             "RoleId": "1020",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "H_NPC_03404",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "BigPoster004": {
         "DefaultLikeabilityValue": 100,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 200
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "BigPoster005": {
         "DefaultLikeabilityValue": 100,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 200
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "BigPoster006": {
         "DefaultLikeabilityValue": 100,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 200
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "SmallPoster001": {
         "DefaultLikeabilityValue": 100,
@@ -1103,12 +1110,9 @@
           {
             "RoleId": "1021",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "Tajiduo",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "SmallPoster002": {
         "DefaultLikeabilityValue": 100,
@@ -1117,7 +1121,8 @@
             "RoleId": "1008",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "SmallPoster003": {
         "DefaultLikeabilityValue": 100,
@@ -1125,12 +1130,9 @@
           {
             "RoleId": "1021",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "Tajiduo",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "SmallPoster004": {
         "DefaultLikeabilityValue": 100,
@@ -1138,12 +1140,9 @@
           {
             "RoleId": "1021",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "Tajiduo",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "SmallPoster005": {
         "DefaultLikeabilityValue": 100,
@@ -1156,7 +1155,8 @@
             "RoleId": "1004",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "SmallPoster006": {
         "DefaultLikeabilityValue": 100,
@@ -1169,7 +1169,8 @@
             "RoleId": "1008",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_Gacha_MiniBlack_002": {
         "DefaultLikeabilityValue": 100,
@@ -1177,12 +1178,9 @@
           {
             "RoleId": "1023",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Blue_002": {
         "DefaultLikeabilityValue": 100,
@@ -1190,30 +1188,19 @@
           {
             "RoleId": "1010",
             "LikeabilityValue": 200
-          },
-          {
-            "RoleId": "H_NPC_01902",
-            "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Red_002": {
         "DefaultLikeabilityValue": 100,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_018",
-            "LikeabilityValue": 200
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Pink_002": {
         "DefaultLikeabilityValue": 100,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Tajiduo",
-            "LikeabilityValue": 200
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_eri_002": {
         "DefaultLikeabilityValue": 100,
@@ -1222,7 +1209,8 @@
             "RoleId": "1020",
             "LikeabilityValue": 200
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_FlowerPot_005": {
         "DefaultLikeabilityValue": 200,
@@ -1231,36 +1219,38 @@
             "RoleId": "1039",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_Light_001": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_017",
-            "LikeabilityValue": 400
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Light_002": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Light_003": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Light_004": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Light_005": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Light_006": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Light_007": {
         "DefaultLikeabilityValue": 200,
@@ -1269,11 +1259,13 @@
             "RoleId": "1008",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_Light_008": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_draw_001": {
         "DefaultLikeabilityValue": 200,
@@ -1282,7 +1274,8 @@
             "RoleId": "1021",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_draw_006": {
         "DefaultLikeabilityValue": 200,
@@ -1295,16 +1288,13 @@
             "RoleId": "1005",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_draw_008": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "H_NPC_00411",
-            "LikeabilityValue": 400
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Ornament_001": {
         "DefaultLikeabilityValue": 200,
@@ -1318,10 +1308,11 @@
             "LikeabilityValue": 400
           },
           {
-            "RoleId": "H_NPC_03404",
+            "RoleId": "1073",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_Ornament_002": {
         "DefaultLikeabilityValue": 200,
@@ -1330,7 +1321,8 @@
             "RoleId": "1029",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_Ornament_003": {
         "DefaultLikeabilityValue": 200,
@@ -1343,7 +1335,8 @@
             "RoleId": "1014",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Figure_miniblack_01_001": {
         "DefaultLikeabilityValue": 200,
@@ -1351,12 +1344,9 @@
           {
             "RoleId": "1023",
             "LikeabilityValue": 400
-          },
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Figure_miniblack_01_002": {
         "DefaultLikeabilityValue": 200,
@@ -1364,12 +1354,9 @@
           {
             "RoleId": "1023",
             "LikeabilityValue": 400
-          },
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_Gacha_MiniBlack_001": {
         "DefaultLikeabilityValue": 200,
@@ -1377,12 +1364,9 @@
           {
             "RoleId": "1023",
             "LikeabilityValue": 400
-          },
-          {
-            "RoleId": "Aobuli",
-            "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Figure_maskerrider_01_001": {
         "DefaultLikeabilityValue": 200,
@@ -1390,12 +1374,9 @@
           {
             "RoleId": "1010",
             "LikeabilityValue": 400
-          },
-          {
-            "RoleId": "H_NPC_01902",
-            "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Figure_maskerrider_01_002": {
         "DefaultLikeabilityValue": 200,
@@ -1403,48 +1384,29 @@
           {
             "RoleId": "1010",
             "LikeabilityValue": 400
-          },
-          {
-            "RoleId": "H_NPC_01902",
-            "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Figure_maskerrider_02_001": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Tajiduo",
-            "LikeabilityValue": 400
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Figure_maskerrider_02_002": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Tajiduo",
-            "LikeabilityValue": 400
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Figure_maskerrider_03_001": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_018",
-            "LikeabilityValue": 400
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Figure_maskerrider_03_002": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_018",
-            "LikeabilityValue": 400
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Figure_eri_01_001": {
         "DefaultLikeabilityValue": 200,
@@ -1457,7 +1419,8 @@
             "RoleId": "1020",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Figure_eri_01_002": {
         "DefaultLikeabilityValue": 200,
@@ -1470,7 +1433,8 @@
             "RoleId": "1020",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Blue_001": {
         "DefaultLikeabilityValue": 200,
@@ -1478,30 +1442,19 @@
           {
             "RoleId": "1010",
             "LikeabilityValue": 400
-          },
-          {
-            "RoleId": "H_NPC_01902",
-            "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Red_001": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "NPC_018",
-            "LikeabilityValue": 400
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_Pink_001": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": [
-          {
-            "RoleId": "Tajiduo",
-            "LikeabilityValue": 400
-          }
-        ]
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "Furniture_Gacha_eri_001": {
         "DefaultLikeabilityValue": 200,
@@ -1514,7 +1467,8 @@
             "RoleId": "1020",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "disc_0001": {
         "DefaultLikeabilityValue": 200,
@@ -1523,7 +1477,8 @@
             "RoleId": "1057",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "disc_0002": {
         "DefaultLikeabilityValue": 200,
@@ -1532,7 +1487,8 @@
             "RoleId": "1057",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "disc_0003": {
         "DefaultLikeabilityValue": 200,
@@ -1541,7 +1497,8 @@
             "RoleId": "1057",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "disc_0004": {
         "DefaultLikeabilityValue": 200,
@@ -1550,15 +1507,18 @@
             "RoleId": "1021",
             "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "disc_0005": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "disc_0006": {
         "DefaultLikeabilityValue": 200,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       },
       "disc_0007": {
         "DefaultLikeabilityValue": 200,
@@ -1566,16 +1526,103 @@
           {
             "RoleId": "1021",
             "LikeabilityValue": 400
+          },
+          {
+            "RoleId": "1073",
+            "LikeabilityValue": 400
           }
-        ]
+        ],
+        "bUnlimit": false
       },
       "SpecialGift_letter": {
         "DefaultLikeabilityValue": 2000,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [
+          {
+            "RoleId": "1019",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1023",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1033",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1003",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1005",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1021",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1029",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1010",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1008",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1004",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1039",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1025",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1014",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1020",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1057",
+            "LikeabilityValue": 2000
+          },
+          {
+            "RoleId": "1073",
+            "LikeabilityValue": 2000
+          }
+        ],
+        "bUnlimit": true
       },
       "Likeability_gift_5": {
         "DefaultLikeabilityValue": 100000,
-        "SpeicalGiftDatas": []
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
+      },
+      "SpecialGift_Fries": {
+        "DefaultLikeabilityValue": 200,
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
+      },
+      "SpecialGift_Conch": {
+        "DefaultLikeabilityValue": 400,
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
+      },
+      "Visions_furniture_10_Output": {
+        "DefaultLikeabilityValue": 400,
+        "SpeicalGiftDatas": [],
+        "bUnlimit": false
       }
     }
   }

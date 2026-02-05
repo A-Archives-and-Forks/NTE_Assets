@@ -19,9 +19,9 @@
           "SourceString": "新手摄影师",
           "LocalizedString": "新手摄影师"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1001",
+        "ChapterProgress": 1.0,
+        "DisplayMapName": "BanJiaoJie",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -31,9 +31,7 @@
               "WQ100101"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -63,15 +61,17 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
-        "bNeedRedpoint": false,
+        "bNeedRedpoint": true,
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": true,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -79,6 +79,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100101_QuestPanel",
@@ -86,13 +87,20 @@
           "LocalizedString": "按照柯达的建议拍一张「菲林轨迹」的正门吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
-        "PreQuests": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "q110088",
+            "ObjectiveID": "1"
+          }
+        ],
         "PreQuestConditionType": "EQuestConditionType::And",
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -105,24 +113,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100102": {
         "QuestId": "WQ100102",
@@ -132,9 +144,9 @@
           "SourceString": "新手摄影师",
           "LocalizedString": "新手摄影师"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1001",
+        "ChapterProgress": 2.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -146,9 +158,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -178,7 +188,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -187,6 +198,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -194,6 +206,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100102_QuestPanel",
@@ -201,6 +214,7 @@
           "LocalizedString": "拍摄完成，给柯达看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -208,6 +222,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -220,12 +235,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest1",
@@ -236,13 +256,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100103": {
         "QuestId": "WQ100103",
@@ -252,9 +271,9 @@
           "SourceString": "再接再厉",
           "LocalizedString": "再接再厉"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1001",
+        "ChapterProgress": 3.0,
+        "DisplayMapName": "BanJiaoJie",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -264,9 +283,7 @@
               "WQ100103"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -296,7 +313,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -304,7 +322,8 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -312,13 +331,15 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100103_QuestPanel",
-          "SourceString": "用镜头将常去店铺的魅力记录下来吧。",
-          "LocalizedString": "用镜头将常去店铺的魅力记录下来吧。"
+          "SourceString": "用镜头将常去店铺的魅力记录下来吧。\r\n比如大家常去的「卜多力」,记得把招牌都拍完整哦。",
+          "LocalizedString": "用镜头将常去店铺的魅力记录下来吧。\r\n比如大家常去的「卜多力」,记得把招牌都拍完整哦。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -326,6 +347,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -338,24 +360,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100104": {
         "QuestId": "WQ100104",
@@ -365,9 +391,9 @@
           "SourceString": "再接再厉",
           "LocalizedString": "再接再厉"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1001",
+        "ChapterProgress": 4.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -379,9 +405,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -411,7 +435,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -420,6 +445,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -427,6 +453,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100104_QuestPanel",
@@ -434,6 +461,7 @@
           "LocalizedString": "拍摄完成，给柯达看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -441,6 +469,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -453,12 +482,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest1",
@@ -469,13 +503,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100105": {
         "QuestId": "WQ100105",
@@ -485,9 +518,9 @@
           "SourceString": "新的体验",
           "LocalizedString": "新的体验"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1001",
+        "ChapterProgress": 5.0,
+        "DisplayMapName": "BanJiaoJie",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -497,9 +530,7 @@
               "WQ100105"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -529,7 +560,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -537,7 +569,8 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -545,6 +578,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100105_QuestPanel",
@@ -552,6 +586,7 @@
           "LocalizedString": "用镜头记录下那些在宣传的人吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -559,6 +594,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -571,24 +607,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100106": {
         "QuestId": "WQ100106",
@@ -598,9 +638,9 @@
           "SourceString": "新的体验",
           "LocalizedString": "新的体验"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1001",
+        "ChapterProgress": 6.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -612,9 +652,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -644,7 +682,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -653,6 +692,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -660,6 +700,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100106_QuestPanel",
@@ -667,6 +708,7 @@
           "LocalizedString": "拍摄完成，给柯达看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -674,6 +716,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -686,12 +729,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest1",
@@ -702,13 +750,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100107": {
         "QuestId": "WQ100107",
@@ -718,9 +765,9 @@
           "SourceString": "入门的最后一步",
           "LocalizedString": "入门的最后一步"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1001",
+        "ChapterProgress": 7.0,
+        "DisplayMapName": "BanJiaoJie",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -730,9 +777,7 @@
               "WQ100107"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -762,7 +807,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -770,7 +816,8 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -778,6 +825,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100107_QuestPanel",
@@ -785,6 +833,7 @@
           "LocalizedString": "用镜头拍摄下半角街的维特海默塔，完成柯达的最后一个课题吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -792,6 +841,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -804,24 +854,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100108": {
         "QuestId": "WQ100108",
@@ -831,9 +885,9 @@
           "SourceString": "入门的最后一步",
           "LocalizedString": "入门的最后一步"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1001",
+        "ChapterProgress": 8.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -845,9 +899,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -877,7 +929,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -886,6 +939,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": true,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -893,6 +947,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100108_QuestPanel",
@@ -900,6 +955,7 @@
           "LocalizedString": "拍摄完成，给柯达看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -907,6 +963,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -917,12 +974,17 @@
         "NextQuests": [],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest2",
@@ -933,13 +995,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100201": {
         "QuestId": "WQ100201",
@@ -949,9 +1010,9 @@
           "SourceString": "大自然的馈赠",
           "LocalizedString": "大自然的馈赠"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1002",
+        "ChapterProgress": 1.0,
+        "DisplayMapName": "LuTianYingYuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -961,9 +1022,7 @@
               "WQ100201"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -993,15 +1052,17 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
-        "bNeedRedpoint": false,
+        "bNeedRedpoint": true,
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": true,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1009,6 +1070,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100201_QuestPanel",
@@ -1016,6 +1078,7 @@
           "LocalizedString": "与风光摄影师凯西奇聊了聊，前往汽车影院试着拍摄带有提卡尔大桥和灯塔的日落吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -1028,6 +1091,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1040,24 +1104,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100202": {
         "QuestId": "WQ100202",
@@ -1067,9 +1135,9 @@
           "SourceString": "大自然的馈赠",
           "LocalizedString": "大自然的馈赠"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1002",
+        "ChapterProgress": 2.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -1081,9 +1149,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -1113,7 +1179,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1122,6 +1189,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1129,6 +1197,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100202_QuestPanel",
@@ -1136,6 +1205,7 @@
           "LocalizedString": "拍摄完成，给凯西奇看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -1143,6 +1213,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1155,12 +1226,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest1",
@@ -1171,13 +1247,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100203": {
         "QuestId": "WQ100203",
@@ -1187,9 +1262,9 @@
           "SourceString": "落花的速度",
           "LocalizedString": "落花的速度"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1002",
+        "ChapterProgress": 3.0,
+        "DisplayMapName": "BanJiaoJie",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -1199,9 +1274,7 @@
               "WQ100203"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -1231,7 +1304,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1239,7 +1313,8 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1247,6 +1322,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100203_QuestPanel",
@@ -1254,6 +1330,7 @@
           "LocalizedString": "按照凯西奇提示的构图，拍摄一张向着海岸方向的铁道口照片吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -1261,6 +1338,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1273,24 +1351,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100204": {
         "QuestId": "WQ100204",
@@ -1300,9 +1382,9 @@
           "SourceString": "落花的速度",
           "LocalizedString": "落花的速度"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1002",
+        "ChapterProgress": 4.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -1314,9 +1396,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -1346,7 +1426,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1355,6 +1436,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1362,6 +1444,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100204_QuestPanel",
@@ -1369,6 +1452,7 @@
           "LocalizedString": "拍摄完成，给凯西奇看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -1376,6 +1460,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1388,12 +1473,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest1",
@@ -1404,13 +1494,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100205": {
         "QuestId": "WQ100205",
@@ -1420,9 +1509,9 @@
           "SourceString": "海底的日光",
           "LocalizedString": "海底的日光"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1002",
+        "ChapterProgress": 5.0,
+        "DisplayMapName": "QiaoJianDi",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -1432,9 +1521,7 @@
               "WQ100205"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -1464,7 +1551,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1472,7 +1560,8 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1480,6 +1569,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100205_QuestPanel",
@@ -1487,6 +1577,7 @@
           "LocalizedString": "凯西奇提到了晴天时海底隧道的美景，用镜头去记录下从海底隧道里看到的的太阳吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -1494,6 +1585,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1506,24 +1598,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100206": {
         "QuestId": "WQ100206",
@@ -1533,9 +1629,9 @@
           "SourceString": "海底的日光",
           "LocalizedString": "海底的日光"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1002",
+        "ChapterProgress": 6.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -1547,9 +1643,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -1579,7 +1673,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1588,6 +1683,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1595,6 +1691,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100206_QuestPanel",
@@ -1602,6 +1699,7 @@
           "LocalizedString": "拍摄完成，给凯西奇看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -1609,6 +1707,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1621,12 +1720,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest1",
@@ -1637,13 +1741,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100207": {
         "QuestId": "WQ100207",
@@ -1653,9 +1756,9 @@
           "SourceString": "海上车站",
           "LocalizedString": "海上车站"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1002",
+        "ChapterProgress": 7.0,
+        "DisplayMapName": "WeiWenPu",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -1665,9 +1768,7 @@
               "WQ100207"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -1697,7 +1798,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1705,7 +1807,8 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1713,6 +1816,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100207_QuestPanel",
@@ -1720,6 +1824,7 @@
           "LocalizedString": "未闻浦的海上车站是海特洛市必去的经典，作为风光摄影师怎么能不拍一张，记得要把车站完整的拍进去。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -1727,6 +1832,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1739,24 +1845,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100208": {
         "QuestId": "WQ100208",
@@ -1766,9 +1876,9 @@
           "SourceString": "海上车站",
           "LocalizedString": "海上车站"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1002",
+        "ChapterProgress": 8.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -1780,9 +1890,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -1812,7 +1920,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1821,6 +1930,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1828,6 +1938,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100208_QuestPanel",
@@ -1835,6 +1946,7 @@
           "LocalizedString": "拍摄完成，给凯西奇看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -1842,6 +1954,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1854,12 +1967,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest1",
@@ -1870,13 +1988,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100209": {
         "QuestId": "WQ100209",
@@ -1886,9 +2003,9 @@
           "SourceString": "身边的风景",
           "LocalizedString": "身边的风景"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1002",
+        "ChapterProgress": 9.0,
+        "DisplayMapName": "QiaoJianDi",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -1898,9 +2015,7 @@
               "WQ100209"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -1930,7 +2045,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1938,7 +2054,8 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1946,6 +2063,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100209_QuestPanel",
@@ -1953,6 +2071,7 @@
           "LocalizedString": "凯西奇提到的地方……应该是在百汇巷尾的篮球场附近，去那里拍一张试试吧，注意角度是从上到下。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -1960,6 +2079,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1972,24 +2092,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100210": {
         "QuestId": "WQ100210",
@@ -1999,9 +2123,9 @@
           "SourceString": "身边的风景",
           "LocalizedString": "身边的风景"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1002",
+        "ChapterProgress": 10.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -2013,9 +2137,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2045,7 +2167,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2054,6 +2177,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": true,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2061,6 +2185,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100210_QuestPanel",
@@ -2068,6 +2193,7 @@
           "LocalizedString": "拍摄完成，给凯西奇看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -2075,6 +2201,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2085,12 +2212,17 @@
         "NextQuests": [],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest2",
@@ -2101,13 +2233,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100301": {
         "QuestId": "WQ100301",
@@ -2117,9 +2248,9 @@
           "SourceString": "定格音乐",
           "LocalizedString": "定格音乐"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1003",
+        "ChapterProgress": 1.0,
+        "DisplayMapName": "HaiTeLuoShi",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -2129,9 +2260,7 @@
               "WQ100301"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -2161,15 +2290,17 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
-        "bNeedRedpoint": false,
+        "bNeedRedpoint": true,
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": true,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2177,6 +2308,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100301_QuestPanel",
@@ -2184,6 +2316,7 @@
           "LocalizedString": "与人文摄影师比拉尔聊了聊，去拍摄一张他找到的街头歌手吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -2196,6 +2329,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2208,24 +2342,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100302": {
         "QuestId": "WQ100302",
@@ -2235,9 +2373,9 @@
           "SourceString": "定格音乐",
           "LocalizedString": "定格音乐"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1003",
+        "ChapterProgress": 2.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -2249,9 +2387,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2281,7 +2417,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2290,6 +2427,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2297,6 +2435,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100302_QuestPanel",
@@ -2304,6 +2443,7 @@
           "LocalizedString": "拍摄完成，给比拉尔看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -2311,6 +2451,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2323,12 +2464,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest1",
@@ -2339,13 +2485,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100303": {
         "QuestId": "WQ100303",
@@ -2355,9 +2500,9 @@
           "SourceString": "定格美味",
           "LocalizedString": "定格美味"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1003",
+        "ChapterProgress": 3.0,
+        "DisplayMapName": "WeiWenPu",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -2367,9 +2512,7 @@
               "WQ100303"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -2399,7 +2542,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2407,7 +2551,8 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2415,6 +2560,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100303_QuestPanel",
@@ -2422,6 +2568,7 @@
           "LocalizedString": "比拉尔提出了新的课题，去湛望露营地看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -2429,6 +2576,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2441,24 +2589,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100304": {
         "QuestId": "WQ100304",
@@ -2468,9 +2620,9 @@
           "SourceString": "定格美味",
           "LocalizedString": "定格美味"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1003",
+        "ChapterProgress": 4.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -2482,9 +2634,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2514,7 +2664,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2523,6 +2674,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2530,6 +2682,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100304_QuestPanel",
@@ -2537,6 +2690,7 @@
           "LocalizedString": "拍摄完成，给比拉尔看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -2544,6 +2698,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2556,12 +2711,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest1",
@@ -2572,13 +2732,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100305": {
         "QuestId": "WQ100305",
@@ -2588,9 +2747,9 @@
           "SourceString": "定格律动",
           "LocalizedString": "定格律动"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1003",
+        "ChapterProgress": 5.0,
+        "DisplayMapName": "HaiTeLuoShi",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -2600,9 +2759,7 @@
               "WQ100305"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -2632,7 +2789,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2640,7 +2798,8 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2648,6 +2807,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100305_QuestPanel",
@@ -2655,6 +2815,7 @@
           "LocalizedString": "比拉尔给了个难题，试着挑战一下吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -2662,6 +2823,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2674,24 +2836,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100306": {
         "QuestId": "WQ100306",
@@ -2701,9 +2867,9 @@
           "SourceString": "定格律动",
           "LocalizedString": "定格律动"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1003",
+        "ChapterProgress": 6.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -2715,9 +2881,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2747,7 +2911,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2756,6 +2921,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2763,6 +2929,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100306_QuestPanel",
@@ -2770,6 +2937,7 @@
           "LocalizedString": "拍摄完成，给比拉尔看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -2777,6 +2945,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2789,12 +2958,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest1",
@@ -2805,13 +2979,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100307": {
         "QuestId": "WQ100307",
@@ -2821,9 +2994,9 @@
           "SourceString": "城市的脉搏",
           "LocalizedString": "城市的脉搏"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1003",
+        "ChapterProgress": 7.0,
+        "DisplayMapName": "XueXiao",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -2833,9 +3006,7 @@
               "WQ100307"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_SELFIE_CAPTURED",
             "Amount": 1,
             "TargetType": {
@@ -2865,7 +3036,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2873,7 +3045,8 @@
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2881,6 +3054,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100307_QuestPanel",
@@ -2888,6 +3062,7 @@
           "LocalizedString": "在早上前往克莱门学院，捕捉学生们上学的景象"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -2895,6 +3070,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2907,24 +3083,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "WQ100308": {
         "QuestId": "WQ100308",
@@ -2934,9 +3114,9 @@
           "SourceString": "城市的脉搏",
           "LocalizedString": "城市的脉搏"
         },
-        "ChapterID": "None",
-        "ChapterProgress": -1.0,
-        "DisplayMapName": "None",
+        "ChapterID": "WQ1003",
+        "ChapterProgress": 8.0,
+        "DisplayMapName": "ZhaoXiangGuan",
         "TrackMapName": "None",
         "bNeedCrossBox": false,
         "bProgressNeedTrack": false,
@@ -2948,9 +3128,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2980,7 +3158,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2989,6 +3168,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": true,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2996,6 +3176,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
           "Key": "WQ100308_QuestPanel",
@@ -3003,6 +3184,7 @@
           "LocalizedString": "拍摄完成，给比拉尔看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -3010,6 +3192,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -3020,12 +3203,17 @@
         "NextQuests": [],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "worldquest2",
@@ -3036,13 +3224,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

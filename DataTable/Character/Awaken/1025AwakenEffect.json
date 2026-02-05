@@ -29,8 +29,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Hathor025_Level1_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level1.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level1.Buff_Hathor025_Level1_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -39,8 +39,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Hathor_SkillDes.Hathor_SkillDes",
               "Key": "GA_Hathor_star1_des",
-              "SourceString": "当「闪送之力」叠加至<NumGreen>6</>层时，立即为技能「铁骑速递」完成蓄质。",
-              "LocalizedString": "当「闪送之力」叠加至<NumGreen>6</>层时，立即为技能「铁骑速递」完成蓄质。"
+              "SourceString": "入战后首次长按「变轨技能」，将直接获得<NumGreen>6</>层<hot textstyle=\"TextEXPL\" param=\"nouns&HathorAnger\">「闪送之力」</>。",
+              "LocalizedString": "入战后首次长按「变轨技能」，将直接获得<NumGreen>6</>层<hot textstyle=\"TextEXPL\" param=\"nouns&HathorAnger\">「闪送之力」</>。"
             }
           },
           {
@@ -59,8 +59,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Hathor025_Level2_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level2.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level2.Buff_Hathor025_Level2_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -69,8 +69,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Hathor_SkillDes.Hathor_SkillDes",
               "Key": "GA_Hathor_star2_des",
-              "SourceString": "「优评锁定」和「满星追踪」自然结束时，哈索尔同样可获得「闪送之力」。入战后首次长按「变轨攻击」，将直接获得<NumGreen>6</>层「闪送之力」。",
-              "LocalizedString": "「优评锁定」和「满星追踪」自然结束时，哈索尔同样可获得「闪送之力」。入战后首次长按「变轨攻击」，将直接获得<NumGreen>6</>层「闪送之力」。"
+              "SourceString": "<TextEXPL>「优评锁定」</>和<TextEXPL>「满星追踪」</>自然结束时，哈索尔同样可获得<hot textstyle=\"TextEXPL\" param=\"nouns&HathorAnger\">「闪送之力」</>。",
+              "LocalizedString": "<TextEXPL>「优评锁定」</>和<TextEXPL>「满星追踪」</>自然结束时，哈索尔同样可获得<hot textstyle=\"TextEXPL\" param=\"nouns&HathorAnger\">「闪送之力」</>。"
             }
           },
           {
@@ -89,8 +89,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Hathor025_Level3_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level3.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level3.Buff_Hathor025_Level3_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -119,8 +119,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Hathor025_Level4_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level4.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level4.Buff_Hathor025_Level4_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -129,8 +129,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Hathor_SkillDes.Hathor_SkillDes",
               "Key": "GA_Hathor_star4_des",
-              "SourceString": "处于「紧急派送」状态时，哈索尔每次成功释放「轮转打击」，都会使下一次「轮转打击」的暴击率提升<NumGreen>40%</>，该效果将在本次「紧急派送」状态结束后清除。",
-              "LocalizedString": "处于「紧急派送」状态时，哈索尔每次成功释放「轮转打击」，都会使下一次「轮转打击」的暴击率提升<NumGreen>40%</>，该效果将在本次「紧急派送」状态结束后清除。"
+              "SourceString": "处于<TextEXPL>「紧急派送」</>状态时，哈索尔每次成功释放「变轨技能：轮转打击」，都会使下一次「变轨技能：轮转打击」的暴击率提升<NumGreen>25%</>，该效果将在本次<TextEXPL>「紧急派送」</>状态结束后清除。",
+              "LocalizedString": "处于<TextEXPL>「紧急派送」</>状态时，哈索尔每次成功释放「变轨技能：轮转打击」，都会使下一次「变轨技能：轮转打击」的暴击率提升<NumGreen>25%</>，该效果将在本次<TextEXPL>「紧急派送」</>状态结束后清除。"
             }
           },
           {
@@ -149,8 +149,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Hathor025_Level5_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level5.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level5.Buff_Hathor025_Level5_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -159,8 +159,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Hathor_SkillDes.Hathor_SkillDes",
               "Key": "GA_Hathor_star5_des",
-              "SourceString": "每获得<NumGreen>1</>层「闪送之力」，哈索尔对目标造成的伤害提升<NumGreen>1%</>，该效果可叠加，最多提升至<NumGreen>15%</>，脱离战斗状态后效果会被移除。",
-              "LocalizedString": "每获得<NumGreen>1</>层「闪送之力」，哈索尔对目标造成的伤害提升<NumGreen>1%</>，该效果可叠加，最多提升至<NumGreen>15%</>，脱离战斗状态后效果会被移除。"
+              "SourceString": "每获得<NumGreen>1</>层<hot textstyle=\"TextEXPL\" param=\"nouns&HathorAnger\">「闪送之力」</>，哈索尔对目标造成的伤害提升<NumGreen>1%</>，该效果可叠加，最多提升至<NumGreen>15%</>，脱离战斗状态后效果会被移除。",
+              "LocalizedString": "每获得<NumGreen>1</>层<hot textstyle=\"TextEXPL\" param=\"nouns&HathorAnger\">「闪送之力」</>，哈索尔对目标造成的伤害提升<NumGreen>1%</>，该效果可叠加，最多提升至<NumGreen>15%</>，脱离战斗状态后效果会被移除。"
             }
           },
           {
@@ -179,8 +179,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Hathor025_Level6_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level6.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level6.Buff_Hathor025_Level6_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -189,8 +189,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Hathor_SkillDes.Hathor_SkillDes",
               "Key": "GA_Hathor_star6_des",
-              "SourceString": "处于「紧急派送」状态时，哈索尔的暴击伤害提升<NumGreen>60%</>。",
-              "LocalizedString": "处于「紧急派送」状态时，哈索尔的暴击伤害提升<NumGreen>60%</>。"
+              "SourceString": "处于<TextEXPL>「紧急派送」</>状态时，哈索尔的暴击伤害提升<NumGreen>30%</>。",
+              "LocalizedString": "处于<TextEXPL>「紧急派送」</>状态时，哈索尔的暴击伤害提升<NumGreen>30%</>。"
             }
           },
           {
@@ -224,8 +224,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Hathor_SkillDes.Hathor_SkillDes",
               "Key": "GA_Hathor_starExtra1_des",
-              "SourceString": "「高频送达」、「空中指令」和「铁骑速递」的技能等级提升1级。",
-              "LocalizedString": "「高频送达」、「空中指令」和「铁骑速递」的技能等级提升1级。"
+              "SourceString": "「普通攻击：高频送达」、「变轨技能：空中指令」和「极轨终结：铁骑速递」的技能等级提升1级。",
+              "LocalizedString": "「普通攻击：高频送达」、「变轨技能：空中指令」和「极轨终结：铁骑速递」的技能等级提升1级。"
             }
           },
           {
@@ -244,8 +244,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Hathor025_Level6_extra_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level6_extra.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/Upgrade/Buff_Hathor025_Level6_extra.Buff_Hathor025_Level6_extra_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -254,8 +254,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Hathor_SkillDes.Hathor_SkillDes",
               "Key": "GA_Hathor_starExtra2_des",
-              "SourceString": "处于「紧急派送」状态下，哈索尔造成的伤害无视目标<NumGreen>10%</>的防御力。",
-              "LocalizedString": "处于「紧急派送」状态下，哈索尔造成的伤害无视目标<NumGreen>10%</>的防御力。"
+              "SourceString": "处于<TextEXPL>「紧急派送」</>状态下，哈索尔造成的伤害无视目标<NumGreen>10%</>的防御力。",
+              "LocalizedString": "处于<TextEXPL>「紧急派送」</>状态下，哈索尔造成的伤害无视目标<NumGreen>10%</>的防御力。"
             }
           }
         ]

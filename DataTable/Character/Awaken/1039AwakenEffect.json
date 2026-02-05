@@ -29,8 +29,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Fadia039_Level1_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level1/Buff_Fadia039_Level1.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level1/Buff_Fadia039_Level1.Buff_Fadia039_Level1_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -59,8 +59,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Fadia039_Level2_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level2/Buff_Fadia039_Level2.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level2/Buff_Fadia039_Level2.Buff_Fadia039_Level2_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -69,8 +69,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Fadia_SkillDes.Fadia_SkillDes",
               "Key": "GA_Fadia_star2_des",
-              "SourceString": "敌方单位通过「破灭体验」承受的伤害比例提升至<NumGreen>600%</>，上限提升至法帝娅生命上限的<NumGreen>25%</>。当「破灭体验」被移除时，立刻造成敌方单位已承受伤害与「破灭体验」造成伤害上限差值的伤害。",
-              "LocalizedString": "敌方单位通过「破灭体验」承受的伤害比例提升至<NumGreen>600%</>，上限提升至法帝娅生命上限的<NumGreen>25%</>。当「破灭体验」被移除时，立刻造成敌方单位已承受伤害与「破灭体验」造成伤害上限差值的伤害。"
+              "SourceString": "敌方单位通过<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>承受的伤害比例提升至<NumGreen>600%</>，上限提升至法帝娅生命上限的<NumGreen>25%</>。当<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>被移除时，立刻造成敌方单位已承受伤害与<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>造成伤害上限差值的伤害。",
+              "LocalizedString": "敌方单位通过<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>承受的伤害比例提升至<NumGreen>600%</>，上限提升至法帝娅生命上限的<NumGreen>25%</>。当<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>被移除时，立刻造成敌方单位已承受伤害与<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>造成伤害上限差值的伤害。"
             }
           },
           {
@@ -89,8 +89,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Fadia039_Level3_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level3/Buff_Fadia039_Level3.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level3/Buff_Fadia039_Level3.Buff_Fadia039_Level3_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -119,8 +119,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Fadia039_Level4_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level4/Buff_Fadia039_Level4.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level4/Buff_Fadia039_Level4.Buff_Fadia039_Level4_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -129,8 +129,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Fadia_SkillDes.Fadia_SkillDes",
               "Key": "GA_Fadia_star4_des",
-              "SourceString": "「敌神者」状态下法帝娅的回复比例提升至<NumGreen>30%</>生命上限，在已损失生命值大于等于「破灭阈值」时回复比例提升至<NumGreen>60%</>生命上限。",
-              "LocalizedString": "「敌神者」状态下法帝娅的回复比例提升至<NumGreen>30%</>生命上限，在已损失生命值大于等于「破灭阈值」时回复比例提升至<NumGreen>60%</>生命上限。"
+              "SourceString": "<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaState\">「敌神者」</>状态下法帝娅的回复比例提升至<NumGreen>30%</>生命上限，在已损失生命值大于等于<TextHLT>「破灭阈值」</>时回复比例提升至<NumGreen>60%</>生命上限。",
+              "LocalizedString": "<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaState\">「敌神者」</>状态下法帝娅的回复比例提升至<NumGreen>30%</>生命上限，在已损失生命值大于等于<TextHLT>「破灭阈值」</>时回复比例提升至<NumGreen>60%</>生命上限。"
             }
           },
           {
@@ -149,8 +149,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Fadia039_Level5_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level5/Buff_Fadia039_Level5.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level5/Buff_Fadia039_Level5.Buff_Fadia039_Level5_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -159,8 +159,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Fadia_SkillDes.Fadia_SkillDes",
               "Key": "GA_Fadia_star5_des",
-              "SourceString": "「敌神者」状态下法帝娅的暴击率提升<NumGreen>50%</>。",
-              "LocalizedString": "「敌神者」状态下法帝娅的暴击率提升<NumGreen>50%</>。"
+              "SourceString": "<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaState\">「敌神者」</>状态下法帝娅的暴击率提升<NumGreen>50%</>。",
+              "LocalizedString": "<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaState\">「敌神者」</>状态下法帝娅的暴击率提升<NumGreen>50%</>。"
             }
           },
           {
@@ -179,8 +179,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Fadia039_Level6_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level6/Buff_Fadia039_Level6.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/Level6/Buff_Fadia039_Level6.Buff_Fadia039_Level6_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -189,8 +189,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Fadia_SkillDes.Fadia_SkillDes",
               "Key": "GA_Fadia_star6_des",
-              "SourceString": "「存在证明的体验」可为范围内最多<NumGreen>10</>个目标施加「破灭体验」，每个目标单独计算「破灭体验」持续时间及通过「破灭体验」所承受的伤害上限。",
-              "LocalizedString": "「存在证明的体验」可为范围内最多<NumGreen>10</>个目标施加「破灭体验」，每个目标单独计算「破灭体验」持续时间及通过「破灭体验」所承受的伤害上限。"
+              "SourceString": "「变轨技能：存在证明的体验」可为范围内最多<NumGreen>10</>个目标施加<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>，每个目标单独计算<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>持续时间及通过<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>所承受的伤害上限。",
+              "LocalizedString": "「变轨技能：存在证明的体验」可为范围内最多<NumGreen>10</>个目标施加<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>，每个目标单独计算<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>持续时间及通过<hot textstyle=\"TextEXPL\" param=\"nouns&FadiaSkill\">「破灭体验」</>所承受的伤害上限。"
             }
           },
           {
@@ -224,8 +224,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Fadia_SkillDes.Fadia_SkillDes",
               "Key": "GA_Fadia_starExtra1_des",
-              "SourceString": "「话语中断的否定」「存在证明的体验」「痛苦让位于狂喜」的技能等级提升<NumGreen>1</>级。",
-              "LocalizedString": "「话语中断的否定」「存在证明的体验」「痛苦让位于狂喜」的技能等级提升<NumGreen>1</>级。"
+              "SourceString": "「普通攻击：话语中断的否定」「变轨技能：存在证明的体验」「极轨终结：痛苦让位于狂喜」的技能等级提升1级。",
+              "LocalizedString": "「普通攻击：话语中断的否定」「变轨技能：存在证明的体验」「极轨终结：痛苦让位于狂喜」的技能等级提升1级。"
             }
           },
           {
@@ -244,8 +244,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Fadia039_LevelExtra_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/LevelExtra/Buff_Fadia039_LevelExtra.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/Upgrade/LevelExtra/Buff_Fadia039_LevelExtra.Buff_Fadia039_LevelExtra_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": true
               }
@@ -254,8 +254,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Fadia_SkillDes.Fadia_SkillDes",
               "Key": "GA_Fadia_starExtra2_des",
-              "SourceString": "当法帝娅在队伍中时，全队获得<NumGreen>10%</>最大生命值提升。",
-              "LocalizedString": "当法帝娅在队伍中时，全队获得<NumGreen>10%</>最大生命值提升。"
+              "SourceString": "当法帝娅在队伍中时，全队获得10%最大生命值提升。",
+              "LocalizedString": "当法帝娅在队伍中时，全队获得10%最大生命值提升。"
             }
           }
         ]

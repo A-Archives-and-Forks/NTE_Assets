@@ -25,7 +25,9 @@
         "Range": 1000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "YahahaTest_02": {
         "Index": 1,
@@ -41,7 +43,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Anomaly_018_fruit_test": {
         "Index": 2,
@@ -57,7 +61,9 @@
         "Range": 0.0,
         "DropID": "drop_VisionReceiveAwardRegion1",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Q310038_Vines": {
         "Index": 3,
@@ -73,7 +79,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Eibon_PaintingMan": {
         "Index": 4,
@@ -89,7 +97,9 @@
         "Range": 1500.0,
         "DropID": "drop_Fons_1000",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Anomaly_043_Eden": {
         "Index": 5,
@@ -105,7 +115,9 @@
         "Range": 1000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Danzaburou_QJD_001_SE": {
         "Index": 6,
@@ -121,7 +133,9 @@
         "Range": 1000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_Boxing_01": {
         "Index": 7,
@@ -134,10 +148,12 @@
           "Y": 156935.55,
           "Z": 4247.4893
         },
-        "Range": 2000.0,
+        "Range": 12000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Danzaburou_QJD_001": {
         "Index": 8,
@@ -153,7 +169,9 @@
         "Range": 1500.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Danzaburou_QJD_002": {
         "Index": 9,
@@ -169,7 +187,9 @@
         "Range": 1500.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Danzaburou_WWP_001": {
         "Index": 10,
@@ -185,7 +205,9 @@
         "Range": 15000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Danzaburou_WWP_002": {
         "Index": 11,
@@ -201,7 +223,9 @@
         "Range": 15000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Step_01": {
         "Index": 12,
@@ -217,7 +241,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Step_02": {
         "Index": 13,
@@ -233,7 +259,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Step_03": {
         "Index": 14,
@@ -249,7 +277,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Step_04": {
         "Index": 15,
@@ -265,7 +295,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Step_05": {
         "Index": 16,
@@ -281,7 +313,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Step_06": {
         "Index": 17,
@@ -297,7 +331,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Step_07": {
         "Index": 18,
@@ -313,7 +349,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Step_08": {
         "Index": 19,
@@ -329,7 +367,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Step_09": {
         "Index": 20,
@@ -345,7 +385,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Step_10": {
         "Index": 21,
@@ -361,7 +403,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Room1-2_Load": {
         "Index": 22,
@@ -377,7 +421,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Room1-2_Unload": {
         "Index": 23,
@@ -393,7 +439,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Corridor_Load": {
         "Index": 24,
@@ -409,7 +457,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Corridor_Unload": {
         "Index": 25,
@@ -425,7 +475,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Room3_Load": {
         "Index": 26,
@@ -441,7 +493,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_Room3_Unload": {
         "Index": 27,
@@ -457,7 +511,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Door_LastCorridor_Load": {
         "Index": 28,
@@ -473,7 +529,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "MotoBoss01_BattleField_Load": {
         "Index": 29,
@@ -489,7 +547,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "MotoBoss01_BattleField_Unload": {
         "Index": 30,
@@ -505,7 +565,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_Projector_01": {
         "Index": 31,
@@ -521,7 +583,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_Projector_01_Gameplay": {
         "Index": 32,
@@ -537,7 +601,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "School_Cat": {
         "Index": 33,
@@ -553,7 +619,9 @@
         "Range": 1500.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_WorldFilm": {
         "Index": 34,
@@ -569,7 +637,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "NPC_S1002_004_Check1": {
         "Index": 35,
@@ -585,7 +655,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "NPC_S1002_004_Check2": {
         "Index": 36,
@@ -601,7 +673,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "NPC_S1002_004_Check3": {
         "Index": 37,
@@ -617,7 +691,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "NPC_001_A_yahaha_finish": {
         "Index": 38,
@@ -633,7 +709,9 @@
         "Range": 1500.0,
         "DropID": "drop_fork_rishi",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "NPC_001_A_yahaha_step1": {
         "Index": 39,
@@ -649,7 +727,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "NPC_001_A_yahaha_step2": {
         "Index": 40,
@@ -665,7 +745,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "NPC_001_A_yahaha_step3": {
         "Index": 41,
@@ -681,7 +763,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "NPC_001_A_yahaha_step4": {
         "Index": 42,
@@ -697,7 +781,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "NPC_001_A_yahaha_step5": {
         "Index": 43,
@@ -713,7 +799,9 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Trinity_LadyFei_SPcoffee": {
         "Index": 44,
@@ -729,7 +817,9 @@
         "Range": 3000.0,
         "DropID": "drop_cookbook_13",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "CWO_Recipe": {
         "Index": 45,
@@ -745,7 +835,9 @@
         "Range": 2000.0,
         "DropID": "drop_cookbook_08",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "MotoBoss01_MotoBoss_Load": {
         "Index": 46,
@@ -761,7 +853,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "MotoBoss01_MotoBoss_Unload": {
         "Index": 47,
@@ -777,7 +871,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Quest_W106201_Yahaha": {
         "Index": 48,
@@ -793,7 +889,9 @@
         "Range": 0.0,
         "DropID": "drop_easteregg_w106201_yahaha",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_Boxing_02": {
         "Index": 49,
@@ -806,10 +904,12 @@
           "Y": 169452.31,
           "Z": 10068.344
         },
-        "Range": 2000.0,
+        "Range": 10000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_Projector_Time_01": {
         "Index": 50,
@@ -825,7 +925,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_Projector_Time_01_Gameplay": {
         "Index": 51,
@@ -841,7 +943,9 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_MagicBox_Tower_01": {
         "Index": 52,
@@ -857,10 +961,12 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_MagicBox_Cube_01": {
-        "Index": 54,
+        "Index": 53,
         "YahahaId": "Vision_MagicBox_Cube_01",
         "TableName": "BigWorld",
         "Type": "Vision_MagicBox",
@@ -873,10 +979,12 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_AmbientActive": {
-        "Index": 56,
+        "Index": 54,
         "YahahaId": "SchoolMyth_AmbientActive",
         "TableName": "BigWorld",
         "Type": "None",
@@ -889,10 +997,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_FinalActive": {
-        "Index": 57,
+        "Index": 55,
         "YahahaId": "SchoolMyth_FinalActive",
         "TableName": "BigWorld",
         "Type": "None",
@@ -905,10 +1015,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_GuessCupActive": {
-        "Index": 58,
+        "Index": 56,
         "YahahaId": "SchoolMyth_GuessCupActive",
         "TableName": "BigWorld",
         "Type": "None",
@@ -921,10 +1033,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_LoopClassActive": {
-        "Index": 59,
+        "Index": 57,
         "YahahaId": "SchoolMyth_LoopClassActive",
         "TableName": "BigWorld",
         "Type": "None",
@@ -937,10 +1051,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_MagicDollActive": {
-        "Index": 60,
+        "Index": 58,
         "YahahaId": "SchoolMyth_MagicDollActive",
         "TableName": "BigWorld",
         "Type": "None",
@@ -953,10 +1069,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_MusicClassActive": {
-        "Index": 61,
+        "Index": 59,
         "YahahaId": "SchoolMyth_MusicClassActive",
         "TableName": "BigWorld",
         "Type": "None",
@@ -969,10 +1087,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_RaceManActive": {
-        "Index": 62,
+        "Index": 60,
         "YahahaId": "SchoolMyth_RaceManActive",
         "TableName": "BigWorld",
         "Type": "None",
@@ -985,10 +1105,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_RunningManActive": {
-        "Index": 63,
+        "Index": 61,
         "YahahaId": "SchoolMyth_RunningManActive",
         "TableName": "BigWorld",
         "Type": "None",
@@ -1001,10 +1123,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_ShyguyActive": {
-        "Index": 64,
+        "Index": 62,
         "YahahaId": "SchoolMyth_ShyguyActive",
         "TableName": "BigWorld",
         "Type": "None",
@@ -1017,10 +1141,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_GuessCup": {
-        "Index": 65,
+        "Index": 63,
         "YahahaId": "SchoolMyth_GuessCup",
         "TableName": "BigWorld",
         "Type": "SchoolMyth",
@@ -1033,10 +1159,12 @@
         "Range": 1500.0,
         "DropID": "drop_schoolmyth",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_LoopClass": {
-        "Index": 66,
+        "Index": 64,
         "YahahaId": "SchoolMyth_LoopClass",
         "TableName": "BigWorld",
         "Type": "SchoolMyth",
@@ -1049,10 +1177,12 @@
         "Range": 1500.0,
         "DropID": "drop_schoolmyth",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_MagicDoll1": {
-        "Index": 67,
+        "Index": 65,
         "YahahaId": "SchoolMyth_MagicDoll1",
         "TableName": "BigWorld",
         "Type": "SchoolMyth",
@@ -1065,10 +1195,12 @@
         "Range": 3000.0,
         "DropID": "drop_schoolmyth",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_MagicDoll2": {
-        "Index": 68,
+        "Index": 66,
         "YahahaId": "SchoolMyth_MagicDoll2",
         "TableName": "BigWorld",
         "Type": "SchoolMyth",
@@ -1081,10 +1213,12 @@
         "Range": 3000.0,
         "DropID": "drop_schoolmyth",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_MagicDoll3": {
-        "Index": 69,
+        "Index": 67,
         "YahahaId": "SchoolMyth_MagicDoll3",
         "TableName": "BigWorld",
         "Type": "SchoolMyth",
@@ -1097,10 +1231,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_MusicClass": {
-        "Index": 70,
+        "Index": 68,
         "YahahaId": "SchoolMyth_MusicClass",
         "TableName": "BigWorld",
         "Type": "SchoolMyth",
@@ -1113,10 +1249,12 @@
         "Range": 1000.0,
         "DropID": "drop_schoolmyth",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_RaceMan": {
-        "Index": 71,
+        "Index": 69,
         "YahahaId": "SchoolMyth_RaceMan",
         "TableName": "BigWorld",
         "Type": "SchoolMyth",
@@ -1129,10 +1267,12 @@
         "Range": 8000.0,
         "DropID": "drop_schoolmyth",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_RunningMan": {
-        "Index": 72,
+        "Index": 70,
         "YahahaId": "SchoolMyth_RunningMan",
         "TableName": "BigWorld",
         "Type": "SchoolMyth",
@@ -1142,13 +1282,15 @@
           "Y": 98000.72,
           "Z": 7221.9937
         },
-        "Range": 1500.0,
+        "Range": 3000.0,
         "DropID": "drop_schoolmyth",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_Shyguy": {
-        "Index": 73,
+        "Index": 71,
         "YahahaId": "SchoolMyth_Shyguy",
         "TableName": "BigWorld",
         "Type": "SchoolMyth",
@@ -1161,10 +1303,12 @@
         "Range": 5000.0,
         "DropID": "drop_schoolmyth",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "OceanChaseBoss_BattleManager_Load": {
-        "Index": 74,
+        "Index": 72,
         "YahahaId": "OceanChaseBoss_BattleManager_Load",
         "TableName": "BigWorld",
         "Type": "Vision_OceanChaseBoss",
@@ -1177,10 +1321,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "OceanChaseBoss_BattleManager_Unload": {
-        "Index": 75,
+        "Index": 73,
         "YahahaId": "OceanChaseBoss_BattleManager_Unload",
         "TableName": "BigWorld",
         "Type": "Vision_OceanChaseBoss",
@@ -1193,10 +1339,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "OceanChaseBoss_BattleField_Load": {
-        "Index": 76,
+        "Index": 74,
         "YahahaId": "OceanChaseBoss_BattleField_Load",
         "TableName": "BigWorld",
         "Type": "Vision_OceanChaseBoss",
@@ -1209,10 +1357,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "OceanChaseBoss_BattleField_Unload": {
-        "Index": 77,
+        "Index": 75,
         "YahahaId": "OceanChaseBoss_BattleField_Unload",
         "TableName": "BigWorld",
         "Type": "Vision_OceanChaseBoss",
@@ -1225,10 +1375,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_World_BlackBird_Appearance": {
-        "Index": 78,
+        "Index": 76,
         "YahahaId": "Yahaha_World_BlackBird_Appearance",
         "TableName": "BigWorld",
         "Type": "None",
@@ -1241,10 +1393,12 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_Boxing_03": {
-        "Index": 79,
+        "Index": 77,
         "YahahaId": "Vision_Boxing_03",
         "TableName": "BigWorld",
         "Type": "Vision_Boxing",
@@ -1254,13 +1408,15 @@
           "Y": 112436.33,
           "Z": 12426.4375
         },
-        "Range": 2000.0,
+        "Range": 10000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_Boxing_04": {
-        "Index": 80,
+        "Index": 78,
         "YahahaId": "Vision_Boxing_04",
         "TableName": "BigWorld",
         "Type": "Vision_Boxing",
@@ -1270,13 +1426,15 @@
           "Y": 39391.258,
           "Z": 7711.939
         },
-        "Range": 2000.0,
+        "Range": 10000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "PortableVision_Hammer": {
-        "Index": 81,
+        "Index": 79,
         "YahahaId": "PortableVision_Hammer",
         "TableName": "BigWorld",
         "Type": "PortableVision_Hammer",
@@ -1289,10 +1447,12 @@
         "Range": 1000.0,
         "DropID": "drop_PortableVision_Hammer",
         "CanReset": true,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "PortableVision_Speaker": {
-        "Index": 82,
+        "Index": 80,
         "YahahaId": "PortableVision_Speaker",
         "TableName": "BigWorld",
         "Type": "PortableVision_Speaker",
@@ -1305,10 +1465,12 @@
         "Range": 1000.0,
         "DropID": "drop_PortableVision_Speaker",
         "CanReset": true,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "PortableVision_Spray": {
-        "Index": 83,
+        "Index": 81,
         "YahahaId": "PortableVision_Spray",
         "TableName": "BigWorld",
         "Type": "PortableVision_Spray",
@@ -1321,10 +1483,12 @@
         "Range": 1000.0,
         "DropID": "drop_PortableVision_Spray",
         "CanReset": true,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "PortableVision_Truck": {
-        "Index": 84,
+        "Index": 82,
         "YahahaId": "PortableVision_Truck",
         "TableName": "BigWorld",
         "Type": "PortableVision_Truck",
@@ -1337,10 +1501,12 @@
         "Range": 1000.0,
         "DropID": "drop_PortableVision_Truck",
         "CanReset": true,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "TaygeDoor_Unlock": {
-        "Index": 85,
+        "Index": 83,
         "YahahaId": "TaygeDoor_Unlock",
         "TableName": "BigWorld",
         "Type": "TaygeDoor_Unlock",
@@ -1353,10 +1519,12 @@
         "Range": 2000.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "SchoolMyth_Final": {
-        "Index": 86,
+        "Index": 84,
         "YahahaId": "SchoolMyth_Final",
         "TableName": "BigWorld",
         "Type": "None",
@@ -1369,10 +1537,12 @@
         "Range": 1000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_BoomBox": {
-        "Index": 87,
+        "Index": 85,
         "YahahaId": "Vision_BoomBox",
         "TableName": "BigWorld",
         "Type": "None",
@@ -1385,10 +1555,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Abyss_CNPC_098001": {
-        "Index": 88,
+        "Index": 86,
         "YahahaId": "Abyss_CNPC_098001",
         "TableName": "BigWorld",
         "Type": "None",
@@ -1401,10 +1573,12 @@
         "Range": 1000.0,
         "DropID": "drop_Abyss_CNPC_098001",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_FindGateLocked": {
-        "Index": 89,
+        "Index": 87,
         "YahahaId": "Yahaha_Mu_Lamp_01_FindGateLocked",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1417,10 +1591,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_OpenGate": {
-        "Index": 90,
+        "Index": 88,
         "YahahaId": "Yahaha_Mu_Lamp_01_OpenGate",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1433,10 +1609,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_TV_TurnOff": {
-        "Index": 91,
+        "Index": 89,
         "YahahaId": "Yahaha_Mu_Lamp_01_TV_TurnOff",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1449,10 +1627,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_TV_Red": {
-        "Index": 92,
+        "Index": 90,
         "YahahaId": "Yahaha_Mu_Lamp_01_TV_Red",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1465,10 +1645,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_CorridorPreform": {
-        "Index": 93,
+        "Index": 91,
         "YahahaId": "Yahaha_Mu_Lamp_01_CorridorPreform",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1481,10 +1663,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_HadListenMemory01": {
-        "Index": 94,
+        "Index": 92,
         "YahahaId": "Yahaha_Mu_Lamp_01_HadListenMemory01",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1497,10 +1681,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_HadListenMemory02": {
-        "Index": 95,
+        "Index": 93,
         "YahahaId": "Yahaha_Mu_Lamp_01_HadListenMemory02",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1513,10 +1699,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_HadListenMemory03": {
-        "Index": 96,
+        "Index": 94,
         "YahahaId": "Yahaha_Mu_Lamp_01_HadListenMemory03",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1529,10 +1717,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_HadListenMemory04": {
-        "Index": 97,
+        "Index": 95,
         "YahahaId": "Yahaha_Mu_Lamp_01_HadListenMemory04",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1545,10 +1735,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_HadFinishMemory01": {
-        "Index": 98,
+        "Index": 96,
         "YahahaId": "Yahaha_Mu_Lamp_01_HadFinishMemory01",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1561,10 +1753,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_HadFinishMemory02": {
-        "Index": 99,
+        "Index": 97,
         "YahahaId": "Yahaha_Mu_Lamp_01_HadFinishMemory02",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1577,10 +1771,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_HadFinishMemory03": {
-        "Index": 100,
+        "Index": 98,
         "YahahaId": "Yahaha_Mu_Lamp_01_HadFinishMemory03",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1593,10 +1789,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_HadFinishMemory04": {
-        "Index": 101,
+        "Index": 99,
         "YahahaId": "Yahaha_Mu_Lamp_01_HadFinishMemory04",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1609,10 +1807,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_BuildingDrawing_BlueDrawing": {
-        "Index": 102,
+        "Index": 100,
         "YahahaId": "Vision_BuildingDrawing_BlueDrawing",
         "TableName": "BigWorld",
         "Type": "Vision_BuildingDrawing",
@@ -1625,10 +1825,12 @@
         "Range": 1800.0,
         "DropID": "drop_PortableVision_BlueDrawing",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_BuildingDrawing_OrangeDrawing": {
-        "Index": 103,
+        "Index": 101,
         "YahahaId": "Vision_BuildingDrawing_OrangeDrawing",
         "TableName": "BigWorld",
         "Type": "Vision_BuildingDrawing",
@@ -1641,10 +1843,12 @@
         "Range": 1800.0,
         "DropID": "drop_PortableVision_OrangeDrawing",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01_StoryBook_01": {
-        "Index": 104,
+        "Index": 102,
         "YahahaId": "Yahaha_Mu_Lamp01_StoryBook_01",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1657,10 +1861,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_StoryBook_01",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_Key": {
-        "Index": 105,
+        "Index": 103,
         "YahahaId": "Yahaha_Mu_Lamp_01_Key",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1673,10 +1879,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_Key",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_StoryBook_02": {
-        "Index": 106,
+        "Index": 104,
         "YahahaId": "Yahaha_Mu_Lamp_01_StoryBook_02",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1689,10 +1897,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_StoryBook_02",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01_YellowCat": {
-        "Index": 107,
+        "Index": 105,
         "YahahaId": "Yahaha_Mu_Lamp01_YellowCat",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1705,10 +1915,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_YellowCat",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01_RedBear_01": {
-        "Index": 108,
+        "Index": 106,
         "YahahaId": "Yahaha_Mu_Lamp01_RedBear_01",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1721,10 +1933,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_RedBear_01",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01_RedBear_02": {
-        "Index": 109,
+        "Index": 107,
         "YahahaId": "Yahaha_Mu_Lamp01_RedBear_02",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1737,10 +1951,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_RedBear_02",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01_BadBear": {
-        "Index": 110,
+        "Index": 108,
         "YahahaId": "Yahaha_Mu_Lamp01_BadBear",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1753,10 +1969,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_BadBear",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01_CookDaily": {
-        "Index": 111,
+        "Index": 109,
         "YahahaId": "Yahaha_Mu_Lamp01_CookDaily",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1769,10 +1987,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_CookDaily",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01CookFormula": {
-        "Index": 112,
+        "Index": 110,
         "YahahaId": "Yahaha_Mu_Lamp01CookFormula",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1785,10 +2005,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_CookFormula",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01_DesignDrawing": {
-        "Index": 113,
+        "Index": 111,
         "YahahaId": "Yahaha_Mu_Lamp01_DesignDrawing",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1801,10 +2023,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_DesignDrawing",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01_Color_01": {
-        "Index": 114,
+        "Index": 112,
         "YahahaId": "Yahaha_Mu_Lamp01_Color_01",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1817,10 +2041,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_Color_01",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01_Painting": {
-        "Index": 115,
+        "Index": 113,
         "YahahaId": "Yahaha_Mu_Lamp01_Painting",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1833,10 +2059,12 @@
         "Range": 0.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_Painting",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp01_Color_02": {
-        "Index": 116,
+        "Index": 114,
         "YahahaId": "Yahaha_Mu_Lamp01_Color_02",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -1849,10 +2077,12 @@
         "Range": 1500.0,
         "DropID": "drop_Yahaha_Mu_Lamp01_Color_02",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Vision_BuildingDrawing_01": {
-        "Index": 117,
+        "Index": 115,
         "YahahaId": "Vision_BuildingDrawing_01",
         "TableName": "BigWorld",
         "Type": "Vision_BuildingDrawing",
@@ -1864,11 +2094,13 @@
         },
         "Range": 1800.0,
         "DropID": "None",
-        "CanReset": false,
-        "NeedCheckPos": false
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "yahaha_Coupon_002": {
-        "Index": 118,
+        "Index": 116,
         "YahahaId": "yahaha_Coupon_002",
         "TableName": "BigWorld",
         "Type": "Coupon_002",
@@ -1881,10 +2113,12 @@
         "Range": 0.0,
         "DropID": "drop_Coupon_002",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "yahaha_Coupon_003": {
-        "Index": 119,
+        "Index": 117,
         "YahahaId": "yahaha_Coupon_003",
         "TableName": "BigWorld",
         "Type": "Coupon_003",
@@ -1897,10 +2131,12 @@
         "Range": 0.0,
         "DropID": "drop_Coupon_003",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "yahaha_Coupon_004": {
-        "Index": 120,
+        "Index": 118,
         "YahahaId": "yahaha_Coupon_004",
         "TableName": "BigWorld",
         "Type": "Coupon_004",
@@ -1913,10 +2149,12 @@
         "Range": 0.0,
         "DropID": "drop_Coupon_004",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "yahaha_Coupon_005": {
-        "Index": 121,
+        "Index": 119,
         "YahahaId": "yahaha_Coupon_005",
         "TableName": "BigWorld",
         "Type": "Coupon_005",
@@ -1929,10 +2167,12 @@
         "Range": 0.0,
         "DropID": "drop_Coupon_005",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "yahaha_Coupon_006": {
-        "Index": 122,
+        "Index": 120,
         "YahahaId": "yahaha_Coupon_006",
         "TableName": "BigWorld",
         "Type": "Coupon_006",
@@ -1945,10 +2185,12 @@
         "Range": 0.0,
         "DropID": "drop_Coupon_006",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "yahaha_Coupon_007": {
-        "Index": 123,
+        "Index": 121,
         "YahahaId": "yahaha_Coupon_007",
         "TableName": "BigWorld",
         "Type": "Coupon_007",
@@ -1961,10 +2203,12 @@
         "Range": 0.0,
         "DropID": "drop_Coupon_007",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "yahaha_Coupon_009": {
-        "Index": 124,
+        "Index": 122,
         "YahahaId": "yahaha_Coupon_009",
         "TableName": "BigWorld",
         "Type": "Coupon_009",
@@ -1977,10 +2221,12 @@
         "Range": 0.0,
         "DropID": "drop_Coupon_009",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "W1076_DailyReset": {
-        "Index": 125,
+        "Index": 123,
         "YahahaId": "W1076_DailyReset",
         "TableName": "BigWorld",
         "Type": "W1076",
@@ -1993,10 +2239,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "W1076_NPC_006": {
-        "Index": 126,
+        "Index": 124,
         "YahahaId": "W1076_NPC_006",
         "TableName": "BigWorld",
         "Type": "W1076",
@@ -2009,10 +2257,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "W1076_NPC_005": {
-        "Index": 127,
+        "Index": 125,
         "YahahaId": "W1076_NPC_005",
         "TableName": "BigWorld",
         "Type": "W1076",
@@ -2025,10 +2275,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "W1076_NPC_003": {
-        "Index": 128,
+        "Index": 126,
         "YahahaId": "W1076_NPC_003",
         "TableName": "BigWorld",
         "Type": "W1076",
@@ -2041,10 +2293,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "W1076_NPC_004": {
-        "Index": 129,
+        "Index": 127,
         "YahahaId": "W1076_NPC_004",
         "TableName": "BigWorld",
         "Type": "W1076",
@@ -2057,10 +2311,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_FirstGetLetter": {
-        "Index": 130,
+        "Index": 128,
         "YahahaId": "Yahaha_Mu_Lamp_01_FirstGetLetter",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -2073,10 +2329,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_LevelUnderGround": {
-        "Index": 131,
+        "Index": 129,
         "YahahaId": "Yahaha_Mu_Lamp_01_LevelUnderGround",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -2089,10 +2347,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_WorldBoss_07": {
-        "Index": 132,
+        "Index": 130,
         "YahahaId": "Yahaha_WorldBoss_07",
         "TableName": "BigWorld",
         "Type": "None",
@@ -2105,10 +2365,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": true
       },
       "Yahaha_L110025": {
-        "Index": 133,
+        "Index": 131,
         "YahahaId": "Yahaha_L110025",
         "TableName": "BigWorld",
         "Type": "None",
@@ -2121,10 +2383,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "OceanChaseBoss_OutsideManager_Load": {
-        "Index": 134,
+        "Index": 132,
         "YahahaId": "OceanChaseBoss_OutsideManager_Load",
         "TableName": "BigWorld",
         "Type": "Vision_OceanChaseBoss",
@@ -2137,10 +2401,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_Store": {
-        "Index": 135,
+        "Index": 133,
         "YahahaId": "Yahaha_Mu_Lamp_01_Store",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -2153,10 +2419,12 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "Yahaha_Mu_Lamp_01_Park": {
-        "Index": 137,
+        "Index": 134,
         "YahahaId": "Yahaha_Mu_Lamp_01_Park",
         "TableName": "Clone",
         "Type": "Lamp_01",
@@ -2169,7 +2437,1329 @@
         "Range": 0.0,
         "DropID": "None",
         "CanReset": true,
-        "NeedCheckPos": false
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Yahaha_Abyss_TrainSeq": {
+        "Index": 135,
+        "YahahaId": "Yahaha_Abyss_TrainSeq",
+        "TableName": "BigWorld",
+        "Type": "Abyss",
+        "CD": 0,
+        "Location": {
+          "X": -33876.0,
+          "Y": -17868.0,
+          "Z": -28710.0
+        },
+        "Range": 2000.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Yahaha_WishingTree": {
+        "Index": 136,
+        "YahahaId": "Yahaha_WishingTree",
+        "TableName": "BigWorld",
+        "Type": "WishingTree",
+        "CD": 0,
+        "Location": {
+          "X": 51732.91,
+          "Y": 104644.78,
+          "Z": 13528.08
+        },
+        "Range": 2000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [
+          {
+            "WeekDay": 0,
+            "Hour": 5,
+            "minute": 0
+          }
+        ],
+        "bOnlyServer": false
+      },
+      "Yahaha_WorldBoss_09": {
+        "Index": 137,
+        "YahahaId": "Yahaha_WorldBoss_09",
+        "TableName": "BigWorld",
+        "Type": "WorldBoss",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": true
+      },
+      "Yahaha_Weekly_Boss05": {
+        "Index": 138,
+        "YahahaId": "Yahaha_Weekly_Boss05",
+        "TableName": "BigWorld",
+        "Type": "Weekly",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": true
+      },
+      "Yahaha_Weekly_Boss10": {
+        "Index": 139,
+        "YahahaId": "Yahaha_Weekly_Boss10",
+        "TableName": "BigWorld",
+        "Type": "Weekly",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": true
+      },
+      "Yahaha_Meteor": {
+        "Index": 140,
+        "YahahaId": "Yahaha_Meteor",
+        "TableName": "BigWorld",
+        "Type": "Meteor",
+        "CD": 2880,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Prison_lunch": {
+        "Index": 141,
+        "YahahaId": "Prison_lunch",
+        "TableName": "BigWorld",
+        "Type": "Prison_lunch",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "drop_Food_115",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Yahaha_WorldBoss_09_S110932": {
+        "Index": 142,
+        "YahahaId": "Yahaha_WorldBoss_09_S110932",
+        "TableName": "BigWorld",
+        "Type": "WorldBoss",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": true
+      },
+      "PrisonEscape01_brick01": {
+        "Index": 144,
+        "YahahaId": "PrisonEscape01_brick01",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_brick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_brick02": {
+        "Index": 145,
+        "YahahaId": "PrisonEscape01_brick02",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_brick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_brick03": {
+        "Index": 146,
+        "YahahaId": "PrisonEscape01_brick03",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_brick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_brick04": {
+        "Index": 147,
+        "YahahaId": "PrisonEscape01_brick04",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_brick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_brick05": {
+        "Index": 148,
+        "YahahaId": "PrisonEscape01_brick05",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_brick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_brick06": {
+        "Index": 149,
+        "YahahaId": "PrisonEscape01_brick06",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_brick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_brick07": {
+        "Index": 150,
+        "YahahaId": "PrisonEscape01_brick07",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_brick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_brick08": {
+        "Index": 151,
+        "YahahaId": "PrisonEscape01_brick08",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_brick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_brick09": {
+        "Index": 152,
+        "YahahaId": "PrisonEscape01_brick09",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_brick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_brick10": {
+        "Index": 153,
+        "YahahaId": "PrisonEscape01_brick10",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_brick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Yahaha_Parallax_01": {
+        "Index": 154,
+        "YahahaId": "Yahaha_Parallax_01",
+        "TableName": "BigWorld",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": -102046.805,
+          "Y": 11828.656,
+          "Z": 9926.743
+        },
+        "Range": 1000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue01": {
+        "Index": 155,
+        "YahahaId": "Hospital_Ending_Clue01",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -2199.827,
+          "Y": 2736.065,
+          "Z": -113.041214
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue01",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue02": {
+        "Index": 156,
+        "YahahaId": "Hospital_Ending_Clue02",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 4049.3877,
+          "Y": -1248.1427,
+          "Z": -79.041214
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue02",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue03": {
+        "Index": 157,
+        "YahahaId": "Hospital_Ending_Clue03",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -5716.0,
+          "Y": -2817.0,
+          "Z": -90.0
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue03",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue04": {
+        "Index": 158,
+        "YahahaId": "Hospital_Ending_Clue04",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -6321.9365,
+          "Y": 3401.0652,
+          "Z": -82.041214
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue04",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue05": {
+        "Index": 159,
+        "YahahaId": "Hospital_Ending_Clue05",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 1166.222,
+          "Y": 818.0298,
+          "Z": 445.44504
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue05",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue06": {
+        "Index": 160,
+        "YahahaId": "Hospital_Ending_Clue06",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -1880.6807,
+          "Y": -554.59796,
+          "Z": -86.25251
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue06",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue07": {
+        "Index": 161,
+        "YahahaId": "Hospital_Ending_Clue07",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 3207.1895,
+          "Y": 1599.7407,
+          "Z": 446.07184
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue07",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue08": {
+        "Index": 162,
+        "YahahaId": "Hospital_Ending_Clue08",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 2921.707,
+          "Y": 0.82123,
+          "Z": 526.2757
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue08",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue09": {
+        "Index": 163,
+        "YahahaId": "Hospital_Ending_Clue09",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -1603.5822,
+          "Y": -1068.892,
+          "Z": 449.2665
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue09",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue10": {
+        "Index": 164,
+        "YahahaId": "Hospital_Ending_Clue10",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -8829.062,
+          "Y": -1290.74,
+          "Z": 451.75052
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue10",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue11": {
+        "Index": 165,
+        "YahahaId": "Hospital_Ending_Clue11",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -8837.681,
+          "Y": -2680.4153,
+          "Z": 451.75052
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Ending_Clue11",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue12": {
+        "Index": 166,
+        "YahahaId": "Hospital_Ending_Clue12",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue13": {
+        "Index": 167,
+        "YahahaId": "Hospital_Ending_Clue13",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue14": {
+        "Index": 168,
+        "YahahaId": "Hospital_Ending_Clue14",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue15": {
+        "Index": 169,
+        "YahahaId": "Hospital_Ending_Clue15",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue16": {
+        "Index": 170,
+        "YahahaId": "Hospital_Ending_Clue16",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue17": {
+        "Index": 171,
+        "YahahaId": "Hospital_Ending_Clue17",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue18": {
+        "Index": 172,
+        "YahahaId": "Hospital_Ending_Clue18",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue19": {
+        "Index": 173,
+        "YahahaId": "Hospital_Ending_Clue19",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue20": {
+        "Index": 174,
+        "YahahaId": "Hospital_Ending_Clue20",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue21": {
+        "Index": 175,
+        "YahahaId": "Hospital_Ending_Clue21",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_Clue22": {
+        "Index": 176,
+        "YahahaId": "Hospital_Ending_Clue22",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_1": {
+        "Index": 177,
+        "YahahaId": "Hospital_Ending_1",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Ending",
+        "CD": 0,
+        "Location": {
+          "X": -3657.243,
+          "Y": -22.849651,
+          "Z": 627.2415
+        },
+        "Range": 10000.0,
+        "DropID": "drop_hospital_NoramalEnding",
+        "CanReset": false,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_2": {
+        "Index": 178,
+        "YahahaId": "Hospital_Ending_2",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Ending",
+        "CD": 0,
+        "Location": {
+          "X": -3657.243,
+          "Y": -22.849651,
+          "Z": 627.2415
+        },
+        "Range": 10000.0,
+        "DropID": "drop_hospital_NoramalEnding",
+        "CanReset": false,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_3": {
+        "Index": 179,
+        "YahahaId": "Hospital_Ending_3",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Ending",
+        "CD": 0,
+        "Location": {
+          "X": -3657.243,
+          "Y": -22.849651,
+          "Z": 627.2415
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_4": {
+        "Index": 180,
+        "YahahaId": "Hospital_Ending_4",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Ending",
+        "CD": 0,
+        "Location": {
+          "X": -3657.243,
+          "Y": -22.849651,
+          "Z": 627.2415
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_5": {
+        "Index": 181,
+        "YahahaId": "Hospital_Ending_5",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Ending",
+        "CD": 0,
+        "Location": {
+          "X": -3657.243,
+          "Y": -22.849651,
+          "Z": 627.2415
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Ending_6": {
+        "Index": 182,
+        "YahahaId": "Hospital_Ending_6",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Ending",
+        "CD": 0,
+        "Location": {
+          "X": -3657.243,
+          "Y": -22.849651,
+          "Z": 627.2415
+        },
+        "Range": 10000.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_1FKey1": {
+        "Index": 183,
+        "YahahaId": "Hospital_Pickup_1FKey1",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -266.0,
+          "Y": 354.0,
+          "Z": -99.0
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_1FKey1",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_1FKey2": {
+        "Index": 184,
+        "YahahaId": "Hospital_Pickup_1FKey2",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -3971.0,
+          "Y": 2256.0,
+          "Z": -173.0
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_1FKey2",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_2FKey1": {
+        "Index": 185,
+        "YahahaId": "Hospital_Pickup_2FKey1",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 3041.3157,
+          "Y": 2068.4197,
+          "Z": 510.20117
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_2FKey1",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_2FKey2": {
+        "Index": 186,
+        "YahahaId": "Hospital_Pickup_2FKey2",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 91.00927,
+          "Y": 965.926,
+          "Z": 365.52332
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_2FKey2",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_2FKey3": {
+        "Index": 187,
+        "YahahaId": "Hospital_Pickup_2FKey3",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -3876.8276,
+          "Y": -3147.7676,
+          "Z": 414.7955
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_2FKey3",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_2FKey4": {
+        "Index": 188,
+        "YahahaId": "Hospital_Pickup_2FKey4",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -7439.5566,
+          "Y": 2447.651,
+          "Z": 449.8004
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_2FKey4",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_Smoke1": {
+        "Index": 189,
+        "YahahaId": "Hospital_Pickup_Smoke1",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -480.0,
+          "Y": -2509.0,
+          "Z": -93.58035
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_Smoke1",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_Smoke2": {
+        "Index": 190,
+        "YahahaId": "Hospital_Pickup_Smoke2",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 112.42021,
+          "Y": -1161.8828,
+          "Z": 422.9317
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_Smoke2",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_Smoke3": {
+        "Index": 191,
+        "YahahaId": "Hospital_Pickup_Smoke3",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 135.34312,
+          "Y": -1326.0864,
+          "Z": 422.9317
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_Smoke3",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_Smoke4": {
+        "Index": 192,
+        "YahahaId": "Hospital_Pickup_Smoke4",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": 1065.3923,
+          "Y": -294.13855,
+          "Z": 397.757
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_Smoke4",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Hospital_Pickup_Smoke5": {
+        "Index": 193,
+        "YahahaId": "Hospital_Pickup_Smoke5",
+        "TableName": "BigWorld",
+        "Type": "Hospital_Pickup",
+        "CD": 0,
+        "Location": {
+          "X": -8811.292,
+          "Y": -989.64166,
+          "Z": 479.8741
+        },
+        "Range": 10000.0,
+        "DropID": "drop_Hospital_Pickup_Smoke5",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_lightbefind": {
+        "Index": 194,
+        "YahahaId": "PrisonEscape01_lightbefind",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_lightbefind",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape01_LunchSpoon": {
+        "Index": 195,
+        "YahahaId": "PrisonEscape01_LunchSpoon",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape01_LunchSpoon",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "drop_Prison_Spoon",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "ElevatorAnomaly_01_Entrance": {
+        "Index": 196,
+        "YahahaId": "ElevatorAnomaly_01_Entrance",
+        "TableName": "BigWorld",
+        "Type": "ElevatorAnomaly_01",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "ElevatorAnomaly_01_Corridor": {
+        "Index": 197,
+        "YahahaId": "ElevatorAnomaly_01_Corridor",
+        "TableName": "BigWorld",
+        "Type": "ElevatorAnomaly_01",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "ElevatorAnomaly_01_Toilet": {
+        "Index": 198,
+        "YahahaId": "ElevatorAnomaly_01_Toilet",
+        "TableName": "BigWorld",
+        "Type": "ElevatorAnomaly_01",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "OceanChaseBoss_BattleField_OnlyLoad": {
+        "Index": 199,
+        "YahahaId": "OceanChaseBoss_BattleField_OnlyLoad",
+        "TableName": "BigWorld",
+        "Type": "Vision_OceanChaseBoss",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Yahaha_TeruTeruRain01": {
+        "Index": 200,
+        "YahahaId": "OceanChaseBoss_BattleField_OnlyLoad",
+        "TableName": "BigWorld",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": -15805.37,
+          "Y": 18225.66,
+          "Z": 8694.751
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Yahaha_TeruTeruSnow01": {
+        "Index": 201,
+        "YahahaId": "OceanChaseBoss_BattleField_OnlyLoad",
+        "TableName": "BigWorld",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": -6557.943,
+          "Y": -795.8412,
+          "Z": 8755.488
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Yahaha_PaperCastle": {
+        "Index": 202,
+        "YahahaId": "OceanChaseBoss_BattleField_OnlyLoad",
+        "TableName": "BigWorld",
+        "Type": "None",
+        "CD": 0,
+        "Location": {
+          "X": -16567.172,
+          "Y": 66015.09,
+          "Z": 6769.396
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape02_Sick": {
+        "Index": 203,
+        "YahahaId": "PrisonEscape02_Sick",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape02_Sick",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape02_erodent": {
+        "Index": 204,
+        "YahahaId": "PrisonEscape02_erodent",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape02_erodent",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape04_uniformtake": {
+        "Index": 205,
+        "YahahaId": "PrisonEscape04_uniformtake",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape04_uniformtake",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape04_uniformsteal": {
+        "Index": 206,
+        "YahahaId": "PrisonEscape04_uniformsteal",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape04_uniformsteal",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape04_bedsheettake": {
+        "Index": 207,
+        "YahahaId": "PrisonEscape04_bedsheettake",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape04_bedsheettake",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "PrisonEscape04_bedsheetsteal": {
+        "Index": 208,
+        "YahahaId": "PrisonEscape04_bedsheetsteal",
+        "TableName": "BigWorld",
+        "Type": "PrisonEscape04_bedsheetsteal",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": false,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       }
     }
   }

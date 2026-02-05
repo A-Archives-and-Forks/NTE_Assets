@@ -23,6 +23,33 @@
           }
         ],
         "AwardItemID": "Item_reduce_sin"
+      },
+      "CNPC_117020_comic": {
+        "PieceItems": [
+          {
+            "PieceItemID": "Prison_comic",
+            "PieceAmount": 2
+          }
+        ],
+        "AwardItemID": "Food_116"
+      },
+      "CNPC_117021_soap": {
+        "PieceItems": [
+          {
+            "PieceItemID": "Prison_soap",
+            "PieceAmount": 5
+          }
+        ],
+        "AwardItemID": "Food_116"
+      },
+      "CNPC_117022_poker": {
+        "PieceItems": [
+          {
+            "PieceItemID": "Prison_poker",
+            "PieceAmount": 3
+          }
+        ],
+        "AwardItemID": "Food_116"
       }
     }
   }

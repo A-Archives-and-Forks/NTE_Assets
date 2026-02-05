@@ -30,7 +30,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -38,7 +39,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -46,7 +48,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -80,7 +83,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -88,7 +92,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -96,7 +101,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -130,7 +136,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -138,7 +145,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -146,7 +154,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -180,7 +189,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -188,7 +198,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -196,7 +207,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -230,7 +242,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -238,7 +251,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -246,7 +260,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -280,7 +295,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 5.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -288,7 +304,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -296,7 +313,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -330,7 +348,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -338,7 +357,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -346,7 +366,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -380,7 +401,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -388,7 +410,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -396,7 +419,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -430,7 +454,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -438,7 +463,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -446,7 +472,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": true,
         "bAdjustBySocketOffset": true,
@@ -480,7 +507,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 5.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -488,7 +516,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -496,7 +525,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -530,7 +560,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.6,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -538,7 +569,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -546,7 +578,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -580,7 +613,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.6,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -588,7 +622,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -596,7 +631,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -630,7 +666,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": false,
@@ -638,7 +675,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": false,
@@ -646,7 +684,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -680,7 +719,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.6,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -688,7 +728,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -696,7 +737,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -730,7 +772,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.6,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -738,7 +781,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -746,7 +790,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -780,7 +825,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.3,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -788,7 +834,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -796,7 +843,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -830,7 +878,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -838,7 +887,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -846,7 +896,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.5,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -880,7 +931,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -888,7 +940,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -896,7 +949,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -930,7 +984,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -938,7 +993,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 10.0,
           "CurveFloatValue": null,
-          "Tolerance": 1.0
+          "Tolerance": 1.0,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -946,7 +1002,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 10.0,
           "CurveFloatValue": null,
-          "Tolerance": 1.0
+          "Tolerance": 1.0,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": true,
         "bAdjustBySocketOffset": false,
@@ -980,7 +1037,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.6,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -988,7 +1046,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -996,7 +1055,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -1030,7 +1090,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -1038,7 +1099,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -1046,7 +1108,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -1080,7 +1143,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.6,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -1088,7 +1152,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -1096,7 +1161,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 1.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -1130,7 +1196,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 0.6,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetY": {
           "bAmend": true,
@@ -1138,7 +1205,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "SocketOffsetZ": {
           "bAmend": true,
@@ -1146,7 +1214,8 @@
           "EveryFrameMaxModify": -1.0,
           "Speed": 2.0,
           "CurveFloatValue": null,
-          "Tolerance": 0.1
+          "Tolerance": 0.1,
+          "InterpolationTask": null
         },
         "bAdjustOtherParamSameTime": false,
         "bAdjustBySocketOffset": false,
@@ -1160,6 +1229,59 @@
         "ReturnTargetArmLengthSpeed": 1.0,
         "ReturnTargetArmLengthSpeedCurveFloatValue": null,
         "DelayShowUI": 0.5
+      },
+      "SoftLock": {
+        "SocketName": "None",
+        "ScreenXBias": {
+          "X": 0.49,
+          "Y": 0.51
+        },
+        "ScreenYBias": {
+          "X": 0.45,
+          "Y": 0.55
+        },
+        "EveryframeModifyPitch": 5.0,
+        "PitchSpeed": 1.0,
+        "YawSpeed": 1.0,
+        "SprintingArmLength": {
+          "bAmend": true,
+          "TargetValue": 300.0,
+          "EveryFrameMaxModify": -1.0,
+          "Speed": 0.5,
+          "CurveFloatValue": null,
+          "Tolerance": 0.1,
+          "InterpolationTask": null
+        },
+        "SocketOffsetY": {
+          "bAmend": true,
+          "TargetValue": 150.0,
+          "EveryFrameMaxModify": -1.0,
+          "Speed": 0.5,
+          "CurveFloatValue": null,
+          "Tolerance": 0.1,
+          "InterpolationTask": null
+        },
+        "SocketOffsetZ": {
+          "bAmend": true,
+          "TargetValue": 100.0,
+          "EveryFrameMaxModify": -1.0,
+          "Speed": 1.0,
+          "CurveFloatValue": null,
+          "Tolerance": 0.1,
+          "InterpolationTask": null
+        },
+        "bAdjustOtherParamSameTime": false,
+        "bAdjustBySocketOffset": false,
+        "EveryframeModifySockeyY": 3.0,
+        "EveryframeModifySockeyZ": 3.0,
+        "bAdjustRotationWhenReturn": false,
+        "ReturnSocketOffsetYSpeed": 1.0,
+        "ReturnSocketOffsetYSpeedCurveFloatValue": null,
+        "ReturnSocketOffsetZSpeed": 1.0,
+        "ReturnSocketOffsetZSpeedCurveFloatValue": null,
+        "ReturnTargetArmLengthSpeed": 1.0,
+        "ReturnTargetArmLengthSpeedCurveFloatValue": null,
+        "DelayShowUI": 1.0
       }
     }
   }

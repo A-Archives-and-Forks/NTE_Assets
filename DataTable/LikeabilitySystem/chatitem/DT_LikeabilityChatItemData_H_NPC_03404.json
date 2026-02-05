@@ -16,10 +16,11 @@
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
+        "bIsFirstSetenceInSequence": true,
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::SideStory",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -63,7 +64,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_a_2": {
         "ChatID": "H_NPC_03404_b",
@@ -74,6 +79,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -103,7 +109,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_a_3": {
         "ChatID": "H_NPC_03404_b",
@@ -114,6 +124,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -170,7 +181,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_a_4_1": {
         "ChatID": "H_NPC_03404_b",
@@ -181,6 +196,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -210,7 +226,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_a_4_2": {
         "ChatID": "H_NPC_03404_b",
@@ -221,6 +241,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -250,7 +271,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_a_5": {
         "ChatID": "H_NPC_03404_b",
@@ -261,6 +286,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -290,7 +316,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_a_6": {
         "ChatID": "H_NPC_03404_b",
@@ -301,6 +331,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -308,8 +339,8 @@
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "H_NPC_03404_a_6",
-          "SourceString": "啊哈哈，该怎么说呢……",
-          "LocalizedString": "啊哈哈，该怎么说呢……"
+          "SourceString": "啊哈哈……",
+          "LocalizedString": "啊哈哈……"
         },
         "ParaContent": "",
         "IconSource": {
@@ -330,276 +361,13 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_a_7": {
-        "ChatID": "H_NPC_03404_b",
-        "RoleId": "H_NPC_03404",
-        "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
-        "bActiveRedPoint": false,
-        "bUnActiveRedPoint": false,
-        "ChatType": "ELikeabilityChatType::Event",
-        "Conditions": [],
-        "bIsImmediatelyShow": false,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
-        "Content": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "H_NPC_03404_a_7",
-          "SourceString": "实际上，最近店里还多了不少上班族客人呢……",
-          "LocalizedString": "实际上，最近店里还多了不少上班族客人呢……"
-        },
-        "ParaContent": "",
-        "IconSource": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        },
-        "QuestId": "None",
-        "DropID": "None",
-        "OptionType": "ELikeabilityChatOptionType::Null",
-        "Options": [],
-        "NextSetenceID": "H_NPC_03404_a_8",
-        "HideChatIDs": [],
-        "ForceRefreshChatDatas": [],
-        "ForceRefreshChatID": "None",
-        "AddLikeabilityValue": 0,
-        "ChatPushType": "ELikeabilityChatPushType::Immediately",
-        "PustGameTimeDay": 1,
-        "PustGameTimeHour": 8,
-        "ChatPushTime": 0.0,
-        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
-      },
-      "H_NPC_03404_a_8": {
-        "ChatID": "H_NPC_03404_b",
-        "RoleId": "H_NPC_03404",
-        "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
-        "bActiveRedPoint": false,
-        "bUnActiveRedPoint": false,
-        "ChatType": "ELikeabilityChatType::Event",
-        "Conditions": [],
-        "bIsImmediatelyShow": false,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
-        "Content": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "H_NPC_03404_a_8",
-          "SourceString": "因为「苦蛋糕」的特性，如果有人能坚持吃下一整个「苦蛋糕」，那么无论积累了多少的不爽和压力都会一扫而空！",
-          "LocalizedString": "因为「苦蛋糕」的特性，如果有人能坚持吃下一整个「苦蛋糕」，那么无论积累了多少的不爽和压力都会一扫而空！"
-        },
-        "ParaContent": "",
-        "IconSource": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        },
-        "QuestId": "None",
-        "DropID": "None",
-        "OptionType": "ELikeabilityChatOptionType::Text",
-        "Options": [
-          {
-            "OptionText": {
-              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-              "Key": "H_NPC_03404_a_8_1",
-              "SourceString": "原来如此",
-              "LocalizedString": "原来如此"
-            },
-            "OptionIcon": {
-              "AssetPathName": "",
-              "SubPathString": ""
-            },
-            "NextSetenceID": "H_NPC_03404_a_9_1"
-          },
-          {
-            "OptionText": {
-              "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-              "Key": "H_NPC_03404_a_8_2",
-              "SourceString": "没问题吗",
-              "LocalizedString": "没问题吗"
-            },
-            "OptionIcon": {
-              "AssetPathName": "",
-              "SubPathString": ""
-            },
-            "NextSetenceID": "H_NPC_03404_a_9_2"
-          }
-        ],
-        "NextSetenceID": "None",
-        "HideChatIDs": [],
-        "ForceRefreshChatDatas": [],
-        "ForceRefreshChatID": "None",
-        "AddLikeabilityValue": 0,
-        "ChatPushType": "ELikeabilityChatPushType::Immediately",
-        "PustGameTimeDay": 1,
-        "PustGameTimeHour": 8,
-        "ChatPushTime": 0.0,
-        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
-      },
-      "H_NPC_03404_a_9_1": {
-        "ChatID": "H_NPC_03404_b",
-        "RoleId": "H_NPC_03404",
-        "bIsPlayer": true,
-        "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
-        "bActiveRedPoint": false,
-        "bUnActiveRedPoint": false,
-        "ChatType": "ELikeabilityChatType::Event",
-        "Conditions": [],
-        "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
-        "Content": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "H_NPC_03404_a_9_1",
-          "SourceString": "原来如此……毕竟上班什么的真的很辛苦啊……",
-          "LocalizedString": "原来如此……毕竟上班什么的真的很辛苦啊……"
-        },
-        "ParaContent": "",
-        "IconSource": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        },
-        "QuestId": "None",
-        "DropID": "None",
-        "OptionType": "ELikeabilityChatOptionType::Null",
-        "Options": [],
-        "NextSetenceID": "H_NPC_03404_a_10_1",
-        "HideChatIDs": [],
-        "ForceRefreshChatDatas": [],
-        "ForceRefreshChatID": "None",
-        "AddLikeabilityValue": 0,
-        "ChatPushType": "ELikeabilityChatPushType::Immediately",
-        "PustGameTimeDay": 1,
-        "PustGameTimeHour": 8,
-        "ChatPushTime": 0.0,
-        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
-      },
-      "H_NPC_03404_a_9_2": {
-        "ChatID": "H_NPC_03404_b",
-        "RoleId": "H_NPC_03404",
-        "bIsPlayer": true,
-        "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
-        "bActiveRedPoint": false,
-        "bUnActiveRedPoint": false,
-        "ChatType": "ELikeabilityChatType::Event",
-        "Conditions": [],
-        "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
-        "Content": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "H_NPC_03404_a_9_2",
-          "SourceString": "通过异象来解压，真的不会出问题吗？",
-          "LocalizedString": "通过异象来解压，真的不会出问题吗？"
-        },
-        "ParaContent": "",
-        "IconSource": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        },
-        "QuestId": "None",
-        "DropID": "None",
-        "OptionType": "ELikeabilityChatOptionType::Null",
-        "Options": [],
-        "NextSetenceID": "H_NPC_03404_a_10_2",
-        "HideChatIDs": [],
-        "ForceRefreshChatDatas": [],
-        "ForceRefreshChatID": "None",
-        "AddLikeabilityValue": 0,
-        "ChatPushType": "ELikeabilityChatPushType::Immediately",
-        "PustGameTimeDay": 1,
-        "PustGameTimeHour": 8,
-        "ChatPushTime": 0.0,
-        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
-      },
-      "H_NPC_03404_a_10_1": {
-        "ChatID": "H_NPC_03404_b",
-        "RoleId": "H_NPC_03404",
-        "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
-        "bActiveRedPoint": false,
-        "bUnActiveRedPoint": false,
-        "ChatType": "ELikeabilityChatType::Event",
-        "Conditions": [],
-        "bIsImmediatelyShow": false,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
-        "Content": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "H_NPC_03404_a_10_1",
-          "SourceString": "是啊，这样想的话还是可以理解的。",
-          "LocalizedString": "是啊，这样想的话还是可以理解的。"
-        },
-        "ParaContent": "",
-        "IconSource": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        },
-        "QuestId": "None",
-        "DropID": "None",
-        "OptionType": "ELikeabilityChatOptionType::Null",
-        "Options": [],
-        "NextSetenceID": "H_NPC_03404_a_11",
-        "HideChatIDs": [],
-        "ForceRefreshChatDatas": [],
-        "ForceRefreshChatID": "None",
-        "AddLikeabilityValue": 0,
-        "ChatPushType": "ELikeabilityChatPushType::Immediately",
-        "PustGameTimeDay": 1,
-        "PustGameTimeHour": 8,
-        "ChatPushTime": 0.0,
-        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
-      },
-      "H_NPC_03404_a_10_2": {
-        "ChatID": "H_NPC_03404_b",
-        "RoleId": "H_NPC_03404",
-        "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
-        "bActiveRedPoint": false,
-        "bUnActiveRedPoint": false,
-        "ChatType": "ELikeabilityChatType::Event",
-        "Conditions": [],
-        "bIsImmediatelyShow": false,
-        "ChatItemType": "ELikeabilityChatItemType::Normal",
-        "Content": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "H_NPC_03404_a_10_2",
-          "SourceString": "这个倒是不用担心，到现在还没有因为食用「苦蛋糕」出意外的先例。",
-          "LocalizedString": "这个倒是不用担心，到现在还没有因为食用「苦蛋糕」出意外的先例。"
-        },
-        "ParaContent": "",
-        "IconSource": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        },
-        "QuestId": "None",
-        "DropID": "None",
-        "OptionType": "ELikeabilityChatOptionType::Null",
-        "Options": [],
-        "NextSetenceID": "H_NPC_03404_a_11",
-        "HideChatIDs": [],
-        "ForceRefreshChatDatas": [],
-        "ForceRefreshChatID": "None",
-        "AddLikeabilityValue": 0,
-        "ChatPushType": "ELikeabilityChatPushType::Immediately",
-        "PustGameTimeDay": 1,
-        "PustGameTimeHour": 8,
-        "ChatPushTime": 0.0,
-        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
-      },
-      "H_NPC_03404_a_11": {
         "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
@@ -608,15 +376,16 @@
         "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::CancelActive",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
         "ChatItemType": "ELikeabilityChatItemType::Normal",
         "Content": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "H_NPC_03404_a_11",
-          "SourceString": "……总之！我放学后还会跟往常一样准备蛋糕试吃的，有兴趣的话可以来哦！",
-          "LocalizedString": "……总之！我放学后还会跟往常一样准备蛋糕试吃的，有兴趣的话可以来哦！"
+          "Key": "H_NPC_03404_a_7",
+          "SourceString": "该怎么说呢……具体怎么样可能来店里看一下比较好……",
+          "LocalizedString": "该怎么说呢……具体怎么样可能来店里看一下比较好……"
         },
         "ParaContent": "",
         "IconSource": {
@@ -637,17 +406,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_1": {
         "ChatID": "H_NPC_03404_a",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
+        "bIsFirstSetenceInSequence": true,
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -704,7 +478,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_2_1": {
         "ChatID": "H_NPC_03404_a",
@@ -715,6 +493,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -744,7 +523,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_2_2": {
         "ChatID": "H_NPC_03404_a",
@@ -755,6 +538,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -784,7 +568,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_3": {
         "ChatID": "H_NPC_03404_a",
@@ -795,6 +583,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -824,7 +613,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_4": {
         "ChatID": "H_NPC_03404_a",
@@ -835,6 +628,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -864,7 +658,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_5": {
         "ChatID": "H_NPC_03404_a",
@@ -875,6 +673,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -918,7 +717,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_6": {
         "ChatID": "H_NPC_03404_a",
@@ -929,6 +732,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -958,7 +762,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_7": {
         "ChatID": "H_NPC_03404_a",
@@ -969,6 +777,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -998,7 +807,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_8": {
         "ChatID": "H_NPC_03404_a",
@@ -1009,6 +822,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1038,7 +852,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_9": {
         "ChatID": "H_NPC_03404_a",
@@ -1049,6 +867,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1092,7 +911,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_10": {
         "ChatID": "H_NPC_03404_a",
@@ -1103,6 +926,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1132,7 +956,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_b_11": {
         "ChatID": "H_NPC_03404_a",
@@ -1143,6 +971,7 @@
         "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1172,7 +1001,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_1": {
         "ChatID": "H_NPC_03404_b",
@@ -1183,6 +1016,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1226,7 +1060,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "H_NPC_03404"
+        "LikeabilityID": "H_NPC_03404",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_2": {
         "ChatID": "H_NPC_03404_b",
@@ -1237,6 +1075,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1266,7 +1105,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_3": {
         "ChatID": "H_NPC_03404_b",
@@ -1277,6 +1120,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1306,7 +1150,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_4": {
         "ChatID": "H_NPC_03404_b",
@@ -1317,6 +1165,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1346,7 +1195,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_5": {
         "ChatID": "H_NPC_03404_b",
@@ -1357,6 +1210,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1413,7 +1267,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_6_1": {
         "ChatID": "H_NPC_03404_b",
@@ -1424,6 +1282,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1453,7 +1312,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_6_2": {
         "ChatID": "H_NPC_03404_b",
@@ -1464,6 +1327,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1493,7 +1357,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_7": {
         "ChatID": "H_NPC_03404_b",
@@ -1504,6 +1372,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1547,7 +1416,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_8": {
         "ChatID": "H_NPC_03404_b",
@@ -1558,6 +1431,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1587,7 +1461,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_9": {
         "ChatID": "H_NPC_03404_b",
@@ -1598,6 +1476,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1627,7 +1506,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_10": {
         "ChatID": "H_NPC_03404_b",
@@ -1638,6 +1521,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1667,7 +1551,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_d_1": {
         "ChatID": "H_NPC_03404_c",
@@ -1678,6 +1566,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1721,7 +1610,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "H_NPC_03404"
+        "LikeabilityID": "H_NPC_03404",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_d_2": {
         "ChatID": "H_NPC_03404_c",
@@ -1732,6 +1625,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1761,7 +1655,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_d_3": {
         "ChatID": "H_NPC_03404_c",
@@ -1772,6 +1670,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1801,7 +1700,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_d_4": {
         "ChatID": "H_NPC_03404_c",
@@ -1812,6 +1715,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1841,17 +1745,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_1": {
         "ChatID": "H_NPC_03404_c",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
+        "bIsFirstSetenceInSequence": true,
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1908,7 +1817,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_2_1": {
         "ChatID": "H_NPC_03404_c",
@@ -1919,6 +1832,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1948,7 +1862,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_2_2": {
         "ChatID": "H_NPC_03404_c",
@@ -1959,6 +1877,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1988,7 +1907,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_3_1": {
         "ChatID": "H_NPC_03404_c",
@@ -1999,6 +1922,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2028,7 +1952,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_3_2": {
         "ChatID": "H_NPC_03404_c",
@@ -2039,6 +1967,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2082,7 +2011,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_4": {
         "ChatID": "H_NPC_03404_c",
@@ -2093,6 +2026,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2122,7 +2056,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_5": {
         "ChatID": "H_NPC_03404_c",
@@ -2133,6 +2071,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2162,7 +2101,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_6": {
         "ChatID": "H_NPC_03404_c",
@@ -2173,6 +2116,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2202,7 +2146,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_7": {
         "ChatID": "H_NPC_03404_c",
@@ -2213,6 +2161,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2242,7 +2191,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_8": {
         "ChatID": "H_NPC_03404_c",
@@ -2253,6 +2206,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2296,7 +2250,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_9": {
         "ChatID": "H_NPC_03404_c",
@@ -2307,6 +2265,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2336,7 +2295,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_10": {
         "ChatID": "H_NPC_03404_c",
@@ -2347,6 +2310,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2376,7 +2340,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_11": {
         "ChatID": "H_NPC_03404_c",
@@ -2387,6 +2355,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2443,7 +2412,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_12_1": {
         "ChatID": "H_NPC_03404_c",
@@ -2454,6 +2427,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2483,7 +2457,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_12_2": {
         "ChatID": "H_NPC_03404_c",
@@ -2494,6 +2472,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2523,7 +2502,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_13": {
         "ChatID": "H_NPC_03404_c",
@@ -2534,6 +2517,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2563,7 +2547,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_14": {
         "ChatID": "H_NPC_03404_c",
@@ -2574,6 +2562,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2617,7 +2606,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_15": {
         "ChatID": "H_NPC_03404_c",
@@ -2628,6 +2621,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2657,7 +2651,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_16": {
         "ChatID": "H_NPC_03404_c",
@@ -2668,6 +2666,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2697,7 +2696,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_e_17": {
         "ChatID": "H_NPC_03404_c",
@@ -2708,6 +2711,7 @@
         "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2737,17 +2741,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_f_1": {
         "ChatID": "H_NPC_03404_d",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
+        "bIsFirstSetenceInSequence": true,
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2777,7 +2786,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "H_NPC_03404"
+        "LikeabilityID": "H_NPC_03404",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_f_2": {
         "ChatID": "H_NPC_03404_d",
@@ -2788,6 +2801,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2831,7 +2845,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_f_3": {
         "ChatID": "H_NPC_03404_d",
@@ -2842,6 +2860,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2871,7 +2890,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_f_4": {
         "ChatID": "H_NPC_03404_d",
@@ -2882,6 +2905,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2911,7 +2935,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_f_5": {
         "ChatID": "H_NPC_03404_d",
@@ -2922,6 +2950,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -2951,17 +2980,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_1": {
         "ChatID": "H_NPC_03404_d",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
+        "bIsFirstSetenceInSequence": true,
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2991,7 +3025,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_2": {
         "ChatID": "H_NPC_03404_d",
@@ -3002,6 +3040,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3045,7 +3084,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_3": {
         "ChatID": "H_NPC_03404_d",
@@ -3056,6 +3099,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3085,7 +3129,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_4": {
         "ChatID": "H_NPC_03404_d",
@@ -3096,6 +3144,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3125,7 +3174,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_5": {
         "ChatID": "H_NPC_03404_d",
@@ -3136,6 +3189,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3192,7 +3246,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_6_1": {
         "ChatID": "H_NPC_03404_d",
@@ -3203,6 +3261,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3232,7 +3291,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_6_2": {
         "ChatID": "H_NPC_03404_d",
@@ -3243,6 +3306,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3272,7 +3336,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_7_1": {
         "ChatID": "H_NPC_03404_d",
@@ -3283,6 +3351,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3312,7 +3381,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_7_2": {
         "ChatID": "H_NPC_03404_d",
@@ -3323,6 +3396,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3352,7 +3426,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_8": {
         "ChatID": "H_NPC_03404_d",
@@ -3363,6 +3441,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3406,7 +3485,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_9": {
         "ChatID": "H_NPC_03404_d",
@@ -3417,6 +3500,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3446,17 +3530,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_g_10": {
         "ChatID": "H_NPC_03404_d",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
+        "bIsLastSetenceInDay": true,
         "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3486,17 +3575,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_1": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
+        "bIsFirstSetenceInSequence": true,
         "bIsLastSetenceInSequence": false,
-        "bActiveRedPoint": false,
+        "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3553,10 +3647,14 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_2_1": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": true,
         "bIsLastSetenceInDay": false,
@@ -3564,6 +3662,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3593,10 +3692,14 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_2_2": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": true,
         "bIsLastSetenceInDay": false,
@@ -3604,6 +3707,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3633,10 +3737,14 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_3": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
@@ -3644,6 +3752,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3673,10 +3782,14 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_4": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
@@ -3684,6 +3797,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3713,10 +3827,14 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_4_0": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
@@ -3724,6 +3842,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3780,10 +3899,14 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_5_1": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": true,
         "bIsLastSetenceInDay": false,
@@ -3791,6 +3914,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3820,10 +3944,14 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_5_2": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": true,
         "bIsLastSetenceInDay": false,
@@ -3831,6 +3959,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3860,10 +3989,14 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_6": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
@@ -3871,6 +4004,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3900,10 +4034,14 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_7": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
@@ -3911,6 +4049,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -3954,10 +4093,14 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_8": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": true,
         "bIsLastSetenceInDay": false,
@@ -3965,6 +4108,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -3994,17 +4138,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_h_9": {
-        "ChatID": "H_NPC_03404_d",
+        "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
         "bIsLastSetenceInDay": true,
         "bIsFirstSetenceInSequence": false,
         "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
-        "bUnActiveRedPoint": false,
+        "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -4034,17 +4183,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_c_11": {
         "ChatID": "H_NPC_03404_b",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
+        "bIsLastSetenceInDay": true,
         "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -4074,17 +4228,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 1.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "H_NPC_03404"
+        "LikeabilityID": "H_NPC_03404",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_d_5": {
         "ChatID": "H_NPC_03404_c",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
+        "bIsLastSetenceInDay": true,
         "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -4114,17 +4273,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 1.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "H_NPC_03404"
+        "LikeabilityID": "H_NPC_03404",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "H_NPC_03404_f_6": {
         "ChatID": "H_NPC_03404_d",
         "RoleId": "H_NPC_03404",
         "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
+        "bIsLastSetenceInDay": true,
         "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -4154,7 +4318,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 1.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "H_NPC_03404"
+        "LikeabilityID": "H_NPC_03404",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       }
     }
   }

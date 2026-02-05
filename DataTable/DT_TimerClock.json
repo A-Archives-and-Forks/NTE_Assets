@@ -20,7 +20,7 @@
             "Day": 1,
             "Hour": 5,
             "minute": 0,
-            "second": 0
+            "Second": 0
           }
         ],
         "RunOnType": 1,
@@ -37,7 +37,7 @@
             "Day": 1,
             "Hour": 0,
             "minute": 0,
-            "second": 0
+            "Second": 0
           }
         ],
         "RunOnType": 1,
@@ -54,14 +54,14 @@
             "Day": 1,
             "Hour": 0,
             "minute": 0,
-            "second": 0
+            "Second": 0
           },
           {
             "Month": 1,
             "Day": 1,
             "Hour": 0,
             "minute": 30,
-            "second": 0
+            "Second": 0
           }
         ],
         "RunOnType": 1,
@@ -78,7 +78,7 @@
             "Day": 1,
             "Hour": 5,
             "minute": 0,
-            "second": 0
+            "Second": 0
           }
         ],
         "RunOnType": 1,
@@ -95,7 +95,7 @@
             "Day": 1,
             "Hour": 5,
             "minute": 0,
-            "second": 0
+            "Second": 0
           }
         ],
         "RunOnType": 1,
@@ -112,7 +112,7 @@
             "Day": 1,
             "Hour": 5,
             "minute": 0,
-            "second": 0
+            "Second": 0
           }
         ],
         "RunOnType": 1,
@@ -126,16 +126,33 @@
         "Times": [
           {
             "Month": 1,
-            "Day": 6,
+            "Day": 1,
             "Hour": 5,
             "minute": 0,
-            "second": 0
+            "Second": 0
           }
         ],
         "RunOnType": 1,
         "OnlyOnce": false,
         "OnlyNotifyOnce": true,
         "OfflineNotify": true
+      },
+      "Hourly5thMinTimer": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_HOUR",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "Month": 1,
+            "Day": 1,
+            "Hour": 0,
+            "minute": 5,
+            "Second": 0
+          }
+        ],
+        "RunOnType": 9,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": false
       }
     }
   }

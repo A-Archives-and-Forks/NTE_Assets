@@ -13211,6 +13211,4406 @@
           }
         ]
       },
+      "Fork_rank52_1_lv1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 33.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 38.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 42.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 46.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 51.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 55.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv7": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 59.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv8": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 64.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv9": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 68.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv10": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 73.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv11": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 77.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv12": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 81.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv13": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 86.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv14": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 90.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv15": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 94.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv16": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 99.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv17": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 103.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv18": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 107.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv19": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 112.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv20": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 116.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv21": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 120.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv22": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 125.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv23": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 129.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv24": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 133.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv25": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 138.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv26": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 142.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv27": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 146.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv28": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 151.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv29": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 155.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv30": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 160.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv31": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 164.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv32": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 168.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv33": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 173.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv34": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 177.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv35": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 181.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv36": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 186.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv37": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 190.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv38": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 194.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv39": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 199.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv40": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 203.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv41": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 207.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv42": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 212.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv43": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 216.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv44": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 220.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv45": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 225.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv46": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 229.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv47": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 233.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv48": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 238.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv49": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 242.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv50": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 247.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv51": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 251.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv52": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 255.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv53": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 260.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv54": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 264.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv55": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 268.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv56": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 273.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv57": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 277.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv58": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 281.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv59": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 286.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv60": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 290.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv61": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 294.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv62": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 299.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv63": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 303.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv64": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 307.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv65": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 312.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv66": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 316.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv67": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 320.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv68": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 325.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv69": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 329.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv70": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 334.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv71": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 338.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv72": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 342.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv73": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 347.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv74": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 351.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv75": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 355.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv76": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 360.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv77": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 364.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv78": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 368.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv79": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 373.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_1_lv80": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 377.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 22.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 25.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 28.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 30.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 33.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 36.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv7": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 39.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv8": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 42.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv9": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 45.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv10": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 48.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv11": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 50.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv12": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 53.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv13": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 56.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv14": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 59.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv15": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 62.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv16": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 65.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv17": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 67.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv18": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 70.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv19": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 73.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv20": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 76.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv21": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 79.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv22": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 82.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv23": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 85.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv24": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 87.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv25": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 90.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv26": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 93.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv27": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 96.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv28": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 99.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv29": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 102.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv30": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 105.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv31": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 107.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv32": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 110.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv33": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 113.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv34": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 116.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv35": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 119.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv36": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 122.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv37": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 124.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv38": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 127.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv39": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 130.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv40": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 133.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv41": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 136.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv42": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 139.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv43": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 142.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv44": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 144.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv45": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 147.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv46": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 150.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv47": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 153.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv48": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 156.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv49": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 159.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv50": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 162.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv51": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 164.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv52": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 167.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv53": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 170.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv54": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 173.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv55": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 176.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv56": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 179.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv57": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 181.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv58": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 184.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv59": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 187.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv60": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 190.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv61": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 193.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv62": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 196.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv63": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 199.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv64": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 201.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv65": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 204.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv66": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 207.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv67": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 210.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv68": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 213.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv69": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 216.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv70": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 219.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv71": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 221.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv72": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 224.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv73": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 227.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv74": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 230.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv75": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 233.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv76": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 236.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv77": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 238.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv78": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 241.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv79": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 244.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_2_lv80": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 247.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 28.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 31.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 35.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 38.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 42.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 46.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv7": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 49.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv8": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 53.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv9": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 56.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv10": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 60.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv11": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 64.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv12": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 67.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv13": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 71.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv14": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 74.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv15": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 78.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv16": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 82.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv17": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 85.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv18": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 89.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv19": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 92.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv20": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 96.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv21": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 100.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv22": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 103.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv23": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 107.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv24": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 110.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv25": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 114.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv26": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 118.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv27": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 121.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv28": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 125.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv29": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 128.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv30": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 132.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv31": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 136.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv32": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 139.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv33": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 143.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv34": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 146.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv35": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 150.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv36": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 154.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv37": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 157.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv38": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 161.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv39": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 164.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv40": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 168.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv41": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 172.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv42": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 175.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv43": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 179.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv44": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 182.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv45": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 186.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv46": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 190.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv47": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 193.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv48": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 197.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv49": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 200.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv50": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 204.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv51": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 208.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv52": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 211.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv53": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 215.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv54": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 218.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv55": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 222.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv56": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 226.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv57": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 229.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv58": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 233.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv59": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 236.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv60": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 240.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv61": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 244.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv62": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 247.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv63": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 251.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv64": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 254.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv65": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 258.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv66": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 262.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv67": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 265.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv68": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 269.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv69": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 272.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv70": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 276.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv71": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 280.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv72": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 283.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv73": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 287.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv74": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 290.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv75": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 294.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv76": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 298.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv77": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 301.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv78": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 305.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv79": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 308.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_3_lv80": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 312.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 45.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 51.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 57.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 62.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 68.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 74.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv7": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 80.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv8": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 86.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv9": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 92.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv10": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 98.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv11": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 103.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv12": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 109.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv13": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 115.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv14": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 121.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv15": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 127.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv16": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 133.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv17": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 138.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv18": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 144.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv19": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 150.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv20": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 156.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv21": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 162.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv22": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 168.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv23": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 174.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv24": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 179.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv25": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 185.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv26": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 191.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv27": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 197.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv28": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 203.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv29": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 209.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv30": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 215.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv31": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 220.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv32": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 226.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv33": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 232.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv34": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 238.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv35": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 244.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv36": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 250.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv37": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 255.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv38": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 261.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv39": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 267.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv40": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 273.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv41": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 279.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv42": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 285.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv43": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 291.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv44": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 296.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv45": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 302.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv46": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 308.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv47": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 314.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv48": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 320.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv49": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 326.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv50": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 332.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv51": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 337.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv52": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 343.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv53": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 349.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv54": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 355.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv55": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 361.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv56": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 367.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv57": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 372.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv58": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 378.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv59": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 384.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv60": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 390.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv61": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 396.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv62": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 402.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv63": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 408.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv64": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 413.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv65": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 419.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv66": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 425.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv67": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 431.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv68": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 437.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv69": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 443.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv70": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 449.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv71": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 454.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv72": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 460.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv73": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 466.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv74": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 472.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv75": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 478.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv76": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 484.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv77": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 489.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv78": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 495.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv79": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 501.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_4_lv80": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 507.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 39.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 44.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 49.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 54.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 60.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 65.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv7": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 70.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv8": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 75.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv9": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 80.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv10": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 85.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv11": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 90.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv12": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 95.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv13": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 100.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv14": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 105.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv15": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 111.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv16": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 116.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv17": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 121.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv18": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 126.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv19": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 131.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv20": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 136.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv21": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 141.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv22": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 146.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv23": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 151.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv24": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 156.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv25": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 162.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv26": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 167.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv27": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 172.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv28": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 177.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv29": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 182.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv30": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 187.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv31": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 192.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv32": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 197.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv33": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 202.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv34": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 207.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv35": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 213.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv36": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 218.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv37": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 223.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv38": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 228.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv39": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 233.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv40": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 238.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv41": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 243.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv42": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 248.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv43": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 253.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv44": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 258.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv45": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 264.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv46": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 269.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv47": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 274.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv48": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 279.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv49": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 284.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv50": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 289.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv51": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 294.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv52": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 299.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv53": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 304.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv54": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 309.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv55": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 315.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv56": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 320.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv57": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 325.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv58": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 330.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv59": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 335.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv60": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 340.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv61": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 345.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv62": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 350.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv63": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 355.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv64": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 360.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv65": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 366.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv66": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 371.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv67": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 376.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv68": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 381.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv69": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 386.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv70": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 391.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv71": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 396.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv72": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 401.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv73": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 406.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv74": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 411.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv75": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 417.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv76": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 422.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv77": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 427.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv78": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 432.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv79": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 437.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Fork_rank52_5_lv80": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 442.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
       "fork_yuren_rank4_stage0": {
         "ConditionArray": [],
         "ModifyData": [
@@ -14174,7 +18574,7 @@
           },
           {
             "PropName": "ChargeGetEfficiencyBase",
-            "PropValue": 0.144,
+            "PropValue": 0.132,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -14185,13 +18585,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 26.0,
+            "PropValue": 21.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "ChargeGetEfficiencyBase",
-            "PropValue": 0.18,
+            "PropValue": 0.165,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -14202,13 +18602,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 51.0,
+            "PropValue": 43.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "ChargeGetEfficiencyBase",
-            "PropValue": 0.216,
+            "PropValue": 0.198,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -14219,13 +18619,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 77.0,
+            "PropValue": 66.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "ChargeGetEfficiencyBase",
-            "PropValue": 0.252,
+            "PropValue": 0.231,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -14236,13 +18636,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 102.0,
+            "PropValue": 89.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "ChargeGetEfficiencyBase",
-            "PropValue": 0.288,
+            "PropValue": 0.264,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -14253,13 +18653,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 128.0,
+            "PropValue": 112.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "ChargeGetEfficiencyBase",
-            "PropValue": 0.324,
+            "PropValue": 0.297,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -14270,13 +18670,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 154.0,
+            "PropValue": 135.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "ChargeGetEfficiencyBase",
-            "PropValue": 0.36,
+            "PropValue": 0.33,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15125,8 +19525,8 @@
             "SortKey": 0
           },
           {
-            "PropName": "MagBase",
-            "PropValue": 58.0,
+            "PropName": "AtkUp",
+            "PropValue": 0.11,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15137,13 +19537,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 26.0,
+            "PropValue": 21.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "MagBase",
-            "PropValue": 72.0,
+            "PropName": "AtkUp",
+            "PropValue": 0.1375,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15154,13 +19554,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 51.0,
+            "PropValue": 43.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "MagBase",
-            "PropValue": 86.0,
+            "PropName": "AtkUp",
+            "PropValue": 0.165,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15171,13 +19571,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 77.0,
+            "PropValue": 66.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "MagBase",
-            "PropValue": 101.0,
+            "PropName": "AtkUp",
+            "PropValue": 0.1925,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15188,13 +19588,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 102.0,
+            "PropValue": 89.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "MagBase",
-            "PropValue": 115.0,
+            "PropName": "AtkUp",
+            "PropValue": 0.22,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15205,13 +19605,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 128.0,
+            "PropValue": 112.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "MagBase",
-            "PropValue": 130.0,
+            "PropName": "AtkUp",
+            "PropValue": 0.2475,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15222,13 +19622,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 154.0,
+            "PropValue": 135.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "MagBase",
-            "PropValue": 144.0,
+            "PropName": "AtkUp",
+            "PropValue": 0.275,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15363,8 +19763,8 @@
             "SortKey": 0
           },
           {
-            "PropName": "HPMaxUp",
-            "PropValue": 0.12,
+            "PropName": "CritDamageBase",
+            "PropValue": 0.176,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15375,13 +19775,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 26.0,
+            "PropValue": 21.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "HPMaxUp",
-            "PropValue": 0.15,
+            "PropName": "CritDamageBase",
+            "PropValue": 0.22,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15392,13 +19792,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 51.0,
+            "PropValue": 43.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "HPMaxUp",
-            "PropValue": 0.18,
+            "PropName": "CritDamageBase",
+            "PropValue": 0.264,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15409,13 +19809,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 77.0,
+            "PropValue": 66.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "HPMaxUp",
-            "PropValue": 0.21,
+            "PropName": "CritDamageBase",
+            "PropValue": 0.308,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15426,13 +19826,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 102.0,
+            "PropValue": 89.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "HPMaxUp",
-            "PropValue": 0.24,
+            "PropName": "CritDamageBase",
+            "PropValue": 0.352,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15443,13 +19843,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 128.0,
+            "PropValue": 112.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "HPMaxUp",
-            "PropValue": 0.27,
+            "PropName": "CritDamageBase",
+            "PropValue": 0.396,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15460,13 +19860,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 154.0,
+            "PropValue": 135.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
-            "PropName": "HPMaxUp",
-            "PropValue": 0.3,
+            "PropName": "CritDamageBase",
+            "PropValue": 0.44,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15483,7 +19883,7 @@
           },
           {
             "PropName": "DefUp",
-            "PropValue": 0.168,
+            "PropValue": 0.154,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15494,13 +19894,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 26.0,
+            "PropValue": 21.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "DefUp",
-            "PropValue": 0.21,
+            "PropValue": 0.1925,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15511,13 +19911,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 51.0,
+            "PropValue": 43.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "DefUp",
-            "PropValue": 0.252,
+            "PropValue": 0.231,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15528,13 +19928,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 77.0,
+            "PropValue": 66.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "DefUp",
-            "PropValue": 0.294,
+            "PropValue": 0.2695,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15545,13 +19945,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 102.0,
+            "PropValue": 89.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "DefUp",
-            "PropValue": 0.336,
+            "PropValue": 0.308,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15562,13 +19962,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 128.0,
+            "PropValue": 112.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "DefUp",
-            "PropValue": 0.378,
+            "PropValue": 0.3465,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15579,13 +19979,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 154.0,
+            "PropValue": 135.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "DefUp",
-            "PropValue": 0.42,
+            "PropValue": 0.385,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15721,7 +20121,7 @@
           },
           {
             "PropName": "HPMaxUp",
-            "PropValue": 0.18,
+            "PropValue": 0.165,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15732,13 +20132,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 21.0,
+            "PropValue": 18.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "HPMaxUp",
-            "PropValue": 0.225,
+            "PropValue": 0.2062,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15749,13 +20149,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 41.0,
+            "PropValue": 36.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "HPMaxUp",
-            "PropValue": 0.27,
+            "PropValue": 0.2475,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15766,13 +20166,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 62.0,
+            "PropValue": 55.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "HPMaxUp",
-            "PropValue": 0.315,
+            "PropValue": 0.2887,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15783,13 +20183,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 82.0,
+            "PropValue": 74.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "HPMaxUp",
-            "PropValue": 0.36,
+            "PropValue": 0.33,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15800,13 +20200,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 103.0,
+            "PropValue": 93.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "HPMaxUp",
-            "PropValue": 0.405,
+            "PropValue": 0.3712,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15817,13 +20217,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 123.0,
+            "PropValue": 112.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "HPMaxUp",
-            "PropValue": 0.45,
+            "PropValue": 0.4125,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15840,7 +20240,7 @@
           },
           {
             "PropName": "AtkUp",
-            "PropValue": 0.12,
+            "PropValue": 0.11,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15851,13 +20251,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 26.0,
+            "PropValue": 21.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "AtkUp",
-            "PropValue": 0.15,
+            "PropValue": 0.1375,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15868,13 +20268,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 51.0,
+            "PropValue": 43.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "AtkUp",
-            "PropValue": 0.18,
+            "PropValue": 0.165,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15885,13 +20285,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 77.0,
+            "PropValue": 66.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "AtkUp",
-            "PropValue": 0.21,
+            "PropValue": 0.1925,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15902,13 +20302,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 102.0,
+            "PropValue": 89.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "AtkUp",
-            "PropValue": 0.24,
+            "PropValue": 0.22,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15919,13 +20319,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 128.0,
+            "PropValue": 112.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "AtkUp",
-            "PropValue": 0.27,
+            "PropValue": 0.2475,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -15936,13 +20336,13 @@
         "ModifyData": [
           {
             "PropName": "AtkBase",
-            "PropValue": 154.0,
+            "PropValue": 135.0,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           },
           {
             "PropName": "AtkUp",
-            "PropValue": 0.3,
+            "PropValue": 0.275,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -16776,6 +21176,1434 @@
           {
             "PropName": "DefUp",
             "PropValue": 0.525,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BoxingCandy_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.11,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BoxingCandy_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 21.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.1375,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BoxingCandy_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 43.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.165,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BoxingCandy_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 66.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.1925,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BoxingCandy_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 89.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.22,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BoxingCandy_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 112.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.2475,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BoxingCandy_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 135.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.275,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_KnightCandy_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.11,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_KnightCandy_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 21.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.1375,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_KnightCandy_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 43.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.165,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_KnightCandy_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 66.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.1925,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_KnightCandy_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 89.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.22,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_KnightCandy_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 112.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.2475,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_KnightCandy_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 135.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.275,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_ThiefCandy_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.11,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_ThiefCandy_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 21.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.1375,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_ThiefCandy_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 43.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.165,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_ThiefCandy_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 66.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.1925,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_ThiefCandy_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 89.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.22,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_ThiefCandy_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 112.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.2475,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_ThiefCandy_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 135.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.275,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_MotorCandy_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.176,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_MotorCandy_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 21.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.22,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_MotorCandy_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 43.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.264,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_MotorCandy_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 66.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.308,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_MotorCandy_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 89.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.352,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_MotorCandy_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 112.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.396,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_MotorCandy_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 135.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritDamageBase",
+            "PropValue": 0.44,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BlastCandy_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.088,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BlastCandy_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 21.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.11,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BlastCandy_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 43.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.132,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BlastCandy_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 66.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.154,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BlastCandy_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 89.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.176,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BlastCandy_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 112.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.198,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_BlastCandy_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 135.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.22,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Crowbar_rank4_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.1,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Crowbar_rank4_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 21.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.125,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Crowbar_rank4_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 41.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.15,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Crowbar_rank4_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 62.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.175,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Crowbar_rank4_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 82.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.2,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Crowbar_rank4_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 103.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.225,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Crowbar_rank4_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 124.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.25,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Castle_rank4_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.15,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Castle_rank4_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 18.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.1875,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Castle_rank4_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 36.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.225,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Castle_rank4_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 54.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.2625,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Castle_rank4_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 72.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.3,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Castle_rank4_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 90.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.3375,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Castle_rank4_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 109.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.375,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Butterfly_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.12,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Butterfly_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 26.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.15,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Butterfly_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 51.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.18,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Butterfly_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 77.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.21,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Butterfly_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 102.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.24,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Butterfly_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 128.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.27,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Butterfly_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 154.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.3,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_NestBird_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.11,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_NestBird_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 21.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.1375,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_NestBird_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 43.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.165,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_NestBird_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 66.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.1925,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_NestBird_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 89.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.22,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_NestBird_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 112.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.2475,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_NestBird_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 135.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.275,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Whale_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.11,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Whale_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 21.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.1375,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Whale_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 43.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.165,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Whale_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 66.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.1925,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Whale_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 89.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.22,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Whale_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 112.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.2475,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Whale_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 135.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "AtkUp",
+            "PropValue": 0.275,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Time_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.096,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Time_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 26.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.12,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Time_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 51.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.144,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Time_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 77.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.168,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Time_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 102.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.192,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Time_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 128.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.216,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Time_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 154.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.24,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Rose_rank5_stage0": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 0.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.096,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Rose_rank5_stage1": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 26.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.12,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Rose_rank5_stage2": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 51.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.144,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Rose_rank5_stage3": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 77.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.168,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Rose_rank5_stage4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 102.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.192,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Rose_rank5_stage5": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 128.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.216,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "fork_Rose_rank5_stage6": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "AtkBase",
+            "PropValue": 154.0,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          },
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.24,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }

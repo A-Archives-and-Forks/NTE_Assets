@@ -20,21 +20,21 @@
             },
             "FontMaterial": null,
             "OutlineSettings": {
-              "OutlineSize": 0,
+              "OutlineSize": 4,
               "bMiteredCorners": false,
               "bSeparateFillAlpha": false,
               "bApplyOutlineToDropShadows": false,
               "OutlineMaterial": null,
               "OutlineColor": {
-                "R": 0.0,
-                "G": 0.0,
-                "B": 0.0,
+                "R": 0.004777,
+                "G": 0.004777,
+                "B": 0.004777,
                 "A": 1.0,
-                "Hex": "000000"
+                "Hex": "0F0F0F"
               }
             },
             "TypefaceFontName": "Default",
-            "Size": 25.0,
+            "Size": 26.0,
             "LetterSpacing": 0,
             "SkewAmount": 0.0,
             "bForceMonospaced": false,
@@ -43,11 +43,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.83077,
-              "G": 0.838799,
-              "B": 0.83077,
+              "R": 0.715694,
+              "G": 0.715694,
+              "B": 0.715694,
               "A": 1.0,
-              "Hex": "EBECEB"
+              "Hex": "DCDCDC"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },

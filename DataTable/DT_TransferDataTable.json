@@ -743,6 +743,72 @@
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
+      "L110047": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.4957087,
+            "W": 0.86848885,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -162457.78,
+            "Y": 173431.78,
+            "Z": 8367.002
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 59.432987,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "L110047_OUT": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -164817.64,
+            "Y": 169807.16,
+            "Z": 9200.857
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
       "L110104": {
         "Transform": {
           "Rotation": {
@@ -823,7 +889,7 @@
           "Translation": {
             "X": -133748.47,
             "Y": 168681.1,
-            "Z": 6653.9976
+            "Z": 6673.341
           },
           "Scale3D": {
             "X": 1.0,
@@ -835,6 +901,39 @@
         "CameraRotation": {
           "Pitch": 0.0,
           "Yaw": -126.80623,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "L110116_OUT": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.94309855,
+            "W": 0.3325133,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -135249.2,
+            "Y": 171504.19,
+            "Z": 6708.1
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 141.15721,
           "Roll": 0.0
         },
         "bKeepPlayerRotation": false,
@@ -1839,7 +1938,7 @@
           "TransferLoadingUI": "TransferLoading",
           "LoadingUITextID": "",
           "LoadingPlayMediaID": "q110051",
-          "ShowSkipButtonTime": 3.0
+          "ShowSkipButtonTime": -1.0
         },
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
@@ -2753,7 +2852,7 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -159238.7,
+            "X": -159298.7,
             "Y": 226495.08,
             "Z": 7218.25
           },
@@ -3250,7 +3349,7 @@
           "Translation": {
             "X": 20830.0,
             "Y": -5080.0,
-            "Z": 900.0
+            "Z": 903.04156
           },
           "Scale3D": {
             "X": 1.0,
@@ -4073,9 +4172,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -123549.85,
-            "Y": 141633.48,
-            "Z": 8137.7256
+            "X": -121173.586,
+            "Y": 146264.22,
+            "Z": 8262.501
           },
           "Scale3D": {
             "X": 1.0,
@@ -4297,16 +4396,16 @@
           "Rotation": {
             "X": -0.0,
             "Y": 0.0,
-            "Z": -0.6152316,
-            "W": 0.7883464,
+            "Z": -0.44961134,
+            "W": 0.8932243,
             "IsNormalized": true,
-            "Size": 0.99999994,
-            "SizeSquared": 0.99999994
+            "Size": 1.0,
+            "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -150010.16,
-            "Y": 197533.81,
-            "Z": 8337.052
+            "X": -145280.72,
+            "Y": 185076.66,
+            "Z": 6977.017
           },
           "Scale3D": {
             "X": 1.0,
@@ -4343,9 +4442,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -150355.44,
-            "Y": 197758.75,
-            "Z": 8345.116
+            "X": -145626.0,
+            "Y": 185301.61,
+            "Z": 7006.8447
           },
           "Scale3D": {
             "X": 1.0,
@@ -4415,9 +4514,9 @@
             "SizeSquared": 0.99999994
           },
           "Translation": {
-            "X": -33689.36,
-            "Y": -20529.014,
-            "Z": -8494.028
+            "X": -33163.0,
+            "Y": -19514.0,
+            "Z": -8480.0
           },
           "Scale3D": {
             "X": 1.0,
@@ -4580,9 +4679,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -133947.53,
-            "Y": 144671.36,
-            "Z": 6719.5347
+            "X": -134559.53,
+            "Y": 144681.28,
+            "Z": 6729.757
           },
           "Scale3D": {
             "X": 1.0,
@@ -5927,21 +6026,21 @@
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
-      "PoliceStation_00101": {
+      "PrisonStart": {
         "Transform": {
           "Rotation": {
             "X": 0.0,
             "Y": -0.0,
-            "Z": 0.80086035,
-            "W": 0.59885114,
+            "Z": 0.0,
+            "W": 1.0,
             "IsNormalized": true,
             "Size": 1.0,
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -80954.74,
-            "Y": 166471.12,
-            "Z": 3291.897
+            "X": 237006.39,
+            "Y": 373915.1,
+            "Z": 4811.7334
           },
           "Scale3D": {
             "X": 1.0,
@@ -5952,15 +6051,15 @@
         "BelongLevelName": "XL_map_bigworld_test",
         "CameraRotation": {
           "Pitch": 0.0,
-          "Yaw": 0.0,
+          "Yaw": -40.0,
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
         "TransformLoadingData": {
           "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
+          "TransferLoadingUI": "TransferLoading",
           "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
+          "LoadingPlayMediaID": "PrisonStart",
           "ShowSkipButtonTime": -1.0
         },
         "TransferWithVehicle": false,
@@ -5995,13 +6094,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6034,13 +6127,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6073,13 +6160,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6112,13 +6193,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6151,13 +6226,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6190,13 +6259,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6229,13 +6292,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6251,9 +6308,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -87988.5,
-            "Y": 100706.53,
-            "Z": 4319.541
+            "X": -87851.33,
+            "Y": 100702.14,
+            "Z": 4237.541
           },
           "Scale3D": {
             "X": 1.0,
@@ -6268,13 +6325,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6307,13 +6358,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6346,13 +6391,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6385,13 +6424,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6424,13 +6457,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6446,9 +6473,9 @@
             "SizeSquared": 0.99999994
           },
           "Translation": {
-            "X": 17239.115,
-            "Y": 22144.139,
-            "Z": 7720.3115
+            "X": 17228.799,
+            "Y": 22107.367,
+            "Z": 7666.7393
           },
           "Scale3D": {
             "X": 1.0,
@@ -6463,13 +6490,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6502,13 +6523,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6541,13 +6556,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6580,13 +6589,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6619,13 +6622,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6658,13 +6655,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6697,13 +6688,7 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": true,
-        "TransformLoadingData": {
-          "FadeInOutEffectUI": "FadeInOutEffect_Arrest",
-          "TransferLoadingUI": "TransferLoading_arrest",
-          "LoadingUITextID": "",
-          "LoadingPlayMediaID": "",
-          "ShowSkipButtonTime": -1.0
-        },
+        "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
       },
@@ -6751,16 +6736,16 @@
           "Rotation": {
             "X": 0.0,
             "Y": -0.0,
-            "Z": 0.9999996,
-            "W": 0.00092313066,
+            "Z": 0.9659258,
+            "W": 0.25881904,
             "IsNormalized": true,
-            "Size": 1.0,
-            "SizeSquared": 1.0
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
           },
           "Translation": {
-            "X": 24116.906,
-            "Y": 43116.91,
-            "Z": 45237.676
+            "X": 24517.6,
+            "Y": 43631.242,
+            "Z": 52637.0
           },
           "Scale3D": {
             "X": 1.0,
@@ -6881,18 +6866,18 @@
       "Abyss_Station_LeaveClone": {
         "Transform": {
           "Rotation": {
-            "X": -0.0,
-            "Y": 0.0,
-            "Z": -0.70710677,
-            "W": 0.70710677,
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.9799247,
+            "W": 0.19936794,
             "IsNormalized": true,
-            "Size": 0.99999994,
-            "SizeSquared": 0.99999994
+            "Size": 1.0,
+            "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -31213.637,
-            "Y": -19400.133,
-            "Z": -8924.191
+            "X": -29712.0,
+            "Y": -18121.0,
+            "Z": -8956.19
           },
           "Scale3D": {
             "X": 1.0,
@@ -7083,7 +7068,7 @@
             "Z": 1.0
           }
         },
-        "BelongLevelName": "DLC_Hotel",
+        "BelongLevelName": "DLC_hotel_Paimaihui",
         "CameraRotation": {
           "Pitch": 0.0,
           "Yaw": 0.0,
@@ -7205,9 +7190,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -28185.941,
-            "Y": 14802.026,
-            "Z": -9132.665
+            "X": -31665.754,
+            "Y": -17842.814,
+            "Z": -28755.85
           },
           "Scale3D": {
             "X": 1.0,
@@ -7508,9 +7493,9 @@
             "SizeSquared": 0.99999994
           },
           "Translation": {
-            "X": 38371.715,
-            "Y": 28828.285,
-            "Z": -11819.999
+            "X": 24381.715,
+            "Y": 56763.285,
+            "Z": -12819.999
           },
           "Scale3D": {
             "X": 1.0,
@@ -7532,18 +7517,18 @@
       "BuildingDrawing_01_ResetLoc": {
         "Transform": {
           "Rotation": {
-            "X": 0.0,
-            "Y": -0.0,
-            "Z": 0.707107,
-            "W": 0.707107,
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.8660254,
+            "W": 0.5,
             "IsNormalized": true,
-            "Size": 1.0000002,
-            "SizeSquared": 1.0000006
+            "Size": 1.0,
+            "SizeSquared": 1.0
           },
           "Translation": {
-            "X": 44825.82,
-            "Y": 31850.648,
-            "Z": 15952.658
+            "X": 28005.0,
+            "Y": 60629.0,
+            "Z": 6278.0
           },
           "Scale3D": {
             "X": 1.0,
@@ -7565,18 +7550,18 @@
       "Abyss_MapTransfer": {
         "Transform": {
           "Rotation": {
-            "X": -0.0,
-            "Y": 0.0,
-            "Z": -0.777146,
-            "W": 0.6293204,
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.9799247,
+            "W": 0.19936794,
             "IsNormalized": true,
             "Size": 1.0,
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -32370.26,
-            "Y": -14525.678,
-            "Z": 9019.0
+            "X": -29712.0,
+            "Y": -18121.0,
+            "Z": -8956.19
           },
           "Scale3D": {
             "X": 1.0,
@@ -7724,9 +7709,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": 31879.35,
-            "Y": 115084.6,
-            "Z": 7131.941
+            "X": 41797.473,
+            "Y": 118404.18,
+            "Z": 7016.578
           },
           "Scale3D": {
             "X": 1.0,
@@ -8044,6 +8029,5199 @@
           "Roll": 0.0
         },
         "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "k111401": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -171451.0,
+            "Y": 141588.0,
+            "Z": 6039.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "s111107": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.74511826,
+            "W": 0.66693234,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -6118.7188,
+            "Y": 39701.223,
+            "Z": 7652.201
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "s111236": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.79212445,
+            "W": 0.61035967,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 26211.004,
+            "Y": 120882.13,
+            "Z": 7016.854
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "k111306_1": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -164939.0,
+            "Y": 135043.0,
+            "Z": 6811.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WorldBoss_19_Exit": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.9659258,
+            "W": 0.25881904,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 38534.0,
+            "Y": 134776.0,
+            "Z": 3686.3215
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "DLC_DunnerHouse": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -9459.225,
+            "Y": 30925.176,
+            "Z": 3093.1665
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_DunnerHouse",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "k111306_2": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -164939.0,
+            "Y": 135043.0,
+            "Z": 6811.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WorldBoss_13_Exit": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.12186934,
+            "W": 0.99254614,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -159233.7,
+            "Y": 226545.08,
+            "Z": 7218.25
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 14.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WA100103": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 27640.197,
+            "Y": 120439.35,
+            "Z": 7017.4814
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "s111115_pic": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.087155744,
+            "W": 0.9961947,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -81863.625,
+            "Y": -3278.5674,
+            "Z": 8508.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_06014": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 1.0,
+            "W": 6.123234E-17,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -13793.156,
+            "Y": 68456.77,
+            "Z": 6372.072
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "S111305": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -3880.8052,
+            "Y": -6019.06,
+            "Z": 78.21308
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "S111312": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 8444.885,
+            "Y": -7601.3467,
+            "Z": 101.99991
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "S111313": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 7906.3145,
+            "Y": -222.0588,
+            "Z": 102.12998
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WorldBoss_33_Entrance": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -49854.613,
+            "Y": 65296.395,
+            "Z": -19918.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WorldBoss_33_Exit": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.39273843,
+            "W": 0.9196502,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -50212.516,
+            "Y": 64136.926,
+            "Z": 13830.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -46.25,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "AdvVision_BoomBox": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.64278764,
+            "W": -0.76604444,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -105746.8,
+            "Y": 95587.66,
+            "Z": 6882.4263
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -80.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "AdvVision_flowerBoss": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.38268343,
+            "W": 0.9238795,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -162287.8,
+            "Y": 173451.22,
+            "Z": 8457.887
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "AdvVision_RainLiyuuQi_01": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.25881904,
+            "W": 0.9659258,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 3859.379,
+            "Y": 108537.86,
+            "Z": 28856.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 30.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "AdvVision_WorldFilm": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.06104854,
+            "W": 0.9981348,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -197482.25,
+            "Y": 218089.61,
+            "Z": 7065.4204
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -7.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "AdvVision_BlackBook": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 1.0,
+            "W": 6.123234E-17,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 2457.0652,
+            "Y": 72776.984,
+            "Z": -40192.598
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 180.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "AdvVision_MotoBoss_01": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.8660254,
+            "W": 0.5,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -153073.86,
+            "Y": 224861.88,
+            "Z": -15988.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -120.97009,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "AdvVision_TuyaGuai_01": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.78260815,
+            "W": 0.62251467,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 34760.0,
+            "Y": 118430.0,
+            "Z": 6990.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -103.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "AdvVision_YaoDao_01": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.8433914,
+            "W": 0.53729963,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -195023.11,
+            "Y": 122707.29,
+            "Z": 7192.0503
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -115.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "AdvVision_Mammon": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.9935719,
+            "W": 0.11320321,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 20580.0,
+            "Y": 120600.0,
+            "Z": 722.24805
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 167.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "AdvVision_PaperCastle01": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.784479,
+            "W": 0.62015533,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -16400.0,
+            "Y": 66800.0,
+            "Z": 6770.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -103.34504,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WorldBoss_08_Entrance": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 1.0,
+            "W": 6.123234E-17,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -3594.5989,
+            "Y": 103459.39,
+            "Z": -19908.725
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 180.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WorldBoss_08_Exit": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.15643446,
+            "W": 0.98768836,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -4033.0576,
+            "Y": 104662.09,
+            "Z": 7255.236
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -18.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "k111509_teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.9559717,
+            "W": 0.29345888,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -4234.4517,
+            "Y": 103203.8,
+            "Z": 8986.176
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Bankrobery_trap_01": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -31071.557,
+            "Y": 11796.642,
+            "Z": 3007.1245
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Bank_Safety",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "S111316": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -1520.0,
+            "Y": 9500.0,
+            "Z": 590.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Sorry": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 9.0,
+            "Z": 9540.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_Museum_S111301": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.99988526,
+            "W": -0.015150022,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -7591.3604,
+            "Y": 37.600697,
+            "Z": 92.81863
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_Center_S111304": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.008726535,
+            "W": 0.9999619,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -1652.1935,
+            "Y": 3.523189,
+            "Z": 65.80495
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_InBuilding_S111307": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -3752.103,
+            "Y": -7841.914,
+            "Z": 66.485405
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_OutBuilding_S111309": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.701085,
+            "W": 0.7130778,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0000001
+          },
+          "Translation": {
+            "X": -4012.583,
+            "Y": -4167.3857,
+            "Z": 53.574745
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_Factory_S111311": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.7087444,
+            "W": 0.7054653,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 6289.663,
+            "Y": -6549.949,
+            "Z": 98.90346
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_Market_S111311": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.019187164,
+            "W": 0.9998159,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 7235.987,
+            "Y": 84.00265,
+            "Z": 68.77652
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_Home_S111316": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.7105579,
+            "W": 0.70363873,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 247.44089,
+            "Y": -9796.6045,
+            "Z": 65.47753
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_InHome_S111317": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.6850203,
+            "W": 0.72852397,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 963.6308,
+            "Y": -11731.408,
+            "Z": 524.435
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_Battle_S111322": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.701085,
+            "W": 0.7130778,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0000001
+          },
+          "Translation": {
+            "X": -3858.2395,
+            "Y": -6351.7134,
+            "Z": 66.683525
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_Battle_1F_S111324": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.008726535,
+            "W": 0.9999619,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -8204.761,
+            "Y": -5827.207,
+            "Z": 100.55635
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_Battle_2F_S111324": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.008726535,
+            "W": 0.9999619,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -5565.87,
+            "Y": -10432.355,
+            "Z": 628.7962
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_Battle_3F_S1113244": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.679265,
+            "W": 0.73389304,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -5740.76,
+            "Y": -8327.715,
+            "Z": 1236.4614
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "LampShop_Story2_Battle_Top_S1113248": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.71166366,
+            "W": 0.7025203,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -7472.0874,
+            "Y": -6520.673,
+            "Z": 3401.9204
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp_Story2",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "k111512_teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.91531867,
+            "W": 0.40273038,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -4220.1255,
+            "Y": 102803.94,
+            "Z": 9348.493
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "k111547_teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.24836904,
+            "W": 0.9686655,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 50702.477,
+            "Y": -43890.555,
+            "Z": -5260.49
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Bankrobery_transfer_1F": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -35415.0,
+            "Y": -22100.0,
+            "Z": 3560.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Bank_Safety",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Bankrobery_transfer_2F": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -34882.98,
+            "Y": -6534.1035,
+            "Z": 3049.8179
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Bank_Safety",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Bankrobery_transfer_3F": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -34900.0,
+            "Y": 31612.219,
+            "Z": 3652.8125
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Bank_Safety",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Bankrobery_transfer_4F": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -34790.0,
+            "Y": 48660.684,
+            "Z": 4135.185
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Bank_Safety",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Bankrobery_transfer_BOSS": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -34670.0,
+            "Y": 65053.43,
+            "Z": 2460.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Bank_Safety",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "RaceTransform": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": {
+          "FadeInOutEffectUI": "FadeInOutEffect",
+          "TransferLoadingUI": "TransferLoading",
+          "LoadingUITextID": "",
+          "LoadingPlayMediaID": "",
+          "ShowSkipButtonTime": -1.0
+        },
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "k111594_teleport": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.8431914,
+            "W": 0.5376135,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 136937.39,
+            "Y": -89341.53,
+            "Z": -39709.676
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WorldBoss_07_Exit": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -162617.0,
+            "Y": 175831.0,
+            "Z": 8325.341
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WorldBoss_15_Exit": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.99729043,
+            "W": 0.073564574,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -102761.0,
+            "Y": 94815.0,
+            "Z": 6886.4263
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Prison_FirstNight": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 237020.98,
+            "Y": 373882.34,
+            "Z": 4811.7334
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -40.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Prison_Morning": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 236752.77,
+            "Y": 373892.7,
+            "Z": 4811.7334
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Prison_Lunch": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 234020.5,
+            "Y": 370621.1,
+            "Z": 4410.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Prison_Afternoon": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 1.0,
+            "W": 6.123234E-17,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 233191.34,
+            "Y": 369048.16,
+            "Z": 4313.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 180.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Prison_Evening": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 237645.44,
+            "Y": 371149.78,
+            "Z": 4410.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Prison_Freedom": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 227163.62,
+            "Y": 375461.62,
+            "Z": 4310.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -50.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_06001": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.57357645,
+            "W": 0.81915206,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -81919.305,
+            "Y": 163434.23,
+            "Z": 3325.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_02307": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.34202015,
+            "W": 0.9396926,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -88051.875,
+            "Y": 169366.8,
+            "Z": 4149.361
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_00302_shop": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.34202015,
+            "W": 0.9396926,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -88931.78,
+            "Y": 166761.83,
+            "Z": 4148.195
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_02304": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.9238795,
+            "W": 0.38268343,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -90894.625,
+            "Y": 160600.69,
+            "Z": 4085.8503
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_02309": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.9961947,
+            "W": 0.08715575,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -127249.06,
+            "Y": 181689.58,
+            "Z": 6629.944
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_06005": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.99904823,
+            "W": 0.043619387,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -122739.43,
+            "Y": 182884.27,
+            "Z": 6625.093
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_06021": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.25881904,
+            "W": 0.9659258,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -148546.14,
+            "Y": 137543.33,
+            "Z": 6783.9653
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_04916": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.17364818,
+            "W": 0.9848077,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -160380.92,
+            "Y": 142869.77,
+            "Z": 6719.9443
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Anomaly_ColorsMerge": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.9914449,
+            "W": 0.13052619,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -43640.0,
+            "Y": -17266.0,
+            "Z": -6053.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Anomaly_ColorsMerge_Out": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.9961947,
+            "W": -0.087155744,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -43771.0,
+            "Y": -17638.0,
+            "Z": 9056.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WorldBoss019_EndBattle": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 35301.0,
+            "Y": 127471.0,
+            "Z": -112182.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": -0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Prison_Clean": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.9238795,
+            "W": 0.38268343,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 228891.8,
+            "Y": 376899.78,
+            "Z": 4310.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 135.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_06004": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.92065275,
+            "W": 0.3903825,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -138047.53,
+            "Y": 172751.4,
+            "Z": 6624.3286
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_02341": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.12533486,
+            "W": 0.9921145,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -116780.04,
+            "Y": 71949.13,
+            "Z": 7398.4854
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_04915": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.53729963,
+            "W": 0.8433914,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -164269.39,
+            "Y": 110612.836,
+            "Z": 7115.3784
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_06025": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.64278764,
+            "W": -0.76604444,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -118389.32,
+            "Y": 66855.27,
+            "Z": 7428.997
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_00310": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.087155744,
+            "W": 0.9961947,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -111787.37,
+            "Y": 63847.78,
+            "Z": 7442.6494
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_09419": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -81912.414,
+            "Y": 42306.81,
+            "Z": 7722.2656
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_09407": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.722167,
+            "W": 0.6917187,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 3797.219,
+            "Y": 46207.78,
+            "Z": 7696.2544
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_07102": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.029915245,
+            "W": 0.9995524,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -21301.734,
+            "Y": 39720.137,
+            "Z": 7651.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_07306": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.42261827,
+            "W": 0.9063078,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -15494.381,
+            "Y": 47895.547,
+            "Z": 7712.199
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_09406": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.77058166,
+            "W": 0.63734126,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -46231.91,
+            "Y": -8124.683,
+            "Z": 7801.0215
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_04702": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.94767475,
+            "W": 0.31923747,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -50196.39,
+            "Y": -8666.161,
+            "Z": 7814.843
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_06027": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 1.0,
+            "W": 8.726646E-09,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -41840.27,
+            "Y": 25206.936,
+            "Z": 7726.5874
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_09415": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.5048686,
+            "W": -0.8631962,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -19763.953,
+            "Y": 93944.77,
+            "Z": 6354.1846
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_09411": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.76604444,
+            "W": 0.64278764,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 24388.527,
+            "Y": 65599.39,
+            "Z": 6315.967
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_04922": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.80030006,
+            "W": -0.59959966,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.9999999
+          },
+          "Translation": {
+            "X": 25302.592,
+            "Y": 68830.9,
+            "Z": 6321.1675
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_06408": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.09941505,
+            "W": -0.9950461,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0000001
+          },
+          "Translation": {
+            "X": 27125.729,
+            "Y": 76108.52,
+            "Z": 6323.9463
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_00318": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.81915206,
+            "W": -0.57357645,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 36139.71,
+            "Y": 100724.14,
+            "Z": 8479.445
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_09421": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.25881907,
+            "W": -0.9659258,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 3899.8152,
+            "Y": 96338.945,
+            "Z": 6299.345
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_02335": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.6087614,
+            "W": 0.7933533,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 33406.816,
+            "Y": 102583.96,
+            "Z": 8425.301
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_09423": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.8079352,
+            "W": -0.5892714,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -43784.38,
+            "Y": 131406.61,
+            "Z": 2874.2332
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Boss_07_BP_WorldBoss": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -162617.0,
+            "Y": 175831.0,
+            "Z": 8325.341
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "boss_13_BP_WorldBoss": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.121869,
+            "W": 0.992546,
+            "IsNormalized": true,
+            "Size": 0.9999998,
+            "SizeSquared": 0.99999964
+          },
+          "Translation": {
+            "X": -159233.7,
+            "Y": 226545.08,
+            "Z": 7218.25
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 14.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "boss_09_BP_WorldBoss": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.994522,
+            "W": 0.104528,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 1474.2069,
+            "Y": 74887.555,
+            "Z": 15019.816
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "boss_15_BP_WorldBoss": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.99729,
+            "W": 0.073565,
+            "IsNormalized": true,
+            "Size": 0.9999996,
+            "SizeSquared": 0.99999917
+          },
+          "Translation": {
+            "X": -102761.0,
+            "Y": 94815.0,
+            "Z": 6886.4263
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "boss_19_BP_WorldBoss": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.965926,
+            "W": 0.258819,
+            "IsNormalized": true,
+            "Size": 1.0000001,
+            "SizeSquared": 1.0000004
+          },
+          "Translation": {
+            "X": 38534.0,
+            "Y": 134776.0,
+            "Z": 3686.3215
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "boss_33_BP_WorldBoss": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -50212.516,
+            "Y": 64136.926,
+            "Z": 13756.4
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "boss_08_BP_WorldBoss": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.156434,
+            "W": 0.987688,
+            "IsNormalized": true,
+            "Size": 0.9999996,
+            "SizeSquared": 0.99999917
+          },
+          "Translation": {
+            "X": -4033.0576,
+            "Y": 104662.09,
+            "Z": 7255.236
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -18.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WeeklyClone_Boss05": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.707107,
+            "W": 0.707107,
+            "IsNormalized": true,
+            "Size": 1.0000002,
+            "SizeSquared": 1.0000006
+          },
+          "Translation": {
+            "X": -112436.414,
+            "Y": 130128.36,
+            "Z": 12168.365
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WeeklyClone_Boss10": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.130526,
+            "W": 0.991445,
+            "IsNormalized": true,
+            "Size": 1.0000001,
+            "SizeSquared": 1.0000002
+          },
+          "Translation": {
+            "X": -34770.0,
+            "Y": 149530.0,
+            "Z": 2922.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "DunnerToBoss": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -3580.0,
+            "Y": 17810.0,
+            "Z": -148557.27
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "HospitalPlayerStart_1F": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -2593.1692,
+            "Y": 3896.6238,
+            "Z": -91.79305
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Hospital_FB",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "HospitalPlayerStart_2F": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -3599.3684,
+            "Y": 1228.6132,
+            "Z": 457.20703
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Hospital_FB",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "HospitalPlayerStart_3F": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -1.0,
+            "W": 6.123234E-17,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -3799.3018,
+            "Y": -194.98528,
+            "Z": 1007.20703
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Hospital_FB",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "HospitalPlayerStart_4F": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -4649.5107,
+            "Y": -265.00653,
+            "Z": 1557.207
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Hospital_FB",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_09418": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.7761211,
+            "W": -0.6305839,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 29796.44,
+            "Y": 104200.11,
+            "Z": 7318.707
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_06026": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -78646.266,
+            "Y": 23115.047,
+            "Z": 7719.8457
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_06024": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.8870108,
+            "W": -0.4617486,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -39680.113,
+            "Y": 2207.7507,
+            "Z": 7763.351
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "DLC_Hospital_Out": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.95371693,
+            "W": 0.3007058,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -157838.19,
+            "Y": 132664.03,
+            "Z": 6857.6807
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 145.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "WaterGun_NPC_011": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -9532.369,
+            "Y": 9777.55,
+            "Z": 157.50208
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "TestMap_highlightfantasy_lzk",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Museum_Lamp_Exit": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.7883464,
+            "W": 0.6152316,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 26180.361,
+            "Y": 120732.195,
+            "Z": 7101.004
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -105.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "HockBossPlayerMid": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 1.0,
+            "W": 6.123234E-17,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 206518.0,
+            "Y": -35648.746,
+            "Z": 14778.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Hockshop",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "PrisonEscape01": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.9148514,
+            "W": 0.40379068,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0000001
+          },
+          "Translation": {
+            "X": 236802.1,
+            "Y": 371739.03,
+            "Z": 2442.9233
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -72.31221,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Anomaly_ColorsMerge_Contain": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.646124,
+            "W": 0.76323247,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -44224.926,
+            "Y": -18314.639,
+            "Z": 9118.698
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "ParallaxPuzzle_Portal_Out": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.9396926,
+            "W": 0.34202015,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -102230.04,
+            "Y": 11674.905,
+            "Z": 9926.743
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "s111214_safe": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.41017333,
+            "W": 0.9120076,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 2480.5886,
+            "Y": -3314.396,
+            "Z": 13.660937
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_Museum_Lamp",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "ElevatorAnomaly_01_Out": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -23940.66,
+            "Y": 46214.15,
+            "Z": 7862.896
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Gorogoa_test_1": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -6019.0,
+            "Y": 3517.0,
+            "Z": -9434.4795
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_SpiralDreams",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Gorogoa_test_2": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -6618.0,
+            "Y": 3359.0,
+            "Z": -9434.4795
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_SpiralDreams",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Gorogoa_Book1_forest": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -5923.0,
+            "Y": 971.0,
+            "Z": -9435.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_SpiralDreams",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 180.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Gorogoa_Book1_House_awake_1": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -5948.0,
+            "Y": 3309.0,
+            "Z": -9435.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_SpiralDreams",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Prison_infirmary": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 236114.88,
+            "Y": 367863.8,
+            "Z": 4410.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Wuchao_Building_T01": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -52209.0,
+            "Y": -34488.0,
+            "Z": 46489.64
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao_Building",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Wuchao_Building_T02": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.707107,
+            "W": 0.7071066,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -52209.0,
+            "Y": -34488.0,
+            "Z": 47050.73
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao_Building",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Wuchao_Building_T03": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -1.0,
+            "W": 1.7453292E-08,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -51332.0,
+            "Y": -34286.0,
+            "Z": 46489.64
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao_Building",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Wuchao_Building_T04": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -1.0,
+            "W": 1.7453292E-08,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -51332.0,
+            "Y": -34286.0,
+            "Z": 47050.73
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao_Building",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Wuchao_Building_T05": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -48823.0,
+            "Y": -34347.0,
+            "Z": 46489.64
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao_Building",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Wuchao_Building_T06": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -48823.0,
+            "Y": -34347.0,
+            "Z": 47050.73
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao_Building",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Wuchao_Building_T07": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -47415.0,
+            "Y": -32978.0,
+            "Z": 45934.64
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao_Building",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Wuchao_Building_T08": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -47415.0,
+            "Y": -32978.0,
+            "Z": 47050.73
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao_Building",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Prison_Tower": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 227274.19,
+            "Y": 377667.78,
+            "Z": 5558.3594
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_08910": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": -0.3392172,
+            "W": -0.9407081,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -77401.34,
+            "Y": 48325.184,
+            "Z": 7731.8
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_02346": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.976296,
+            "W": 0.21643962,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -13718.8125,
+            "Y": 92638.77,
+            "Z": 6348.4463
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Prison_TowerBack": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 228107.64,
+            "Y": 377580.12,
+            "Z": 4523.896
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Wuchao_Building_L": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.38268343,
+            "W": 0.9238795,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -52035.668,
+            "Y": -30856.795,
+            "Z": 55457.668
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "DLC_WuChao_Building",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_07302": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.90630776,
+            "W": 0.42261827,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -132739.05,
+            "Y": 166111.58,
+            "Z": 6640.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_07302-1": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": -0.9914449,
+            "W": -0.13052619,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -133343.94,
+            "Y": 167086.02,
+            "Z": 6640.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_07302-3": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": -0.9659258,
+            "W": -0.25881904,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -134169.78,
+            "Y": 166755.31,
+            "Z": 6633.8486
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_09426": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -1.0,
+            "W": 8.726646E-09,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 17316.588,
+            "Y": 19615.703,
+            "Z": 7639.077
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "PrisonEscape03": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.9354442,
+            "W": 0.35347444,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -36880.227,
+            "Y": 165377.42,
+            "Z": 2269.6274
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -138.60005,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "PrisonEscape04": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.8870108,
+            "W": 0.4617486,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 222300.83,
+            "Y": 363342.88,
+            "Z": 2396.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": -125.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_04933": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -1.0,
+            "W": 8.726646E-09,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 23787.713,
+            "Y": 24040.695,
+            "Z": 7674.025
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "Abyss_Battle_Born_First": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -31665.754,
+            "Y": -17842.814,
+            "Z": -28755.85
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": {
+          "FadeInOutEffectUI": "FadeInOutEffect",
+          "TransferLoadingUI": "TransferLoading",
+          "LoadingUITextID": "",
+          "LoadingPlayMediaID": "SE_World_Abyss_FirstEntry",
+          "ShowSkipButtonTime": -1.0
+        },
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "PrisonEscape04_3Fgoback": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": 237192.81,
+            "Y": 373478.66,
+            "Z": 5211.2163
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "ResourceCloneProtect_001": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.100188,
+            "W": 0.994969,
+            "IsNormalized": true,
+            "Size": 1.0000005,
+            "SizeSquared": 1.000001
+          },
+          "Translation": {
+            "X": -93873.0,
+            "Y": 132417.0,
+            "Z": -3470.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "TalentCloneProtect_001": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.707107,
+            "W": 0.707107,
+            "IsNormalized": true,
+            "Size": 1.0000002,
+            "SizeSquared": 1.0000006
+          },
+          "Translation": {
+            "X": -60632.0,
+            "Y": 47006.0,
+            "Z": -2480.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "ForkbreakthroughCloneProtect_001": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.224951,
+            "W": 0.97437,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.9999999
+          },
+          "Translation": {
+            "X": -48368.0,
+            "Y": 119268.0,
+            "Z": -14092.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "EquipmentCloneProtect_001": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.121869,
+            "W": 0.992546,
+            "IsNormalized": true,
+            "Size": 0.9999998,
+            "SizeSquared": 0.99999964
+          },
+          "Translation": {
+            "X": 15324.0,
+            "Y": 144853.0,
+            "Z": -13078.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "L110048": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.37311503,
+            "W": 0.9277851,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -158048.75,
+            "Y": 189958.62,
+            "Z": 8213.484
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 43.81572,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "q110491": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -87023.55,
+            "Y": 146196.53,
+            "Z": 4136.344
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "PrisonEndPrisonNew": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.9968409,
+            "W": 0.079424135,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -77211.43,
+            "Y": 159997.66,
+            "Z": 3122.0144
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 189.11093,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": false,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_02343": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": -0.99870485,
+            "W": -0.050878316,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -5866.8965,
+            "Y": 32960.62,
+            "Z": 7687.6934
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "stealgoods_02352": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": -0.7687779,
+            "W": -0.6395159,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 19913.594,
+            "Y": 22293.27,
+            "Z": 7639.539
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
+      },
+      "ElevatorAnomaly01_Reset": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.70710677,
+            "W": 0.70710677,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.99999994
+          },
+          "Translation": {
+            "X": -23915.953,
+            "Y": 49016.867,
+            "Z": 7701.9307
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
         "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true

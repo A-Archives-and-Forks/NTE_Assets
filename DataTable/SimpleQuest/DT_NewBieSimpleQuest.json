@@ -1,0 +1,160 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_NewBieSimpleQuest",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'SimpleQuestStaticData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "NewBieGoals_01": {
+        "QuestId": "NewBieGoals_01",
+        "QuestName": {
+          "CultureInvariantString": "1-满命小吱"
+        },
+        "SimpleQuestType": "ESimpleQuestType::NewBieGoals",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "TycoonLevel": 45,
+          "ObjectiveType": "ESimpleQuestObjType::CityTycoonLevel",
+          "Amount": 45
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "None",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": true,
+        "JumpPath": "citytycoon_level",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": null,
+        "bPopAwardsWindow": true
+      },
+      "NewBieGoals_02": {
+        "QuestId": "NewBieGoals_02",
+        "QuestName": {
+          "CultureInvariantString": "2-猎人等级"
+        },
+        "SimpleQuestType": "ESimpleQuestType::NewBieGoals",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "RoleLevel": 45,
+          "ObjectiveType": "ESimpleQuestObjType::StrongPathAward",
+          "Amount": 1
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "None",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": true,
+        "JumpPath": "ActivityStrongPath_ui",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": null,
+        "bPopAwardsWindow": true
+      },
+      "NewBieGoals_03": {
+        "QuestId": "NewBieGoals_03",
+        "QuestName": {
+          "CultureInvariantString": "3-每日签到"
+        },
+        "SimpleQuestType": "ESimpleQuestType::NewBieGoals",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "SignInAwardDay": 13,
+          "ObjectiveType": "ESimpleQuestObjType::SignInAward",
+          "Amount": 1
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "None",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": true,
+        "JumpPath": "ActivitySignInMain_ui",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": null,
+        "bPopAwardsWindow": true
+      },
+      "NewBieGoals_04": {
+        "QuestId": "NewBieGoals_04",
+        "QuestName": {
+          "CultureInvariantString": "4-深渊送角色"
+        },
+        "SimpleQuestType": "ESimpleQuestType::NewBieGoals",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "ObjectiveType": "ESimpleQuestObjType::AbyssAwardNewBieGet",
+          "Amount": 1
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "None",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": true,
+        "JumpPath": "AbyssCommonMain",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": null,
+        "bPopAwardsWindow": true
+      },
+      "NewBieGoals_05": {
+        "QuestId": "NewBieGoals_05",
+        "QuestName": {
+          "CultureInvariantString": "5-探索指南"
+        },
+        "SimpleQuestType": "ESimpleQuestType::NewBieGoals",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "Chapter": 8,
+          "ObjectiveType": "ESimpleQuestObjType::AdventureManual",
+          "Amount": 1
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "None",
+          "SimpleAwards": [],
+          "bShowAwardWindow": false
+        },
+        "bAutoCommit": true,
+        "JumpPath": "adventure_wizard_ui",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": null,
+        "bPopAwardsWindow": true
+      }
+    }
+  }
+]

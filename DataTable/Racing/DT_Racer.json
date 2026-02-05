@@ -11,153 +11,6 @@
       }
     },
     "Rows": {
-      "Racer1": {
-        "RacerName": {
-          "CultureInvariantString": "<!>测试车手1"
-        },
-        "BelongsFleetID": "TestFleet",
-        "HeadImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03813.UI_YH_Racing_NPC_03813",
-          "SubPathString": ""
-        },
-        "UseVehicleID": "Vehicle004",
-        "RacerMapIcon": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03813.UI_YH_Racing_NPC_03813",
-          "SubPathString": ""
-        },
-        "RaceTrackID": "Track01",
-        "LimitVehicleItemID": "None",
-        "PVEObjectives": [
-          {
-            "AwardDropID": "drop_Likeability_1020_lv8",
-            "ObjectiveText": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ",
-              "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
-            }
-          },
-          {
-            "TimeLimit": 90.0,
-            "AwardDropID": "drop_Likeability_1020_lv8",
-            "ObjectiveText": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_001",
-              "SourceString": "用时小于110秒赢得比赛",
-              "LocalizedString": "用时小于110秒赢得比赛"
-            }
-          },
-          {
-            "ChangedEndurance": 0.0,
-            "AwardDropID": "drop_Likeability_1020_lv8",
-            "ObjectiveText": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_201",
-              "SourceString": "全程零碰撞赢得比赛",
-              "LocalizedString": "全程零碰撞赢得比赛"
-            }
-          }
-        ],
-        "AwardDropID": "None"
-      },
-      "Racer2": {
-        "RacerName": {
-          "CultureInvariantString": "<!>测试车手2"
-        },
-        "BelongsFleetID": "TestFleet",
-        "HeadImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_04401.UI_YH_Racing_NPC_04401",
-          "SubPathString": ""
-        },
-        "UseVehicleID": "Vehicle002",
-        "RacerMapIcon": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_04401.UI_YH_Racing_NPC_04401",
-          "SubPathString": ""
-        },
-        "RaceTrackID": "Track02",
-        "LimitVehicleItemID": "None",
-        "PVEObjectives": [
-          {
-            "AwardDropID": "drop_Likeability_1020_lv8",
-            "ObjectiveText": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ",
-              "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
-            }
-          },
-          {
-            "TimeLimit": 90.0,
-            "AwardDropID": "drop_Likeability_1020_lv8",
-            "ObjectiveText": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_001",
-              "SourceString": "用时小于110秒赢得比赛",
-              "LocalizedString": "用时小于110秒赢得比赛"
-            }
-          },
-          {
-            "ChangedEndurance": 0.0,
-            "AwardDropID": "drop_Likeability_1020_lv8",
-            "ObjectiveText": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_201",
-              "SourceString": "全程零碰撞赢得比赛",
-              "LocalizedString": "全程零碰撞赢得比赛"
-            }
-          }
-        ],
-        "AwardDropID": "None"
-      },
-      "Racer3": {
-        "RacerName": {
-          "CultureInvariantString": "<!>测试车手3"
-        },
-        "BelongsFleetID": "TestFleet",
-        "HeadImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_04429.UI_YH_Racing_NPC_04429",
-          "SubPathString": ""
-        },
-        "UseVehicleID": "Vehicle003",
-        "RacerMapIcon": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_04429.UI_YH_Racing_NPC_04429",
-          "SubPathString": ""
-        },
-        "RaceTrackID": "Track03",
-        "LimitVehicleItemID": "None",
-        "PVEObjectives": [
-          {
-            "AwardDropID": "drop_Likeability_1020_lv8",
-            "ObjectiveText": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ",
-              "SourceString": "赢得比赛",
-              "LocalizedString": "赢得比赛"
-            }
-          },
-          {
-            "TimeLimit": 90.0,
-            "AwardDropID": "drop_Likeability_1020_lv8",
-            "ObjectiveText": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_001",
-              "SourceString": "用时小于110秒赢得比赛",
-              "LocalizedString": "用时小于110秒赢得比赛"
-            }
-          },
-          {
-            "ChangedEndurance": 0.0,
-            "AwardDropID": "drop_Likeability_1020_lv8",
-            "ObjectiveText": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_201",
-              "SourceString": "全程零碰撞赢得比赛",
-              "LocalizedString": "全程零碰撞赢得比赛"
-            }
-          }
-        ],
-        "AwardDropID": "None"
-      },
       "Racer001_01": {
         "RacerName": {
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
@@ -175,40 +28,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03310.UI_YH_Racing_NPC_03310",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track001_01",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer001_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer001_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer001_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 1
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer001_02": {
         "RacerName": {
@@ -227,40 +83,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_06017.UI_YH_Racing_NPC_06017",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track001_02",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer001_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer001_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer001_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 1
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer001_03": {
         "RacerName": {
@@ -279,40 +138,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03724.UI_YH_Racing_NPC_03724",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track001_03",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer001_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer001_03",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer001_03",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer001_04": {
         "RacerName": {
@@ -331,40 +193,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03723.UI_YH_Racing_NPC_03723",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track001_04",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer001_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer001_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer001_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer001_05": {
         "RacerName": {
@@ -383,40 +248,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_01012.UI_YH_Racing_NPC_01012",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track001_05",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer001_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer001_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer001_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 1
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer001_06": {
         "RacerName": {
@@ -435,40 +303,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_07008_02.UI_YH_Racing_NPC_07008_02",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track001_06",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer001_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer001_06",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 4
           },
           {
-            "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer001_06",
+            "TimeLimit": 200.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_102",
-              "SourceString": "领先第二名100米以上冲线",
-              "LocalizedString": "领先第二名100米以上冲线"
-            }
+              "Key": "UI_Race_TJ_005",
+              "SourceString": "用时小于200秒赢得比赛",
+              "LocalizedString": "用时小于200秒赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 4
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer002_01": {
         "RacerName": {
@@ -487,42 +358,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_04401.UI_YH_Racing_NPC_04401",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track002_01",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer002_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer002_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
-            "LimitVehicles": [
-              "Vehicle008"
-            ],
-            "AwardDropID": "drop_Racer002_01",
+            "AheadDistance": 100.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_301",
-              "SourceString": "驾驶新越M1000赢得比赛",
-              "LocalizedString": "驾驶新越M1000赢得比赛"
-            }
+              "Key": "UI_Race_TJ_102",
+              "SourceString": "领先第二名100米以上冲线",
+              "LocalizedString": "领先第二名100米以上冲线"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer002_02": {
         "RacerName": {
@@ -541,42 +413,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03414.UI_YH_Racing_NPC_03414",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track002_02",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer002_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer002_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
-            "LimitVehicles": [
-              "Vehicle008"
-            ],
-            "AwardDropID": "drop_Racer002_02",
+            "AheadDistance": 100.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_301",
-              "SourceString": "驾驶新越M1000赢得比赛",
-              "LocalizedString": "驾驶新越M1000赢得比赛"
-            }
+              "Key": "UI_Race_TJ_102",
+              "SourceString": "领先第二名100米以上冲线",
+              "LocalizedString": "领先第二名100米以上冲线"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer002_03": {
         "RacerName": {
@@ -595,42 +468,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03906.UI_YH_Racing_NPC_03906",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track002_03",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer002_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer002_03",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
-            "LimitVehicles": [
-              "Vehicle008"
-            ],
-            "AwardDropID": "drop_Racer002_03",
+            "AheadDistance": 100.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_301",
-              "SourceString": "驾驶新越M1000赢得比赛",
-              "LocalizedString": "驾驶新越M1000赢得比赛"
-            }
+              "Key": "UI_Race_TJ_102",
+              "SourceString": "领先第二名100米以上冲线",
+              "LocalizedString": "领先第二名100米以上冲线"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 1
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer002_04": {
         "RacerName": {
@@ -649,42 +523,45 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_00610.UI_YH_Racing_NPC_00610",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track002_04",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer002_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer002_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "LimitVehicles": [
               "Vehicle008"
             ],
-            "AwardDropID": "drop_Racer002_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_301",
               "SourceString": "驾驶新越M1000赢得比赛",
               "LocalizedString": "驾驶新越M1000赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer002_05": {
         "RacerName": {
@@ -703,42 +580,45 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_02503.UI_YH_Racing_NPC_02503",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track002_05",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer002_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer002_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "LimitVehicles": [
               "Vehicle008"
             ],
-            "AwardDropID": "drop_Racer002_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_301",
               "SourceString": "驾驶新越M1000赢得比赛",
               "LocalizedString": "驾驶新越M1000赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer002_06": {
         "RacerName": {
@@ -757,42 +637,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_02408.UI_YH_Racing_NPC_02408",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track002_06",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer002_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 4
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer002_06",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
-            "LimitVehicles": [
-              "Vehicle008"
-            ],
-            "AwardDropID": "drop_Racer002_06",
+            "TimeLimit": 150.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_301",
-              "SourceString": "驾驶新越M1000赢得比赛",
-              "LocalizedString": "驾驶新越M1000赢得比赛"
-            }
+              "Key": "UI_Race_TJ_006",
+              "SourceString": "用时小于150秒赢得比赛",
+              "LocalizedString": "用时小于150秒赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer003_01": {
         "RacerName": {
@@ -811,40 +692,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03907.UI_YH_Racing_NPC_03907",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track003_01",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer003_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer003_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer003_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer003_02": {
         "RacerName": {
@@ -863,40 +747,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_04422.UI_YH_Racing_NPC_04422",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track003_02",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer003_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer003_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer003_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer003_03": {
         "RacerName": {
@@ -915,40 +802,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_02107.UI_YH_Racing_NPC_02107",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track003_03",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer003_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer003_03",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer003_03",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer003_04": {
         "RacerName": {
@@ -967,40 +857,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03505.UI_YH_Racing_NPC_03505",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track003_04",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer003_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer003_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer003_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer003_05": {
         "RacerName": {
@@ -1019,40 +912,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03725.UI_YH_Racing_NPC_03725",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track003_05",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer003_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer003_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer003_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer003_06": {
         "RacerName": {
@@ -1071,40 +967,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03813.UI_YH_Racing_NPC_03813",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track003_06",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer003_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer003_06",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           },
           {
-            "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer003_06",
+            "TimeLimit": 175.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_102",
-              "SourceString": "领先第二名100米以上冲线",
-              "LocalizedString": "领先第二名100米以上冲线"
-            }
+              "Key": "UI_Race_TJ_007",
+              "SourceString": "用时小于175秒赢得比赛",
+              "LocalizedString": "用时小于175秒赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer004_01": {
         "RacerName": {
@@ -1123,40 +1022,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_07010.UI_YH_Racing_NPC_07010",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track004_01",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer004_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer004_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer004_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer004_02": {
         "RacerName": {
@@ -1175,40 +1077,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03311.UI_YH_Racing_NPC_03311",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track004_02",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer004_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer004_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer004_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer004_03": {
         "RacerName": {
@@ -1227,40 +1132,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03415.UI_YH_Racing_NPC_03415",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track004_03",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer004_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer004_03",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer004_03",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer004_04": {
         "RacerName": {
@@ -1279,40 +1187,45 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_10303.UI_YH_Racing_NPC_10303",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track004_04",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer004_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer004_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
-            "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer004_04",
+            "LimitVehicles": [
+              "Vehicle018"
+            ],
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_102",
-              "SourceString": "领先第二名100米以上冲线",
-              "LocalizedString": "领先第二名100米以上冲线"
-            }
+              "Key": "UI_Race_TJ_302",
+              "SourceString": "驾驶新越ST79赢得比赛",
+              "LocalizedString": "驾驶新越ST79赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer004_05": {
         "RacerName": {
@@ -1331,40 +1244,45 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_05009.UI_YH_Racing_NPC_05009",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track004_05",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer004_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer004_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
-            "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer004_05",
+            "LimitVehicles": [
+              "Vehicle018"
+            ],
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_102",
-              "SourceString": "领先第二名100米以上冲线",
-              "LocalizedString": "领先第二名100米以上冲线"
-            }
+              "Key": "UI_Race_TJ_302",
+              "SourceString": "驾驶新越ST79赢得比赛",
+              "LocalizedString": "驾驶新越ST79赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer004_06": {
         "RacerName": {
@@ -1383,40 +1301,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_09901.UI_YH_Racing_NPC_09901",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track004_06",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer004_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer004_06",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
-            "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer004_06",
+            "TimeLimit": 98.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_102",
-              "SourceString": "领先第二名100米以上冲线",
-              "LocalizedString": "领先第二名100米以上冲线"
-            }
+              "Key": "UI_Race_TJ_008",
+              "SourceString": "用时小于98秒赢得比赛",
+              "LocalizedString": "用时小于98秒赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer005_01": {
         "RacerName": {
@@ -1435,27 +1356,30 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_07014.UI_YH_Racing_NPC_07014",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track005_01",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer005_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer005_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "LimitVehicles": [
@@ -1463,18 +1387,20 @@
               "Vehicle004",
               "Vehicle012",
               "Vehicle016",
-              "Vehicle017"
+              "Vehicle017",
+              "Vehicle020",
+              "Vehicle021"
             ],
-            "AwardDropID": "drop_Racer005_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_303",
-              "SourceString": "驾驶原价200万方斯及以上的车辆赢得比赛",
-              "LocalizedString": "驾驶原价200万方斯及以上的车辆赢得比赛"
-            }
+              "SourceString": "驾驶原价100万方斯及以上的车辆赢得比赛",
+              "LocalizedString": "驾驶原价100万方斯及以上的车辆赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer005_02": {
         "RacerName": {
@@ -1493,27 +1419,30 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03908.UI_YH_Racing_NPC_03908",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track005_02",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer005_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer005_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "LimitVehicles": [
@@ -1521,18 +1450,20 @@
               "Vehicle004",
               "Vehicle012",
               "Vehicle016",
-              "Vehicle017"
+              "Vehicle017",
+              "Vehicle020",
+              "Vehicle021"
             ],
-            "AwardDropID": "drop_Racer005_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_303",
-              "SourceString": "驾驶原价200万方斯及以上的车辆赢得比赛",
-              "LocalizedString": "驾驶原价200万方斯及以上的车辆赢得比赛"
-            }
+              "SourceString": "驾驶原价100万方斯及以上的车辆赢得比赛",
+              "LocalizedString": "驾驶原价100万方斯及以上的车辆赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer005_03": {
         "RacerName": {
@@ -1551,46 +1482,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_02202.UI_YH_Racing_NPC_02202",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track005_03",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer005_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer005_03",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
-            "LimitVehicles": [
-              "Vehicle002",
-              "Vehicle004",
-              "Vehicle012",
-              "Vehicle016",
-              "Vehicle017"
-            ],
-            "AwardDropID": "drop_Racer005_03",
+            "AheadDistance": 100.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_303",
-              "SourceString": "驾驶原价200万方斯及以上的车辆赢得比赛",
-              "LocalizedString": "驾驶原价200万方斯及以上的车辆赢得比赛"
-            }
+              "Key": "UI_Race_TJ_102",
+              "SourceString": "领先第二名100米以上冲线",
+              "LocalizedString": "领先第二名100米以上冲线"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer005_04": {
         "RacerName": {
@@ -1609,46 +1537,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_06310.UI_YH_Racing_NPC_06310",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track005_04",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer005_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer005_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
-            "LimitVehicles": [
-              "Vehicle002",
-              "Vehicle004",
-              "Vehicle012",
-              "Vehicle016",
-              "Vehicle017"
-            ],
-            "AwardDropID": "drop_Racer005_04",
+            "AheadDistance": 100.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_303",
-              "SourceString": "驾驶原价200万方斯及以上的车辆赢得比赛",
-              "LocalizedString": "驾驶原价200万方斯及以上的车辆赢得比赛"
-            }
+              "Key": "UI_Race_TJ_102",
+              "SourceString": "领先第二名100米以上冲线",
+              "LocalizedString": "领先第二名100米以上冲线"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer005_05": {
         "RacerName": {
@@ -1667,46 +1592,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_02504.UI_YH_Racing_NPC_02504",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track005_05",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer005_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer005_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
-            "LimitVehicles": [
-              "Vehicle002",
-              "Vehicle004",
-              "Vehicle012",
-              "Vehicle016",
-              "Vehicle017"
-            ],
-            "AwardDropID": "drop_Racer005_05",
+            "AheadDistance": 100.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_303",
-              "SourceString": "驾驶原价200万方斯及以上的车辆赢得比赛",
-              "LocalizedString": "驾驶原价200万方斯及以上的车辆赢得比赛"
-            }
+              "Key": "UI_Race_TJ_102",
+              "SourceString": "领先第二名100米以上冲线",
+              "LocalizedString": "领先第二名100米以上冲线"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer005_06": {
         "RacerName": {
@@ -1725,46 +1647,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_07013.UI_YH_Racing_NPC_07013",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track005_06",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer005_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 6
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer005_06",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           },
           {
-            "LimitVehicles": [
-              "Vehicle002",
-              "Vehicle004",
-              "Vehicle012",
-              "Vehicle016",
-              "Vehicle017"
-            ],
-            "AwardDropID": "drop_Racer005_06",
+            "TimeLimit": 185.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_303",
-              "SourceString": "驾驶原价200万方斯及以上的车辆赢得比赛",
-              "LocalizedString": "驾驶原价200万方斯及以上的车辆赢得比赛"
-            }
+              "Key": "UI_Race_TJ_009",
+              "SourceString": "用时小于185秒赢得比赛",
+              "LocalizedString": "用时小于185秒赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer006_01": {
         "RacerName": {
@@ -1783,40 +1702,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_04430.UI_YH_Racing_NPC_04430",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track006_01",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer006_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer006_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer006_01",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer006_02": {
         "RacerName": {
@@ -1835,40 +1757,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_04429.UI_YH_Racing_NPC_04429",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track006_02",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer006_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer006_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer006_02",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer006_03": {
         "RacerName": {
@@ -1887,40 +1812,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03817.UI_YH_Racing_NPC_03817",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track006_03",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer006_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer006_03",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer006_03",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer006_04": {
         "RacerName": {
@@ -1939,40 +1867,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_01013.UI_YH_Racing_NPC_01013",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track006_04",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer006_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer006_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer006_04",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer006_05": {
         "RacerName": {
@@ -1991,40 +1922,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_03816.UI_YH_Racing_NPC_03816",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track006_05",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer006_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer006_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer006_05",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_102",
               "SourceString": "领先第二名100米以上冲线",
               "LocalizedString": "领先第二名100米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer006_06": {
         "RacerName": {
@@ -2043,40 +1977,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_08302.UI_YH_Racing_NPC_08302",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track006_06",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Racer006_sp",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           },
           {
             "AheadDistance": 50.0,
-            "AwardDropID": "drop_Racer006_06",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_101",
               "SourceString": "领先第二名50米以上冲线",
               "LocalizedString": "领先第二名50米以上冲线"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 5
           },
           {
-            "AheadDistance": 100.0,
-            "AwardDropID": "drop_Racer006_06",
+            "TimeLimit": 141.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "UI_Race_TJ_102",
-              "SourceString": "领先第二名100米以上冲线",
-              "LocalizedString": "领先第二名100米以上冲线"
-            }
+              "Key": "UI_Race_TJ_010",
+              "SourceString": "用时小于141秒赢得比赛",
+              "LocalizedString": "用时小于141秒赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 4
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer999_Quest1": {
         "RacerName": {
@@ -2095,10 +2032,10 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_09901.UI_YH_Racing_NPC_09901",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track999_quest1",
         "LimitVehicleItemID": "None",
-        "PVEObjectives": [],
-        "AwardDropID": "None"
+        "PVEObjectives": []
       },
       "Racer999_Quest2": {
         "RacerName": {
@@ -2117,10 +2054,10 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_3.UI_YH_Racing_NPC_3",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track999_quest2",
         "LimitVehicleItemID": "None",
-        "PVEObjectives": [],
-        "AwardDropID": "None"
+        "PVEObjectives": []
       },
       "Racer999_1": {
         "RacerName": {
@@ -2139,40 +2076,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_3.UI_YH_Racing_NPC_3",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track999_1",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Visions_furniture_14_UpMaterial",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
-            "TimeLimit": 110.0,
-            "AwardDropID": "drop_Visions_furniture_14_UpMaterial",
+            "TimeLimit": 100.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_001",
-              "SourceString": "用时小于110秒赢得比赛",
-              "LocalizedString": "用时小于110秒赢得比赛"
-            }
+              "SourceString": "用时小于100秒赢得比赛",
+              "LocalizedString": "用时小于100秒赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           },
           {
             "TimeLimit": 90.0,
-            "AwardDropID": "drop_Visions_furniture_14_UpMaterial",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_002",
               "SourceString": "用时小于90秒赢得比赛",
               "LocalizedString": "用时小于90秒赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 2
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer999_2": {
         "RacerName": {
@@ -2191,40 +2131,43 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_4.UI_YH_Racing_NPC_4",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "Track999_2",
         "LimitVehicleItemID": "None",
         "PVEObjectives": [
           {
-            "AwardDropID": "drop_Visions_furniture_14_UpMaterial",
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ",
               "SourceString": "赢得比赛",
               "LocalizedString": "赢得比赛"
-            }
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 4
           },
           {
-            "TimeLimit": 230.0,
-            "AwardDropID": "drop_Visions_furniture_14_UpMaterial",
+            "TimeLimit": 190.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_003",
-              "SourceString": "用时小于230秒赢得比赛",
-              "LocalizedString": "用时小于230秒赢得比赛"
-            }
+              "SourceString": "用时小于190秒赢得比赛",
+              "LocalizedString": "用时小于190秒赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 4
           },
           {
-            "TimeLimit": 210.0,
-            "AwardDropID": "drop_Visions_furniture_14_UpMaterial",
+            "TimeLimit": 170.0,
             "ObjectiveText": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "UI_Race_TJ_004",
-              "SourceString": "用时小于210秒赢得比赛",
-              "LocalizedString": "用时小于210秒赢得比赛"
-            }
+              "SourceString": "用时小于170秒赢得比赛",
+              "LocalizedString": "用时小于170秒赢得比赛"
+            },
+            "CostStaminaID": "CityStamina",
+            "CostStaminaAmountBase": 3
           }
-        ],
-        "AwardDropID": "None"
+        ]
       },
       "Racer998_Quest_PM": {
         "RacerName": {
@@ -2243,10 +2186,54 @@
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC.UI_YH_Racing_NPC",
           "SubPathString": ""
         },
+        "RacerUnlockCondition": {},
         "RaceTrackID": "None",
         "LimitVehicleItemID": "None",
-        "PVEObjectives": [],
-        "AwardDropID": "None"
+        "PVEObjectives": []
+      },
+      "Racer_ZX_Quest1": {
+        "RacerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_02408_Name",
+          "SourceString": "阿蒂拉",
+          "LocalizedString": "阿蒂拉"
+        },
+        "BelongsFleetID": "Fleet_ZX_Quest1",
+        "HeadImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_02408.UI_YH_Racing_NPC_02408",
+          "SubPathString": ""
+        },
+        "UseVehicleID": "Vehicle008",
+        "RacerMapIcon": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_02408.UI_YH_Racing_NPC_02408",
+          "SubPathString": ""
+        },
+        "RacerUnlockCondition": {},
+        "RaceTrackID": "Track_ZX_Quest1",
+        "LimitVehicleItemID": "None",
+        "PVEObjectives": []
+      },
+      "Racer_ZX_Quest2": {
+        "RacerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_07008_02_Name",
+          "SourceString": "池山",
+          "LocalizedString": "池山"
+        },
+        "BelongsFleetID": "Fleet_ZX_Quest2",
+        "HeadImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_07008_02.UI_YH_Racing_NPC_07008_02",
+          "SubPathString": ""
+        },
+        "UseVehicleID": "Vehicle007c",
+        "RacerMapIcon": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/NPC/UI_YH_Racing_NPC_07008_02.UI_YH_Racing_NPC_07008_02",
+          "SubPathString": ""
+        },
+        "RacerUnlockCondition": {},
+        "RaceTrackID": "Track_ZX_Quest2",
+        "LimitVehicleItemID": "None",
+        "PVEObjectives": []
       }
     }
   }

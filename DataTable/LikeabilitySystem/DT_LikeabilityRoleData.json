@@ -45,90 +45,100 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_1019_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_1019_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_1019_lv3",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_1019_lv4",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_1019_lv5",
-            "Conditions": [
-              "K110501"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 3000,
             "AwardID": "drop_Likeability_1019_lv6",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 5000,
             "AwardID": "drop_Likeability_1019_lv7",
-            "Conditions": [
-              "K110506"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 8000,
             "AwardID": "drop_Likeability_1019_lv8",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 11000,
             "AwardID": "drop_Likeability_1019_lv9",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 15000,
             "AwardID": "drop_Likeability_1019_lv10",
-            "Conditions": [
-              "K110508"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [
           {
             "LikeabilityLevel": 4,
-            "LikeabilityValue": 2000,
-            "ChatItemID": "1019_c1_1"
+            "LikeabilityValue": 0,
+            "ChatItemID": "1019_c1_1",
+            "QuestId": "K110501",
+            "LastQuestID": "K110501"
+          },
+          {
+            "LikeabilityLevel": 5,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1019_c2_1",
+            "QuestId": "K110502",
+            "LastQuestID": "K110506"
           },
           {
             "LikeabilityLevel": 6,
-            "LikeabilityValue": 5000,
-            "ChatItemID": "1019_c2_1"
-          },
-          {
-            "LikeabilityLevel": 9,
-            "LikeabilityValue": 15000,
-            "ChatItemID": "1019_c3_1"
+            "LikeabilityValue": 0,
+            "ChatItemID": "1019_c3_1",
+            "QuestId": "K110507",
+            "LastQuestID": "K110508"
           }
         ],
         "LikeabilityMapData": null,
         "UnlockAvatarID": "None",
-        "InitLikeabilityLevel": 2,
-        "InitLikeabilityLevelLimit": 5,
+        "InitLikeabilityLevel": 4,
+        "InitLikeabilityLevelLimit": 6,
         "MainPlotChatItemID": "1019_1_1",
         "GroupId": "1019",
         "EpicQuestData": {
@@ -141,14 +151,46 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 1,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": 5.0,
+        "bShowList": true,
+        "CameraOffset": 120.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "bohe_1",
+          "bohe_2",
+          "bohe_3"
+        ],
+        "ArrayHomeGuest": [
+          "bohe_0001",
+          "bohe_0002",
+          "bohe_0003",
+          "bohe_0004",
+          "bohe_0005",
+          "bohe_0006",
+          "bohe_0008",
+          "bohe_0009",
+          "bohe_0010",
+          "bohe_0011",
+          "bohe_0012",
+          "bohe_jh_0001",
+          "bohe_jh_0002",
+          "bohe_jh_0004",
+          "bohe_jh_0006",
+          "bohe_jh_0007",
+          "bohe_jh_0008"
+        ],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1019"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 100
       },
       "1023": {
         "SortID": "1",
@@ -184,74 +226,39 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_1023_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_1023_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_1023_lv3",
             "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 1000,
-            "AwardID": "drop_Likeability_1023_lv4",
-            "Conditions": [
-              "L110052"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 2000,
-            "AwardID": "drop_Likeability_1023_lv5",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 3000,
-            "AwardID": "drop_Likeability_1023_lv6",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 5000,
-            "AwardID": "drop_Likeability_1023_lv7",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 8000,
-            "AwardID": "drop_Likeability_1023_lv8",
-            "Conditions": [
-              "L110139"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 11000,
-            "AwardID": "drop_Likeability_1023_lv9",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 15000,
-            "AwardID": "drop_Likeability_1023_lv10",
-            "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
-        "LevelChatInfos": [],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "K111801_a_1",
+            "QuestId": "K111801",
+            "LastQuestID": "K111802"
+          }
+        ],
         "LikeabilityMapData": null,
         "UnlockAvatarID": "None",
         "InitLikeabilityLevel": 2,
-        "InitLikeabilityLevelLimit": 5,
-        "MainPlotChatItemID": "1023_1_1",
-        "GroupId": "1023",
+        "InitLikeabilityLevelLimit": 6,
+        "MainPlotChatItemID": "1023_1_21",
+        "GroupId": "80",
         "EpicQuestData": {
           "QuestId": "None",
           "QuestCondition": {
@@ -262,14 +269,28 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 1,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": 25.0,
+        "bShowList": true,
+        "CameraOffset": 145.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "baizang_2",
+          "empty",
+          "empty"
+        ],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1023"
+          }
+        ],
+        "bLevelLimit": true,
+        "NewSortID": 2
       },
       "1008": {
         "SortID": "1",
@@ -305,74 +326,100 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_1008_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_1008_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_1008_lv3",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_1008_lv4",
-            "Conditions": [
-              "L110052"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_1008_lv5",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 3000,
             "AwardID": "drop_Likeability_1008_lv6",
-            "Conditions": [
-              "S999999"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 5000,
             "AwardID": "drop_Likeability_1008_lv7",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 8000,
             "AwardID": "drop_Likeability_1008_lv8",
-            "Conditions": [
-              "L110139"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 11000,
             "AwardID": "drop_Likeability_1008_lv9",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 15000,
             "AwardID": "drop_Likeability_1008_lv10",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
-        "LevelChatInfos": [],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 4,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1023_b_1",
+            "QuestId": "K111101",
+            "LastQuestID": "K111101"
+          },
+          {
+            "LikeabilityLevel": 5,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1008_a_1",
+            "QuestId": "K111102",
+            "LastQuestID": "K111103"
+          },
+          {
+            "LikeabilityLevel": 6,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1008_a_14",
+            "QuestId": "K111104",
+            "LastQuestID": "K111107"
+          }
+        ],
         "LikeabilityMapData": null,
         "UnlockAvatarID": "None",
         "InitLikeabilityLevel": 1,
-        "InitLikeabilityLevelLimit": 5,
+        "InitLikeabilityLevelLimit": 6,
         "MainPlotChatItemID": "1008_2_1",
         "GroupId": "1008",
         "EpicQuestData": {
@@ -385,14 +432,24 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 1,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": 40.0,
+        "bShowList": true,
+        "CameraOffset": 165.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1008"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 79
       },
       "1004": {
         "SortID": "1",
@@ -428,70 +485,37 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_1004_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_1004_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_1004_lv3",
             "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 1000,
-            "AwardID": "drop_Likeability_1004_lv4",
-            "Conditions": [
-              "L110139"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 2000,
-            "AwardID": "drop_Likeability_1004_lv5",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 3000,
-            "AwardID": "drop_Likeability_1004_lv6",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 5000,
-            "AwardID": "drop_Likeability_1004_lv7",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 8000,
-            "AwardID": "drop_Likeability_1004_lv8",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 11000,
-            "AwardID": "drop_Likeability_1004_lv9",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 15000,
-            "AwardID": "drop_Likeability_1004_lv10",
-            "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
-        "LevelChatInfos": [],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1004_a_1",
+            "QuestId": "K111401",
+            "LastQuestID": "None"
+          }
+        ],
         "LikeabilityMapData": null,
         "UnlockAvatarID": "None",
         "InitLikeabilityLevel": 1,
-        "InitLikeabilityLevelLimit": 5,
+        "InitLikeabilityLevelLimit": 6,
         "MainPlotChatItemID": "1004_1_1",
         "GroupId": "1004",
         "EpicQuestData": {
@@ -504,14 +528,28 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 1,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": 0.0,
+        "bShowList": false,
+        "CameraOffset": 105.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "anhunqu_1",
+          "anhunqu_2",
+          "anhunqu_3"
+        ],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1004"
+          }
+        ],
+        "bLevelLimit": true,
+        "NewSortID": 78
       },
       "1039": {
         "SortID": "1",
@@ -547,70 +585,100 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_1039_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_1039_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_1039_lv3",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_1039_lv4",
-            "Conditions": [
-              "L110139"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_1039_lv5",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 3000,
             "AwardID": "drop_Likeability_1039_lv6",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 5000,
             "AwardID": "drop_Likeability_1039_lv7",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 8000,
             "AwardID": "drop_Likeability_1039_lv8",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 11000,
             "AwardID": "drop_Likeability_1039_lv9",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 15000,
             "AwardID": "drop_Likeability_1039_lv10",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
-        "LevelChatInfos": [],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1039_a_1",
+            "QuestId": "k111300",
+            "LastQuestID": "K111303"
+          },
+          {
+            "LikeabilityLevel": 4,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1039_a_10",
+            "QuestId": "k111304",
+            "LastQuestID": "K111306_1"
+          },
+          {
+            "LikeabilityLevel": 5,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1039_a_14",
+            "QuestId": "k111307",
+            "LastQuestID": "K111312"
+          }
+        ],
         "LikeabilityMapData": null,
         "UnlockAvatarID": "None",
         "InitLikeabilityLevel": 2,
-        "InitLikeabilityLevelLimit": 5,
+        "InitLikeabilityLevelLimit": 6,
         "MainPlotChatItemID": "1039_1_1",
         "GroupId": "1039",
         "EpicQuestData": {
@@ -623,14 +691,30 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 1,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": 18.0,
+        "bShowList": true,
+        "CameraOffset": 130.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "fadiya_2",
+          "empty",
+          "empty"
+        ],
+        "ArrayHomeGuest": [
+          "fadiya_0001"
+        ],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1039"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 77
       },
       "1043": {
         "SortID": "1",
@@ -666,7 +750,8 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_1043_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -686,564 +771,19 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 1,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": 15.0,
+        "bShowList": false,
+        "CameraOffset": 130.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
-      },
-      "1033": {
-        "SortID": "2",
-        "AreaId": "None",
-        "RoleNameText": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_033",
-          "SourceString": "阿德勒",
-          "LocalizedString": "阿德勒"
         },
-        "TitleNameText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1033_title",
-          "SourceString": "伊波恩古董店管家",
-          "LocalizedString": "伊波恩古董店管家"
-        },
-        "RoleDescText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1033_des",
-          "SourceString": "明眼人都能看得出的伊波恩古董店真正的顶梁柱，谦逊可靠的老派绅士，据说海特洛市不少异象猎人组织都尝试过私下递橄榄枝，不过直到现在，阿德勒先生仍是伊波恩的管家。\n「您好，欢迎光临伊波恩古董店。」",
-          "LocalizedString": "明眼人都能看得出的伊波恩古董店真正的顶梁柱，谦逊可靠的老派绅士，据说海特洛市不少异象猎人组织都尝试过私下递橄榄枝，不过直到现在，阿德勒先生仍是伊波恩的管家。\n「您好，欢迎光临伊波恩古董店。」"
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_015.player_015",
-          "SubPathString": ""
-        },
-        "SoftActorClass": {
-          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_033.PlayerUIShow_033_C",
-          "SubPathString": ""
-        },
-        "LevelInfo": [
-          {
-            "MaxValue": 100,
-            "AwardID": "drop_Likeability_1033_lv1",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 300,
-            "AwardID": "drop_Likeability_1033_lv2",
-            "Conditions": [
-              "q110088"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 500,
-            "AwardID": "drop_Likeability_1033_lv3",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 1000,
-            "AwardID": "drop_Likeability_1033_lv4",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 2000,
-            "AwardID": "drop_Likeability_1033_lv5",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 3000,
-            "AwardID": "drop_Likeability_1033_lv6",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 5000,
-            "AwardID": "drop_Likeability_1033_lv7",
-            "Conditions": [
-              "q110192"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 8000,
-            "AwardID": "drop_Likeability_1033_lv8",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 11000,
-            "AwardID": "drop_Likeability_1033_lv9",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 15000,
-            "AwardID": "drop_Likeability_1033_lv10",
-            "Conditions": [],
-            "ChatItemID": "None"
-          }
-        ],
-        "LevelChatInfos": [],
-        "LikeabilityMapData": null,
-        "UnlockAvatarID": "None",
-        "InitLikeabilityLevel": 1,
-        "InitLikeabilityLevelLimit": 5,
-        "MainPlotChatItemID": "1033_1_1",
-        "GroupId": "1033",
-        "EpicQuestData": {
-          "QuestId": "None",
-          "QuestCondition": {
-            "QuestId": "None",
-            "LikeabilityLevel": -1
-          }
-        },
-        "PlotQuestDatas": [],
-        "AppointQuestDatas": [],
-        "SubSortLevel": 1,
-        "bIsUnlock": false,
-        "bIsShowMessage": true,
-        "bLockGift": false,
-        "CameraOffset": 20.0,
-        "SoftBornAnim": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        }
-      },
-      "1003": {
-        "SortID": "2",
-        "AreaId": "None",
-        "RoleNameText": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_003",
-          "SourceString": "早雾",
-          "LocalizedString": "早雾"
-        },
-        "TitleNameText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1003_title",
-          "SourceString": "伊波恩古董店店员",
-          "LocalizedString": "伊波恩古董店店员"
-        },
-        "RoleDescText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1003_des",
-          "SourceString": "长有鬼角的白发女孩，身边伴有一只独眼鬼怪，哼着调子奇诡的怪异童谣，却时常因为身高等原因让委托人产生怀疑……呃，为保证您的人身安全，以上这句请勿于本人面前直接表达，谢谢。\n「鬼郎丸！又乱吃东西，快给我吐出来！」\n「小气鬼早雾……哎呦！」",
-          "LocalizedString": "长有鬼角的白发女孩，身边伴有一只独眼鬼怪，哼着调子奇诡的怪异童谣，却时常因为身高等原因让委托人产生怀疑……呃，为保证您的人身安全，以上这句请勿于本人面前直接表达，谢谢。\n「鬼郎丸！又乱吃东西，快给我吐出来！」\n「小气鬼早雾……哎呦！」"
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_003.player_003",
-          "SubPathString": ""
-        },
-        "SoftActorClass": {
-          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_003.PlayerUIShow_003_C",
-          "SubPathString": ""
-        },
-        "LevelInfo": [
-          {
-            "MaxValue": 100,
-            "AwardID": "drop_Likeability_1003_lv1",
-            "Conditions": [
-              "q110088"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 300,
-            "AwardID": "drop_Likeability_1003_lv2",
-            "Conditions": [
-              "k110910"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 500,
-            "AwardID": "drop_Likeability_1003_lv3",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 1000,
-            "AwardID": "drop_Likeability_1003_lv4",
-            "Conditions": [
-              "q110137",
-              "k110913"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 2000,
-            "AwardID": "drop_Likeability_1003_lv5",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 3000,
-            "AwardID": "drop_Likeability_1003_lv6",
-            "Conditions": [
-              "q110192",
-              "k110915"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 5000,
-            "AwardID": "drop_Likeability_1003_lv7",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 8000,
-            "AwardID": "drop_Likeability_1003_lv8",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 11000,
-            "AwardID": "drop_Likeability_1003_lv9",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 15000,
-            "AwardID": "drop_Likeability_1003_lv10",
-            "Conditions": [],
-            "ChatItemID": "None"
-          }
-        ],
-        "LevelChatInfos": [
-          {
-            "LikeabilityLevel": 1,
-            "LikeabilityValue": 300,
-            "ChatItemID": "1003_b_1"
-          },
-          {
-            "LikeabilityLevel": 3,
-            "LikeabilityValue": 1000,
-            "ChatItemID": "1003_b_13"
-          },
-          {
-            "LikeabilityLevel": 5,
-            "LikeabilityValue": 3000,
-            "ChatItemID": "1003_b_25"
-          }
-        ],
-        "LikeabilityMapData": null,
-        "UnlockAvatarID": "None",
-        "InitLikeabilityLevel": 0,
-        "InitLikeabilityLevelLimit": 5,
-        "MainPlotChatItemID": "1003_1_1",
-        "GroupId": "1003",
-        "EpicQuestData": {
-          "QuestId": "None",
-          "QuestCondition": {
-            "QuestId": "None",
-            "LikeabilityLevel": -1
-          }
-        },
-        "PlotQuestDatas": [],
-        "AppointQuestDatas": [],
-        "SubSortLevel": 1,
-        "bIsUnlock": false,
-        "bIsShowMessage": true,
-        "bLockGift": false,
-        "CameraOffset": -30.0,
-        "SoftBornAnim": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        }
-      },
-      "1005": {
-        "SortID": "2",
-        "AreaId": "None",
-        "RoleNameText": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_005",
-          "SourceString": "达芙蒂尔",
-          "LocalizedString": "达芙蒂尔"
-        },
-        "TitleNameText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1005_title",
-          "SourceString": "伊波恩古董店保镖",
-          "LocalizedString": "伊波恩古董店保镖"
-        },
-        "RoleDescText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1005_des",
-          "SourceString": "谈到达芙蒂尔小姐，多数来访的委托人并无太多印象，「冷漠」，「寡言少语」，「仅仅是和她对视一眼就感觉自己干了什么错事下一秒就要被干掉了啊！」。\n达芙蒂尔本人对于这些言论并不在意，在意这些东西的时间不如用来训练自己。不过，有些不愿付委托费还要胡搅蛮缠的委托人，显然这会成为一次印象深刻的委托。\n「这位亲爱的顾客，你还有什么疑虑吗？」",
-          "LocalizedString": "谈到达芙蒂尔小姐，多数来访的委托人并无太多印象，「冷漠」，「寡言少语」，「仅仅是和她对视一眼就感觉自己干了什么错事下一秒就要被干掉了啊！」。\n达芙蒂尔本人对于这些言论并不在意，在意这些东西的时间不如用来训练自己。不过，有些不愿付委托费还要胡搅蛮缠的委托人，显然这会成为一次印象深刻的委托。\n「这位亲爱的顾客，你还有什么疑虑吗？」"
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_005.player_005",
-          "SubPathString": ""
-        },
-        "SoftActorClass": {
-          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_054.PlayerUIShow_054_C",
-          "SubPathString": ""
-        },
-        "LevelInfo": [
-          {
-            "MaxValue": 100,
-            "AwardID": "drop_Likeability_1005_lv1",
-            "Conditions": [
-              "q110088"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 300,
-            "AwardID": "drop_Likeability_1005_lv2",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 500,
-            "AwardID": "drop_Likeability_1005_lv3",
-            "Conditions": [
-              "K111001"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 1000,
-            "AwardID": "drop_Likeability_1005_lv4",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 2000,
-            "AwardID": "drop_Likeability_1005_lv5",
-            "Conditions": [
-              "K111004"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 3000,
-            "AwardID": "drop_Likeability_1005_lv6",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 5000,
-            "AwardID": "drop_Likeability_1005_lv7",
-            "Conditions": [
-              "K111012"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 8000,
-            "AwardID": "drop_Likeability_1005_lv8",
-            "Conditions": [
-              "S999999"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 11000,
-            "AwardID": "drop_Likeability_1005_lv9",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 15000,
-            "AwardID": "drop_Likeability_1005_lv10",
-            "Conditions": [],
-            "ChatItemID": "None"
-          }
-        ],
-        "LevelChatInfos": [
-          {
-            "LikeabilityLevel": 2,
-            "LikeabilityValue": 500,
-            "ChatItemID": "1005_a_1"
-          },
-          {
-            "LikeabilityLevel": 4,
-            "LikeabilityValue": 2000,
-            "ChatItemID": "1005_a_8"
-          },
-          {
-            "LikeabilityLevel": 6,
-            "LikeabilityValue": 5000,
-            "ChatItemID": "1029_a_1"
-          }
-        ],
-        "LikeabilityMapData": null,
-        "UnlockAvatarID": "None",
-        "InitLikeabilityLevel": 0,
-        "InitLikeabilityLevelLimit": 5,
-        "MainPlotChatItemID": "1005_1_1",
-        "GroupId": "1005",
-        "EpicQuestData": {
-          "QuestId": "None",
-          "QuestCondition": {
-            "QuestId": "None",
-            "LikeabilityLevel": -1
-          }
-        },
-        "PlotQuestDatas": [],
-        "AppointQuestDatas": [],
-        "SubSortLevel": 1,
-        "bIsUnlock": false,
-        "bIsShowMessage": true,
-        "bLockGift": false,
-        "CameraOffset": 15.0,
-        "SoftBornAnim": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        }
-      },
-      "1021": {
-        "SortID": "2",
-        "AreaId": "None",
-        "RoleNameText": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_021",
-          "SourceString": "埃德嘉",
-          "LocalizedString": "埃德嘉"
-        },
-        "TitleNameText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1021_title",
-          "SourceString": "伊波恩古董店店员",
-          "LocalizedString": "伊波恩古董店店员"
-        },
-        "RoleDescText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1021_des",
-          "SourceString": "很多时候，埃德嘉的安静只是因为遇到了感兴趣的难题而沉浸其中，更多时候，埃德嘉只是不知道该如何恰当的表现自己。但是在伊波恩——这个怪人聚集地，埃德嘉不会因为少言被规劝，也不会因为沉默被冷落。\n「咳咳，我决定今晚要制定一份柯林斯家族振兴大计。」\n「我不参加。」\n「驳回！早雾你和埃德嘉都要来。」\n「我……」\n「欸——才不要。」\n……也有时候埃德嘉的沉默是因为没有说话的机会。",
-          "LocalizedString": "很多时候，埃德嘉的安静只是因为遇到了感兴趣的难题而沉浸其中，更多时候，埃德嘉只是不知道该如何恰当的表现自己。但是在伊波恩——这个怪人聚集地，埃德嘉不会因为少言被规劝，也不会因为沉默被冷落。\n「咳咳，我决定今晚要制定一份柯林斯家族振兴大计。」\n「我不参加。」\n「驳回！早雾你和埃德嘉都要来。」\n「我……」\n「欸——才不要。」\n……也有时候埃德嘉的沉默是因为没有说话的机会。"
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_021.player_021",
-          "SubPathString": ""
-        },
-        "SoftActorClass": {
-          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_021.PlayerUIShow_021_C",
-          "SubPathString": ""
-        },
-        "LevelInfo": [
-          {
-            "MaxValue": 100,
-            "AwardID": "drop_Likeability_1021_lv1",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 300,
-            "AwardID": "drop_Likeability_1021_lv2",
-            "Conditions": [
-              "q110088"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 500,
-            "AwardID": "drop_Likeability_1021_lv3",
-            "Conditions": [
-              "K110804"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 1000,
-            "AwardID": "drop_Likeability_1021_lv4",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 2000,
-            "AwardID": "drop_Likeability_1021_lv5",
-            "Conditions": [
-              "q110137",
-              "K110806"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 3000,
-            "AwardID": "drop_Likeability_1021_lv6",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 5000,
-            "AwardID": "drop_Likeability_1021_lv7",
-            "Conditions": [
-              "q110192",
-              "K110808"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 8000,
-            "AwardID": "drop_Likeability_1021_lv8",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 11000,
-            "AwardID": "drop_Likeability_1021_lv9",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 15000,
-            "AwardID": "drop_Likeability_1021_lv10",
-            "Conditions": [],
-            "ChatItemID": "None"
-          }
-        ],
-        "LevelChatInfos": [
-          {
-            "LikeabilityLevel": 2,
-            "LikeabilityValue": 500,
-            "ChatItemID": "1033_e_1"
-          },
-          {
-            "LikeabilityLevel": 4,
-            "LikeabilityValue": 2000,
-            "ChatItemID": "1021_a_1"
-          },
-          {
-            "LikeabilityLevel": 6,
-            "LikeabilityValue": 5000,
-            "ChatItemID": "1021_a_8"
-          }
-        ],
-        "LikeabilityMapData": null,
-        "UnlockAvatarID": "None",
-        "InitLikeabilityLevel": 1,
-        "InitLikeabilityLevelLimit": 5,
-        "MainPlotChatItemID": "1021_1_1",
-        "GroupId": "1021",
-        "EpicQuestData": {
-          "QuestId": "None",
-          "QuestCondition": {
-            "QuestId": "None",
-            "LikeabilityLevel": -1
-          }
-        },
-        "PlotQuestDatas": [],
-        "AppointQuestDatas": [],
-        "SubSortLevel": 1,
-        "bIsUnlock": false,
-        "bIsShowMessage": true,
-        "bLockGift": false,
-        "CameraOffset": -10.0,
-        "SoftBornAnim": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        }
+        "ArrayCityInvitation": [],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "1029": {
         "SortID": "2",
@@ -1279,82 +819,37 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_1029_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_1029_lv2",
-            "Conditions": [
-              "q110088"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_1029_lv3",
-            "Conditions": [
-              "K111202"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 1000,
-            "AwardID": "drop_Likeability_1029_lv4",
             "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 2000,
-            "AwardID": "drop_Likeability_1029_lv5",
-            "Conditions": [
-              "q110394"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 3000,
-            "AwardID": "drop_Likeability_1029_lv6",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 5000,
-            "AwardID": "drop_Likeability_1029_lv7",
-            "Conditions": [
-              "S999999"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 8000,
-            "AwardID": "drop_Likeability_1029_lv8",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 11000,
-            "AwardID": "drop_Likeability_1029_lv9",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 15000,
-            "AwardID": "drop_Likeability_1029_lv10",
-            "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [
           {
-            "LikeabilityLevel": 2,
-            "LikeabilityValue": 500,
-            "ChatItemID": "1029_b_1"
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1029_b_1",
+            "QuestId": "K111201",
+            "LastQuestID": "K111202"
           }
         ],
         "LikeabilityMapData": null,
         "UnlockAvatarID": "None",
         "InitLikeabilityLevel": 1,
-        "InitLikeabilityLevelLimit": 5,
+        "InitLikeabilityLevelLimit": 6,
         "MainPlotChatItemID": "1029_1_1",
         "GroupId": "1029",
         "EpicQuestData": {
@@ -1367,14 +862,354 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 1,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": 20.0,
+        "bShowList": false,
+        "CameraOffset": 130.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "xun_1",
+          "xun_2",
+          "xun_3"
+        ],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1029"
+          }
+        ],
+        "bLevelLimit": true,
+        "NewSortID": 60
+      },
+      "1033": {
+        "SortID": "2",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_033",
+          "SourceString": "阿德勒",
+          "LocalizedString": "阿德勒"
+        },
+        "TitleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1033_title",
+          "SourceString": "伊波恩古董店管家",
+          "LocalizedString": "伊波恩古董店管家"
+        },
+        "RoleDescText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1033_des",
+          "SourceString": "明眼人都能看得出的伊波恩古董店真正的顶梁柱，谦逊可靠的老派绅士，据说海特洛市不少异象猎人组织都尝试过私下递橄榄枝，不过直到现在，阿德勒先生仍是伊波恩的管家。\n「您好，欢迎光临伊波恩古董店。」",
+          "LocalizedString": "明眼人都能看得出的伊波恩古董店真正的顶梁柱，谦逊可靠的老派绅士，据说海特洛市不少异象猎人组织都尝试过私下递橄榄枝，不过直到现在，阿德勒先生仍是伊波恩的管家。\n「您好，欢迎光临伊波恩古董店。」"
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_015.player_015",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_033.PlayerUIShow_033_C",
+          "SubPathString": ""
+        },
+        "LevelInfo": [
+          {
+            "MaxValue": 100,
+            "AwardID": "drop_Likeability_1033_lv1",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 300,
+            "AwardID": "drop_Likeability_1033_lv2",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 500,
+            "AwardID": "drop_Likeability_1033_lv3",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 1000,
+            "AwardID": "drop_Likeability_1033_lv4",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 2000,
+            "AwardID": "drop_Likeability_1033_lv5",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 3000,
+            "AwardID": "drop_Likeability_1033_lv6",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 5000,
+            "AwardID": "drop_Likeability_1033_lv7",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 8000,
+            "AwardID": "drop_Likeability_1033_lv8",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 11000,
+            "AwardID": "drop_Likeability_1033_lv9",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 15000,
+            "AwardID": "drop_Likeability_1033_lv10",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          }
+        ],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1033_6_1",
+            "QuestId": "K111701",
+            "LastQuestID": "K111704"
+          },
+          {
+            "LikeabilityLevel": 4,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1033_6_5",
+            "QuestId": "K111711",
+            "LastQuestID": "K111714"
+          },
+          {
+            "LikeabilityLevel": 5,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1033_6_9",
+            "QuestId": "K111721",
+            "LastQuestID": "K111722"
+          }
+        ],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 1,
+        "InitLikeabilityLevelLimit": 6,
+        "MainPlotChatItemID": "1033_1_1",
+        "GroupId": "1033",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 1,
+        "bIsShowMessage": true,
+        "bLockGift": false,
+        "bShowList": true,
+        "CameraOffset": 140.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [
+          "adele_1",
+          "empty",
+          "empty"
+        ],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1033"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 59
+      },
+      "1005": {
+        "SortID": "2",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_005",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "TitleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1005_title",
+          "SourceString": "伊波恩古董店保镖",
+          "LocalizedString": "伊波恩古董店保镖"
+        },
+        "RoleDescText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1005_des",
+          "SourceString": "谈到达芙蒂尔小姐，多数来访的委托人并无太多印象，「冷漠」，「寡言少语」，「仅仅是和她对视一眼就感觉自己干了什么错事下一秒就要被干掉了啊！」。\n达芙蒂尔本人对于这些言论并不在意，在意这些东西的时间不如用来训练自己。不过，有些不愿付委托费还要胡搅蛮缠的委托人，显然这会成为一次印象深刻的委托。\n「这位亲爱的顾客，你还有什么疑虑吗？」",
+          "LocalizedString": "谈到达芙蒂尔小姐，多数来访的委托人并无太多印象，「冷漠」，「寡言少语」，「仅仅是和她对视一眼就感觉自己干了什么错事下一秒就要被干掉了啊！」。\n达芙蒂尔本人对于这些言论并不在意，在意这些东西的时间不如用来训练自己。不过，有些不愿付委托费还要胡搅蛮缠的委托人，显然这会成为一次印象深刻的委托。\n「这位亲爱的顾客，你还有什么疑虑吗？」"
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_005.player_005",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_054.PlayerUIShow_054_C",
+          "SubPathString": ""
+        },
+        "LevelInfo": [
+          {
+            "MaxValue": 100,
+            "AwardID": "drop_Likeability_1005_lv1",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 300,
+            "AwardID": "drop_Likeability_1005_lv2",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 500,
+            "AwardID": "drop_Likeability_1005_lv3",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 1000,
+            "AwardID": "drop_Likeability_1005_lv4",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 2000,
+            "AwardID": "drop_Likeability_1005_lv5",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 3000,
+            "AwardID": "drop_Likeability_1005_lv6",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 5000,
+            "AwardID": "drop_Likeability_1005_lv7",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 8000,
+            "AwardID": "drop_Likeability_1005_lv8",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 11000,
+            "AwardID": "drop_Likeability_1005_lv9",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 15000,
+            "AwardID": "drop_Likeability_1005_lv10",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          }
+        ],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1005_a_1",
+            "QuestId": "K111001",
+            "LastQuestID": "None"
+          },
+          {
+            "LikeabilityLevel": 4,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1005_a_8",
+            "QuestId": "K111002",
+            "LastQuestID": "None"
+          },
+          {
+            "LikeabilityLevel": 5,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1029_a_1",
+            "QuestId": "K111005",
+            "LastQuestID": "None"
+          }
+        ],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 0,
+        "InitLikeabilityLevelLimit": 6,
+        "MainPlotChatItemID": "1005_1_1",
+        "GroupId": "1005",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 1,
+        "bIsShowMessage": true,
+        "bLockGift": false,
+        "bShowList": true,
+        "CameraOffset": 135.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [
+          "dafudier_1",
+          "empty",
+          "empty"
+        ],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1005"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 58
       },
       "1010": {
         "SortID": "2",
@@ -1410,95 +1245,100 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_1010_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_1010_lv2",
-            "Conditions": [
-              "q110088"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_1010_lv3",
-            "Conditions": [
-              "K110604"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_1010_lv4",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_1010_lv5",
-            "Conditions": [
-              "K110605",
-              "q110192"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 3000,
             "AwardID": "drop_Likeability_1010_lv6",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 5000,
             "AwardID": "drop_Likeability_1010_lv7",
-            "Conditions": [
-              "K110607"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 8000,
             "AwardID": "drop_Likeability_1010_lv8",
-            "Conditions": [
-              "L110266"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 11000,
             "AwardID": "drop_Likeability_1010_lv9",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 15000,
             "AwardID": "drop_Likeability_1010_lv10",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [
           {
-            "LikeabilityLevel": 2,
-            "LikeabilityValue": 500,
-            "ChatItemID": "1010_a_1"
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1010_a_1",
+            "QuestId": "K110601",
+            "LastQuestID": "K110604"
           },
           {
             "LikeabilityLevel": 4,
-            "LikeabilityValue": 2000,
-            "ChatItemID": "1010_b_1"
+            "LikeabilityValue": 0,
+            "ChatItemID": "1010_b_1",
+            "QuestId": "K110605",
+            "LastQuestID": "K110605"
           },
           {
-            "LikeabilityLevel": 6,
-            "LikeabilityValue": 5000,
-            "ChatItemID": "1010_c_1"
+            "LikeabilityLevel": 5,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1010_c_1",
+            "QuestId": "K110606",
+            "LastQuestID": "K110607"
           }
         ],
         "LikeabilityMapData": null,
         "UnlockAvatarID": "None",
         "InitLikeabilityLevel": 1,
-        "InitLikeabilityLevelLimit": 5,
+        "InitLikeabilityLevelLimit": 6,
         "MainPlotChatItemID": "1010_1_1",
         "GroupId": "1010",
         "EpicQuestData": {
@@ -1511,14 +1351,936 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 1,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": -5.0,
+        "bShowList": true,
+        "CameraOffset": 110.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "nanali_1",
+          "nanali_2",
+          "nanali_3",
+          "nanali_4",
+          "nanali_5"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003",
+          "nanali_0004",
+          "nanali_0006",
+          "nanali_0007",
+          "nanali_0008",
+          "nanali_0009",
+          "nanali_0010",
+          "nanali_0011",
+          "nanali_0012",
+          "nanali_0013",
+          "nanali_0014",
+          "nanali_jh_0001",
+          "nanali_jh_0002",
+          "nanali_jh_0004",
+          "nanali_jh_0005",
+          "nanali_jh_0006"
+        ],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1010"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 57
+      },
+      "1003": {
+        "SortID": "2",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_003",
+          "SourceString": "早雾",
+          "LocalizedString": "早雾"
+        },
+        "TitleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1003_title",
+          "SourceString": "伊波恩古董店店员",
+          "LocalizedString": "伊波恩古董店店员"
+        },
+        "RoleDescText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1003_des",
+          "SourceString": "长有鬼角的白发女孩，身边伴有一只独眼鬼怪，哼着调子奇诡的怪异童谣，却时常因为身高等原因让委托人产生怀疑……呃，为保证您的人身安全，以上这句请勿于本人面前直接表达，谢谢。\n「鬼郎丸！又乱吃东西，快给我吐出来！」\n「小气鬼早雾……哎呦！」",
+          "LocalizedString": "长有鬼角的白发女孩，身边伴有一只独眼鬼怪，哼着调子奇诡的怪异童谣，却时常因为身高等原因让委托人产生怀疑……呃，为保证您的人身安全，以上这句请勿于本人面前直接表达，谢谢。\n「鬼郎丸！又乱吃东西，快给我吐出来！」\n「小气鬼早雾……哎呦！」"
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_003.player_003",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_003.PlayerUIShow_003_C",
+          "SubPathString": ""
+        },
+        "LevelInfo": [
+          {
+            "MaxValue": 100,
+            "AwardID": "drop_Likeability_1003_lv1",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 300,
+            "AwardID": "drop_Likeability_1003_lv2",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 500,
+            "AwardID": "drop_Likeability_1003_lv3",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          }
+        ],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1003_b_1",
+            "QuestId": "k110910",
+            "LastQuestID": "K110910"
+          }
+        ],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 0,
+        "InitLikeabilityLevelLimit": 6,
+        "MainPlotChatItemID": "1003_1_1",
+        "GroupId": "1003",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 1,
+        "bIsShowMessage": true,
+        "bLockGift": false,
+        "bShowList": true,
+        "CameraOffset": 90.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [
+          "zaowu_2",
+          "empty",
+          "empty"
+        ],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1003"
+          }
+        ],
+        "bLevelLimit": true,
+        "NewSortID": 56
+      },
+      "1021": {
+        "SortID": "2",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_021",
+          "SourceString": "埃德嘉",
+          "LocalizedString": "埃德嘉"
+        },
+        "TitleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1021_title",
+          "SourceString": "伊波恩古董店店员",
+          "LocalizedString": "伊波恩古董店店员"
+        },
+        "RoleDescText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1021_des",
+          "SourceString": "很多时候，埃德嘉的安静只是因为遇到了感兴趣的难题而沉浸其中，更多时候，埃德嘉只是不知道该如何恰当的表现自己。但是在伊波恩——这个怪人聚集地，埃德嘉不会因为少言被规劝，也不会因为沉默被冷落。\n「咳咳，我决定今晚要制定一份柯林斯家族振兴大计。」\n「我不参加。」\n「驳回！早雾你和埃德嘉都要来。」\n「我……」\n「欸——才不要。」\n……也有时候埃德嘉的沉默是因为没有说话的机会。",
+          "LocalizedString": "很多时候，埃德嘉的安静只是因为遇到了感兴趣的难题而沉浸其中，更多时候，埃德嘉只是不知道该如何恰当的表现自己。但是在伊波恩——这个怪人聚集地，埃德嘉不会因为少言被规劝，也不会因为沉默被冷落。\n「咳咳，我决定今晚要制定一份柯林斯家族振兴大计。」\n「我不参加。」\n「驳回！早雾你和埃德嘉都要来。」\n「我……」\n「欸——才不要。」\n……也有时候埃德嘉的沉默是因为没有说话的机会。"
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_021.player_021",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_021.PlayerUIShow_021_C",
+          "SubPathString": ""
+        },
+        "LevelInfo": [
+          {
+            "MaxValue": 100,
+            "AwardID": "drop_Likeability_1021_lv1",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 300,
+            "AwardID": "drop_Likeability_1021_lv2",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 500,
+            "AwardID": "drop_Likeability_1021_lv3",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 1000,
+            "AwardID": "drop_Likeability_1021_lv4",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 2000,
+            "AwardID": "drop_Likeability_1021_lv5",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 3000,
+            "AwardID": "drop_Likeability_1021_lv6",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 5000,
+            "AwardID": "drop_Likeability_1021_lv7",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 8000,
+            "AwardID": "drop_Likeability_1021_lv8",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 11000,
+            "AwardID": "drop_Likeability_1021_lv9",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 15000,
+            "AwardID": "drop_Likeability_1021_lv10",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          }
+        ],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1033_e_1",
+            "QuestId": "K110802",
+            "LastQuestID": "K110804"
+          },
+          {
+            "LikeabilityLevel": 4,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1021_a_1",
+            "QuestId": "K110805",
+            "LastQuestID": "K110806"
+          },
+          {
+            "LikeabilityLevel": 5,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1021_a_8",
+            "QuestId": "K110807",
+            "LastQuestID": "K110808"
+          }
+        ],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 1,
+        "InitLikeabilityLevelLimit": 6,
+        "MainPlotChatItemID": "1021_1_1",
+        "GroupId": "1021",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 1,
+        "bIsShowMessage": true,
+        "bLockGift": false,
+        "bShowList": true,
+        "CameraOffset": 105.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [
+          "aidejia_1",
+          "empty",
+          "empty"
+        ],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1021"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 55
+      },
+      "1014": {
+        "SortID": "4",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_014",
+          "SourceString": "九原",
+          "LocalizedString": "九原"
+        },
+        "TitleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1014_title",
+          "SourceString": "斯特利速递店员",
+          "LocalizedString": "斯特利速递店员"
+        },
+        "RoleDescText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1014_des",
+          "SourceString": "「想知道这条消息，去斯特利速递找一个紫色的女人，只要你出得起价。」\n「紫色？她穿这个颜色的衣服？」\n「不，她给人的感觉就是紫色的。」\n是最滚烫的红和最沉静的蓝融合在一起的颜色，时而轻薄的像是日出前的晨雾，时而厚重的如日落前最后的云霞。许多人与九原小姐交好，却也知道「良好的交际关系」不过是九原小姐的工作而已。",
+          "LocalizedString": "「想知道这条消息，去斯特利速递找一个紫色的女人，只要你出得起价。」\n「紫色？她穿这个颜色的衣服？」\n「不，她给人的感觉就是紫色的。」\n是最滚烫的红和最沉静的蓝融合在一起的颜色，时而轻薄的像是日出前的晨雾，时而厚重的如日落前最后的云霞。许多人与九原小姐交好，却也知道「良好的交际关系」不过是九原小姐的工作而已。"
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_104.player_104",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_055.PlayerUIShow_055_C",
+          "SubPathString": ""
+        },
+        "LevelInfo": [
+          {
+            "MaxValue": 100,
+            "AwardID": "drop_Likeability_1014_lv1",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 300,
+            "AwardID": "drop_Likeability_1014_lv2",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 500,
+            "AwardID": "drop_Likeability_1014_lv3",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 1000,
+            "AwardID": "drop_Likeability_1014_lv4",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 2000,
+            "AwardID": "drop_Likeability_1014_lv5",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 3000,
+            "AwardID": "drop_Likeability_1014_lv6",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 5000,
+            "AwardID": "drop_Likeability_1014_lv7",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 8000,
+            "AwardID": "drop_Likeability_1014_lv8",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 11000,
+            "AwardID": "drop_Likeability_1014_lv9",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 15000,
+            "AwardID": "drop_Likeability_1014_lv10",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          }
+        ],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1020_c_1",
+            "QuestId": "K111601",
+            "LastQuestID": "K111602"
+          },
+          {
+            "LikeabilityLevel": 4,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1014_a_1",
+            "QuestId": "K111603",
+            "LastQuestID": "K111604"
+          },
+          {
+            "LikeabilityLevel": 5,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1014_a_8",
+            "QuestId": "K111605",
+            "LastQuestID": "K111610"
+          }
+        ],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 2,
+        "InitLikeabilityLevelLimit": 6,
+        "MainPlotChatItemID": "1014_1_1",
+        "GroupId": "1014",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 0,
+        "bIsShowMessage": true,
+        "bLockGift": false,
+        "bShowList": true,
+        "CameraOffset": 135.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [
+          "jiuyuan_2",
+          "empty",
+          "empty"
+        ],
+        "ArrayHomeGuest": [
+          "jiuyuan_0001"
+        ],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1014"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 40
+      },
+      "1020": {
+        "SortID": "4",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_014_Name",
+          "SourceString": "哈尼娅",
+          "LocalizedString": "哈尼娅"
+        },
+        "TitleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1020_title",
+          "SourceString": "斯特利速递店员",
+          "LocalizedString": "斯特利速递店员"
+        },
+        "RoleDescText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1020_des",
+          "SourceString": "流动的水没有形状，漂流的风找不到踪迹，任何异象委托的细节都不能放过！外表是看似普通的女高中生，实际上是游走于光影之间的「精英快递员」，斯特利速递最快记录保持者——\n「吾乃『哈尼娅』，海特洛市掌管耳机的神……嘿嘿，有需要就呼唤我的名字吧！」",
+          "LocalizedString": "流动的水没有形状，漂流的风找不到踪迹，任何异象委托的细节都不能放过！外表是看似普通的女高中生，实际上是游走于光影之间的「精英快递员」，斯特利速递最快记录保持者——\n「吾乃『哈尼娅』，海特洛市掌管耳机的神……嘿嘿，有需要就呼唤我的名字吧！」"
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_020.player_020",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_020.PlayerUIShow_020_C",
+          "SubPathString": ""
+        },
+        "LevelInfo": [
+          {
+            "MaxValue": 100,
+            "AwardID": "drop_Likeability_1020_lv1",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 300,
+            "AwardID": "drop_Likeability_1020_lv2",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 500,
+            "AwardID": "drop_Likeability_1020_lv3",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 1000,
+            "AwardID": "drop_Likeability_1020_lv4",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 2000,
+            "AwardID": "drop_Likeability_1020_lv5",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 3000,
+            "AwardID": "drop_Likeability_1020_lv6",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 5000,
+            "AwardID": "drop_Likeability_1020_lv7",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 8000,
+            "AwardID": "drop_Likeability_1020_lv8",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 11000,
+            "AwardID": "drop_Likeability_1020_lv9",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 15000,
+            "AwardID": "drop_Likeability_1020_lv10",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          }
+        ],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1020_a1_1",
+            "QuestId": "K110701",
+            "LastQuestID": "K110711"
+          },
+          {
+            "LikeabilityLevel": 4,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1020_a2_1",
+            "QuestId": "K110721",
+            "LastQuestID": "K110727"
+          },
+          {
+            "LikeabilityLevel": 5,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1020_a3_1",
+            "QuestId": "K110731",
+            "LastQuestID": "K110735"
+          }
+        ],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 2,
+        "InitLikeabilityLevelLimit": 6,
+        "MainPlotChatItemID": "1020_1_1",
+        "GroupId": "1020",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 0,
+        "bIsShowMessage": true,
+        "bLockGift": false,
+        "bShowList": true,
+        "CameraOffset": 120.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [
+          "haniya_1",
+          "empty",
+          "empty"
+        ],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1020"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 39
+      },
+      "1025": {
+        "SortID": "4",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_025",
+          "SourceString": "哈索尔",
+          "LocalizedString": "哈索尔"
+        },
+        "TitleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1025_title",
+          "SourceString": "斯特利速递店员",
+          "LocalizedString": "斯特利速递店员"
+        },
+        "RoleDescText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1025_des",
+          "SourceString": "「快递员」对于哈索尔来说，是很适合她的职业。1、确认时间和地址；2、交付给收件人；3、签单完成，甚至不需要过多的交流。虽然有时候也会遇到一些麻烦，不过解决的方式也很简单，让他们感到「恐惧」就好了。\n在没有工作的闲暇时间，哈索尔更倾向于待在家里，坐在能晒到太阳的窗前，面无表情地吃完一整盒巧克力装饰饼干，且不喝水。",
+          "LocalizedString": "「快递员」对于哈索尔来说，是很适合她的职业。1、确认时间和地址；2、交付给收件人；3、签单完成，甚至不需要过多的交流。虽然有时候也会遇到一些麻烦，不过解决的方式也很简单，让他们感到「恐惧」就好了。\n在没有工作的闲暇时间，哈索尔更倾向于待在家里，坐在能晒到太阳的窗前，面无表情地吃完一整盒巧克力装饰饼干，且不喝水。"
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_012.player_012",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_025.PlayerUIShow_025_C",
+          "SubPathString": ""
+        },
+        "LevelInfo": [
+          {
+            "MaxValue": 100,
+            "AwardID": "drop_Likeability_1025_lv1",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 300,
+            "AwardID": "drop_Likeability_1025_lv2",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 500,
+            "AwardID": "drop_Likeability_1025_lv3",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 1000,
+            "AwardID": "drop_Likeability_1025_lv4",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 2000,
+            "AwardID": "drop_Likeability_1025_lv5",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 3000,
+            "AwardID": "drop_Likeability_1025_lv6",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 5000,
+            "AwardID": "drop_Likeability_1025_lv7",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 8000,
+            "AwardID": "drop_Likeability_1025_lv8",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 11000,
+            "AwardID": "drop_Likeability_1025_lv9",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 15000,
+            "AwardID": "drop_Likeability_1025_lv10",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          }
+        ],
+        "LevelChatInfos": [
+          {
+            "LikeabilityLevel": 3,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1025_a_11",
+            "QuestId": "K111501",
+            "LastQuestID": "k111501"
+          },
+          {
+            "LikeabilityLevel": 4,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1025_a_17",
+            "QuestId": "K111502",
+            "LastQuestID": "k111504"
+          },
+          {
+            "LikeabilityLevel": 5,
+            "LikeabilityValue": 0,
+            "ChatItemID": "1025_a_24",
+            "QuestId": "K111505",
+            "LastQuestID": "k111512"
+          }
+        ],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 0,
+        "InitLikeabilityLevelLimit": 6,
+        "MainPlotChatItemID": "1025_1_1",
+        "GroupId": "1025",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 0,
+        "bIsShowMessage": true,
+        "bLockGift": false,
+        "bShowList": true,
+        "CameraOffset": 125.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1025"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 38
+      },
+      "1073": {
+        "SortID": "7",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1073_name",
+          "SourceString": "小吱",
+          "LocalizedString": "小吱"
+        },
+        "TitleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1073_title",
+          "SourceString": "粉爪银行大堂经理",
+          "LocalizedString": "粉爪银行大堂经理"
+        },
+        "RoleDescText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1073_des",
+          "SourceString": "明明看起来像是实习生但是工牌上却写着：「粉爪银行（新赫兰德区总部）-大堂经理」，一度会让人质疑粉爪银行的专业程度，不过在小吱开口之后所有的疑虑都会瞬间打消——原来真的有人能完全记住这么多条款啊！\n「你、你好，要办卡吗……等等，我、我不是骗子！」",
+          "LocalizedString": "明明看起来像是实习生但是工牌上却写着：「粉爪银行（新赫兰德区总部）-大堂经理」，一度会让人质疑粉爪银行的专业程度，不过在小吱开口之后所有的疑虑都会瞬间打消——原来真的有人能完全记住这么多条款啊！\n「你、你好，要办卡吗……等等，我、我不是骗子！」"
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_073.player_073",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_073.PlayerUIShow_073_C",
+          "SubPathString": ""
+        },
+        "LevelInfo": [
+          {
+            "MaxValue": 100,
+            "AwardID": "drop_Likeability_1073_lv1",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 300,
+            "AwardID": "drop_Likeability_1073_lv2",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 500,
+            "AwardID": "drop_Likeability_1073_lv3",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 1000,
+            "AwardID": "drop_Likeability_1073_lv4",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 2000,
+            "AwardID": "drop_Likeability_1073_lv5",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 3000,
+            "AwardID": "drop_Likeability_1073_lv6",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 5000,
+            "AwardID": "drop_Likeability_1073_lv7",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 8000,
+            "AwardID": "drop_Likeability_1073_lv8",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 11000,
+            "AwardID": "drop_Likeability_1073_lv9",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 15000,
+            "AwardID": "drop_Likeability_1073_lv10",
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          }
+        ],
+        "LevelChatInfos": [],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 1,
+        "InitLikeabilityLevelLimit": 6,
+        "MainPlotChatItemID": "1073_1_1",
+        "GroupId": "1073",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 1,
+        "bIsShowMessage": true,
+        "bLockGift": false,
+        "bShowList": true,
+        "CameraOffset": 125.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1073"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 20
       },
       "Tajiduo": {
         "SortID": "2",
@@ -1554,89 +2316,94 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_Tajiduo_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_Tajiduo_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_Tajiduo_lv3",
-            "Conditions": [
-              "q110088"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_Tajiduo_lv4",
-            "Conditions": [
-              "k110902"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_Tajiduo_lv5",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 3000,
             "AwardID": "drop_Likeability_Tajiduo_lv6",
-            "Conditions": [
-              "k110904",
-              "q110192"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 5000,
             "AwardID": "drop_Likeability_Tajiduo_lv7",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 8000,
             "AwardID": "drop_Likeability_Tajiduo_lv8",
-            "Conditions": [
-              "k110905"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 11000,
             "AwardID": "drop_Likeability_Tajiduo_lv9",
-            "Conditions": [
-              "s110820"
-            ],
-            "ChatItemID": "k110905"
+            "Conditions": [],
+            "ChatItemID": "k110905",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 15000,
             "AwardID": "drop_Likeability_Tajiduo_lv10",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [
           {
             "LikeabilityLevel": 3,
             "LikeabilityValue": 1000,
-            "ChatItemID": "Tajiduo_e_1"
+            "ChatItemID": "Tajiduo_e_1",
+            "QuestId": "None",
+            "LastQuestID": "None"
           },
           {
             "LikeabilityLevel": 5,
             "LikeabilityValue": 3000,
-            "ChatItemID": "Tajiduo_e_8"
+            "ChatItemID": "Tajiduo_e_8",
+            "QuestId": "None",
+            "LastQuestID": "None"
           },
           {
             "LikeabilityLevel": 7,
             "LikeabilityValue": 8000,
-            "ChatItemID": "Tajiduo_e_18"
+            "ChatItemID": "Tajiduo_e_18",
+            "QuestId": "None",
+            "LastQuestID": "None"
           }
         ],
         "LikeabilityMapData": null,
@@ -1655,14 +2422,19 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 0,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": -60.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "Aobuli": {
         "SortID": "3",
@@ -1698,54 +2470,59 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_Aobuli_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_Aobuli_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_Aobuli_lv3",
-            "Conditions": [
-              "K110353"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_Aobuli_lv4",
-            "Conditions": [
-              "K110356"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_Aobuli_lv5",
-            "Conditions": [
-              "K110359"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [
           {
             "LikeabilityLevel": 2,
             "LikeabilityValue": 500,
-            "ChatItemID": "Aobuli_d_1"
+            "ChatItemID": "Aobuli_d_1",
+            "QuestId": "None",
+            "LastQuestID": "None"
           },
           {
             "LikeabilityLevel": 3,
             "LikeabilityValue": 1000,
-            "ChatItemID": "Aobuli_d_7"
+            "ChatItemID": "Aobuli_d_7",
+            "QuestId": "None",
+            "LastQuestID": "None"
           },
           {
             "LikeabilityLevel": 4,
             "LikeabilityValue": 2000,
-            "ChatItemID": "Aobuli_d_13"
+            "ChatItemID": "Aobuli_d_13",
+            "QuestId": "None",
+            "LastQuestID": "None"
           }
         ],
         "LikeabilityMapData": {
@@ -1796,14 +2573,27 @@
         ],
         "AppointQuestDatas": [],
         "SubSortLevel": 0,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 0.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "H_NPC_03404": {
         "SortID": "3",
@@ -1839,54 +2629,59 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_H_NPC_03404_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_H_NPC_03404_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_H_NPC_03404_lv3",
-            "Conditions": [
-              "K110205"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_H_NPC_03404_lv4",
-            "Conditions": [
-              "K110208"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_H_NPC_03404_lv5",
-            "Conditions": [
-              "K110237"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [
           {
             "LikeabilityLevel": 2,
             "LikeabilityValue": 500,
-            "ChatItemID": "H_NPC_03404_c_1"
+            "ChatItemID": "H_NPC_03404_c_1",
+            "QuestId": "None",
+            "LastQuestID": "None"
           },
           {
             "LikeabilityLevel": 3,
             "LikeabilityValue": 1000,
-            "ChatItemID": "H_NPC_03404_d_1"
+            "ChatItemID": "H_NPC_03404_d_1",
+            "QuestId": "None",
+            "LastQuestID": "None"
           },
           {
             "LikeabilityLevel": 4,
             "LikeabilityValue": 2000,
-            "ChatItemID": "H_NPC_03404_f_1"
+            "ChatItemID": "H_NPC_03404_f_1",
+            "QuestId": "None",
+            "LastQuestID": "None"
           }
         ],
         "LikeabilityMapData": {
@@ -1915,14 +2710,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 0,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 0.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "Trinity": {
         "SortID": "3",
@@ -1965,14 +2773,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 0,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 0.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "dai": {
         "SortID": "3",
@@ -2004,7 +2825,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2012,7 +2834,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2020,7 +2843,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2040,14 +2864,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "Anomaly_047": {
         "SortID": "3",
@@ -2079,7 +2916,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2087,7 +2925,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2095,7 +2934,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2115,14 +2955,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "zhiansuo": {
         "SortID": "3",
@@ -2154,7 +3007,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2162,7 +3016,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2170,7 +3025,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2190,14 +3046,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "SU016_001": {
         "SortID": "3",
@@ -2229,7 +3098,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2237,7 +3107,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2245,7 +3116,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2265,14 +3137,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "SU016_002": {
         "SortID": "3",
@@ -2304,7 +3189,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2312,7 +3198,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2320,7 +3207,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2340,14 +3228,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "SU016_003": {
         "SortID": "3",
@@ -2379,7 +3280,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2387,7 +3289,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2395,7 +3298,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2415,14 +3319,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "SU016_004": {
         "SortID": "3",
@@ -2454,7 +3371,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2462,7 +3380,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2470,7 +3389,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2490,14 +3410,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "SU016_005": {
         "SortID": "3",
@@ -2529,7 +3462,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2537,7 +3471,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2545,7 +3480,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2565,23 +3501,33 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "SU016_001_2": {
         "SortID": "3",
         "AreaId": "None",
         "RoleNameText": {
-          "Namespace": "",
-          "Key": "EE11129349271E0BBC6EA0ABA84F4A07",
-          "SourceString": "?¿?",
-          "LocalizedString": "?¿?"
+          "CultureInvariantString": "?¿?"
         },
         "TitleNameText": {
           "CultureInvariantString": null
@@ -2604,7 +3550,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2612,7 +3559,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2620,7 +3568,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2640,14 +3589,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "SU016_002_2": {
         "SortID": "3",
@@ -2679,7 +3641,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2687,7 +3650,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2695,7 +3659,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2715,14 +3680,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "SU016_003_2": {
         "SortID": "3",
@@ -2754,7 +3732,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2762,7 +3741,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2770,7 +3750,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2790,14 +3771,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "SU016_004_2": {
         "SortID": "3",
@@ -2829,7 +3823,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2837,7 +3832,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2845,7 +3841,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2865,14 +3862,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "SU016_005_2": {
         "SortID": "3",
@@ -2904,7 +3914,8 @@
             "Conditions": [
               "q410002"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 600,
@@ -2912,7 +3923,8 @@
             "Conditions": [
               "q410009"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1200,
@@ -2920,7 +3932,8 @@
             "Conditions": [
               "q410016"
             ],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -2940,14 +3953,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "Trinity_2": {
         "SortID": "3",
@@ -2990,397 +4016,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 0,
-        "bIsUnlock": false,
         "bIsShowMessage": false,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 0.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
-      },
-      "1025": {
-        "SortID": "4",
-        "AreaId": "None",
-        "RoleNameText": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_025",
-          "SourceString": "哈索尔",
-          "LocalizedString": "哈索尔"
         },
-        "TitleNameText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1025_title",
-          "SourceString": "斯特利速递店员",
-          "LocalizedString": "斯特利速递店员"
-        },
-        "RoleDescText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1025_des",
-          "SourceString": "「快递员」对于哈索尔来说，是很适合她的职业。1、确认时间和地址；2、交付给收件人；3、签单完成，甚至不需要过多的交流。虽然有时候也会遇到一些麻烦，不过解决的方式也很简单，让他们感到「恐惧」就好了。\n在没有工作的闲暇时间，哈索尔更倾向于待在家里，坐在能晒到太阳的窗前，面无表情地吃完一整盒巧克力装饰饼干，且不喝水。",
-          "LocalizedString": "「快递员」对于哈索尔来说，是很适合她的职业。1、确认时间和地址；2、交付给收件人；3、签单完成，甚至不需要过多的交流。虽然有时候也会遇到一些麻烦，不过解决的方式也很简单，让他们感到「恐惧」就好了。\n在没有工作的闲暇时间，哈索尔更倾向于待在家里，坐在能晒到太阳的窗前，面无表情地吃完一整盒巧克力装饰饼干，且不喝水。"
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_012.player_012",
-          "SubPathString": ""
-        },
-        "SoftActorClass": {
-          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_025.PlayerUIShow_025_C",
-          "SubPathString": ""
-        },
-        "LevelInfo": [
-          {
-            "MaxValue": 100,
-            "AwardID": "drop_Likeability_1025_lv1",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 300,
-            "AwardID": "drop_Likeability_1025_lv2",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 500,
-            "AwardID": "drop_Likeability_1025_lv3",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 1000,
-            "AwardID": "drop_Likeability_1025_lv4",
-            "Conditions": [
-              "q110394"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 2000,
-            "AwardID": "drop_Likeability_1025_lv5",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 3000,
-            "AwardID": "drop_Likeability_1025_lv6",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 5000,
-            "AwardID": "drop_Likeability_1025_lv7",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 8000,
-            "AwardID": "drop_Likeability_1025_lv8",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 11000,
-            "AwardID": "drop_Likeability_1025_lv9",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 15000,
-            "AwardID": "drop_Likeability_1025_lv10",
-            "Conditions": [],
-            "ChatItemID": "None"
-          }
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
         ],
-        "LevelChatInfos": [],
-        "LikeabilityMapData": null,
-        "UnlockAvatarID": "None",
-        "InitLikeabilityLevel": 0,
-        "InitLikeabilityLevelLimit": 5,
-        "MainPlotChatItemID": "1025_1_1",
-        "GroupId": "1025",
-        "EpicQuestData": {
-          "QuestId": "None",
-          "QuestCondition": {
-            "QuestId": "None",
-            "LikeabilityLevel": -1
-          }
-        },
-        "PlotQuestDatas": [],
-        "AppointQuestDatas": [],
-        "SubSortLevel": 0,
-        "bIsUnlock": false,
-        "bIsShowMessage": true,
-        "bLockGift": false,
-        "CameraOffset": 15.0,
-        "SoftBornAnim": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        }
-      },
-      "1020": {
-        "SortID": "4",
-        "AreaId": "None",
-        "RoleNameText": {
-          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
-          "Key": "NPC_014_Name",
-          "SourceString": "哈尼娅",
-          "LocalizedString": "哈尼娅"
-        },
-        "TitleNameText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1020_title",
-          "SourceString": "斯特利速递店员",
-          "LocalizedString": "斯特利速递店员"
-        },
-        "RoleDescText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1020_des",
-          "SourceString": "流动的水没有形状，漂流的风找不到踪迹，任何异象委托的细节都不能放过！外表是看似普通的女高中生，实际上是游走于光影之间的「精英快递员」，斯特利速递最快记录保持者——\n「吾乃『哈尼娅』，海特洛市掌管耳机的神……嘿嘿，有需要就呼唤我的名字吧！」",
-          "LocalizedString": "流动的水没有形状，漂流的风找不到踪迹，任何异象委托的细节都不能放过！外表是看似普通的女高中生，实际上是游走于光影之间的「精英快递员」，斯特利速递最快记录保持者——\n「吾乃『哈尼娅』，海特洛市掌管耳机的神……嘿嘿，有需要就呼唤我的名字吧！」"
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_020.player_020",
-          "SubPathString": ""
-        },
-        "SoftActorClass": {
-          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_020.PlayerUIShow_020_C",
-          "SubPathString": ""
-        },
-        "LevelInfo": [
-          {
-            "MaxValue": 100,
-            "AwardID": "drop_Likeability_1020_lv1",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 300,
-            "AwardID": "drop_Likeability_1020_lv2",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 500,
-            "AwardID": "drop_Likeability_1020_lv3",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 1000,
-            "AwardID": "drop_Likeability_1020_lv4",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 2000,
-            "AwardID": "drop_Likeability_1020_lv5",
-            "Conditions": [
-              "K110711"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 3000,
-            "AwardID": "drop_Likeability_1020_lv6",
-            "Conditions": [
-              "L110266"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 5000,
-            "AwardID": "drop_Likeability_1020_lv7",
-            "Conditions": [
-              "K110727"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 8000,
-            "AwardID": "drop_Likeability_1020_lv8",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 11000,
-            "AwardID": "drop_Likeability_1020_lv9",
-            "Conditions": [
-              "S999999"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 15000,
-            "AwardID": "drop_Likeability_1020_lv10",
-            "Conditions": [
-              "K110734"
-            ],
-            "ChatItemID": "None"
-          }
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
         ],
-        "LevelChatInfos": [
-          {
-            "LikeabilityLevel": 4,
-            "LikeabilityValue": 2000,
-            "ChatItemID": "1020_a1_1"
-          },
-          {
-            "LikeabilityLevel": 6,
-            "LikeabilityValue": 5000,
-            "ChatItemID": "1020_a2_1"
-          },
-          {
-            "LikeabilityLevel": 9,
-            "LikeabilityValue": 15000,
-            "ChatItemID": "1020_a3_1"
-          }
-        ],
-        "LikeabilityMapData": null,
-        "UnlockAvatarID": "None",
-        "InitLikeabilityLevel": 2,
-        "InitLikeabilityLevelLimit": 5,
-        "MainPlotChatItemID": "1020_1_1",
-        "GroupId": "1020",
-        "EpicQuestData": {
-          "QuestId": "None",
-          "QuestCondition": {
-            "QuestId": "None",
-            "LikeabilityLevel": -1
-          }
-        },
-        "PlotQuestDatas": [],
-        "AppointQuestDatas": [],
-        "SubSortLevel": 0,
-        "bIsUnlock": false,
-        "bIsShowMessage": true,
-        "bLockGift": false,
-        "CameraOffset": 0.0,
-        "SoftBornAnim": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        }
-      },
-      "1014": {
-        "SortID": "4",
-        "AreaId": "None",
-        "RoleNameText": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_014",
-          "SourceString": "九原",
-          "LocalizedString": "九原"
-        },
-        "TitleNameText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1014_title",
-          "SourceString": "斯特利速递店员",
-          "LocalizedString": "斯特利速递店员"
-        },
-        "RoleDescText": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "1014_des",
-          "SourceString": "「想知道这条消息，去斯特利速递找一个紫色的女人，只要你出得起价。」\n「紫色？她穿这个颜色的衣服？」\n「不，她给人的感觉就是紫色的。」\n是最滚烫的红和最沉静的蓝融合在一起的颜色，时而轻薄的像是日出前的晨雾，时而厚重的如日落前最后的云霞。许多人与九原小姐交好，却也知道「良好的交际关系」不过是九原小姐的工作而已。",
-          "LocalizedString": "「想知道这条消息，去斯特利速递找一个紫色的女人，只要你出得起价。」\n「紫色？她穿这个颜色的衣服？」\n「不，她给人的感觉就是紫色的。」\n是最滚烫的红和最沉静的蓝融合在一起的颜色，时而轻薄的像是日出前的晨雾，时而厚重的如日落前最后的云霞。许多人与九原小姐交好，却也知道「良好的交际关系」不过是九原小姐的工作而已。"
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_104.player_104",
-          "SubPathString": ""
-        },
-        "SoftActorClass": {
-          "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_055.PlayerUIShow_055_C",
-          "SubPathString": ""
-        },
-        "LevelInfo": [
-          {
-            "MaxValue": 100,
-            "AwardID": "drop_Likeability_1014_lv1",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 300,
-            "AwardID": "drop_Likeability_1014_lv2",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 500,
-            "AwardID": "drop_Likeability_1014_lv3",
-            "Conditions": [
-              "q110137"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 1000,
-            "AwardID": "drop_Likeability_1014_lv4",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 2000,
-            "AwardID": "drop_Likeability_1014_lv5",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 3000,
-            "AwardID": "drop_Likeability_1014_lv6",
-            "Conditions": [
-              "q110394"
-            ],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 5000,
-            "AwardID": "drop_Likeability_1014_lv7",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 8000,
-            "AwardID": "drop_Likeability_1014_lv8",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 11000,
-            "AwardID": "drop_Likeability_1014_lv9",
-            "Conditions": [],
-            "ChatItemID": "None"
-          },
-          {
-            "MaxValue": 15000,
-            "AwardID": "drop_Likeability_1014_lv10",
-            "Conditions": [],
-            "ChatItemID": "None"
-          }
-        ],
-        "LevelChatInfos": [],
-        "LikeabilityMapData": null,
-        "UnlockAvatarID": "None",
-        "InitLikeabilityLevel": 2,
-        "InitLikeabilityLevelLimit": 5,
-        "MainPlotChatItemID": "1014_1_1",
-        "GroupId": "1014",
-        "EpicQuestData": {
-          "QuestId": "None",
-          "QuestCondition": {
-            "QuestId": "None",
-            "LikeabilityLevel": -1
-          }
-        },
-        "PlotQuestDatas": [],
-        "AppointQuestDatas": [],
-        "SubSortLevel": 0,
-        "bIsUnlock": false,
-        "bIsShowMessage": true,
-        "bLockGift": false,
-        "CameraOffset": 15.0,
-        "SoftBornAnim": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        }
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "NPC_017": {
         "SortID": "4",
@@ -3416,31 +4072,36 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_NPC_017_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_NPC_017_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_NPC_017_lv3",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_NPC_017_lv4",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_NPC_017_lv5",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -3460,14 +4121,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 0,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": 18.0,
+        "bShowList": false,
+        "CameraOffset": 130.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "NPC_018": {
         "SortID": "4",
@@ -3487,8 +4161,8 @@
         "RoleDescText": {
           "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
           "Key": "NPC_018_des",
-          "SourceString": "在伊里卡一帆风顺的人生中绝对不包括「和亲戚哈尼娅好好相处」这一项。大到每一次考试成绩，小到谁能吃下最辣的辣椒，总之所有事情都值得拿来比较，而本该随着毕业结束的闹剧在斯特利速递再一次开演。神秘的店长和副手，沉默的同事，至于斯特利背后的秘密……\n「秘密？这不重要，最重要的是，我不能输给哈尼娅！」",
-          "LocalizedString": "在伊里卡一帆风顺的人生中绝对不包括「和亲戚哈尼娅好好相处」这一项。大到每一次考试成绩，小到谁能吃下最辣的辣椒，总之所有事情都值得拿来比较，而本该随着毕业结束的闹剧在斯特利速递再一次开演。神秘的店长和副手，沉默的同事，至于斯特利背后的秘密……\n「秘密？这不重要，最重要的是，我不能输给哈尼娅！」"
+          "SourceString": "在伊里卡一帆风顺的人生中绝对不包括「和亲戚哈尼娅好好相处」这一项。大到每一次考试成绩，小到谁能吃下最辣的辣椒，总之所有事情都值得拿来比较，而本该随着毕业结束的闹剧在斯特利速递再一次开演。神秘的店长和副手，沉默的同事，至于斯特利背后的秘密……\r\n「秘密？这不重要，最重要的是，我不能输给哈尼娅！」",
+          "LocalizedString": "在伊里卡一帆风顺的人生中绝对不包括「和亲戚哈尼娅好好相处」这一项。大到每一次考试成绩，小到谁能吃下最辣的辣椒，总之所有事情都值得拿来比较，而本该随着毕业结束的闹剧在斯特利速递再一次开演。神秘的店长和副手，沉默的同事，至于斯特利背后的秘密……\r\n「秘密？这不重要，最重要的是，我不能输给哈尼娅！」"
         },
         "IconImage": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_026.player_026",
@@ -3503,31 +4177,36 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_NPC_018_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_NPC_018_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_NPC_018_lv3",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_NPC_018_lv4",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_NPC_018_lv5",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
@@ -3547,14 +4226,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 0,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": 5.0,
+        "bShowList": false,
+        "CameraOffset": 115.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "H_NPC_01902": {
         "SortID": "5",
@@ -3589,55 +4281,60 @@
           {
             "MaxValue": 100,
             "AwardID": "drop_Likeability_H_NPC_01902_lv1",
-            "Conditions": [
-              "K110020"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_H_NPC_01902_lv2",
-            "Conditions": [
-              "K110030"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_H_NPC_01902_lv3",
-            "Conditions": [
-              "K110048"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_H_NPC_01902_lv4",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_H_NPC_01902_lv5",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [
           {
             "LikeabilityLevel": 0,
             "LikeabilityValue": 100,
-            "ChatItemID": "H_NPC_01902_a_1"
+            "ChatItemID": "H_NPC_01902_a_1",
+            "QuestId": "None",
+            "LastQuestID": "None"
           },
           {
             "LikeabilityLevel": 1,
             "LikeabilityValue": 300,
-            "ChatItemID": "H_NPC_01902_b_1"
+            "ChatItemID": "H_NPC_01902_b_1",
+            "QuestId": "None",
+            "LastQuestID": "None"
           },
           {
             "LikeabilityLevel": 2,
             "LikeabilityValue": 500,
-            "ChatItemID": "H_NPC_01902_c_1"
+            "ChatItemID": "H_NPC_01902_c_1",
+            "QuestId": "None",
+            "LastQuestID": "None"
           }
         ],
         "LikeabilityMapData": {
@@ -3666,14 +4363,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "H_NPC_00411": {
         "SortID": "5",
@@ -3709,52 +4419,59 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_H_NPC_00411_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_H_NPC_00411_lv2",
-            "Conditions": [
-              "K110411"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_H_NPC_00411_lv3",
-            "Conditions": [
-              "K110416"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_H_NPC_00411_lv4",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_H_NPC_00411_lv5",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [
           {
             "LikeabilityLevel": 1,
             "LikeabilityValue": 300,
-            "ChatItemID": "H_NPC_00411_a_1"
+            "ChatItemID": "H_NPC_00411_a_1",
+            "QuestId": "None",
+            "LastQuestID": "None"
           },
           {
             "LikeabilityLevel": 2,
             "LikeabilityValue": 500,
-            "ChatItemID": "H_NPC_00411_a_6"
+            "ChatItemID": "H_NPC_00411_a_6",
+            "QuestId": "None",
+            "LastQuestID": "None"
           },
           {
             "LikeabilityLevel": 3,
             "LikeabilityValue": 1000,
-            "ChatItemID": "H_NPC_00411_a_9"
+            "ChatItemID": "H_NPC_00411_a_9",
+            "QuestId": "None",
+            "LastQuestID": "None"
           }
         ],
         "LikeabilityMapData": {
@@ -3783,14 +4500,27 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 2,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
+        "bShowList": false,
         "CameraOffset": 25.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       },
       "1057": {
         "SortID": "6",
@@ -3826,70 +4556,78 @@
             "MaxValue": 100,
             "AwardID": "drop_Likeability_1057_lv1",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 300,
             "AwardID": "drop_Likeability_1057_lv2",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 500,
             "AwardID": "drop_Likeability_1057_lv3",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 1000,
             "AwardID": "drop_Likeability_1057_lv4",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 2000,
             "AwardID": "drop_Likeability_1057_lv5",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 3000,
             "AwardID": "drop_Likeability_1057_lv6",
-            "Conditions": [
-              "L110266"
-            ],
-            "ChatItemID": "None"
+            "Conditions": [],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 5000,
             "AwardID": "drop_Likeability_1057_lv7",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 8000,
             "AwardID": "drop_Likeability_1057_lv8",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 11000,
             "AwardID": "drop_Likeability_1057_lv9",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           },
           {
             "MaxValue": 15000,
             "AwardID": "drop_Likeability_1057_lv10",
             "Conditions": [],
-            "ChatItemID": "None"
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
           }
         ],
         "LevelChatInfos": [],
         "LikeabilityMapData": null,
         "UnlockAvatarID": "None",
         "InitLikeabilityLevel": 1,
-        "InitLikeabilityLevelLimit": 5,
+        "InitLikeabilityLevelLimit": 6,
         "MainPlotChatItemID": "1057_1_1",
         "GroupId": "1057",
         "EpicQuestData": {
@@ -3902,14 +4640,269 @@
         "PlotQuestDatas": [],
         "AppointQuestDatas": [],
         "SubSortLevel": 1,
-        "bIsUnlock": false,
         "bIsShowMessage": true,
         "bLockGift": false,
-        "CameraOffset": 15.0,
+        "bShowList": false,
+        "CameraOffset": 125.0,
         "SoftBornAnim": {
           "AssetPathName": "",
           "SubPathString": ""
-        }
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [
+          {
+            "Key": "10",
+            "Value": "likeatt_1057"
+          }
+        ],
+        "bLevelLimit": false,
+        "NewSortID": 0
+      },
+      "npc_02505": {
+        "SortID": "3",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "npc_02505_name",
+          "SourceString": "格思里",
+          "LocalizedString": "格思里"
+        },
+        "TitleNameText": {
+          "CultureInvariantString": null
+        },
+        "RoleDescText": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI/likeability/Icon/NPC_001.NPC_001",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "LevelInfo": [
+          {
+            "MaxValue": 200,
+            "AwardID": "drop_monstertest",
+            "Conditions": [
+              "q410002"
+            ],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 600,
+            "AwardID": "drop_monstertest",
+            "Conditions": [
+              "q410009"
+            ],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 1200,
+            "AwardID": "drop_monstertest",
+            "Conditions": [
+              "q410016"
+            ],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          }
+        ],
+        "LevelChatInfos": [],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 0,
+        "InitLikeabilityLevelLimit": 3,
+        "MainPlotChatItemID": "None",
+        "GroupId": "None",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 2,
+        "bIsShowMessage": false,
+        "bLockGift": false,
+        "bShowList": false,
+        "CameraOffset": 25.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
+      },
+      "K111801": {
+        "SortID": "3",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "K111801_name",
+          "SourceString": "AAA祖传异象逆天改命",
+          "LocalizedString": "AAA祖传异象逆天改命"
+        },
+        "TitleNameText": {
+          "CultureInvariantString": null
+        },
+        "RoleDescText": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI/likeability/Icon/NPC_001.NPC_001",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "LevelInfo": [
+          {
+            "MaxValue": 200,
+            "AwardID": "drop_monstertest",
+            "Conditions": [
+              "q410002"
+            ],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 600,
+            "AwardID": "drop_monstertest",
+            "Conditions": [
+              "q410009"
+            ],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          },
+          {
+            "MaxValue": 1200,
+            "AwardID": "drop_monstertest",
+            "Conditions": [
+              "q410016"
+            ],
+            "ChatItemID": "None",
+            "LikeabilityAwardTipID": "None"
+          }
+        ],
+        "LevelChatInfos": [],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 0,
+        "InitLikeabilityLevelLimit": 3,
+        "MainPlotChatItemID": "None",
+        "GroupId": "None",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 2,
+        "bIsShowMessage": false,
+        "bLockGift": false,
+        "bShowList": false,
+        "CameraOffset": 25.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [
+          "CityInvation",
+          "CityInvation_0",
+          "CityInvation_1"
+        ],
+        "ArrayHomeGuest": [
+          "nanali_0001",
+          "nanali_0002",
+          "nanali_0003"
+        ],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
+      },
+      "NPC_04103": {
+        "SortID": "3",
+        "AreaId": "None",
+        "RoleNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "NPC_04103_name",
+          "SourceString": "伊莉丝",
+          "LocalizedString": "伊莉丝"
+        },
+        "TitleNameText": {
+          "CultureInvariantString": null
+        },
+        "RoleDescText": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/UI/UI/likeability/Icon/NPC_04103.NPC_04103",
+          "SubPathString": ""
+        },
+        "SoftActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "LevelInfo": [],
+        "LevelChatInfos": [],
+        "LikeabilityMapData": null,
+        "UnlockAvatarID": "None",
+        "InitLikeabilityLevel": 0,
+        "InitLikeabilityLevelLimit": 3,
+        "MainPlotChatItemID": "None",
+        "GroupId": "None",
+        "EpicQuestData": {
+          "QuestId": "None",
+          "QuestCondition": {
+            "QuestId": "None",
+            "LikeabilityLevel": -1
+          }
+        },
+        "PlotQuestDatas": [],
+        "AppointQuestDatas": [],
+        "SubSortLevel": 0,
+        "bIsShowMessage": false,
+        "bLockGift": false,
+        "bShowList": false,
+        "CameraOffset": 25.0,
+        "SoftBornAnim": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ArrayCityInvitation": [],
+        "ArrayHomeGuest": [],
+        "MapModifyData": [],
+        "bLevelLimit": false,
+        "NewSortID": 0
       }
     }
   }

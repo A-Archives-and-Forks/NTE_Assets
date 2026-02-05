@@ -60,7 +60,7 @@
         }
       },
       "L110103": {
-        "bIsCompleted": false,
+        "bIsCompleted": true,
         "MainTitle": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "LegendaryQuest_04",
@@ -152,6 +152,54 @@
         },
         "DescPhoto": {
           "AssetPathName": "/Game/UI/UI/Quest/LegendaryQuest/UI_YH_SpinoffSeries_mingyin_Close_RoleName_03.UI_YH_SpinoffSeries_mingyin_Close_RoleName_03",
+          "SubPathString": ""
+        }
+      },
+      "q110105": {
+        "bIsCompleted": false,
+        "MainTitle": {
+          "TableId": "/Game/Text/ST_ReviewQuest.ST_ReviewQuest",
+          "Key": "Main_1_1",
+          "SourceString": "月光当铺",
+          "LocalizedString": "月光当铺"
+        },
+        "Subtitle": {
+          "CultureInvariantString": null
+        },
+        "LogoPhoto": {
+          "AssetPathName": "/Game/UI/UI/Quest/LegendaryQuest/UI_YH_SpinoffSeries_Baicang_Close_Icon_04.UI_YH_SpinoffSeries_Baicang_Close_Icon_04",
+          "SubPathString": ""
+        },
+        "CharacterPhoto": {
+          "AssetPathName": "/Game/UI/UI/Quest/LegendaryQuest/UI_YH_SpinoffSeries_Baicang_Close_Role_04.UI_YH_SpinoffSeries_Baicang_Close_Role_04",
+          "SubPathString": ""
+        },
+        "DescPhoto": {
+          "AssetPathName": "/Game/UI/UI/Quest/LegendaryQuest/UI_YH_SpinoffSeries_Baicang_Close_RoleName_04.UI_YH_SpinoffSeries_Baicang_Close_RoleName_04",
+          "SubPathString": ""
+        }
+      },
+      "q110137": {
+        "bIsCompleted": true,
+        "MainTitle": {
+          "TableId": "/Game/Text/ST_ReviewQuest.ST_ReviewQuest",
+          "Key": "Main_1_1",
+          "SourceString": "月光当铺",
+          "LocalizedString": "月光当铺"
+        },
+        "Subtitle": {
+          "CultureInvariantString": null
+        },
+        "LogoPhoto": {
+          "AssetPathName": "/Game/UI/UI/Quest/LegendaryQuest/UI_YH_SpinoffSeries_Baicang_Close_Icon_04.UI_YH_SpinoffSeries_Baicang_Close_Icon_04",
+          "SubPathString": ""
+        },
+        "CharacterPhoto": {
+          "AssetPathName": "/Game/UI/UI/Quest/LegendaryQuest/UI_YH_SpinoffSeries_Baicang_Close_Role_04.UI_YH_SpinoffSeries_Baicang_Close_Role_04",
+          "SubPathString": ""
+        },
+        "DescPhoto": {
+          "AssetPathName": "/Game/UI/UI/Quest/LegendaryQuest/UI_YH_SpinoffSeries_Baicang_Close_RoleName_04.UI_YH_SpinoffSeries_Baicang_Close_RoleName_04",
           "SubPathString": ""
         }
       }

@@ -15,7 +15,7 @@
         "ChainShopID": "None",
         "ShopType": "EShopType::MALL_SHOP",
         "CurrencyID": [
-          "Annulith"
+          "AnnulithAdd"
         ],
         "UnLockID": "None",
         "SwitchType": "ESwitchType::Shop",
@@ -51,14 +51,17 @@
         "ChainShopID": "None",
         "ShopType": "EShopType::MALL_SHOP",
         "CurrencyID": [
-          "Annulith"
+          "AnnulithAdd"
         ],
         "UnLockID": "None",
         "SwitchType": "ESwitchType::Shop",
         "CanBuyDistance": -1.0,
         "UIClass": "MallShop",
         "ShopName": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Mall_5_name",
+          "SourceString": "环石加工",
+          "LocalizedString": "环石加工"
         },
         "ShopIcon": {
           "AssetPathName": "",
@@ -247,8 +250,8 @@
         "ShopName": {
           "TableId": "/Game/Text/ST_Shop.ST_Shop",
           "Key": "gachashop_01_name",
-          "SourceString": "扭蛋机兑换商店",
-          "LocalizedString": "扭蛋机兑换商店"
+          "SourceString": "扭蛋商店",
+          "LocalizedString": "扭蛋商店"
         },
         "ShopIcon": {
           "AssetPathName": "",
@@ -444,6 +447,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_002_04_02": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_002_name",
+          "SourceString": "普利姆叔叔",
+          "LocalizedString": "普利姆叔叔"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_002_05_01": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
@@ -550,6 +574,27 @@
         }
       },
       "Shop_003_04_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_003_name",
+          "SourceString": "蔬菜屋",
+          "LocalizedString": "蔬菜屋"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_003_04_02": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
@@ -696,6 +741,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_004_04_02": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_004_name",
+          "SourceString": "Myosotis",
+          "LocalizedString": "Myosotis"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_004_05_01": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
@@ -801,6 +867,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_005_04_02": {
+        "ChainShopID": "Shop_005",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_005_name",
+          "SourceString": "7-Oceans",
+          "LocalizedString": "7-Oceans"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_005_05_01": {
         "ChainShopID": "Shop_005",
         "ShopType": "EShopType::NPC_SHOP",
@@ -844,6 +931,27 @@
         }
       },
       "Shop_006_04_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_006_02_name",
+          "SourceString": "千酿鲜吟屋",
+          "LocalizedString": "千酿鲜吟屋"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_006_04_02": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
@@ -1179,6 +1287,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_007_04_07": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_007_name",
+          "SourceString": "2-Four便利店",
+          "LocalizedString": "2-Four便利店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_007_05_01": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
@@ -1368,6 +1497,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_008_01_02": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_008_name",
+          "SourceString": "噗卡糖果店",
+          "LocalizedString": "噗卡糖果店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_008_04_01": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
@@ -1390,6 +1540,27 @@
         }
       },
       "Shop_008_05_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_008_name",
+          "SourceString": "噗卡糖果店",
+          "LocalizedString": "噗卡糖果店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_008_05_02": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
@@ -1600,6 +1771,27 @@
         }
       },
       "Shop_010_04_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_010_name",
+          "SourceString": "集山忘野",
+          "LocalizedString": "集山忘野"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_010_04_02": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
@@ -1872,6 +2064,48 @@
           "SubPathString": ""
         }
       },
+      "Shop_012_04_03": {
+        "ChainShopID": "Shop_012",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_012_name",
+          "SourceString": "竹本清源",
+          "LocalizedString": "竹本清源"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_012_04_04": {
+        "ChainShopID": "Shop_012",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_012_name",
+          "SourceString": "竹本清源",
+          "LocalizedString": "竹本清源"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_012_05_01": {
         "ChainShopID": "Shop_012",
         "ShopType": "EShopType::NPC_SHOP",
@@ -1914,7 +2148,49 @@
           "SubPathString": ""
         }
       },
+      "Shop_012_05_03": {
+        "ChainShopID": "Shop_012",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_012_name",
+          "SourceString": "竹本清源",
+          "LocalizedString": "竹本清源"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_013_01_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_013_name",
+          "SourceString": "Exile on Main St.",
+          "LocalizedString": "Exile on Main St."
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_013_04_01": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
@@ -2103,6 +2379,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_015_05_02": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_015_name",
+          "SourceString": "A.R.P.T.S",
+          "LocalizedString": "A.R.P.T.S"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_016_01_01": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
@@ -2187,6 +2484,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_016_04_02": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_016_name",
+          "SourceString": "抽风猫",
+          "LocalizedString": "抽风猫"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_016_05_01": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
@@ -2209,6 +2527,27 @@
         }
       },
       "Shop_016_05_02": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_016_name",
+          "SourceString": "抽风猫",
+          "LocalizedString": "抽风猫"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_016_05_03": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
@@ -2460,6 +2799,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_019_04_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_019_name",
+          "SourceString": "巨嘴包子",
+          "LocalizedString": "巨嘴包子"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_019_05_01": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
@@ -2587,6 +2947,48 @@
         }
       },
       "Shop_020_04_03": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_020_name",
+          "SourceString": "猫丸拉面",
+          "LocalizedString": "猫丸拉面"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_020_04_04": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_020_name",
+          "SourceString": "猫丸拉面",
+          "LocalizedString": "猫丸拉面"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_020_04_05": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
@@ -2838,12 +3240,32 @@
           "SubPathString": ""
         }
       },
+      "Shop_022_05_03": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_022_name",
+          "SourceString": "食为天",
+          "LocalizedString": "食为天"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_023_01_01": {
         "ChainShopID": "Shop_023",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
-          "Fons",
-          "cityshopcoin"
+          "Fons"
         ],
         "UnLockID": "None",
         "SwitchType": "ESwitchType::Shop",
@@ -2864,8 +3286,7 @@
         "ChainShopID": "Shop_023",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
-          "Fons",
-          "cityshopcoin"
+          "Fons"
         ],
         "UnLockID": "None",
         "SwitchType": "ESwitchType::Shop",
@@ -2886,8 +3307,7 @@
         "ChainShopID": "Shop_023",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
-          "Fons",
-          "cityshopcoin"
+          "Fons"
         ],
         "UnLockID": "None",
         "SwitchType": "ESwitchType::Shop",
@@ -2908,8 +3328,28 @@
         "ChainShopID": "Shop_023",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
-          "Fons",
-          "cityshopcoin"
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_023_name",
+          "SourceString": "DSD",
+          "LocalizedString": "DSD"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_023_04_02": {
+        "ChainShopID": "Shop_023",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
         ],
         "UnLockID": "None",
         "SwitchType": "ESwitchType::Shop",
@@ -2930,8 +3370,7 @@
         "ChainShopID": "Shop_023",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
-          "Fons",
-          "cityshopcoin"
+          "Fons"
         ],
         "UnLockID": "None",
         "SwitchType": "ESwitchType::Shop",
@@ -3053,7 +3492,49 @@
           "SubPathString": ""
         }
       },
+      "Shop_025_04_02": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_025_name",
+          "SourceString": "白鲸书店",
+          "LocalizedString": "白鲸书店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_025_05_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_025_name",
+          "SourceString": "白鲸书店",
+          "LocalizedString": "白鲸书店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_025_05_02": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
@@ -3494,6 +3975,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_029_04_02": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_029_name",
+          "SourceString": "Mr.Brown",
+          "LocalizedString": "Mr.Brown"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_029_05_01": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
@@ -3746,6 +4248,27 @@
           "SubPathString": ""
         }
       },
+      "Shop_033_04_02": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_033_name",
+          "SourceString": "怪·食惠",
+          "LocalizedString": "怪·食惠"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "Shop_033_05_01": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
@@ -3789,6 +4312,27 @@
         }
       },
       "Shop_034_04_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_034_name",
+          "SourceString": "大将军",
+          "LocalizedString": "大将军"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_034_04_02": {
         "ChainShopID": "None",
         "ShopType": "EShopType::NPC_SHOP",
         "CurrencyID": [
@@ -3893,6 +4437,174 @@
           "SubPathString": ""
         }
       },
+      "Shop_036_01_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::VehicleShop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "VehicleShopMain",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_036_name",
+          "SourceString": "Ticking Back",
+          "LocalizedString": "Ticking Back"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_036_03_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::VehicleShop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "VehicleShopMain",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_036_name",
+          "SourceString": "Ticking Back",
+          "LocalizedString": "Ticking Back"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_036_04_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::VehicleShop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "VehicleShopMain",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_036_name",
+          "SourceString": "Ticking Back",
+          "LocalizedString": "Ticking Back"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_036_04_02": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::VehicleShop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "VehicleShopMain",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_036_name",
+          "SourceString": "Ticking Back",
+          "LocalizedString": "Ticking Back"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_036_05_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::VehicleShop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "VehicleShopMain",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_036_name",
+          "SourceString": "Ticking Back",
+          "LocalizedString": "Ticking Back"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Shop_037_05_01": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_037_name",
+          "SourceString": "福荫集市",
+          "LocalizedString": "福荫集市"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Starry_Night": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Starry_Night_name",
+          "SourceString": "Starry Night",
+          "LocalizedString": "Starry Night"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "Firmament": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Firmament_name",
+          "SourceString": "Firmament",
+          "LocalizedString": "Firmament"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
       "ForkShop": {
         "ChainShopID": "None",
         "ShopType": "EShopType::MALL_SHOP",
@@ -3931,7 +4643,7 @@
       },
       "FonsLimitTimeShop1": {
         "ChainShopID": "None",
-        "ShopType": "EShopType::MALL_SHOP",
+        "ShopType": "EShopType::FONS_SHOP",
         "CurrencyID": [
           "Fons"
         ],
@@ -4004,6 +4716,407 @@
           "Key": "Mall_10_name",
           "SourceString": "迷迭兑换",
           "LocalizedString": "迷迭兑换"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "FashionShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "RiftcrystalAdd",
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "MallShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "ui_appearance_01",
+          "SourceString": "时装",
+          "LocalizedString": "时装"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "GlideShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "RiftcrystalAdd",
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "MallShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "ui_appearance_02",
+          "SourceString": "滑翔翼",
+          "LocalizedString": "滑翔翼"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "CurrencyShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "None",
+        "ShopName": {
+          "CultureInvariantString": null
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "ShopStealShop_2_Four": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "StealShopUI",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_007_name",
+          "SourceString": "2-Four便利店",
+          "LocalizedString": "2-Four便利店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "GameBackendGiftShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "Riftcrystaladd",
+          "AnnulithAdd"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "MallShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "GameBackendGiftShop",
+          "SourceString": "运营礼包",
+          "LocalizedString": "运营礼包"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "GiftShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "Riftcrystaladd",
+          "AnnulithAdd"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "MallShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "GiftShop",
+          "SourceString": "常驻礼包",
+          "LocalizedString": "常驻礼包"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "ShopStealShop_Medicine": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "StealShopUI",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_012_name",
+          "SourceString": "竹本清源",
+          "LocalizedString": "竹本清源"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "ShopStealShop_Bakery": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "StealShopUI",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_011_name",
+          "SourceString": "爱丽丝烘焙坊",
+          "LocalizedString": "爱丽丝烘焙坊"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "ShopStealShop_DSD": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "StealShopUI",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "shop_dsd",
+          "SourceString": "DSD",
+          "LocalizedString": "DSD"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "PoliceShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Item_reduce_sin"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "PoliceShop_name",
+          "SourceString": "脆鼠饼回收站",
+          "LocalizedString": "脆鼠饼回收站"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "VehicleSkinShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "RiftcrystalAdd",
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "MallShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "AppearanceShop_1",
+          "SourceString": "载具涂装",
+          "LocalizedString": "载具涂装"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "AbyssShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "Abyss_ticket"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "MallShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "AbyssShop_name",
+          "SourceString": "异境回收站",
+          "LocalizedString": "异境回收站"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "AdvvisionShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::MALL_SHOP",
+        "CurrencyID": [
+          "AdvVision_ticket"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "MallShop",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "AdvvisionShop_name",
+          "SourceString": "勋章商店",
+          "LocalizedString": "勋章商店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "FishingShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "FishingCoin",
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Shop.ST_Shop",
+          "Key": "FishingShop_name",
+          "SourceString": "渔具商店",
+          "LocalizedString": "渔具商店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "MahjongShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "MahjongCoin"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "MahjongShop",
+          "SourceString": "啾啾窠巢",
+          "LocalizedString": "啾啾窠巢"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "BicycleShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "BicycleShop",
+          "SourceString": "Ticking Back",
+          "LocalizedString": "Ticking Back"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "PrisonShop": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "PrisonCoin",
+          "Food_116"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "NPCShop",
+        "ShopName": {
+          "TableId": "/Game/Text/ST_Shop.ST_Shop",
+          "Key": "PrisonShop_name",
+          "SourceString": "「蜘蛛」商店",
+          "LocalizedString": "「蜘蛛」商店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "ShopStealShop_Puka": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "StealShopUI",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_008_name",
+          "SourceString": "噗卡糖果店",
+          "LocalizedString": "噗卡糖果店"
+        },
+        "ShopIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "ShopStealShop_CoffeeBean": {
+        "ChainShopID": "None",
+        "ShopType": "EShopType::NPC_SHOP",
+        "CurrencyID": [
+          "Fons"
+        ],
+        "UnLockID": "None",
+        "SwitchType": "ESwitchType::Shop",
+        "CanBuyDistance": -1.0,
+        "UIClass": "StealShopUI",
+        "ShopName": {
+          "TableId": "/Game/Text/Minimap/ST_MinimapiconDec.ST_MinimapiconDec",
+          "Key": "Map_Shop_032_name",
+          "SourceString": "豆风庵",
+          "LocalizedString": "豆风庵"
         },
         "ShopIcon": {
           "AssetPathName": "",

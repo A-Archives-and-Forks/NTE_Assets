@@ -28,11 +28,11 @@
       },
       "AuctionID_2": {
         "StaticItemID": "Visions_furniture_03_UpMaterial",
-        "ItemCount": 6,
-        "BasePrice": 1800,
-        "ExpectationPrice": 6000,
-        "LimitCount": 10,
-        "RandomWeight": 100,
+        "ItemCount": 10,
+        "BasePrice": 1500,
+        "ExpectationPrice": 5000,
+        "LimitCount": 6,
+        "RandomWeight": 200,
         "WeightIncrease": 0,
         "MaxWeight": 0,
         "BiddingAdd": [
@@ -43,12 +43,12 @@
       },
       "AuctionID_3": {
         "StaticItemID": "Visions_furniture_03_UpMaterial",
-        "ItemCount": 10,
-        "BasePrice": 3000,
-        "ExpectationPrice": 10000,
-        "LimitCount": 6,
-        "RandomWeight": 75,
-        "WeightIncrease": 10,
+        "ItemCount": 15,
+        "BasePrice": 2250,
+        "ExpectationPrice": 7500,
+        "LimitCount": 4,
+        "RandomWeight": 150,
+        "WeightIncrease": 40,
         "MaxWeight": 1000,
         "BiddingAdd": [
           200,
@@ -59,11 +59,11 @@
       "AuctionID_4": {
         "StaticItemID": "Visions_furniture_03_UpMaterial",
         "ItemCount": 30,
-        "BasePrice": 9000,
-        "ExpectationPrice": 30000,
+        "BasePrice": 4500,
+        "ExpectationPrice": 15000,
         "LimitCount": 2,
-        "RandomWeight": 30,
-        "WeightIncrease": 5,
+        "RandomWeight": 60,
+        "WeightIncrease": 20,
         "MaxWeight": 1000,
         "BiddingAdd": [
           500,
@@ -74,10 +74,10 @@
       "AuctionID_5": {
         "StaticItemID": "Visions_furniture_03_UpMaterial",
         "ItemCount": 50,
-        "BasePrice": 15000,
-        "ExpectationPrice": 50000,
+        "BasePrice": 7500,
+        "ExpectationPrice": 25000,
         "LimitCount": 1,
-        "RandomWeight": 5,
+        "RandomWeight": 10,
         "WeightIncrease": 0,
         "MaxWeight": 0,
         "BiddingAdd": [
@@ -89,7 +89,7 @@
       "AuctionID_6": {
         "StaticItemID": "Worldboss_material_01",
         "ItemCount": 1,
-        "BasePrice": 2700,
+        "BasePrice": 3000,
         "ExpectationPrice": 9000,
         "LimitCount": -1,
         "RandomWeight": 5,
@@ -104,7 +104,7 @@
       "AuctionID_7": {
         "StaticItemID": "Worldboss_material_02",
         "ItemCount": 1,
-        "BasePrice": 2700,
+        "BasePrice": 3000,
         "ExpectationPrice": 9000,
         "LimitCount": -1,
         "RandomWeight": 5,
@@ -119,7 +119,7 @@
       "AuctionID_8": {
         "StaticItemID": "Worldboss_material_03",
         "ItemCount": 1,
-        "BasePrice": 2700,
+        "BasePrice": 3000,
         "ExpectationPrice": 9000,
         "LimitCount": -1,
         "RandomWeight": 5,
@@ -134,7 +134,52 @@
       "AuctionID_9": {
         "StaticItemID": "Worldboss_material_04",
         "ItemCount": 1,
-        "BasePrice": 2700,
+        "BasePrice": 3000,
+        "ExpectationPrice": 9000,
+        "LimitCount": -1,
+        "RandomWeight": 5,
+        "WeightIncrease": 0,
+        "MaxWeight": 0,
+        "BiddingAdd": [
+          200,
+          500,
+          1000
+        ]
+      },
+      "AuctionID_9_1": {
+        "StaticItemID": "Worldboss_material_05",
+        "ItemCount": 1,
+        "BasePrice": 3000,
+        "ExpectationPrice": 9000,
+        "LimitCount": -1,
+        "RandomWeight": 5,
+        "WeightIncrease": 0,
+        "MaxWeight": 0,
+        "BiddingAdd": [
+          200,
+          500,
+          1000
+        ]
+      },
+      "AuctionID_9_2": {
+        "StaticItemID": "Worldboss_material_06",
+        "ItemCount": 1,
+        "BasePrice": 3000,
+        "ExpectationPrice": 9000,
+        "LimitCount": -1,
+        "RandomWeight": 5,
+        "WeightIncrease": 0,
+        "MaxWeight": 0,
+        "BiddingAdd": [
+          200,
+          500,
+          1000
+        ]
+      },
+      "AuctionID_9_3": {
+        "StaticItemID": "Worldboss_material_07",
+        "ItemCount": 1,
+        "BasePrice": 3000,
         "ExpectationPrice": 9000,
         "LimitCount": -1,
         "RandomWeight": 5,
@@ -149,46 +194,46 @@
       "AuctionID_10": {
         "StaticItemID": "weeklycloneboss_a01_01",
         "ItemCount": 1,
-        "BasePrice": 3600,
-        "ExpectationPrice": 12000,
+        "BasePrice": 7000,
+        "ExpectationPrice": 23000,
         "LimitCount": -1,
         "RandomWeight": 5,
         "WeightIncrease": 0,
         "MaxWeight": 0,
         "BiddingAdd": [
-          200,
           500,
-          1000
+          1000,
+          2000
         ]
       },
       "AuctionID_11": {
         "StaticItemID": "weeklycloneboss_a01_02",
         "ItemCount": 1,
-        "BasePrice": 3600,
-        "ExpectationPrice": 12000,
+        "BasePrice": 7000,
+        "ExpectationPrice": 23000,
         "LimitCount": -1,
         "RandomWeight": 5,
         "WeightIncrease": 0,
         "MaxWeight": 0,
         "BiddingAdd": [
-          200,
           500,
-          1000
+          1000,
+          2000
         ]
       },
       "AuctionID_12": {
         "StaticItemID": "weeklycloneboss_a01_03",
         "ItemCount": 1,
-        "BasePrice": 3600,
-        "ExpectationPrice": 12000,
+        "BasePrice": 7000,
+        "ExpectationPrice": 23000,
         "LimitCount": -1,
         "RandomWeight": 5,
         "WeightIncrease": 0,
         "MaxWeight": 0,
         "BiddingAdd": [
-          200,
           500,
-          1000
+          1000,
+          2000
         ]
       },
       "AuctionID_13": {
@@ -254,7 +299,7 @@
       "AuctionID_17": {
         "StaticItemID": "WeaponBreakMaterial_01_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -269,7 +314,7 @@
       "AuctionID_18": {
         "StaticItemID": "WeaponBreakMaterial_02_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -284,7 +329,7 @@
       "AuctionID_19": {
         "StaticItemID": "WeaponBreakMaterial_03_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -299,7 +344,7 @@
       "AuctionID_20": {
         "StaticItemID": "WeaponBreakMaterial_04_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -314,7 +359,7 @@
       "AuctionID_21": {
         "StaticItemID": "WeaponBreakMaterial_05_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -329,7 +374,7 @@
       "AuctionID_22": {
         "StaticItemID": "SkillUpMaterial_01_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -344,7 +389,7 @@
       "AuctionID_23": {
         "StaticItemID": "SkillUpMaterial_02_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -359,7 +404,7 @@
       "AuctionID_24": {
         "StaticItemID": "SkillUpMaterial_03_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -374,7 +419,7 @@
       "AuctionID_25": {
         "StaticItemID": "SkillUpMaterial_04_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -389,7 +434,7 @@
       "AuctionID_26": {
         "StaticItemID": "SkillUpMaterial_05_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -494,7 +539,7 @@
       "AuctionID_33": {
         "StaticItemID": "WeaponBreakMaterial_01_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -509,7 +554,7 @@
       "AuctionID_34": {
         "StaticItemID": "WeaponBreakMaterial_02_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -524,7 +569,7 @@
       "AuctionID_35": {
         "StaticItemID": "WeaponBreakMaterial_03_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -539,7 +584,7 @@
       "AuctionID_36": {
         "StaticItemID": "WeaponBreakMaterial_04_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -554,7 +599,7 @@
       "AuctionID_37": {
         "StaticItemID": "WeaponBreakMaterial_05_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -569,7 +614,7 @@
       "AuctionID_38": {
         "StaticItemID": "SkillUpMaterial_01_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -584,7 +629,7 @@
       "AuctionID_39": {
         "StaticItemID": "SkillUpMaterial_02_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -599,7 +644,7 @@
       "AuctionID_40": {
         "StaticItemID": "SkillUpMaterial_03_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -614,7 +659,7 @@
       "AuctionID_41": {
         "StaticItemID": "SkillUpMaterial_04_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -629,7 +674,7 @@
       "AuctionID_42": {
         "StaticItemID": "SkillUpMaterial_05_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -644,7 +689,7 @@
       "AuctionID_43": {
         "StaticItemID": "WeaponBreakMaterial_01_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -659,7 +704,7 @@
       "AuctionID_44": {
         "StaticItemID": "WeaponBreakMaterial_02_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -674,7 +719,7 @@
       "AuctionID_45": {
         "StaticItemID": "WeaponBreakMaterial_03_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -689,7 +734,7 @@
       "AuctionID_46": {
         "StaticItemID": "WeaponBreakMaterial_04_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -704,7 +749,7 @@
       "AuctionID_47": {
         "StaticItemID": "WeaponBreakMaterial_05_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -719,7 +764,7 @@
       "AuctionID_48": {
         "StaticItemID": "SkillUpMaterial_01_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -734,7 +779,7 @@
       "AuctionID_49": {
         "StaticItemID": "SkillUpMaterial_02_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -749,7 +794,7 @@
       "AuctionID_50": {
         "StaticItemID": "SkillUpMaterial_03_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -764,7 +809,7 @@
       "AuctionID_51": {
         "StaticItemID": "SkillUpMaterial_04_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,
@@ -779,7 +824,7 @@
       "AuctionID_52": {
         "StaticItemID": "SkillUpMaterial_05_lv2",
         "ItemCount": 1,
-        "BasePrice": 2250,
+        "BasePrice": 3000,
         "ExpectationPrice": 7500,
         "LimitCount": -1,
         "RandomWeight": 3,

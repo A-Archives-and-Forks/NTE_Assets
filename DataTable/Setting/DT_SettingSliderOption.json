@@ -34,6 +34,18 @@
       },
       "ColorSaturation": {
         "DefaultValue": 100
+      },
+      "FightDefaultArmLengthScale": {
+        "DefaultValue": 0
+      },
+      "FPCameraSmoothScale": {
+        "DefaultValue": 5
+      },
+      "SteeringSensitivity": {
+        "DefaultValue": 5
+      },
+      "FPCameraFOV": {
+        "DefaultValue": 90
       }
     }
   }

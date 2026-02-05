@@ -34,7 +34,10 @@
           "AuctionID_13",
           "AuctionID_14",
           "AuctionID_15",
-          "AuctionID_16"
+          "AuctionID_16",
+          "AuctionID_9_1",
+          "AuctionID_9_2",
+          "AuctionID_9_3"
         ],
         "RandomItemCount": 2,
         "bIsExtraItemPool": false

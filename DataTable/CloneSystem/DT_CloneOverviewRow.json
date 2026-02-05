@@ -19,10 +19,7 @@
           "LocalizedString": "经验及甲硬币"
         },
         "DisplayName": {
-          "Namespace": "",
-          "Key": "8A0450944262253D1F89558088DCA19E",
-          "SourceString": "无尽深渊",
-          "LocalizedString": "无尽深渊"
+          "CultureInvariantString": "无尽深渊"
         },
         "CloneType": [
           "ECloneType::Trial_Clone"
@@ -32,10 +29,14 @@
           "SubPathString": ""
         },
         "Desc": {
-          "Namespace": "",
-          "Key": "B0814CA94100B9114F19578A3F7E1A96",
-          "SourceString": "经验及甲硬币",
-          "LocalizedString": "经验及甲硬币"
+          "CultureInvariantString": "经验及甲硬币"
+        },
+        "RegisterGuideID": "None",
+        "LockedTip": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "common_FunctionUnlock",
+          "SourceString": "该功能尚未解锁",
+          "LocalizedString": "该功能尚未解锁"
         }
       },
       "2": {
@@ -46,10 +47,7 @@
           "LocalizedString": "异能升级材料"
         },
         "DisplayName": {
-          "Namespace": "",
-          "Key": "19F2BAC84FF5553D9BA738A0EE1CACC2",
-          "SourceString": "深渊无尽",
-          "LocalizedString": "深渊无尽"
+          "CultureInvariantString": "深渊无尽"
         },
         "CloneType": [
           "ECloneType::Talent_Clone"
@@ -59,10 +57,14 @@
           "SubPathString": ""
         },
         "Desc": {
-          "Namespace": "",
-          "Key": "7057035D489AE0A6AF0D5391D2D20FFF",
-          "SourceString": "角色天赋",
-          "LocalizedString": "角色天赋"
+          "CultureInvariantString": "角色天赋"
+        },
+        "RegisterGuideID": "None",
+        "LockedTip": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "common_FunctionUnlock",
+          "SourceString": "该功能尚未解锁",
+          "LocalizedString": "该功能尚未解锁"
         }
       },
       "3": {
@@ -73,10 +75,7 @@
           "LocalizedString": "弧盘突破材料"
         },
         "DisplayName": {
-          "Namespace": "",
-          "Key": "9079769543EC56FD242058805244EA91",
-          "SourceString": "无深尽渊",
-          "LocalizedString": "无深尽渊"
+          "CultureInvariantString": "无深尽渊"
         },
         "CloneType": [
           "ECloneType::ArcDisk_Clone"
@@ -86,10 +85,14 @@
           "SubPathString": ""
         },
         "Desc": {
-          "Namespace": "",
-          "Key": "37E05A4A48162AC40DB9E3ADEAD5C244",
-          "SourceString": "弧盘突破",
-          "LocalizedString": "弧盘突破"
+          "CultureInvariantString": "弧盘突破"
+        },
+        "RegisterGuideID": "None",
+        "LockedTip": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "common_FunctionUnlock",
+          "SourceString": "该功能尚未解锁",
+          "LocalizedString": "该功能尚未解锁"
         }
       },
       "4": {
@@ -100,10 +103,7 @@
           "LocalizedString": "空幕"
         },
         "DisplayName": {
-          "Namespace": "",
-          "Key": "FF24CE9642F0756EB24EC4B82A53B7CB",
-          "SourceString": "无深尽渊",
-          "LocalizedString": "无深尽渊"
+          "CultureInvariantString": "无深尽渊"
         },
         "CloneType": [
           "ECloneType::AirCurtain_Clone"
@@ -117,6 +117,13 @@
           "Key": "DT_CloneOverviewRow_AirCutrtan",
           "SourceString": "空幕",
           "LocalizedString": "空幕"
+        },
+        "RegisterGuideID": "None",
+        "LockedTip": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "common_FunctionUnlock",
+          "SourceString": "该功能尚未解锁",
+          "LocalizedString": "该功能尚未解锁"
         }
       },
       "5": {
@@ -127,10 +134,7 @@
           "LocalizedString": "异象巡礼"
         },
         "DisplayName": {
-          "Namespace": "",
-          "Key": "FF24CE9642F0756EB24EC4B82A53B7CB",
-          "SourceString": "无深尽渊",
-          "LocalizedString": "无深尽渊"
+          "CultureInvariantString": "无深尽渊"
         },
         "CloneType": [
           "ECloneType::Weekly_Clone"
@@ -140,10 +144,14 @@
           "SubPathString": ""
         },
         "Desc": {
-          "Namespace": "",
-          "Key": "5444E5864089AEFABBF570B7E3E5B026",
-          "SourceString": "高级养成材料",
-          "LocalizedString": "高级养成材料"
+          "CultureInvariantString": "高级养成材料"
+        },
+        "RegisterGuideID": "Weekly_Clone",
+        "LockedTip": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "common_FunctionUnlock",
+          "SourceString": "该功能尚未解锁",
+          "LocalizedString": "该功能尚未解锁"
         }
       },
       "6": {
@@ -154,10 +162,7 @@
           "LocalizedString": "轨外之境"
         },
         "DisplayName": {
-          "Namespace": "",
-          "Key": "1830723B48F11DFFF1111F9F5DB4F287",
-          "SourceString": "无深尽渊",
-          "LocalizedString": "无深尽渊"
+          "CultureInvariantString": "无深尽渊"
         },
         "CloneType": [
           "ECloneType::Abyss"
@@ -167,10 +172,48 @@
           "SubPathString": ""
         },
         "Desc": {
-          "Namespace": "",
-          "Key": "CD99CB3145EB657C4CB3659ACEA1D563",
-          "SourceString": "角色升星材料",
-          "LocalizedString": "角色升星材料"
+          "CultureInvariantString": "角色升星材料"
+        },
+        "RegisterGuideID": "None",
+        "LockedTip": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "common_FunctionUnlock",
+          "SourceString": "该功能尚未解锁",
+          "LocalizedString": "该功能尚未解锁"
+        }
+      },
+      "7": {
+        "TypeText": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "WB_AdventureManualBoss_BossRowDes",
+          "SourceString": "异象追猎",
+          "LocalizedString": "异象追猎"
+        },
+        "DisplayName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "WB_AdventureManualBoss_BossRowDes",
+          "SourceString": "异象追猎",
+          "LocalizedString": "异象追猎"
+        },
+        "CloneType": [
+          "ECloneType::WorldBoss_Display"
+        ],
+        "Icon": {
+          "AssetPathName": "/Game/UI/UI/AdventureManual/UI_YH_TSZN_FB_Icon_02.UI_YH_TSZN_FB_Icon_02",
+          "SubPathString": ""
+        },
+        "Desc": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "WB_AdventureManualBoss_BossRowDes",
+          "SourceString": "异象追猎",
+          "LocalizedString": "异象追猎"
+        },
+        "RegisterGuideID": "None",
+        "LockedTip": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "common_FunctionUnlock",
+          "SourceString": "该功能尚未解锁",
+          "LocalizedString": "该功能尚未解锁"
         }
       }
     }

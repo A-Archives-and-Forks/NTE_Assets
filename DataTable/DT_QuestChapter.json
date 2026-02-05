@@ -138,19 +138,16 @@
           "SourceString": "月光当铺",
           "LocalizedString": "月光当铺"
         },
-        "ChapterBaseID": "Main",
-        "ChapterValue": 3.0,
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
         "ChapterDesc": {
-          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
-          "Key": "MU01_01_des",
-          "SourceString": "「写作『既定』的谜面」",
-          "LocalizedString": "「写作『既定』的谜面」"
+          "CultureInvariantString": null
         },
         "ChapterBaseDesc": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
-          "Key": "Main",
-          "SourceString": "正篇",
-          "LocalizedString": "正篇"
+          "Key": "Legend",
+          "SourceString": "番外",
+          "LocalizedString": "番外"
         },
         "LockDesc": {
           "CultureInvariantString": null
@@ -241,6 +238,68 @@
         "RefreshHour": -1,
         "RelatedNPCArray": []
       },
+      "MU01_04": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "MU01_04",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "ChapterBaseID": "Main",
+        "ChapterValue": 6.0,
+        "ChapterDesc": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "MU01_04_des",
+          "SourceString": "「写作『既定』的谜面」",
+          "LocalizedString": "「写作『既定』的谜面」"
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Main",
+          "SourceString": "正篇",
+          "LocalizedString": "正篇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "MU01_05": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "MU01_05",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "ChapterBaseID": "Main",
+        "ChapterValue": 7.0,
+        "ChapterDesc": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "MU01_05_des",
+          "SourceString": "「写作『既定』的谜面」",
+          "LocalizedString": "「写作『既定』的谜面」"
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Main",
+          "SourceString": "正篇",
+          "LocalizedString": "正篇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
       "SU001": {
         "ChapterName": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
@@ -255,9 +314,9 @@
         },
         "ChapterBaseDesc": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
-          "Key": "Liking",
-          "SourceString": "羁遇",
-          "LocalizedString": "羁遇"
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
         },
         "LockDesc": {
           "CultureInvariantString": null
@@ -395,9 +454,9 @@
         },
         "ChapterBaseDesc": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
-          "Key": "Liking",
-          "SourceString": "羁遇",
-          "LocalizedString": "羁遇"
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
         },
         "LockDesc": {
           "CultureInvariantString": null
@@ -651,9 +710,9 @@
         },
         "ChapterBaseDesc": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
-          "Key": "Liking",
-          "SourceString": "羁遇",
-          "LocalizedString": "羁遇"
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
         },
         "LockDesc": {
           "CultureInvariantString": null
@@ -1145,8 +1204,8 @@
       },
       "SU018": {
         "ChapterName": {
-          "TableId": "/Game/Text/ST_SideQuest_wxy.ST_SideQuest_wxy",
-          "Key": "K110400_ChapterName",
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU018",
           "SourceString": "书卷多情似故人",
           "LocalizedString": "书卷多情似故人"
         },
@@ -1173,8 +1232,8 @@
       },
       "SU019": {
         "ChapterName": {
-          "TableId": "/Game/Text/ST_SideQuest_wxy.ST_SideQuest_wxy",
-          "Key": "s111100_QuestNameF",
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU019",
           "SourceString": "写给你的逆行诗",
           "LocalizedString": "写给你的逆行诗"
         },
@@ -1201,10 +1260,38 @@
       },
       "SU020": {
         "ChapterName": {
-          "TableId": "/Game/Text/ST_SideQuest_wxy.ST_SideQuest_wxy",
-          "Key": "s111200_ChapterName",
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU020",
           "SourceString": "当秋千晃了一千下",
           "LocalizedString": "当秋千晃了一千下"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU020_01": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU020_01",
+          "SourceString": "英雄未必在光辉时刻到来",
+          "LocalizedString": "英雄未必在光辉时刻到来"
         },
         "ChapterBaseID": "None",
         "ChapterValue": -1.0,
@@ -1378,6 +1465,36 @@
           "NPC_013"
         ]
       },
+      "SU037_03": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU037_03",
+          "SourceString": "树下",
+          "LocalizedString": "树下"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_009"
+        ]
+      },
       "SU024_01": {
         "ChapterName": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
@@ -1483,9 +1600,9 @@
         },
         "ChapterBaseDesc": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
-          "Key": "Liking",
-          "SourceString": "羁遇",
-          "LocalizedString": "羁遇"
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
         },
         "LockDesc": {
           "CultureInvariantString": null
@@ -1513,9 +1630,9 @@
         },
         "ChapterBaseDesc": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
-          "Key": "Liking",
-          "SourceString": "羁遇",
-          "LocalizedString": "羁遇"
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
         },
         "LockDesc": {
           "CultureInvariantString": null
@@ -1543,9 +1660,9 @@
         },
         "ChapterBaseDesc": {
           "TableId": "/Game/Text/ST_Common.ST_Common",
-          "Key": "Liking",
-          "SourceString": "羁遇",
-          "LocalizedString": "羁遇"
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
         },
         "LockDesc": {
           "CultureInvariantString": null
@@ -1772,8 +1889,8 @@
         "ChapterName": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
           "Key": "SU028_01",
-          "SourceString": "翳邀约1",
-          "LocalizedString": "翳邀约1"
+          "SourceString": "工作之余-「狗狗咖啡厅」？",
+          "LocalizedString": "工作之余-「狗狗咖啡厅」？"
         },
         "ChapterBaseID": "None",
         "ChapterValue": -1.0,
@@ -1804,8 +1921,8 @@
         "ChapterName": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
           "Key": "SU028_02",
-          "SourceString": "翳邀约2",
-          "LocalizedString": "翳邀约2"
+          "SourceString": "工作之余-毛发护理初体验",
+          "LocalizedString": "工作之余-毛发护理初体验"
         },
         "ChapterBaseID": "None",
         "ChapterValue": -1.0,
@@ -1834,8 +1951,8 @@
         "ChapterName": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
           "Key": "SU028_03",
-          "SourceString": "翳邀约3",
-          "LocalizedString": "翳邀约3"
+          "SourceString": "工作之余-狼或犬",
+          "LocalizedString": "工作之余-狼或犬"
         },
         "ChapterBaseID": "None",
         "ChapterValue": -1.0,
@@ -1859,6 +1976,1860 @@
         "RelatedNPCArray": [
           "NPC_005"
         ]
+      },
+      "SU029_01": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU029_01",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_004"
+        ]
+      },
+      "SU029_02": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU029_02",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_004"
+        ]
+      },
+      "SU029_03": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU029_03",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_004"
+        ]
+      },
+      "SU030_01": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU030_01",
+          "SourceString": "我们喝掉一整杯海",
+          "LocalizedString": "我们喝掉一整杯海"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_003"
+        ]
+      },
+      "SU030_02": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU030_02",
+          "SourceString": "开在荆棘上的花",
+          "LocalizedString": "开在荆棘上的花"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_003"
+        ]
+      },
+      "SU030_03": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU030_03",
+          "SourceString": "家具杀手",
+          "LocalizedString": "家具杀手"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_003"
+        ]
+      },
+      "SU033_01": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU033_01",
+          "SourceString": "计划执行中-因祸得福",
+          "LocalizedString": "计划执行中-因祸得福"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU033_02": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU033_02",
+          "SourceString": "计划执行中-「计划有变」",
+          "LocalizedString": "计划执行中-「计划有变」"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU033_03": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU033_03",
+          "SourceString": "计划执行中-影像的痕迹",
+          "LocalizedString": "计划执行中-影像的痕迹"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU034_01": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU034_01",
+          "SourceString": "她的谜与谜底-香在无心处",
+          "LocalizedString": "她的谜与谜底-香在无心处"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_015",
+          "NPC_014",
+          "NPC_018"
+        ]
+      },
+      "SU034_02": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU034_02",
+          "SourceString": "她的谜与谜底-戏里戏外",
+          "LocalizedString": "她的谜与谜底-戏里戏外"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_015"
+        ]
+      },
+      "SU034_03": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU034_03",
+          "SourceString": "她的谜与谜底-倦鸟何时还",
+          "LocalizedString": "她的谜与谜底-倦鸟何时还"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_015"
+        ]
+      },
+      "WJ1013": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Bh_ZJ",
+          "SourceString": "此间百味事",
+          "LocalizedString": "此间百味事"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU039": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039",
+          "SourceString": "「早安，海特洛」",
+          "LocalizedString": "「早安，海特洛」"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_010",
+          "NPC_026"
+        ]
+      },
+      "SU039_00": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_00",
+          "SourceString": "大亨之路迢迢",
+          "LocalizedString": "大亨之路迢迢"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU039_01": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_01",
+          "SourceString": "传说中的神车手",
+          "LocalizedString": "传说中的神车手"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU039_02": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_02",
+          "SourceString": "都市漫游",
+          "LocalizedString": "都市漫游"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU039_03": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_03",
+          "SourceString": "咖啡主理人",
+          "LocalizedString": "咖啡主理人"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU039_04": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_04",
+          "SourceString": "家的味道",
+          "LocalizedString": "家的味道"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU039_05": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_05",
+          "SourceString": "本职工作",
+          "LocalizedString": "本职工作"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU039_06": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_06",
+          "SourceString": "加班时间",
+          "LocalizedString": "加班时间"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU039_07": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_07",
+          "SourceString": "综艺之星",
+          "LocalizedString": "综艺之星"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_026"
+        ]
+      },
+      "SU039_08": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_08",
+          "SourceString": "新的委托",
+          "LocalizedString": "新的委托"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_026"
+        ]
+      },
+      "SU039_09": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_09",
+          "SourceString": "补给时间到",
+          "LocalizedString": "补给时间到"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU039_10": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU039_10",
+          "SourceString": "祝你「渔」快！",
+          "LocalizedString": "祝你「渔」快！"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "BreakThrough",
+          "SourceString": "引导",
+          "LocalizedString": "引导"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU040": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU040",
+          "SourceString": "再见！「黄旗赛段」",
+          "LocalizedString": "再见！「黄旗赛段」"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU047": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU021_01",
+          "SourceString": "空若本生图-三份大的胡萝卜蛋糕 ",
+          "LocalizedString": "空若本生图-三份大的胡萝卜蛋糕 "
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_010"
+        ]
+      },
+      "SU048": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU021_02",
+          "SourceString": "空若本生图-凶手竟是「团三郎」？",
+          "LocalizedString": "空若本生图-凶手竟是「团三郎」？"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_010"
+        ]
+      },
+      "SU049": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU021_03",
+          "SourceString": "空若本生图-结满蜘蛛网的故事",
+          "LocalizedString": "空若本生图-结满蜘蛛网的故事"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_010"
+        ]
+      },
+      "SU035": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU035",
+          "SourceString": "在倒影里的",
+          "LocalizedString": "在倒影里的"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "SU059": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU059_01",
+          "SourceString": "半日闲-逆天改命事务所？",
+          "LocalizedString": "半日闲-逆天改命事务所？"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_006"
+        ]
+      },
+      "SU060": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU059_02",
+          "SourceString": "半日闲-从零开始的花卉培育",
+          "LocalizedString": "半日闲-从零开始的花卉培育"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_006"
+        ]
+      },
+      "SU061": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU059_03",
+          "SourceString": "半日闲-花朵与秋天",
+          "LocalizedString": "半日闲-花朵与秋天"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Liking",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": [
+          "NPC_006"
+        ]
+      },
+      "SU062": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
+          "Key": "SU062",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Side",
+          "SourceString": "支线",
+          "LocalizedString": "支线"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WA004101": {
+        "ChapterName": {
+          "CultureInvariantString": "学校-起司"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "CultureInvariantString": null
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WA004102": {
+        "ChapterName": {
+          "CultureInvariantString": "学校-起司"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "CultureInvariantString": null
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WA004103": {
+        "ChapterName": {
+          "CultureInvariantString": "学校-起司"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "CultureInvariantString": null
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1019": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Bc_ZJ",
+          "SourceString": "闲游幸会",
+          "LocalizedString": "闲游幸会"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1001": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Nnl_ZJ",
+          "SourceString": "老大巡视中",
+          "LocalizedString": "老大巡视中"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1006": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Adl_ZJ",
+          "SourceString": "常日",
+          "LocalizedString": "常日"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1010": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Zw_ZJ",
+          "SourceString": "不是乖孩子！",
+          "LocalizedString": "不是乖孩子！"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1025": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Fdy_ZJ",
+          "SourceString": "甜蜜的毒药",
+          "LocalizedString": "甜蜜的毒药"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1030": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "X_ZJ",
+          "SourceString": "半日闲",
+          "LocalizedString": "半日闲"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1042": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Jy_ZJ",
+          "SourceString": "非预期会面",
+          "LocalizedString": "非预期会面"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1021": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Ahq_ZJ",
+          "SourceString": "都市随想曲",
+          "LocalizedString": "都市随想曲"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1009": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Adj_ZJ",
+          "SourceString": "知识获取中",
+          "LocalizedString": "知识获取中"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1041": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Hny_ZJ",
+          "SourceString": "与你分享的一日",
+          "LocalizedString": "与你分享的一日"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1035": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Dfde_ZJ",
+          "SourceString": "湖中的小水仙",
+          "LocalizedString": "湖中的小水仙"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WQ1001": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
+          "Key": "WQ100101_QuestName",
+          "SourceString": "新手摄影师",
+          "LocalizedString": "新手摄影师"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "CultureInvariantString": null
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WQ1002": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
+          "Key": "WQ100210_QuestName",
+          "SourceString": "身边的风景",
+          "LocalizedString": "身边的风景"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "CultureInvariantString": null
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WQ1003": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_World.ST_SideQuest_World",
+          "Key": "WQ100308_QuestName",
+          "SourceString": "城市的脉搏",
+          "LocalizedString": "城市的脉搏"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "CultureInvariantString": null
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1002": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Nnl_ZJ",
+          "SourceString": "老大巡视中",
+          "LocalizedString": "老大巡视中"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1003": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Nnl_ZJ",
+          "SourceString": "老大巡视中",
+          "LocalizedString": "老大巡视中"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1004": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Nnl_ZJ",
+          "SourceString": "老大巡视中",
+          "LocalizedString": "老大巡视中"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1005": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Nnl_ZJ",
+          "SourceString": "老大巡视中",
+          "LocalizedString": "老大巡视中"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1007": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Adl_ZJ",
+          "SourceString": "常日",
+          "LocalizedString": "常日"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1011": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Zw_ZJ",
+          "SourceString": "不是乖孩子！",
+          "LocalizedString": "不是乖孩子！"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1026": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Fdy_ZJ",
+          "SourceString": "甜蜜的毒药",
+          "LocalizedString": "甜蜜的毒药"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1031": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "X_ZJ",
+          "SourceString": "半日闲",
+          "LocalizedString": "半日闲"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1032": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "X_ZJ",
+          "SourceString": "半日闲",
+          "LocalizedString": "半日闲"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1043": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Jy_ZJ",
+          "SourceString": "非预期会面",
+          "LocalizedString": "非预期会面"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1014": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Bh_ZJ",
+          "SourceString": "此间百味事",
+          "LocalizedString": "此间百味事"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1016": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Bh_ZJ",
+          "SourceString": "此间百味事",
+          "LocalizedString": "此间百味事"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1022": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Ahq_ZJ",
+          "SourceString": "都市随想曲",
+          "LocalizedString": "都市随想曲"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1023": {
+        "ChapterName": {
+          "TableId": "/Game/Text/ST_SideQuest_QQ.ST_SideQuest_QQ",
+          "Key": "Ahq_ZJ",
+          "SourceString": "都市随想曲",
+          "LocalizedString": "都市随想曲"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "Ouyu",
+          "SourceString": "偶遇",
+          "LocalizedString": "偶遇"
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
+      },
+      "WJ1082": {
+        "ChapterName": {
+          "CultureInvariantString": "日蚀-弧盘彩蛋"
+        },
+        "ChapterBaseID": "None",
+        "ChapterValue": -1.0,
+        "ChapterDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterBaseDesc": {
+          "CultureInvariantString": null
+        },
+        "LockDesc": {
+          "CultureInvariantString": null
+        },
+        "ChapterParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RefreshHour": -1,
+        "RelatedNPCArray": []
       }
     }
   }

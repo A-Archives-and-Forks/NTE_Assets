@@ -239,8 +239,8 @@
         "RefreshOperation": "ESpawnResultsOperation::AND",
         "AIRefreshConditionEntriesOverride": [
           {
-            "ObjectName": "BlueprintGeneratedClass'AIRC_Wea_Default_C'",
-            "ObjectPath": "/Game/Blueprints/AI/AIRefreshCondition/Weather/AIRC_Wea_Default.1"
+            "ObjectName": "BlueprintGeneratedClass'AIRC_Wea_Sunny_C'",
+            "ObjectPath": "/Game/Blueprints/AI/AIRefreshCondition/Weather/AIRC_Wea_Sunny.1"
           },
           {
             "ObjectName": "BlueprintGeneratedClass'AIRC_Time_06002300_C'",
@@ -251,7 +251,10 @@
       "School_MorningTeacher": {
         "RefreshOperation": "ESpawnResultsOperation::AND",
         "AIRefreshConditionEntriesOverride": [
-          null,
+          {
+            "ObjectName": "BlueprintGeneratedClass'AIRC_Time_07000800_C'",
+            "ObjectPath": "/Game/Blueprints/AI/AIRefreshCondition/Time/AIRC_Time_07000800.1"
+          },
           {
             "ObjectName": "BlueprintGeneratedClass'AIRC_Wea_Default_C'",
             "ObjectPath": "/Game/Blueprints/AI/AIRefreshCondition/Weather/AIRC_Wea_Default.1"
@@ -391,15 +394,15 @@
         ]
       },
       "WorldBoss_007_Unlock": {
-        "RefreshOperation": "ESpawnResultsOperation::OR",
+        "RefreshOperation": "ESpawnResultsOperation::AND",
         "AIRefreshConditionEntriesOverride": [
           {
             "ObjectName": "BlueprintGeneratedClass'AIRC_Yahaha_WorldBoss_07_C'",
             "ObjectPath": "/Game/Blueprints/AI/AIRefreshCondition/Yahaha/AIRC_Yahaha_WorldBoss_07.1"
           },
           {
-            "ObjectName": "BlueprintGeneratedClass'L110052_C'",
-            "ObjectPath": "/Game/Blueprints/AI/AIRefreshCondition/Quest/L110052.0"
+            "ObjectName": "BlueprintGeneratedClass'AIRC_NotInClone_AdvVision_C'",
+            "ObjectPath": "/Game/Blueprints/AI/AIRefreshCondition/InClone/AIRC_NotInClone_AdvVision.1"
           }
         ]
       },
@@ -435,6 +438,19 @@
           {
             "ObjectName": "BlueprintGeneratedClass'AIRC_Time_20000600_C'",
             "ObjectPath": "/Game/Blueprints/AI/AIRefreshCondition/Time/AIRC_Time_20000600.1"
+          }
+        ]
+      },
+      "WorldBoss_009_Unlock": {
+        "RefreshOperation": "ESpawnResultsOperation::OR",
+        "AIRefreshConditionEntriesOverride": [
+          {
+            "ObjectName": "BlueprintGeneratedClass'S110935_C'",
+            "ObjectPath": "/Game/Blueprints/AI/AIRefreshCondition/Quest/S110935.0"
+          },
+          {
+            "ObjectName": "BlueprintGeneratedClass'AIRC_Yahaha_WorldBoss_09_C'",
+            "ObjectPath": "/Game/Blueprints/AI/AIRefreshCondition/Yahaha/AIRC_Yahaha_WorldBoss_09.1"
           }
         ]
       }

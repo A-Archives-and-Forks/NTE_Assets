@@ -20,6 +20,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -89,7 +90,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_2_1": {
         "ChatID": "SU016_005_a",
@@ -100,6 +105,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -129,7 +135,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_2_2": {
         "ChatID": "SU016_005_a",
@@ -140,6 +150,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -169,7 +180,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_2_3": {
         "ChatID": "SU016_005_a",
@@ -180,6 +195,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -209,7 +225,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_3": {
         "ChatID": "SU016_005_a",
@@ -220,6 +240,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -249,7 +270,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_4": {
         "ChatID": "SU016_005_a",
@@ -260,6 +285,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -289,7 +315,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_5": {
         "ChatID": "SU016_005_a",
@@ -300,6 +330,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -329,7 +360,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_6": {
         "ChatID": "SU016_005_a",
@@ -340,6 +375,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -369,7 +405,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_7": {
         "ChatID": "SU016_005_a",
@@ -380,6 +420,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -423,7 +464,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_8": {
         "ChatID": "SU016_005_a",
@@ -434,6 +479,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -463,7 +509,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_9": {
         "ChatID": "SU016_005_a",
@@ -474,6 +524,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -503,7 +554,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_10": {
         "ChatID": "SU016_005_a",
@@ -514,6 +569,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -543,7 +599,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_11": {
         "ChatID": "SU016_005_a",
@@ -554,6 +614,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -597,7 +658,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_12": {
         "ChatID": "SU016_005_a",
@@ -608,6 +673,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -637,7 +703,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_13": {
         "ChatID": "SU016_005_a",
@@ -648,6 +718,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -677,7 +748,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_14": {
         "ChatID": "SU016_005_a",
@@ -688,6 +763,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -717,7 +793,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_15": {
         "ChatID": "SU016_005_a",
@@ -728,6 +808,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -757,7 +838,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_16": {
         "ChatID": "SU016_005_a",
@@ -768,6 +853,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -797,7 +883,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_17": {
         "ChatID": "SU016_005_a",
@@ -808,6 +898,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -837,7 +928,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_18": {
         "ChatID": "SU016_005_a",
@@ -848,6 +943,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -877,7 +973,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_19": {
         "ChatID": "SU016_005_a",
@@ -888,6 +988,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -917,7 +1018,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_20": {
         "ChatID": "SU016_005_a",
@@ -928,6 +1033,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -957,7 +1063,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_21": {
         "ChatID": "SU016_005_a",
@@ -968,6 +1078,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -997,7 +1108,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_22": {
         "ChatID": "SU016_005_a",
@@ -1008,6 +1123,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1077,7 +1193,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_23": {
         "ChatID": "SU016_005_a",
@@ -1088,6 +1208,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1117,7 +1238,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_24": {
         "ChatID": "SU016_005_a",
@@ -1128,6 +1253,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1157,7 +1283,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a_25": {
         "ChatID": "SU016_005_a",
@@ -1168,6 +1298,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": false,
@@ -1516,7 +1647,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_1": {
         "ChatID": "SU016_005_a2",
@@ -1527,6 +1662,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1556,7 +1692,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_2": {
         "ChatID": "SU016_005_a2",
@@ -1567,6 +1707,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1596,7 +1737,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_3": {
         "ChatID": "SU016_005_a2",
@@ -1607,6 +1752,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1636,7 +1782,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_4": {
         "ChatID": "SU016_005_a2",
@@ -1647,6 +1797,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1676,7 +1827,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_5": {
         "ChatID": "SU016_005_a2",
@@ -1687,6 +1842,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1716,7 +1872,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_6": {
         "ChatID": "SU016_005_a2",
@@ -1727,6 +1887,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1756,7 +1917,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_7": {
         "ChatID": "SU016_005_a2",
@@ -1767,6 +1932,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1796,7 +1962,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_8": {
         "ChatID": "SU016_005_a2",
@@ -1807,6 +1977,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1836,7 +2007,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_9": {
         "ChatID": "SU016_005_a2",
@@ -1847,6 +2022,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1876,7 +2052,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_10": {
         "ChatID": "SU016_005_a2",
@@ -1887,6 +2067,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1916,7 +2097,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_11": {
         "ChatID": "SU016_005_a2",
@@ -1927,6 +2112,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1956,7 +2142,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_12": {
         "ChatID": "SU016_005_a2",
@@ -1967,6 +2157,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -1996,7 +2187,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_13": {
         "ChatID": "SU016_005_a2",
@@ -2007,6 +2202,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2036,7 +2232,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_14": {
         "ChatID": "SU016_005_a2",
@@ -2047,6 +2247,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2076,7 +2277,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_15": {
         "ChatID": "SU016_005_a2",
@@ -2087,6 +2292,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2116,7 +2322,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_16": {
         "ChatID": "SU016_005_a2",
@@ -2127,6 +2337,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2156,7 +2367,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_17": {
         "ChatID": "SU016_005_a2",
@@ -2167,6 +2382,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2196,7 +2412,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_18": {
         "ChatID": "SU016_005_a2",
@@ -2207,6 +2427,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2236,7 +2457,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_19": {
         "ChatID": "SU016_005_a2",
@@ -2247,6 +2472,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2276,7 +2502,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_20": {
         "ChatID": "SU016_005_a2",
@@ -2287,6 +2517,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2316,7 +2547,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_21": {
         "ChatID": "SU016_005_a2",
@@ -2327,6 +2562,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2356,7 +2592,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_22": {
         "ChatID": "SU016_005_a2",
@@ -2367,6 +2607,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2396,7 +2637,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_23": {
         "ChatID": "SU016_005_a2",
@@ -2407,6 +2652,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2436,7 +2682,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_24": {
         "ChatID": "SU016_005_a2",
@@ -2447,6 +2697,7 @@
         "bIsLastSetenceInSequence": false,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": false,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2476,7 +2727,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "chat_SU016_005_a2_25": {
         "ChatID": "SU016_005_a2",
@@ -2487,6 +2742,7 @@
         "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": false,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::NoOperate",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -2516,7 +2772,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       }
     }
   }

@@ -13,15 +13,13 @@
     "Rows": {
       "Test_Sub1": {
         "SubAreaName": {
-          "Namespace": "",
-          "Key": "A8B137FC47BAA47346A8B7A08309F0F0",
-          "SourceString": "测试场景A-1_1",
-          "LocalizedString": "测试场景A-1_1"
+          "CultureInvariantString": "测试场景A-1_1"
         },
         "BelongAreaID": "Test1",
         "SubAreaRenderData": {
           "BackgroundRenderRule": {
             "BackgroundTileDatas": [],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Masked"
           },
           "ThumbnailImage": {
@@ -43,10 +41,7 @@
       },
       "Test_Sub2": {
         "SubAreaName": {
-          "Namespace": "",
-          "Key": "D749F3BC4C36B2BAE087399ECB383473",
-          "SourceString": "测试场景A-2_1",
-          "LocalizedString": "测试场景A-2_1"
+          "CultureInvariantString": "测试场景A-2_1"
         },
         "BelongAreaID": "Test2",
         "SubAreaRenderData": null,
@@ -54,10 +49,7 @@
       },
       "testwyan-1": {
         "SubAreaName": {
-          "Namespace": "",
-          "Key": "D749F3BC4C36B2BAE087399ECB383473",
-          "SourceString": "测试场景A-2_1",
-          "LocalizedString": "测试场景A-2_1"
+          "CultureInvariantString": "测试场景A-2_1"
         },
         "BelongAreaID": "Testmap_wangyan_0",
         "SubAreaRenderData": null,

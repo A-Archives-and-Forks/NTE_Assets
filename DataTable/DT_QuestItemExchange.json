@@ -1,0 +1,61 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_QuestItemExchange",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'QuestItemExchangeData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "Prison_figues": {
+        "ItemID": "Prison_figues",
+        "MaxAmount": 1,
+        "CostItems": null,
+        "Conditions": []
+      },
+      "Prison_Paralyser": {
+        "ItemID": "Prison_Paralyser",
+        "MaxAmount": 1,
+        "CostItems": null,
+        "Conditions": []
+      },
+      "Prison_erodent": {
+        "ItemID": "Prison_erodent",
+        "MaxAmount": 1,
+        "CostItems": null,
+        "Conditions": []
+      },
+      "Prison_Uniform": {
+        "ItemID": "Prison_Uniform",
+        "MaxAmount": 2,
+        "CostItems": null,
+        "Conditions": []
+      },
+      "Prison_BedSheet": {
+        "ItemID": "Prison_BedSheet",
+        "MaxAmount": 2,
+        "CostItems": null,
+        "Conditions": []
+      },
+      "Prison_Towerkey": {
+        "ItemID": "Prison_Towerkey",
+        "MaxAmount": 1,
+        "CostItems": null,
+        "Conditions": []
+      },
+      "Prison_Towerkey_reduce": {
+        "ItemID": "None",
+        "MaxAmount": 0,
+        "CostItems": {
+          "ItemID": "Prison_Towerkey",
+          "Amount": 1
+        },
+        "Conditions": []
+      }
+    }
+  }
+]

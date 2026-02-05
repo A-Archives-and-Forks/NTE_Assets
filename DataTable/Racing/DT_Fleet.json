@@ -12,7 +12,7 @@
     },
     "Rows": {
       "Fleet001": {
-        "MapIconID": "VehicleRace_1",
+        "MapIconID": "Fleet",
         "FleetTransform": {
           "Rotation": {
             "X": 0.0,
@@ -26,7 +26,7 @@
           "Translation": {
             "X": -127031.08,
             "Y": 188938.28,
-            "Z": 6636.059
+            "Z": 6721.8936
           },
           "Scale3D": {
             "X": 1.0,
@@ -42,8 +42,8 @@
         "FleetName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_01_01_Name",
-          "SourceString": "星期日",
-          "LocalizedString": "星期日"
+          "SourceString": "星期日车队",
+          "LocalizedString": "星期日车队"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -82,29 +82,45 @@
           "LocalizedString": "暴走改车店"
         },
         "AssemblingBeginTime": 20,
-        "AssemblingEndTime": 23,
+        "AssemblingEndTime": 8,
         "AssemblingPlaceImage": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_01.UI_YH_Racing_Meetup_Images_01",
           "SubPathString": ""
         },
-        "bShowInList": true,
-        "UnlockFleetCondition": {
-          "RoleLevel": 8
-        },
+        "UnlockFleetCondition": {},
         "LockedTips": {
-          "TableId": "/Game/Text/ST_Ui.ST_Ui",
-          "Key": "race_pve_unlock_1",
-          "SourceString": "需要猎人8级解锁",
-          "LocalizedString": "需要猎人8级解锁"
+          "CultureInvariantString": null
         },
         "FleetShowInListCondition": {},
-        "bCanRepeatReceiveAward": false,
-        "RepeatAwardDropID": "None",
-        "RepeatReceiveAwardCountMax": 7,
-        "UnlockInviteRacerID": "None"
+        "StarAwardsData": [
+          {
+            "StarCount": 3,
+            "AwardDropID": "drop_Racer001_01"
+          },
+          {
+            "StarCount": 6,
+            "AwardDropID": "drop_Racer001_02"
+          },
+          {
+            "StarCount": 9,
+            "AwardDropID": "drop_Racer001_03"
+          },
+          {
+            "StarCount": 12,
+            "AwardDropID": "drop_Racer001_04"
+          },
+          {
+            "StarCount": 15,
+            "AwardDropID": "drop_Racer001_05"
+          },
+          {
+            "StarCount": 18,
+            "AwardDropID": "drop_Racer001_06"
+          }
+        ]
       },
       "Fleet002": {
-        "MapIconID": "VehicleRace_2",
+        "MapIconID": "Fleet",
         "FleetTransform": {
           "Rotation": {
             "X": 0.0,
@@ -116,9 +132,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -73416.62,
-            "Y": 134129.56,
-            "Z": 4371.219
+            "X": -73448.56,
+            "Y": 134105.48,
+            "Z": 4332.4014
           },
           "Scale3D": {
             "X": 1.0,
@@ -134,8 +150,8 @@
         "FleetName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_02_01_Name",
-          "SourceString": "月光海岸",
-          "LocalizedString": "月光海岸"
+          "SourceString": "月光海岸车队",
+          "LocalizedString": "月光海岸车队"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -174,29 +190,50 @@
           "LocalizedString": "Z42环海公路"
         },
         "AssemblingBeginTime": 18,
-        "AssemblingEndTime": 20,
+        "AssemblingEndTime": 6,
         "AssemblingPlaceImage": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_02.UI_YH_Racing_Meetup_Images_02",
           "SubPathString": ""
         },
-        "bShowInList": true,
         "UnlockFleetCondition": {
           "RoleLevel": 8
         },
         "LockedTips": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_1",
-          "SourceString": "需要猎人8级解锁",
-          "LocalizedString": "需要猎人8级解锁"
+          "SourceString": "需要达到猎人等级8级后解锁",
+          "LocalizedString": "需要达到猎人等级8级后解锁"
         },
         "FleetShowInListCondition": {},
-        "bCanRepeatReceiveAward": false,
-        "RepeatAwardDropID": "None",
-        "RepeatReceiveAwardCountMax": 7,
-        "UnlockInviteRacerID": "None"
+        "StarAwardsData": [
+          {
+            "StarCount": 3,
+            "AwardDropID": "drop_Racer002_01"
+          },
+          {
+            "StarCount": 6,
+            "AwardDropID": "drop_Racer002_02"
+          },
+          {
+            "StarCount": 9,
+            "AwardDropID": "drop_Racer002_03"
+          },
+          {
+            "StarCount": 12,
+            "AwardDropID": "drop_Racer002_04"
+          },
+          {
+            "StarCount": 15,
+            "AwardDropID": "drop_Racer002_05"
+          },
+          {
+            "StarCount": 18,
+            "AwardDropID": "drop_Racer002_06"
+          }
+        ]
       },
       "Fleet003": {
-        "MapIconID": "VehicleRace_3",
+        "MapIconID": "Fleet",
         "FleetTransform": {
           "Rotation": {
             "X": 0.0,
@@ -208,9 +245,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -142520.53,
-            "Y": 116493.28,
-            "Z": 7264.6997
+            "X": -142557.45,
+            "Y": 116389.664,
+            "Z": 7217.8164
           },
           "Scale3D": {
             "X": 1.0,
@@ -226,8 +263,8 @@
         "FleetName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_03_01_Name",
-          "SourceString": "全速前进！",
-          "LocalizedString": "全速前进！"
+          "SourceString": "全速前进！车队",
+          "LocalizedString": "全速前进！车队"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -266,29 +303,50 @@
           "LocalizedString": "卷叶榕大道"
         },
         "AssemblingBeginTime": 12,
-        "AssemblingEndTime": 17,
+        "AssemblingEndTime": 0,
         "AssemblingPlaceImage": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_03.UI_YH_Racing_Meetup_Images_03",
           "SubPathString": ""
         },
-        "bShowInList": true,
         "UnlockFleetCondition": {
-          "RoleLevel": 15
+          "RoleLevel": 12
         },
         "LockedTips": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_2",
-          "SourceString": "需要猎人15级解锁",
-          "LocalizedString": "需要猎人15级解锁"
+          "SourceString": "需要达到猎人等级12级后解锁",
+          "LocalizedString": "需要达到猎人等级12级后解锁"
         },
         "FleetShowInListCondition": {},
-        "bCanRepeatReceiveAward": false,
-        "RepeatAwardDropID": "None",
-        "RepeatReceiveAwardCountMax": 7,
-        "UnlockInviteRacerID": "None"
+        "StarAwardsData": [
+          {
+            "StarCount": 3,
+            "AwardDropID": "drop_Racer003_01"
+          },
+          {
+            "StarCount": 6,
+            "AwardDropID": "drop_Racer003_02"
+          },
+          {
+            "StarCount": 9,
+            "AwardDropID": "drop_Racer003_03"
+          },
+          {
+            "StarCount": 12,
+            "AwardDropID": "drop_Racer003_04"
+          },
+          {
+            "StarCount": 15,
+            "AwardDropID": "drop_Racer003_05"
+          },
+          {
+            "StarCount": 18,
+            "AwardDropID": "drop_Racer003_06"
+          }
+        ]
       },
       "Fleet004": {
-        "MapIconID": "VehicleRace_4",
+        "MapIconID": "Fleet",
         "FleetTransform": {
           "Rotation": {
             "X": 0.0,
@@ -300,9 +358,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -80295.625,
-            "Y": -10567.914,
-            "Z": 8547.356
+            "X": -79815.78,
+            "Y": -10567.134,
+            "Z": 8518.403
           },
           "Scale3D": {
             "X": 1.0,
@@ -318,8 +376,8 @@
         "FleetName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_01_Name",
-          "SourceString": "子午线",
-          "LocalizedString": "子午线"
+          "SourceString": "子午线车队",
+          "LocalizedString": "子午线车队"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -358,29 +416,50 @@
           "LocalizedString": "水菱湖"
         },
         "AssemblingBeginTime": 22,
-        "AssemblingEndTime": 1,
+        "AssemblingEndTime": 10,
         "AssemblingPlaceImage": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_04.UI_YH_Racing_Meetup_Images_04",
           "SubPathString": ""
         },
-        "bShowInList": true,
         "UnlockFleetCondition": {
-          "RoleLevel": 21
+          "RoleLevel": 16
         },
         "LockedTips": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_3",
-          "SourceString": "需要猎人21级解锁",
-          "LocalizedString": "需要猎人21级解锁"
+          "SourceString": "需要达到猎人等级16级后解锁",
+          "LocalizedString": "需要达到猎人等级16级后解锁"
         },
         "FleetShowInListCondition": {},
-        "bCanRepeatReceiveAward": false,
-        "RepeatAwardDropID": "None",
-        "RepeatReceiveAwardCountMax": 7,
-        "UnlockInviteRacerID": "None"
+        "StarAwardsData": [
+          {
+            "StarCount": 3,
+            "AwardDropID": "drop_Racer004_01"
+          },
+          {
+            "StarCount": 6,
+            "AwardDropID": "drop_Racer004_02"
+          },
+          {
+            "StarCount": 9,
+            "AwardDropID": "drop_Racer004_03"
+          },
+          {
+            "StarCount": 12,
+            "AwardDropID": "drop_Racer004_04"
+          },
+          {
+            "StarCount": 15,
+            "AwardDropID": "drop_Racer004_05"
+          },
+          {
+            "StarCount": 18,
+            "AwardDropID": "drop_Racer004_06"
+          }
+        ]
       },
       "Fleet005": {
-        "MapIconID": "VehicleRace_5",
+        "MapIconID": "Fleet",
         "FleetTransform": {
           "Rotation": {
             "X": 0.0,
@@ -392,9 +471,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": 54586.082,
-            "Y": 81738.22,
-            "Z": 3814.7546
+            "X": 54987.543,
+            "Y": 81971.57,
+            "Z": 3750.1401
           },
           "Scale3D": {
             "X": 1.0,
@@ -410,8 +489,8 @@
         "FleetName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_05_01_Name",
-          "SourceString": "追风",
-          "LocalizedString": "追风"
+          "SourceString": "追风车队",
+          "LocalizedString": "追风车队"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -450,29 +529,50 @@
           "LocalizedString": "胡桃夹公路"
         },
         "AssemblingBeginTime": 16,
-        "AssemblingEndTime": 22,
+        "AssemblingEndTime": 4,
         "AssemblingPlaceImage": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_05.UI_YH_Racing_Meetup_Images_05",
           "SubPathString": ""
         },
-        "bShowInList": true,
         "UnlockFleetCondition": {
-          "RoleLevel": 25
+          "RoleLevel": 20
         },
         "LockedTips": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_4",
-          "SourceString": "需要猎人25级解锁",
-          "LocalizedString": "需要猎人25级解锁"
+          "SourceString": "需要达到猎人等级20级后解锁",
+          "LocalizedString": "需要达到猎人等级20级后解锁"
         },
         "FleetShowInListCondition": {},
-        "bCanRepeatReceiveAward": false,
-        "RepeatAwardDropID": "None",
-        "RepeatReceiveAwardCountMax": 7,
-        "UnlockInviteRacerID": "None"
+        "StarAwardsData": [
+          {
+            "StarCount": 3,
+            "AwardDropID": "drop_Racer005_01"
+          },
+          {
+            "StarCount": 6,
+            "AwardDropID": "drop_Racer005_02"
+          },
+          {
+            "StarCount": 9,
+            "AwardDropID": "drop_Racer005_03"
+          },
+          {
+            "StarCount": 12,
+            "AwardDropID": "drop_Racer005_04"
+          },
+          {
+            "StarCount": 15,
+            "AwardDropID": "drop_Racer005_05"
+          },
+          {
+            "StarCount": 18,
+            "AwardDropID": "drop_Racer005_06"
+          }
+        ]
       },
       "Fleet006": {
-        "MapIconID": "VehicleRace_6",
+        "MapIconID": "Fleet",
         "FleetTransform": {
           "Rotation": {
             "X": 0.0,
@@ -484,9 +584,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": 5354.7124,
-            "Y": 135315.22,
-            "Z": 6242.821
+            "X": 5064.5215,
+            "Y": 135695.31,
+            "Z": 6225.821
           },
           "Scale3D": {
             "X": 1.0,
@@ -502,8 +602,8 @@
         "FleetName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_06_01_Name",
-          "SourceString": "无冕",
-          "LocalizedString": "无冕"
+          "SourceString": "无冕车队",
+          "LocalizedString": "无冕车队"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -542,29 +642,50 @@
           "LocalizedString": "海角广场"
         },
         "AssemblingBeginTime": 19,
-        "AssemblingEndTime": 22,
+        "AssemblingEndTime": 7,
         "AssemblingPlaceImage": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_06.UI_YH_Racing_Meetup_Images_06",
           "SubPathString": ""
         },
-        "bShowInList": true,
         "UnlockFleetCondition": {
-          "RoleLevel": 29
+          "RoleLevel": 24
         },
         "LockedTips": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "race_pve_unlock_5",
-          "SourceString": "需要猎人29级解锁",
-          "LocalizedString": "需要猎人29级解锁"
+          "SourceString": "需要达到猎人等级24级后解锁",
+          "LocalizedString": "需要达到猎人等级24级后解锁"
         },
         "FleetShowInListCondition": {},
-        "bCanRepeatReceiveAward": false,
-        "RepeatAwardDropID": "None",
-        "RepeatReceiveAwardCountMax": 7,
-        "UnlockInviteRacerID": "None"
+        "StarAwardsData": [
+          {
+            "StarCount": 3,
+            "AwardDropID": "drop_Racer006_01"
+          },
+          {
+            "StarCount": 6,
+            "AwardDropID": "drop_Racer006_02"
+          },
+          {
+            "StarCount": 9,
+            "AwardDropID": "drop_Racer006_03"
+          },
+          {
+            "StarCount": 12,
+            "AwardDropID": "drop_Racer006_04"
+          },
+          {
+            "StarCount": 15,
+            "AwardDropID": "drop_Racer006_05"
+          },
+          {
+            "StarCount": 18,
+            "AwardDropID": "drop_Racer006_06"
+          }
+        ]
       },
       "Fleet999_Quest1": {
-        "MapIconID": "VehicleRace_999",
+        "MapIconID": "Fleet",
         "FleetTransform": {
           "Rotation": {
             "X": 0.0,
@@ -594,8 +715,8 @@
         "FleetName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Fleet_04_01_Name",
-          "SourceString": "子午线",
-          "LocalizedString": "子午线"
+          "SourceString": "子午线车队",
+          "LocalizedString": "子午线车队"
         },
         "FleetLongName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -633,25 +754,21 @@
           "SourceString": "水菱湖",
           "LocalizedString": "水菱湖"
         },
-        "AssemblingBeginTime": 1,
-        "AssemblingEndTime": 24,
+        "AssemblingBeginTime": 0,
+        "AssemblingEndTime": 23,
         "AssemblingPlaceImage": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_999_1.UI_YH_Racing_Meetup_Images_999_1",
           "SubPathString": ""
         },
-        "bShowInList": true,
         "UnlockFleetCondition": {},
         "LockedTips": {
           "CultureInvariantString": null
         },
         "FleetShowInListCondition": {},
-        "bCanRepeatReceiveAward": false,
-        "RepeatAwardDropID": "None",
-        "RepeatReceiveAwardCountMax": 7,
-        "UnlockInviteRacerID": "None"
+        "StarAwardsData": []
       },
       "Fleet999_Quest2": {
-        "MapIconID": "VehicleRace_999",
+        "MapIconID": "Fleet",
         "FleetTransform": {
           "Rotation": {
             "X": 0.0,
@@ -720,25 +837,21 @@
           "SourceString": "水菱湖",
           "LocalizedString": "水菱湖"
         },
-        "AssemblingBeginTime": 1,
-        "AssemblingEndTime": 4,
+        "AssemblingBeginTime": 0,
+        "AssemblingEndTime": 23,
         "AssemblingPlaceImage": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_999_2.UI_YH_Racing_Meetup_Images_999_2",
           "SubPathString": ""
         },
-        "bShowInList": true,
         "UnlockFleetCondition": {},
         "LockedTips": {
           "CultureInvariantString": null
         },
         "FleetShowInListCondition": {},
-        "bCanRepeatReceiveAward": false,
-        "RepeatAwardDropID": "None",
-        "RepeatReceiveAwardCountMax": 7,
-        "UnlockInviteRacerID": "None"
+        "StarAwardsData": []
       },
       "Fleet999": {
-        "MapIconID": "VehicleRace_999",
+        "MapIconID": "Fleet",
         "FleetTransform": {
           "Rotation": {
             "X": 0.0,
@@ -807,22 +920,209 @@
           "SourceString": "水菱湖",
           "LocalizedString": "水菱湖"
         },
-        "AssemblingBeginTime": 1,
-        "AssemblingEndTime": 4,
+        "AssemblingBeginTime": 19,
+        "AssemblingEndTime": 6,
         "AssemblingPlaceImage": {
           "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_999_2.UI_YH_Racing_Meetup_Images_999_2",
           "SubPathString": ""
         },
-        "bShowInList": true,
         "UnlockFleetCondition": {},
         "LockedTips": {
           "CultureInvariantString": null
         },
         "FleetShowInListCondition": {},
-        "bCanRepeatReceiveAward": false,
-        "RepeatAwardDropID": "None",
-        "RepeatReceiveAwardCountMax": 0,
-        "UnlockInviteRacerID": "None"
+        "StarAwardsData": [
+          {
+            "StarCount": 1,
+            "AwardDropID": "drop_Visions_furniture_14_UpMaterial"
+          },
+          {
+            "StarCount": 2,
+            "AwardDropID": "drop_Visions_furniture_14_UpMaterial"
+          },
+          {
+            "StarCount": 3,
+            "AwardDropID": "drop_Visions_furniture_14_UpMaterial"
+          },
+          {
+            "StarCount": 4,
+            "AwardDropID": "drop_Visions_furniture_14_UpMaterial"
+          },
+          {
+            "StarCount": 5,
+            "AwardDropID": "drop_Visions_furniture_14_UpMaterial"
+          },
+          {
+            "StarCount": 6,
+            "AwardDropID": "drop_Visions_furniture_14_UpMaterial"
+          }
+        ]
+      },
+      "Fleet_ZX_Quest1": {
+        "MapIconID": "Fleet",
+        "FleetTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -73416.62,
+            "Y": 134129.56,
+            "Z": 4371.219
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "FleetBelongsLevel": "XL_map_bigworld_test",
+        "FleetListIcon": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_02.UI_YH_Racing_Fleet_Icon_02",
+          "SubPathString": ""
+        },
+        "FleetName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Fleet_02_01_Name",
+          "SourceString": "月光海岸车队",
+          "LocalizedString": "月光海岸车队"
+        },
+        "FleetLongName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Fleet_02_02_Name",
+          "SourceString": "桥间地·月光海岸",
+          "LocalizedString": "桥间地·月光海岸"
+        },
+        "FleetBG": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_02.UI_YH_Racing_Level_Bkg_Images_02",
+          "SubPathString": ""
+        },
+        "FleetLogo": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Level_Logo_02.UI_YH_Racing_Level_Logo_02",
+          "SubPathString": ""
+        },
+        "FleetDesc": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Fleet_02_01_Desc",
+          "SourceString": "队长艾丽于大学时期组建的车队。如今成员们都已是上班族，但这个车队保留至今，姐妹们时常通过赛车联络感情，她们将赛车视为生活的一部分，不在意输赢。",
+          "LocalizedString": "队长艾丽于大学时期组建的车队。如今成员们都已是上班族，但这个车队保留至今，姐妹们时常通过赛车联络感情，她们将赛车视为生活的一部分，不在意输赢。"
+        },
+        "FleetRaceTrackIcon": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_Meetup_Map_001.UI_YH_Racing_Meetup_Map_001",
+          "SubPathString": ""
+        },
+        "FleetRaceTrackName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_02",
+          "SourceString": "桥间地观光线",
+          "LocalizedString": "桥间地观光线"
+        },
+        "AssemblingPlace": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Fleet_02_01_DD",
+          "SourceString": "Z42环海公路",
+          "LocalizedString": "Z42环海公路"
+        },
+        "AssemblingBeginTime": 18,
+        "AssemblingEndTime": 6,
+        "AssemblingPlaceImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_02.UI_YH_Racing_Meetup_Images_02",
+          "SubPathString": ""
+        },
+        "UnlockFleetCondition": {},
+        "LockedTips": {
+          "CultureInvariantString": null
+        },
+        "FleetShowInListCondition": {},
+        "StarAwardsData": []
+      },
+      "Fleet_ZX_Quest2": {
+        "MapIconID": "Fleet",
+        "FleetTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -127031.08,
+            "Y": 188938.28,
+            "Z": 6636.059
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "FleetBelongsLevel": "XL_map_bigworld_test",
+        "FleetListIcon": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_01.UI_YH_Racing_Fleet_Icon_01",
+          "SubPathString": ""
+        },
+        "FleetName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Fleet_01_01_Name",
+          "SourceString": "星期日车队",
+          "LocalizedString": "星期日车队"
+        },
+        "FleetLongName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Fleet_01_02_Name",
+          "SourceString": "未闻浦·星期日",
+          "LocalizedString": "未闻浦·星期日"
+        },
+        "FleetBG": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Level_Bkg_Images_01.UI_YH_Racing_Level_Bkg_Images_01",
+          "SubPathString": ""
+        },
+        "FleetLogo": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Level_Logo_01.UI_YH_Racing_Level_Logo_01",
+          "SubPathString": ""
+        },
+        "FleetDesc": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Fleet_01_01_Desc",
+          "SourceString": "组织较为松散的车队，成员们多为上班族，以对赛车的共同兴趣为基础聚集在一起。并不怎么在意名次，重要的是享受驾驶中的乐趣。",
+          "LocalizedString": "组织较为松散的车队，成员们多为上班族，以对赛车的共同兴趣为基础聚集在一起。并不怎么在意名次，重要的是享受驾驶中的乐趣。"
+        },
+        "FleetRaceTrackIcon": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/map/UI_YH_Racing_ReplaceCar_Meetup_001.UI_YH_Racing_ReplaceCar_Meetup_001",
+          "SubPathString": ""
+        },
+        "FleetRaceTrackName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_01",
+          "SourceString": "未闻浦环线",
+          "LocalizedString": "未闻浦环线"
+        },
+        "AssemblingPlace": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Fleet_01_01_DD",
+          "SourceString": "暴走改车店",
+          "LocalizedString": "暴走改车店"
+        },
+        "AssemblingBeginTime": 20,
+        "AssemblingEndTime": 8,
+        "AssemblingPlaceImage": {
+          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/team/UI_YH_Racing_Meetup_Images_01.UI_YH_Racing_Meetup_Images_01",
+          "SubPathString": ""
+        },
+        "UnlockFleetCondition": {},
+        "LockedTips": {
+          "CultureInvariantString": null
+        },
+        "FleetShowInListCondition": {},
+        "StarAwardsData": []
       }
     }
   }

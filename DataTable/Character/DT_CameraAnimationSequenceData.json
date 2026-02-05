@@ -148,6 +148,36 @@
           "AssetPathName": "/Game/UI/Blueprints/Character/Sequence/SE_FileToEquip.SE_FileToEquip",
           "SubPathString": ""
         }
+      },
+      "SE_DefaultToCity": {
+        "Sequence": {
+          "AssetPathName": "/Game/UI/Blueprints/Character/Sequence/SE_DefaultToCity.SE_DefaultToCity",
+          "SubPathString": ""
+        }
+      },
+      "SE_CityToDefault": {
+        "Sequence": {
+          "AssetPathName": "/Game/UI/Blueprints/Character/Sequence/SE_CityToDefault.SE_CityToDefault",
+          "SubPathString": ""
+        }
+      },
+      "SE_FishingThrow": {
+        "Sequence": {
+          "AssetPathName": "/Game/UI/Blueprints/Character/Sequence/SE_FishingThrow.SE_FishingThrow",
+          "SubPathString": ""
+        }
+      },
+      "SE_FishingReady": {
+        "Sequence": {
+          "AssetPathName": "/Game/UI/Blueprints/Character/Sequence/SE_FishingReady.SE_FishingReady",
+          "SubPathString": ""
+        }
+      },
+      "SE_FishingFishStruggle": {
+        "Sequence": {
+          "AssetPathName": "/Game/UI/Blueprints/Character/Sequence/SE_FishingFishStruggle.SE_FishingFishStruggle",
+          "SubPathString": ""
+        }
       }
     }
   }

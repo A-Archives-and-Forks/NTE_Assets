@@ -29,8 +29,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Adler033_Level1_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level1.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level1.Buff_Adler033_Level1_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -39,8 +39,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Adler_SkillDes.Adler_SkillDes",
               "Key": "GA_Adler_star1_des",
-              "SourceString": "释放「万象澄寂」后，阿德勒为自身附加<NumGreen>20</>层「业」。",
-              "LocalizedString": "释放「万象澄寂」后，阿德勒为自身附加<NumGreen>20</>层「业」。"
+              "SourceString": "释放「极轨终结：万象澄寂」后，阿德勒为自身附加<NumGreen>20</>层「业」。",
+              "LocalizedString": "释放「极轨终结：万象澄寂」后，阿德勒为自身附加<NumGreen>20</>层「业」。"
             }
           },
           {
@@ -59,8 +59,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Adler033_Level2_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level2.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level2.Buff_Adler033_Level2_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -89,8 +89,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Adler033_Level3_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level3.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level3.Buff_Adler033_Level3_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -119,8 +119,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Adler033_Level4_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level4.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level4.Buff_Adler033_Level4_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -149,8 +149,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Adler033_Level5_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level5.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level5.Buff_Adler033_Level5_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -159,8 +159,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Adler_SkillDes.Adler_SkillDes",
               "Key": "GA_Adler_star5_des",
-              "SourceString": "释放「万象澄寂」后，阿德勒返还<NumGreen>20</>点场域原质。",
-              "LocalizedString": "释放「万象澄寂」后，阿德勒返还<NumGreen>20</>点场域原质。"
+              "SourceString": "释放「极轨终结：万象澄寂」后，阿德勒返还<NumGreen>20</>点终结能量。",
+              "LocalizedString": "释放「极轨终结：万象澄寂」后，阿德勒返还<NumGreen>20</>点终结能量。"
             }
           },
           {
@@ -179,8 +179,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Adler033_Level6_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level6.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level6.Buff_Adler033_Level6_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -189,8 +189,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Adler_SkillDes.Adler_SkillDes",
               "Key": "GA_Adler_star6_des",
-              "SourceString": "「明悟之慧佑」的持续时间延长至<NumGreen>20</>秒。",
-              "LocalizedString": "「明悟之慧佑」的持续时间延长至<NumGreen>20</>秒。"
+              "SourceString": "「明悟之慧佑」的持续时间延长至<NumGreen>12</>秒。",
+              "LocalizedString": "「明悟之慧佑」的持续时间延长至<NumGreen>12</>秒。"
             }
           },
           {
@@ -224,8 +224,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Adler_SkillDes.Adler_SkillDes",
               "Key": "GA_Adler_starExtra1_des",
-              "SourceString": "「度恶」「诛恶护持」「万象澄寂」的技能等级提升<NumGreen>1</>级。",
-              "LocalizedString": "「度恶」「诛恶护持」「万象澄寂」的技能等级提升<NumGreen>1</>级。"
+              "SourceString": "「普通攻击：度恶」「变轨技能：诛恶护持」「极轨终结：万象澄寂」的技能等级提升<NumGreen>1</>级。",
+              "LocalizedString": "「普通攻击：度恶」「变轨技能：诛恶护持」「极轨终结：万象澄寂」的技能等级提升<NumGreen>1</>级。"
             }
           },
           {
@@ -244,8 +244,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Adler033_Level6_extra_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level6_extra.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/Upgrade/Buff_Adler033_Level6_extra.Buff_Adler033_Level6_extra_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -254,8 +254,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Adler_SkillDes.Adler_SkillDes",
               "Key": "GA_Adler_starExtra2_des",
-              "SourceString": "处于「明悟之慧佑」庇护时，全队造成的咒系伤害提升<NumGreen>15%</>。",
-              "LocalizedString": "处于「明悟之慧佑」庇护时，全队造成的咒系伤害提升<NumGreen>15%</>。"
+              "SourceString": "处于「明悟之慧佑」庇护时，全队造成的<Zhou>咒属性异能伤害</>提升<NumGreen>10%</>。",
+              "LocalizedString": "处于「明悟之慧佑」庇护时，全队造成的<Zhou>咒属性异能伤害</>提升<NumGreen>10%</>。"
             }
           }
         ]

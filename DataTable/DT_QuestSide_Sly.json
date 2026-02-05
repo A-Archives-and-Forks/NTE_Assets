@@ -33,9 +33,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -81,21 +79,23 @@
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
-        "bNeedRedpoint": false,
+        "bNeedRedpoint": true,
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": false,
+        "bShowQuestAcceptTips": true,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -103,6 +103,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110801_1_QuestPanel",
@@ -110,6 +111,7 @@
           "LocalizedString": "回到伊波恩二楼，看看到底出了什么事。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -117,6 +119,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -129,24 +132,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110801_2": {
         "QuestId": "S110801_2",
@@ -164,13 +171,11 @@
         "bProgressNeedTrack": false,
         "ObjectivesInfo": [
           {
-            "BeginTime": 6.0,
+            "BeginTime": 8.0,
             "EndTime": 12.0,
             "WaittingDays": 1,
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CHANGE_TIME",
             "Amount": 1,
             "TargetType": {
@@ -200,7 +205,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -209,6 +215,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -216,6 +223,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110801_2_QuestPanel",
@@ -223,6 +231,7 @@
           "LocalizedString": "今天似乎没有什么特别的事情，随便打发打发时间吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -235,6 +244,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -247,24 +257,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110801_3": {
         "QuestId": "S110801_3",
@@ -285,9 +299,7 @@
             "NeedArriveMapName": "",
             "bNeedTrack": true,
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_ARRIVE_AREA",
             "Amount": 1,
             "TargetType": {
@@ -327,19 +339,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -348,6 +361,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -355,6 +369,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110801_3_QuestPanel",
@@ -362,6 +377,7 @@
           "LocalizedString": "又到了伊波恩的营业时间，今天是否会有生意上门呢？去看看吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -374,6 +390,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -386,24 +403,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110802": {
         "QuestId": "S110802",
@@ -427,9 +448,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -469,19 +488,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -490,6 +510,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -497,6 +518,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110802_QuestPanel",
@@ -504,6 +526,7 @@
           "LocalizedString": "娜娜莉与塔吉多的矛盾似乎只能静待契机由他们主动化解。新的一天，去看看有没有生意上门吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -516,6 +539,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -528,24 +552,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110803": {
         "QuestId": "S110803",
@@ -566,9 +594,7 @@
             "NeedArriveMapName": "",
             "bNeedTrack": true,
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_ARRIVE_AREA",
             "Amount": 1,
             "TargetType": {
@@ -608,19 +634,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -629,6 +656,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -636,6 +664,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110803_QuestPanel",
@@ -643,6 +672,7 @@
           "LocalizedString": "不出意外要在异象管理局为塔吉多的市民证忙上一天，不过塔吉多看起来颇为能干的样子，放心交给他应该没问题吧？"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -655,6 +685,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -667,24 +698,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110804": {
         "QuestId": "S110804",
@@ -708,9 +743,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -766,19 +799,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -787,6 +821,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -794,6 +829,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110804_QuestPanel",
@@ -801,6 +837,7 @@
           "LocalizedString": "小短腿跑得还挺快"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -813,6 +850,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -825,24 +863,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110805": {
         "QuestId": "S110805",
@@ -866,9 +908,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -908,19 +948,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -929,6 +970,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -936,6 +978,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110805_QuestPanel",
@@ -943,6 +986,7 @@
           "LocalizedString": "与塔吉多的新朋友布洛凯德闲聊了几句后，塔吉多总算想起来他的市民证问题。袋先生的收发室就在这附近，赶紧去那边吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -955,6 +999,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -967,24 +1012,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110806": {
         "QuestId": "S110806",
@@ -1008,9 +1057,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -1050,19 +1097,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1071,6 +1119,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1078,6 +1127,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110806_QuestPanel",
@@ -1085,6 +1135,7 @@
           "LocalizedString": "简单了解关于市民证的小知识后，我们准备前往安全评估室等待接受测评。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -1097,6 +1148,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1109,24 +1161,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110808": {
         "QuestId": "S110808",
@@ -1151,9 +1207,7 @@
               "Z": 0.0
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CONVOY",
             "Amount": 1,
             "TargetType": {
@@ -1193,19 +1247,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1214,6 +1269,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1221,6 +1277,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110808_QuestPanel",
@@ -1228,6 +1285,7 @@
           "LocalizedString": "安全评估室正在使用中，看来前来办理市民证业务的异象还不少。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -1240,6 +1298,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1252,24 +1311,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110809": {
         "QuestId": "S110809",
@@ -1293,9 +1356,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -1335,19 +1396,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1356,6 +1418,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1363,6 +1426,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110809_QuestPanel",
@@ -1370,6 +1434,7 @@
           "LocalizedString": "布洛凯德忙完工作，也在安全评估室排队等候。塔吉多和他似乎有聊不完的话题。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -1382,6 +1447,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1394,24 +1460,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110810": {
         "QuestId": "S110810",
@@ -1436,9 +1506,7 @@
               "Z": 0.0
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CONVOY",
             "Amount": 1,
             "TargetType": {
@@ -1478,19 +1546,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1499,6 +1568,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1506,6 +1576,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110810_QuestPanel",
@@ -1513,6 +1584,7 @@
           "LocalizedString": "热情大方的布洛凯德邀请塔吉多先接受测评，塔吉多也完全不打算和新朋友客气客气。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -1525,6 +1597,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1537,24 +1610,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110811": {
         "QuestId": "S110811",
@@ -1578,9 +1655,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -1620,19 +1695,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1641,6 +1717,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1648,6 +1725,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110811_QuestPanel",
@@ -1655,6 +1733,7 @@
           "LocalizedString": "布洛凯德打开了话匣子，一箩筐话题放送中。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -1667,6 +1746,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1679,24 +1759,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110812": {
         "QuestId": "S110812",
@@ -1721,9 +1805,7 @@
               "Z": 0.0
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CONVOY",
             "Amount": 1,
             "TargetType": {
@@ -1763,19 +1845,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1784,6 +1867,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1791,6 +1875,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110812_QuestPanel",
@@ -1798,6 +1883,7 @@
           "LocalizedString": "看起来，塔吉多的测评一切顺利？"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -1810,6 +1896,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1822,24 +1909,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110813": {
         "QuestId": "S110813",
@@ -1863,9 +1954,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -1905,19 +1994,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -1926,6 +2016,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -1933,6 +2024,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110813_QuestPanel",
@@ -1940,6 +2032,7 @@
           "LocalizedString": "嘀嘀咕咕的塔吉多不知道在盘算什么呢？"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -1952,6 +2045,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -1964,24 +2058,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110814": {
         "QuestId": "S110814",
@@ -2006,9 +2104,7 @@
               "Z": 0.0
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CONVOY",
             "Amount": 1,
             "TargetType": {
@@ -2048,19 +2144,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2069,6 +2166,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2076,6 +2174,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110814_QuestPanel",
@@ -2083,6 +2182,7 @@
           "LocalizedString": "决定和塔吉多一起等待布洛凯德，等他出来后问问他有关异象管理局的详细情报。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -2095,6 +2195,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2107,24 +2208,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110815": {
         "QuestId": "S110815",
@@ -2148,9 +2253,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2190,19 +2293,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2211,6 +2315,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2218,6 +2323,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110815_QuestPanel",
@@ -2225,6 +2331,7 @@
           "LocalizedString": "不知道异象管理局的咖啡会是什么样子？跟着布洛凯德一起去瞧瞧！"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -2237,6 +2344,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2249,24 +2357,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110815_1": {
         "QuestId": "S110815_1",
@@ -2290,9 +2402,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2332,19 +2442,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2353,6 +2464,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2360,6 +2472,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110815_1_QuestPanel",
@@ -2367,6 +2480,7 @@
           "LocalizedString": "与塔吉多商量了一番，决定先去袋先生处取回市民证，再参加咖啡会。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -2379,6 +2493,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2391,24 +2506,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110816": {
         "QuestId": "S110816",
@@ -2432,9 +2551,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2474,19 +2591,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2495,6 +2613,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2502,6 +2621,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110816_QuestPanel",
@@ -2509,6 +2629,7 @@
           "LocalizedString": "动身前往举办咖啡会的会议室，期待满满。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -2521,6 +2642,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2533,24 +2655,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110819": {
         "QuestId": "S110819",
@@ -2574,9 +2700,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2616,19 +2740,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2637,6 +2762,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2644,6 +2770,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110819_QuestPanel",
@@ -2651,6 +2778,7 @@
           "LocalizedString": "决定与娜娜莉道歉和好的塔吉多立刻动身冲向袋先生处，决定拿到市民证后要第一时间赶回伊波恩。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -2663,6 +2791,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2675,24 +2804,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110820": {
         "QuestId": "S110820",
@@ -2716,9 +2849,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2758,19 +2889,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -2779,6 +2911,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2786,6 +2919,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110820_QuestPanel",
@@ -2793,6 +2927,7 @@
           "LocalizedString": "接下来就是赶快回到伊波恩，见证塔吉多与娜娜莉的和好。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -2805,6 +2940,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2815,12 +2951,17 @@
         "NextQuests": [],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "drop_sidequest_S110820",
@@ -2831,13 +2972,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110821": {
         "QuestId": "S110821",
@@ -2861,9 +3001,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "None",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -2893,7 +3031,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_MAX",
@@ -2902,6 +3041,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -2909,6 +3049,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110821_QuestPanel",
@@ -2916,6 +3057,7 @@
           "LocalizedString": "S110821_QuestPanel//"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -2928,6 +3070,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -2940,24 +3083,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110822": {
         "QuestId": "S110822",
@@ -2981,9 +3128,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "None",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -3013,7 +3158,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_MAX",
@@ -3022,6 +3168,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -3029,6 +3176,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110822_QuestPanel",
@@ -3036,6 +3184,7 @@
           "LocalizedString": "S110822_QuestPanel//"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -3048,6 +3197,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -3060,24 +3210,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110823": {
         "QuestId": "S110823",
@@ -3101,9 +3255,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "None",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -3133,7 +3285,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_MAX",
@@ -3142,6 +3295,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -3149,6 +3303,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110823_QuestPanel",
@@ -3156,6 +3311,7 @@
           "LocalizedString": "S110823_QuestPanel//"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -3168,6 +3324,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -3180,24 +3337,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110824": {
         "QuestId": "S110824",
@@ -3221,9 +3382,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "None",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -3253,7 +3412,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_MAX",
@@ -3262,6 +3422,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -3269,6 +3430,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110824_QuestPanel",
@@ -3276,6 +3438,7 @@
           "LocalizedString": "S110824_QuestPanel//"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -3288,6 +3451,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -3300,24 +3464,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110827": {
         "QuestId": "S110827",
@@ -3341,9 +3509,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "None",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -3373,7 +3539,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_MAX",
@@ -3382,6 +3549,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -3389,6 +3557,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110827_QuestPanel",
@@ -3396,6 +3565,7 @@
           "LocalizedString": "S110827_QuestPanel//"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -3408,6 +3578,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -3420,24 +3591,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110828": {
         "QuestId": "S110828",
@@ -3461,9 +3636,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "None",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -3493,7 +3666,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_MAX",
@@ -3502,6 +3676,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -3509,6 +3684,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110828_QuestPanel",
@@ -3516,6 +3692,7 @@
           "LocalizedString": "S110828_QuestPanel//"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -3528,6 +3705,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -3540,24 +3718,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110829": {
         "QuestId": "S110829",
@@ -3581,9 +3763,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "None",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -3613,7 +3793,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_MAX",
@@ -3622,6 +3803,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -3629,6 +3811,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110829_QuestPanel",
@@ -3636,6 +3819,7 @@
           "LocalizedString": "S110829_QuestPanel//"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -3648,6 +3832,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -3658,32 +3843,33 @@
         "NextQuests": [],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110830": {
         "QuestId": "S110830（skip）",
         "QuestName": {
-          "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
-          "Key": "S110830_QuestName",
-          "SourceString": "和浮游小姐对话接任务",
-          "LocalizedString": "和浮游小姐对话接任务"
+          "CultureInvariantString": null
         },
         "ChapterID": "None",
         "ChapterProgress": -1.0,
@@ -3699,12 +3885,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "Namespace": "",
-              "Key": "ECF85D1845A7B6F152B73C90083629DD",
-              "SourceString": "和浮游小姐对话接任务",
-              "LocalizedString": "和浮游小姐对话接任务"
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -3718,10 +3899,7 @@
             "TargetTag": "None",
             "Optional": false,
             "Description": {
-              "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
-              "Key": "S110830（skip）_ObjDes_1",
-              "SourceString": "S110830（skip）_ObjDes_1",
-              "LocalizedString": "S110830（skip）_ObjDes_1"
+              "CultureInvariantString": null
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -3734,7 +3912,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -3743,6 +3922,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -3750,13 +3930,12 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
-          "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
-          "Key": "S110830_QuestPanel",
-          "SourceString": "S110830_QuestPanel//和浮游小姐对话接任务",
-          "LocalizedString": "S110830_QuestPanel//和浮游小姐对话接任务"
+          "CultureInvariantString": null
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -3764,6 +3943,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -3774,24 +3954,28 @@
         "NextQuests": [],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110831": {
         "QuestId": "S110831",
@@ -3815,12 +3999,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
-              "Key": "S110831_ObjDes_1",
-              "SourceString": "前往<blue>异象管理局</>申请「车票」",
-              "LocalizedString": "前往<blue>异象管理局</>申请「车票」"
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -3855,8 +4034,8 @@
                 {
                   "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_Side.ST_IntroduceMsg_Side",
                   "Key": "ST003_Player_002",
-                  "SourceString": "下次再来陪她多聊会吧。",
-                  "LocalizedString": "下次再来陪她多聊会吧。"
+                  "SourceString": "直接提交",
+                  "LocalizedString": "直接提交"
                 }
               ]
             },
@@ -3876,27 +4055,29 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
-        "bNeedRedpoint": false,
+        "bNeedRedpoint": true,
         "bLoop": false,
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
-        "bShowQuestAcceptTips": false,
+        "bShowQuestAcceptTips": true,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -3904,6 +4085,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110831_QuestPanel",
@@ -3911,6 +4093,7 @@
           "LocalizedString": "要搭乘异象列车「幽灵号」，必须持有异象管理局颁发的乘车许可证——也就是所谓的「车票」。事不宜迟，现在就前往管理局办理申领手续吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -3918,6 +4101,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -3930,24 +4114,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110832": {
         "QuestId": "S110832",
@@ -3971,12 +4159,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
-              "Key": "S110832_ObjDes_None",
-              "SourceString": "与<blue>袋先生</>交谈",
-              "LocalizedString": "与<blue>袋先生</>交谈"
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -4016,19 +4199,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -4037,6 +4221,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -4044,6 +4229,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110832_QuestPanel",
@@ -4051,6 +4237,7 @@
           "LocalizedString": "生活安全处的袋先生负责乘车许可证的申请事宜。向他询问具体的办理流程吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -4063,6 +4250,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -4075,24 +4263,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110833": {
         "QuestId": "S110833",
@@ -4110,16 +4302,14 @@
         "bProgressNeedTrack": false,
         "ObjectivesInfo": [
           {
-            "ConvoyProtectTime": 30.0,
+            "ConvoyProtectTime": 5.0,
             "ConvoyLocation": {
               "X": 0.0,
               "Y": 0.0,
               "Z": 0.0
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CONVOY",
             "Amount": 1,
             "TargetType": {
@@ -4135,8 +4325,8 @@
             "Description": {
               "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
               "Key": "S110833_ObjDes_1",
-              "SourceString": "等待<blue>30分钟</>课程安排通知",
-              "LocalizedString": "等待<blue>30分钟</>课程安排通知"
+              "SourceString": "等待<blue>片刻</>课程安排通知",
+              "LocalizedString": "等待<blue>片刻</>课程安排通知"
             },
             "CompletedDescription": {
               "CultureInvariantString": null
@@ -4149,7 +4339,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -4158,6 +4349,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -4165,6 +4357,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110833_QuestPanel",
@@ -4172,6 +4365,7 @@
           "LocalizedString": "袋先生会将讲解课程安排妥当，现在只需等待通知就好。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -4184,6 +4378,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -4196,24 +4391,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110834": {
         "QuestId": "S110834",
@@ -4235,9 +4434,7 @@
               "dai_b_1"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CHAT_END",
             "Amount": 1,
             "TargetType": {
@@ -4267,7 +4464,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -4276,6 +4474,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -4283,6 +4482,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110834_QuestPanel",
@@ -4290,6 +4490,7 @@
           "LocalizedString": "袋先生发来了讲解课程的相关通知，查阅一下具体安排吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -4302,6 +4503,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -4314,12 +4516,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": {
           "ActiveChatItemID": "None",
           "AcceptChatItemID": "dai_b_1",
@@ -4329,13 +4536,159 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": true,
+        "CustomTrackText": {
+          "TableId": "/Game/Text/ST_Description.ST_Description",
+          "Key": "TextMessage_001",
+          "SourceString": "查看任务消息",
+          "LocalizedString": "查看任务消息"
+        }
+      },
+      "S110834_1": {
+        "QuestId": "S110834_1",
+        "QuestName": {
+          "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
+          "Key": "S110834_1_QuestName",
+          "SourceString": "再次前往异象车站",
+          "LocalizedString": "再次前往异象车站"
         },
-        "TrialCharacterID": "None"
+        "ChapterID": "SU011",
+        "ChapterProgress": 10.2,
+        "DisplayMapName": "None",
+        "TrackMapName": "XL_map_bigworld_test",
+        "bNeedCrossBox": false,
+        "bProgressNeedTrack": false,
+        "ObjectivesInfo": [
+          {
+            "ObjectiveID": "1",
+            "ObjectiveTips": "",
+            "ObjectiveType": "EObjectiveType::EOT_TALK",
+            "Amount": 1,
+            "TargetType": {
+              "AssetPathName": "/Game/Blueprints/Level/Quest/SLY/Side/S110831/S110834_1_htb.S110834_1_htb_C",
+              "SubPathString": ""
+            },
+            "MonsterTrackIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TargetTag": "None",
+            "Optional": false,
+            "Description": {
+              "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
+              "Key": "S110834_1_QuestPanel",
+              "SourceString": "返回异象车站",
+              "LocalizedString": "返回异象车站"
+            },
+            "CompletedDescription": {
+              "CultureInvariantString": null
+            },
+            "NeedShowProgress": false,
+            "IntroduceInfo": null,
+            "bOnlyInClient": false,
+            "TrackInfo": {
+              "bForceTrackLocation": false,
+              "TrackLocation": {
+                "X": -32687.0,
+                "Y": -16453.0,
+                "Z": 9226.0
+              },
+              "fRange": 0.0,
+              "ShowCenter": false,
+              "MulTrackLocationArray": [],
+              "TrackOffLocation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "TrackMapName": "",
+              "bNeedCrossBox": false,
+              "bTrackGoalEnable": true,
+              "bNeedPassParking": false,
+              "VehicleParkingArray": [],
+              "AzimuthIndicatorable": true,
+              "bShowNavigationPath": true
+            },
+            "CompleteTeleportID": "None",
+            "CompleteTeleport": null,
+            "CompleteCameraRotation": null,
+            "BuffInfo": null,
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
+          }
+        ],
+        "QuestType": "EQuestType::EQT_SIDE",
+        "bNeedRedpoint": false,
+        "bLoop": false,
+        "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
+        "bMainQuestAutoSpeak": true,
+        "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
+        "HideOrShowMainFormWidgets": null,
+        "bHideQuestMark": false,
+        "bHideTrackMark": false,
+        "ShowAcceptMsg": false,
+        "ShowSubmitMsg": false,
+        "bNeedPlayAnimation": true,
+        "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
+        "PanelDescription": {
+          "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
+          "Key": "S110834_1_QuestPanel",
+          "SourceString": "返回异象车站",
+          "LocalizedString": "返回异象车站"
+        },
+        "UnlockTeleportID": "None",
+        "BuffInfo": null,
+        "TrackQuestConditionRange": null,
+        "TrackConditionList": [],
+        "PreQuests": [
+          {
+            "PreQuestName": "S110833",
+            "ObjectiveID": "1"
+          }
+        ],
+        "PreQuestConditionType": "EQuestConditionType::And",
+        "NeedLevel": 0,
+        "NeedYahahaID": "None",
+        "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
+        "AcceptQuestConditionRange": null,
+        "NeedConditionType": "EQuestConditionType::And",
+        "bNotSatisfyCanNotAccept": false,
+        "SatisfyData": null,
+        "LimitMapName": "None",
+        "QuestResetTime": null,
+        "FailedData": null,
+        "NextQuests": [
+          "S110835"
+        ],
+        "bAutoNext": true,
+        "NeedSubmit": false,
+        "PatcherTag": "None",
+        "QuestSubmitDescription": {
+          "CultureInvariantString": null
+        },
+        "SubmitConsume": null,
+        "UIParamString": "",
+        "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
+        "LikeabilityData": null,
+        "QuestAward": null,
+        "QuestTimeLock": null,
+        "QuestWeatherLock": null,
+        "ReloadLocation": null,
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110835": {
         "QuestId": "S110835",
@@ -4359,13 +4712,11 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
-              "AssetPathName": "/Game/Blueprints/Character/Anomaly/Anomaly_047/BP_Anomaly_047.BP_Anomaly_047_C",
+              "AssetPathName": "",
               "SubPathString": ""
             },
             "MonsterTrackIcon": {
@@ -4389,9 +4740,9 @@
             "TrackInfo": {
               "bForceTrackLocation": false,
               "TrackLocation": {
-                "X": -30994.918,
-                "Y": -19741.34,
-                "Z": -4735.0
+                "X": -29552.969,
+                "Y": -20946.295,
+                "Z": -8841.627
               },
               "fRange": 0.0,
               "ShowCenter": false,
@@ -4401,19 +4752,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -4422,6 +4774,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -4429,6 +4782,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110835_QuestPanel",
@@ -4436,6 +4790,7 @@
           "LocalizedString": "作为最了解幽灵号的列车管理员，浮游小姐确实是最合适的讲师。只是希望她的授课内容不要太过冗长……"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -4448,6 +4803,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -4460,24 +4816,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110836": {
         "QuestId": "S110836",
@@ -4501,9 +4861,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -4543,19 +4901,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -4564,6 +4923,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -4571,6 +4931,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110836_QuestPanel",
@@ -4578,6 +4939,7 @@
           "LocalizedString": "现在是时候检验努力学习的成果了。前往异象管理局，接受袋先生的笔试考核吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -4590,6 +4952,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -4598,28 +4961,32 @@
         "QuestResetTime": null,
         "FailedData": null,
         "NextQuests": [
-          "S110837"
+          "S110843"
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110837": {
         "QuestId": "S110837",
@@ -4641,9 +5008,7 @@
             "EndTime": 18.0,
             "WaittingDays": 1,
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CHANGE_TIME",
             "Amount": 1,
             "TargetType": {
@@ -4673,7 +5038,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -4682,6 +5048,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -4689,6 +5056,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110837_QuestPanel",
@@ -4696,6 +5064,7 @@
           "LocalizedString": "顺利通过笔试后，该进入实测环节了。先回去休息，等待浮游小姐的测试邀请吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -4708,6 +5077,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -4720,24 +5090,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110838": {
         "QuestId": "S110838",
@@ -4759,9 +5133,7 @@
               "Anomaly_047_a_1"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CHAT_END",
             "Amount": 1,
             "TargetType": {
@@ -4791,7 +5163,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -4800,6 +5173,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -4807,6 +5181,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110838_QuestPanel",
@@ -4814,6 +5189,7 @@
           "LocalizedString": "浮游小姐已经做好了实测准备。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -4826,6 +5202,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -4838,12 +5215,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": {
           "ActiveChatItemID": "None",
           "AcceptChatItemID": "Anomaly_047_a_1",
@@ -4853,13 +5235,15 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": true,
+        "CustomTrackText": {
+          "TableId": "/Game/Text/ST_Description.ST_Description",
+          "Key": "TextMessage_001",
+          "SourceString": "查看任务消息",
+          "LocalizedString": "查看任务消息"
+        }
       },
       "S110839": {
         "QuestId": "S110839",
@@ -4883,9 +5267,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -4925,19 +5307,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -4946,6 +5329,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -4953,6 +5337,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110839_QuestPanel",
@@ -4960,6 +5345,7 @@
           "LocalizedString": "通过这场实测考核，就能取得「车票」了。现在就前往考场——幽灵号的站台吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -4972,6 +5358,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -4984,24 +5371,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110840": {
         "QuestId": "S110840",
@@ -5025,9 +5416,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -5067,19 +5456,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -5088,6 +5478,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -5095,6 +5486,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110840_QuestPanel",
@@ -5102,6 +5494,7 @@
           "LocalizedString": "登上幽灵号，发挥异象猎人的真本领吧。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -5114,6 +5507,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -5126,24 +5520,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110841": {
         "QuestId": "S110841",
@@ -5167,9 +5565,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -5209,19 +5605,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -5230,6 +5627,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -5237,6 +5635,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110841_QuestPanel",
@@ -5244,6 +5643,7 @@
           "LocalizedString": "浮游小姐欣慰地迎接她的第一个学生。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -5256,6 +5656,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -5268,24 +5669,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110842": {
         "QuestId": "S110842",
@@ -5307,9 +5712,7 @@
             "EndTime": 18.0,
             "WaittingDays": 1,
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CHANGE_TIME",
             "Amount": 1,
             "TargetType": {
@@ -5339,7 +5742,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -5348,6 +5752,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -5355,6 +5760,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110842_QuestPanel",
@@ -5362,6 +5768,7 @@
           "LocalizedString": "所有测试都已通过，只需等待管理局完成审核流程。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -5374,6 +5781,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -5386,24 +5794,28 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110843": {
         "QuestId": "S110843",
@@ -5425,9 +5837,7 @@
               "Trinity_a_1"
             ],
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CHAT_END",
             "Amount": 1,
             "TargetType": {
@@ -5457,7 +5867,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -5466,6 +5877,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -5473,6 +5885,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110843_QuestPanel",
@@ -5480,11 +5893,12 @@
           "LocalizedString": "异象管理局衷心祝愿新乘客旅途愉快。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
           {
-            "PreQuestName": "S110842",
+            "PreQuestName": "S110836",
             "ObjectiveID": "1"
           }
         ],
@@ -5492,6 +5906,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -5504,12 +5919,17 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": {
           "ActiveChatItemID": "None",
           "AcceptChatItemID": "Trinity_a_1",
@@ -5519,13 +5939,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110844": {
         "QuestId": "S110844",
@@ -5549,13 +5968,11 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
-              "AssetPathName": "/Game/Blueprints/Character/Anomaly/Anomaly_047/BP_Anomaly_047.BP_Anomaly_047_C",
+              "AssetPathName": "",
               "SubPathString": ""
             },
             "MonsterTrackIcon": {
@@ -5579,9 +5996,9 @@
             "TrackInfo": {
               "bForceTrackLocation": false,
               "TrackLocation": {
-                "X": -30994.918,
-                "Y": -19741.34,
-                "Z": -4735.0
+                "X": -29552.969,
+                "Y": -20946.295,
+                "Z": -8841.627
               },
               "fRange": 0.0,
               "ShowCenter": false,
@@ -5591,19 +6008,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -5612,6 +6030,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -5619,6 +6038,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110844_QuestPanel",
@@ -5626,6 +6046,7 @@
           "LocalizedString": "这张「车票」将打开通往幽灵号和无数异象空间的大门。新的旅途，此刻才刚刚启程。"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -5638,6 +6059,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -5648,12 +6070,17 @@
         "NextQuests": [],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": {
           "AwardGroupID": "drop_sidequest_S110844",
@@ -5664,13 +6091,12 @@
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110846": {
         "QuestId": "S110846",
@@ -5692,9 +6118,7 @@
             "EndTime": 18.0,
             "WaittingDays": 1,
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CHANGE_TIME",
             "Amount": 1,
             "TargetType": {
@@ -5724,7 +6148,8 @@
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -5733,6 +6158,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -5740,6 +6166,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110846_QuestPanel",
@@ -5747,6 +6174,7 @@
           "LocalizedString": "S110846_QuestPanel//调整时间到第二天"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -5754,6 +6182,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -5764,24 +6193,28 @@
         "NextQuests": [],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "S110847": {
         "QuestId": "S110847",
@@ -5805,9 +6238,7 @@
               "SubPathString": ""
             },
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "CultureInvariantString": null
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_TALK",
             "Amount": 1,
             "TargetType": {
@@ -5847,19 +6278,20 @@
                 "Y": 0.0,
                 "Z": 0.0
               },
-              "TrackMapName": "",
+              "TrackMapName": "XL_map_bigworld_test",
               "bNeedCrossBox": false,
               "bTrackGoalEnable": true,
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_SIDE",
@@ -5868,6 +6300,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -5875,6 +6308,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_SideQuest_Sly.ST_SideQuest_Sly",
           "Key": "S110847_QuestPanel",
@@ -5882,6 +6316,7 @@
           "LocalizedString": "S110847_QuestPanel//再次找浮游小姐考试"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -5889,6 +6324,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -5899,24 +6335,28 @@
         "NextQuests": [],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
         "QuestAward": null,
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

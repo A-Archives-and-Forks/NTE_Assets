@@ -18,23 +18,22 @@
         "TriggerTypeArray": [
           {
             "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Item_Add"
+              "ERedPointTriggerType::TT_Item_Add",
+              "ERedPointTriggerType::TT_Item_Remove"
             ]
           }
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {
             "ByItemTypes": false,
             "ItemTypes": []
           }
         },
         "SaveType": "ERedPointSaveType::ST_NoSave",
-        "IsNotRemove": true,
+        "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -48,9 +47,7 @@
               "EItemType::ITEM_TYPE_CHARACTER_FRAGMENT"
             ],
             "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Item_Add",
-              "ERedPointTriggerType::TT_Item_Remove",
-              "ERedPointTriggerType::TT_Item_Update"
+              "ERedPointTriggerType::TT_AwaitItem_Change"
             ]
           },
           {
@@ -76,7 +73,6 @@
         ],
         "RedPointCondition": {
           "IDSelector": {},
-          "OnLineSelector": null,
           "Condition": {
             "SubConditions": [
               {
@@ -90,7 +86,6 @@
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -116,14 +111,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": {},
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -137,9 +130,7 @@
               "EItemType::ITEM_TYPE_FORK"
             ],
             "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Item_Add",
-              "ERedPointTriggerType::TT_Item_Remove",
-              "ERedPointTriggerType::TT_Item_Update"
+              "ERedPointTriggerType::TT_AwaitItem_Change"
             ]
           },
           {
@@ -150,7 +141,6 @@
         ],
         "RedPointCondition": {
           "IDSelector": {},
-          "OnLineSelector": null,
           "Condition": {
             "SubConditions": [
               {},
@@ -162,7 +152,6 @@
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -178,8 +167,7 @@
               "EItemType::ITEM_TYPE_EQUIPMENT_CORE"
             ],
             "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Item_Add",
-              "ERedPointTriggerType::TT_Item_Remove"
+              "ERedPointTriggerType::TT_AwaitItem_Change"
             ]
           },
           {
@@ -190,38 +178,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": {},
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
-        "IsCanReset": false,
-        "ConfigIDAsMessageID": true
-      },
-      "RedPoint.Menu.CityLive.DelegateMission.Award": {
-        "RedpointTag": {
-          "TagName": "RedPoint.Menu.CityLive.DelegateMission.Award"
-        },
-        "TriggerTypeArray": [
-          {
-            "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_DelegateMission_Award"
-            ]
-          }
-        ],
-        "RedPointCondition": {
-          "IDSelector": null,
-          "OnLineSelector": null,
-          "Condition": {}
-        },
-        "SaveType": "ERedPointSaveType::ST_Server",
-        "IsNotRemove": false,
-        "IsOnlyOneMessage": false,
-        "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -238,7 +200,6 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {
             "SubConditions": [
               {},
@@ -250,7 +211,6 @@
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": false
       },
@@ -267,14 +227,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": false
       },
@@ -291,14 +249,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": false
       },
@@ -315,14 +271,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": {},
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": true,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -339,14 +293,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": {},
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": true,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -357,17 +309,28 @@
         "TriggerTypeArray": [
           {
             "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Adventure_Quest_Change"
+              "ERedPointTriggerType::TT_Adventure_Chapter"
+            ]
+          },
+          {
+            "QuestTypeArray": [
+              "ESimpleQuestType::AdventureManual"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Simple_Quest"
             ]
           }
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {
-            "QuestTypes": [
-              "EQT_ADVENTURE_CHAPTER_REWARD",
-              "EQT_ADVENTURE_CHAPTER"
+            "SubConditions": [
+              {},
+              {
+                "SimpleQuestTypes": [
+                  "ESimpleQuestType::AdventureManual"
+                ]
+              }
             ]
           }
         },
@@ -375,7 +338,6 @@
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": false
       },
@@ -386,20 +348,25 @@
         "TriggerTypeArray": [
           {
             "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Adventure_Quest_Change",
               "ERedPointTriggerType::TT_Adventure_Activation"
+            ]
+          },
+          {
+            "QuestTypeArray": [
+              "ESimpleQuestType::AdventureManualDaily"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Simple_Quest"
             ]
           }
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {
             "SubConditions": [
               {
-                "QuestTypes": [
-                  "EQT_EVERYDAY_RANDOM",
-                  "EQT_EVERYDAY"
+                "SimpleQuestTypes": [
+                  "ESimpleQuestType::AdventureManualDaily"
                 ]
               },
               {}
@@ -410,50 +377,12 @@
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": false
       },
-      "RedPoint.Menu.CityLive.Estates": {
+      "RedPoint.Menu.Tycoon.Store": {
         "RedpointTag": {
-          "TagName": "RedPoint.Menu.CityLive.Estates"
-        },
-        "TriggerTypeArray": [
-          {
-            "FunctionID": "RealEstateList",
-            "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Function_UnLock"
-            ]
-          },
-          {
-            "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_RealEstate"
-            ]
-          }
-        ],
-        "RedPointCondition": {
-          "IDSelector": null,
-          "OnLineSelector": null,
-          "Condition": {
-            "SubConditions": [
-              {},
-              {
-                "EstateID": "None"
-              }
-            ]
-          }
-        },
-        "SaveType": "ERedPointSaveType::ST_Server",
-        "IsNotRemove": false,
-        "IsOnlyOneMessage": false,
-        "IsCombinationType": false,
-        "IsOnLineRefresh": false,
-        "IsCanReset": false,
-        "ConfigIDAsMessageID": true
-      },
-      "RedPoint.Menu.CityLive.Store": {
-        "RedpointTag": {
-          "TagName": "RedPoint.Menu.CityLive.Store"
+          "TagName": "RedPoint.Menu.Tycoon.Store"
         },
         "TriggerTypeArray": [
           {
@@ -465,39 +394,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
-        "IsCanReset": false,
-        "ConfigIDAsMessageID": true
-      },
-      "RedPoint.Menu.CityLive.Vehicle": {
-        "RedpointTag": {
-          "TagName": "RedPoint.Menu.CityLive.Vehicle"
-        },
-        "TriggerTypeArray": [
-          {
-            "FunctionID": "MyVehicle",
-            "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Function_UnLock"
-            ]
-          }
-        ],
-        "RedPointCondition": {
-          "IDSelector": null,
-          "OnLineSelector": null,
-          "Condition": {}
-        },
-        "SaveType": "ERedPointSaveType::ST_Server",
-        "IsNotRemove": false,
-        "IsOnlyOneMessage": false,
-        "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -514,74 +416,36 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": {},
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": true,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
-      "Redpoint.Menu.Mall.Mall": {
+      "Redpoint.Menu.Lottery.{}": {
         "RedpointTag": {
-          "TagName": "Redpoint.Menu.Mall.Mall"
+          "TagName": "Redpoint.Menu.Lottery.{}"
         },
         "TriggerTypeArray": [
           {
-            "ShopID": "MallShop",
             "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Shop_UnlockGoods"
+              "ERedPointTriggerType::TT_Monopoly_Pool_Change"
             ]
           }
         ],
         "RedPointCondition": {
-          "IDSelector": {},
-          "OnLineSelector": null,
-          "Condition": {
-            "SubConditions": [
-              {}
-            ]
-          }
+          "IDSelector": null,
+          "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
-        "IsCombinationType": false,
-        "IsOnLineRefresh": true,
+        "IsCombinationType": true,
         "IsCanReset": false,
-        "ConfigIDAsMessageID": true
-      },
-      "Redpoint.Menu.Mall.Lottery": {
-        "RedpointTag": {
-          "TagName": "Redpoint.Menu.Mall.Lottery"
-        },
-        "TriggerTypeArray": [
-          {
-            "ShopID": "raffle",
-            "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Shop_UnlockGoods"
-            ]
-          }
-        ],
-        "RedPointCondition": {
-          "IDSelector": {},
-          "OnLineSelector": null,
-          "Condition": {
-            "SubConditions": [
-              {}
-            ]
-          }
-        },
-        "SaveType": "ERedPointSaveType::ST_Server",
-        "IsNotRemove": false,
-        "IsOnlyOneMessage": false,
-        "IsCombinationType": false,
-        "IsOnLineRefresh": true,
-        "IsCanReset": false,
-        "ConfigIDAsMessageID": true
+        "ConfigIDAsMessageID": false
       },
       "Redpoint.Menu.RoleLevelReward": {
         "RedpointTag": {
@@ -596,47 +460,18 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
-      "Redpoint.Questpanel.All": {
+      "Redpoint.Menu.Quest.Main": {
         "RedpointTag": {
-          "TagName": "Redpoint.Questpanel.All"
-        },
-        "TriggerTypeArray": [
-          {
-            "QuestTypeArray": [
-              "EQT_MAX"
-            ],
-            "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_Quest_Accept"
-            ]
-          }
-        ],
-        "RedPointCondition": {
-          "IDSelector": null,
-          "OnLineSelector": null,
-          "Condition": {}
-        },
-        "SaveType": "ERedPointSaveType::ST_Server",
-        "IsNotRemove": false,
-        "IsOnlyOneMessage": false,
-        "IsCombinationType": false,
-        "IsOnLineRefresh": false,
-        "IsCanReset": false,
-        "ConfigIDAsMessageID": true
-      },
-      "Redpoint.Questpanel.Main": {
-        "RedpointTag": {
-          "TagName": "Redpoint.Questpanel.Main"
+          "TagName": "Redpoint.Menu.Quest.Main"
         },
         "TriggerTypeArray": [
           {
@@ -650,14 +485,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -674,14 +507,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": {},
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": true,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -698,14 +529,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_NoSave",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -722,7 +551,6 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {
             "FurnitureID": "None"
           }
@@ -731,7 +559,6 @@
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": false
       },
@@ -748,14 +575,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Local",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -772,14 +597,12 @@
         ],
         "RedPointCondition": {
           "IDSelector": {},
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
@@ -796,24 +619,902 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
       },
-      "Redpoint.Menu.CityLive.Race": {
+      "Redpoint.ActivityAwardMain.OpActivity.OpQuestionnaireSurvey.{}": {
         "RedpointTag": {
-          "TagName": "Redpoint.Menu.CityLive.Race"
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.OpQuestionnaireSurvey.{}"
         },
         "TriggerTypeArray": [
           {
-            "FunctionID": "Race",
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OPActivitySurvey"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.OpSignup": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.OpSignup"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OPActivitySign"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.VisionAwardReceiveState": {
+        "RedpointTag": {
+          "TagName": "Redpoint.VisionAwardReceiveState"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Vision_Award_Receive_State"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.MonopolyLottery.{}": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.MonopolyLottery.{}"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OPActivityLotteryActivity"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.Menu.Tycoon.Racing.RacingPVEStarAwardsReceiveState": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.Tycoon.Racing.RacingPVEStarAwardsReceiveState"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Racing_PVE_Star_Award_Receive_State"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.ActivityAwardMain.ConfigActivity.StrongPath.SingleAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.ConfigActivity.StrongPath.SingleAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_ActivityStrongPath"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.ActivityAwardMain.ConfigActivity.StrongPath": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.ConfigActivity.StrongPath"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_ActivityStrongPath"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {
+            "SubConditions": [
+              {},
+              {}
+            ]
+          }
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "RedPoint.Menu.Tycoon.Store.StoreRepertory": {
+        "RedpointTag": {
+          "TagName": "RedPoint.Menu.Tycoon.Store.StoreRepertory"
+        },
+        "TriggerTypeArray": [
+          null
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.Lottery.{}.New": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.Lottery.{}.New"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Lottery_Choose_Character_State"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.Menu.TeachGuide.AllType.{}.New": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.TeachGuide.AllType.{}.New"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_TeachGuideNew"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.ActivityAwardMain.ConfigActivity.NewBieGoals": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.ConfigActivity.NewBieGoals"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_NewBieGoals"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.Lottery.{}.Gift": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.Lottery.{}.Gift"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Monopoly_Lottery_Gift"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.ActivityAwardMain.OpActivity.AbyssActivity": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.OpActivity.AbyssActivity"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_OPAbyss"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_NoSave",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.Tycoon.LevelUp": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.Tycoon.LevelUp"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_TycoonLevelUp"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.NewVision": {
+        "RedpointTag": {
+          "TagName": "Redpoint.NewVision"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_NewVision"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.juese.BreakReward.{}": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.juese.BreakReward.{}"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Character_Break_Reward"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.CombatAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.CombatAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_CombatAward"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.CombatAward.Quest": {
+        "RedpointTag": {
+          "TagName": "Redpoint.CombatAward.Quest"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_CombatAward"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.CombatAward.Level": {
+        "RedpointTag": {
+          "TagName": "Redpoint.CombatAward.Level"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_CombatAward"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.AdventureManual.Teaching.New": {
+        "RedpointTag": {
+          "TagName": "Redpoint.AdventureManual.Teaching.New"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Item_Add"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.AdventureManual.Teaching.Award": {
+        "RedpointTag": {
+          "TagName": "Redpoint.AdventureManual.Teaching.Award"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_AdventureManualTeaching",
+              "ERedPointTriggerType::TT_AdventureManualTeachingAward"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {
+            "SubConditions": [
+              {}
+            ]
+          }
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.AdventureManual.Clone.{}": {
+        "RedpointTag": {
+          "TagName": "Redpoint.AdventureManual.Clone.{}"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_AdventureManualClone"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.AdventureManual.Clone.Abyss": {
+        "RedpointTag": {
+          "TagName": "Redpoint.AdventureManual.Clone.Abyss"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_AdventureAbyss"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.AdventureManual.Clone.Boss": {
+        "RedpointTag": {
+          "TagName": "Redpoint.AdventureManual.Clone.Boss"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_AdventureManualBoss"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "RedPoint.Menu.Tycoon.Store.Receive": {
+        "RedpointTag": {
+          "TagName": "RedPoint.Menu.Tycoon.Store.Receive"
+        },
+        "TriggerTypeArray": [
+          null
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.ActivityAwardMain.ConfigActivity.AbyssCommon": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.ConfigActivity.AbyssCommon"
+        },
+        "TriggerTypeArray": [
+          {
+            "QuestTypeArray": [
+              "ESimpleQuestType::AbyssAwardActivity"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Simple_Quest"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {
+            "SimpleQuestTypes": [
+              "ESimpleQuestType::AbyssAwardActivity"
+            ]
+          }
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "RedPoint.Menu.Tycoon.Store.StoreItemUpgrade": {
+        "RedpointTag": {
+          "TagName": "RedPoint.Menu.Tycoon.Store.StoreItemUpgrade"
+        },
+        "TriggerTypeArray": [
+          null
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.ActivityAwardMain.ConfigActivity.ActCityGameplay": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.ConfigActivity.ActCityGameplay"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_ConfigActCityGameplay"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.ActivityAwardMain.ConfigActivity.ActCityGameplay.SingleAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.ActivityAwardMain.ConfigActivity.ActCityGameplay.SingleAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_ConfigActCityGameplay"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.House.GuideInteriorDecoration.ChapterAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.House.GuideInteriorDecoration.ChapterAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_GuideInteriorDecorationChapter"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.House.GuideInteriorDecoration.{}.SingleAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.House.GuideInteriorDecoration.{}.SingleAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_GuideInteriorDecorationSingle"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.StoreBrand.GuideStoreBrand.ChapterAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.StoreBrand.GuideStoreBrand.ChapterAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_GuideStoreBrandChapter"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.StoreBrand.GuideStoreBrand.{}.SingleAward": {
+        "RedpointTag": {
+          "TagName": "Redpoint.StoreBrand.GuideStoreBrand.{}.SingleAward"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_GuideStoreBrandSingle"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": {},
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Abyss.Entrance": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Abyss.Entrance"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_AbyssStarAward"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.Quest.Legend": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.Quest.Legend"
+        },
+        "TriggerTypeArray": [
+          {
+            "QuestTypeArray": [
+              "EQT_LEGEND"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Quest_Accept"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.Quest.BreakThrough": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.Quest.BreakThrough"
+        },
+        "TriggerTypeArray": [
+          {
+            "QuestTypeArray": [
+              "EQT_BREAKTHROUGH"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Quest_Accept"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.Quest.Liking": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.Quest.Liking"
+        },
+        "TriggerTypeArray": [
+          {
+            "QuestTypeArray": [
+              "EQT_LIKING",
+              "EQT_FAVORABILITY_ATMOSPHERE"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Quest_Accept"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.Quest.Side": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.Quest.Side"
+        },
+        "TriggerTypeArray": [
+          {
+            "QuestTypeArray": [
+              "EQT_SIDE",
+              "EOT_MULT_SHOP"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Quest_Accept"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.Quest.EveryDay": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.Quest.EveryDay"
+        },
+        "TriggerTypeArray": [
+          {
+            "QuestTypeArray": [
+              "EQT_EVERYDAY_RANDOM",
+              "EQT_EVERYDAY_COM"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Quest_Accept"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Map.CityGameplayEntry.FunctionUnlock": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Map.CityGameplayEntry.FunctionUnlock"
+        },
+        "TriggerTypeArray": [
+          {
             "TriggerTypeArray": [
               "ERedPointTriggerType::TT_Function_UnLock"
             ]
@@ -821,40 +1522,261 @@
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
         "IsCanReset": false,
-        "ConfigIDAsMessageID": false
+        "ConfigIDAsMessageID": true
       },
-      "Redpoint.ActivityAwardMain.OpActivity.SignIn": {
+      "Redpoint.Menu.BigMap.AdvVision.AdvVisionInnerUI.AdvVisionNewDiffculty": {
         "RedpointTag": {
-          "TagName": "Redpoint.ActivityAwardMain.OpActivity.SignIn"
+          "TagName": "Redpoint.Menu.BigMap.AdvVision.AdvVisionInnerUI.AdvVisionNewDiffculty"
         },
         "TriggerTypeArray": [
           {
             "TriggerTypeArray": [
-              "ERedPointTriggerType::TT_ActivityAward"
+              "ERedPointTriggerType::TT_AdvVisionNewDifficulty"
             ]
           }
         ],
         "RedPointCondition": {
           "IDSelector": null,
-          "OnLineSelector": null,
           "Condition": {}
         },
         "SaveType": "ERedPointSaveType::ST_Server",
         "IsNotRemove": false,
         "IsOnlyOneMessage": false,
         "IsCombinationType": false,
-        "IsOnLineRefresh": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.Menu.juese.Appearance.Fashion.{}": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.juese.Appearance.Fashion.{}"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Character_UnlockFashion"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
         "IsCanReset": false,
         "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.juese.Appearance.Glide.{}": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.juese.Appearance.Glide"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Character_UnlockGlide"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": true,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.Menu.juese.Appearance.CommonGlide": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.juese.Appearance.CommonGlide"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Character_UnlockCommonGlide"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "RedPoint.Menu.Tycoon.Estates": {
+        "RedpointTag": {
+          "TagName": "Redpoint.Menu.Tycoon.Estates"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_RealEstate"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {
+            "EstateID": "None"
+          }
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": true
+      },
+      "Redpoint.RobBank.Score": {
+        "RedpointTag": {
+          "TagName": "Redpoint.RobBank.Score"
+        },
+        "TriggerTypeArray": [
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_RobBank_Score"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.RobBank.Quest": {
+        "RedpointTag": {
+          "TagName": "Redpoint.RobBank.Quest"
+        },
+        "TriggerTypeArray": [
+          {
+            "QuestTypeArray": [
+              "ESimpleQuestType::RobBank"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Simple_Quest"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.RobBank.Manual": {
+        "RedpointTag": {
+          "TagName": "Redpoint.RobBank.Manual"
+        },
+        "TriggerTypeArray": [
+          {
+            "ItemTypeArray": [
+              "EItemType::ITEM_TYPE_ROB_BANK"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_AwaitItem_Change"
+            ]
+          },
+          {
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_RobBank_GetAward"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {}
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.FishFunc.FishGrade": {
+        "RedpointTag": {
+          "TagName": "Redpoint.FishFunc.FishGrade"
+        },
+        "TriggerTypeArray": [
+          {
+            "QuestTypeArray": [
+              "ESimpleQuestType::FishGrade"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Simple_Quest"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {
+            "SimpleQuestTypes": [
+              "ESimpleQuestType::FishGrade"
+            ]
+          }
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
+      },
+      "Redpoint.FishFunc.FishPicture": {
+        "RedpointTag": {
+          "TagName": "Redpoint.FishFunc.FishPicture"
+        },
+        "TriggerTypeArray": [
+          {
+            "QuestTypeArray": [
+              "ESimpleQuestType::FishHandbook"
+            ],
+            "TriggerTypeArray": [
+              "ERedPointTriggerType::TT_Simple_Quest"
+            ]
+          }
+        ],
+        "RedPointCondition": {
+          "IDSelector": null,
+          "Condition": {
+            "SimpleQuestTypes": [
+              "ESimpleQuestType::FishHandbook"
+            ]
+          }
+        },
+        "SaveType": "ERedPointSaveType::ST_Server",
+        "IsNotRemove": false,
+        "IsOnlyOneMessage": false,
+        "IsCombinationType": false,
+        "IsCanReset": false,
+        "ConfigIDAsMessageID": false
       }
     }
   }

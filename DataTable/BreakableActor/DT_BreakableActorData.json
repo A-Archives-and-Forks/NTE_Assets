@@ -1337,7 +1337,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Low",
         "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 30.0,
+        "RealActorMass": 22.5,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
@@ -2555,7 +2555,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Middle",
         "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 50.0,
+        "RealActorMass": 40.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": true,
@@ -2624,7 +2624,7 @@
         "UpBrokenDistance": 150.0,
         "UpBrokenRadius": 15.0
       },
-      "AE_Road_Sign_01": {
+      "SM_RoadSigns_01": {
         "TargetFoliageType": {
           "AssetPathName": "/Game/Environment/Building/Phx_Instance/AE_Road_Sign_01_FoliageType.AE_Road_Sign_01_FoliageType",
           "SubPathString": ""
@@ -2654,6 +2654,10 @@
           {
             "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
             "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
           }
         ],
         "BreakNiagaraScale": {
@@ -2680,7 +2684,7 @@
         "UpBrokenDistance": 150.0,
         "UpBrokenRadius": 15.0
       },
-      "AE_Road_Sign_02": {
+      "SM_RoadSigns_02": {
         "TargetFoliageType": {
           "AssetPathName": "/Game/Environment/Building/Phx_Instance/AE_Road_Sign_02_FoliageType.AE_Road_Sign_02_FoliageType",
           "SubPathString": ""
@@ -2703,6 +2707,10 @@
           "SubPathString": ""
         },
         "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
           {
             "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
             "SubPathString": ""
@@ -2736,7 +2744,7 @@
         "UpBrokenDistance": 150.0,
         "UpBrokenRadius": 15.0
       },
-      "AE_Road_Sign_03": {
+      "SM_RoadSigns_03": {
         "TargetFoliageType": {
           "AssetPathName": "/Game/Environment/Building/Phx_Instance/AE_Road_Sign_03_FoliageType.AE_Road_Sign_03_FoliageType",
           "SubPathString": ""
@@ -3328,7 +3336,7 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
@@ -3347,12 +3355,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 400.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3380,11 +3388,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3399,12 +3407,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 1100.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3432,11 +3440,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3451,12 +3459,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 1100.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3484,11 +3492,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3503,12 +3511,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 1100.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3536,11 +3544,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3555,12 +3563,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": false,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 1100.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3570,8 +3578,8 @@
         "BrokenEffectInterval": 0.1,
         "MinBrokenEffectSpeed": 600.0,
         "MinBrokenEffectAngularSpeed": 600.0,
-        "UpBrokenDistance": 150.0,
-        "UpBrokenRadius": 15.0
+        "UpBrokenDistance": 300.0,
+        "UpBrokenRadius": 300.0
       },
       "SM_StreetLamp_04": {
         "TargetFoliageType": {
@@ -3588,11 +3596,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3607,12 +3615,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 1100.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3640,11 +3648,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3659,12 +3667,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 500.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3684,7 +3692,7 @@
         },
         "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
         "BrokenStaticMesh": {
-          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_XL_RoadLamp_01_ps.SM_XL_RoadLamp_01_ps",
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_XL_RoadLamp_01_ps02.SM_XL_RoadLamp_01_ps02",
           "SubPathString": ""
         },
         "BreakableActorTemplate": {
@@ -3692,11 +3700,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3711,12 +3719,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 400.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3744,11 +3752,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3763,12 +3771,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 400.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3796,11 +3804,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3815,12 +3823,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 400.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3848,11 +3856,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3867,12 +3875,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 15.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 400.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3900,11 +3908,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3919,12 +3927,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 400.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -3944,7 +3952,7 @@
         },
         "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
         "BrokenStaticMesh": {
-          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_XL_RoadLamp_08_ps.SM_XL_RoadLamp_08_ps",
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_XL_RoadLamp_08_ps02.SM_XL_RoadLamp_08_ps02",
           "SubPathString": ""
         },
         "BreakableActorTemplate": {
@@ -3952,11 +3960,11 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
-          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
           "SubPathString": ""
         },
         "FadeMaterialList": [
@@ -3971,12 +3979,12 @@
           "Z": 1.0
         },
         "BrokenLevel": "EBreakableLevel::BL_High",
-        "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 400.0,
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 40.0,
         "bCanBeDamaged": true,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 570.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -4388,7 +4396,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Middle",
         "RealActorDisappearDelay": 15.0,
-        "RealActorMass": 50.0,
+        "RealActorMass": 3.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": true,
@@ -4724,7 +4732,7 @@
         },
         "BreakableActorType": "EBreakableActorType::BT_Max",
         "BrokenStaticMesh": {
-          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_billboard_01_ps03.SM_billboard_01_ps03",
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_billboard_01_ps.SM_billboard_01_ps",
           "SubPathString": ""
         },
         "BreakableActorTemplate": {
@@ -4756,7 +4764,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Low",
         "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 20.0,
+        "RealActorMass": 10.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": true,
@@ -4780,7 +4788,7 @@
         },
         "BreakableActorType": "EBreakableActorType::BT_Max",
         "BrokenStaticMesh": {
-          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_billboard_02_ps.SM_billboard_02_ps",
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_billboard_02_ps01.SM_billboard_02_ps01",
           "SubPathString": ""
         },
         "BreakableActorTemplate": {
@@ -4900,7 +4908,7 @@
         },
         "BreakableActorType": "EBreakableActorType::BT_Max",
         "BrokenStaticMesh": {
-          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_Stand_Sign_01_ps02.SM_Stand_Sign_01_ps02",
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_Stand_Sign_01_ps.SM_Stand_Sign_01_ps",
           "SubPathString": ""
         },
         "BreakableActorTemplate": {
@@ -4917,6 +4925,10 @@
         },
         "FadeMaterialList": [
           {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
             "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color_TexArray.MI_Unique_XL_Mask_Color_TexArray",
             "SubPathString": ""
           },
@@ -4932,7 +4944,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Middle",
         "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 50.0,
+        "RealActorMass": 3.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": true,
@@ -5690,6 +5702,10 @@
         },
         "FadeMaterialList": [
           {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          {
             "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
             "SubPathString": ""
           },
@@ -5729,7 +5745,7 @@
         },
         "BreakableActorType": "EBreakableActorType::BT_Max",
         "BrokenStaticMesh": {
-          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_Stand_Sign_02_ps_02.SM_Stand_Sign_02_ps_02",
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_Stand_Sign_02_ps.SM_Stand_Sign_02_ps",
           "SubPathString": ""
         },
         "BreakableActorTemplate": {
@@ -5746,11 +5762,23 @@
         },
         "FadeMaterialList": [
           {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
             "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color_TexArray.MI_Unique_XL_Mask_Color_TexArray",
             "SubPathString": ""
           },
           {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          {
             "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "",
             "SubPathString": ""
           }
         ],
@@ -5793,7 +5821,7 @@
           "SubPathString": ""
         },
         "BreakParticle": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
           "SubPathString": ""
         },
         "PhysicsMatOverride": {
@@ -5821,7 +5849,7 @@
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": false,
-        "bStillSpawnBrokenMeshAfterParticle": false,
+        "bStillSpawnBrokenMeshAfterParticle": true,
         "ThreatenRadius": 100.0,
         "ThreatenOffset": {
           "X": 0.0,
@@ -6184,7 +6212,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Low",
         "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 50.0,
+        "RealActorMass": 25.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": true,
@@ -6260,7 +6288,7 @@
         },
         "BreakableActorType": "EBreakableActorType::BT_Handrail",
         "BrokenStaticMesh": {
-          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_beaconStair_01_ps.SM_beaconStair_01_ps",
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_beaconStair_01_ps02.SM_beaconStair_01_ps02",
           "SubPathString": ""
         },
         "BreakableActorTemplate": {
@@ -8042,7 +8070,7 @@
         },
         "BreakableActorType": "EBreakableActorType::BT_Max",
         "BrokenStaticMesh": {
-          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_TrafficBarrel01_ps.SM_TrafficBarrel01_ps",
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_TrafficBarrel01_ps_02.SM_TrafficBarrel01_ps_02",
           "SubPathString": ""
         },
         "BreakableActorTemplate": {
@@ -8059,7 +8087,7 @@
         },
         "FadeMaterialList": [
           {
-            "AssetPathName": "",
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
             "SubPathString": ""
           },
           {
@@ -8074,7 +8102,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Low",
         "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 50.0,
+        "RealActorMass": 20.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": true,
@@ -8126,7 +8154,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Low",
         "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 50.0,
+        "RealActorMass": 20.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": true,
@@ -8167,7 +8195,7 @@
         },
         "FadeMaterialList": [
           {
-            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask.MI_Unique_XL_Mask",
             "SubPathString": ""
           }
         ],
@@ -8178,7 +8206,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Low",
         "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 50.0,
+        "RealActorMass": 20.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": true,
@@ -8217,7 +8245,12 @@
           "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
           "SubPathString": ""
         },
-        "FadeMaterialList": [],
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
         "BreakNiagaraScale": {
           "X": 1.0,
           "Y": 1.0,
@@ -8225,7 +8258,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Low",
         "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 50.0,
+        "RealActorMass": 3.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": true,
@@ -8423,7 +8456,7 @@
         },
         "BrokenLevel": "EBreakableLevel::BL_Low",
         "RealActorDisappearDelay": 10.0,
-        "RealActorMass": 50.0,
+        "RealActorMass": 20.0,
         "bBlockVehicle": false,
         "MinBreakSpeed": 20.0,
         "bCanBeDamaged": true,
@@ -8569,6 +8602,10 @@
           {
             "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
             "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
           }
         ],
         "BreakNiagaraScale": {
@@ -8644,6 +8681,2975 @@
         "BrokenEffectInterval": 0.1,
         "MinBrokenEffectSpeed": 600.0,
         "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_Pole_02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_Pole_02_FoliageType.SM_Pole_02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_Pole_02.BP_Broken_SM_Pole_02_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 600.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_Pole_03": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_Pole_03_FoliageType.SM_Pole_03_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_Pole_03.BP_Broken_SM_Pole_03_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 600.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_Pole_04": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_Pole_04_FoliageType.SM_Pole_04_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_Pole_04.BP_Broken_SM_Pole_04_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Steel.PM_Steel",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 600.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_TrafficLights_02_ZYH": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_TrafficLights_02_ZYH_FoliageType.SM_TrafficLights_02_ZYH_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_TrafficLights_02_ZYH.BP_Broken_SM_TrafficLights_02_ZYH_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 150.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": true,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 600.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_TrafficLights_03_ZYH": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_TrafficLights_03_ZYH_FoliageType.SM_TrafficLights_03_ZYH_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_TrafficLights_03_ZYH.BP_Broken_SM_TrafficLights_03_ZYH_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 150.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": true,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 600.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_TrafficLights_05_ZYH": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_TrafficLights_05_ZYH_FoliageType.SM_TrafficLights_05_ZYH_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_TrafficLights_05_ZYH.BP_Broken_SM_TrafficLights_05_ZYH_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 150.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": true,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 600.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_TrafficLights_ZYH": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_TrafficLights_ZYH_FoliageType.SM_TrafficLights_ZYH_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_TrafficLights_ZYH.BP_Broken_SM_TrafficLights_ZYH_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": true,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 600.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_RoadSigns_12": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_RoadSigns_12_FoliageType.SM_RoadSigns_12_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_RoadSigns_12.BP_Broken_SM_RoadSigns_12_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 100.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_RoadSigns_14": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_RoadSigns_14_FoliageType.SM_RoadSigns_14_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_RoadSigns_14.BP_Broken_SM_RoadSigns_14_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 100.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_XL_Bluesign_01": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_XL_Bluesign_01_FoliageType.SM_XL_Bluesign_01_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_XL_Bluesign_01.BP_Broken_SM_XL_Bluesign_01_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 100.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_CR_GuardRail01_b": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_CR_GuardRail01_b_FoliageType.SM_CR_GuardRail01_b_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_CR_GuardRail01_b_ps.SM_CR_GuardRail01_b_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_PipeMetal.PM_PipeMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 100.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 300.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 50.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 1.0,
+        "UpBrokenRadius": 1.0
+      },
+      "SM_RE_Bridge_zhixiangpai02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_RE_Bridge_zhixiangpai02_FoliageType.SM_RE_Bridge_zhixiangpai02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_RE_Bridge_zhixiangpai02_ps.SM_RE_Bridge_zhixiangpai02_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 40.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 250.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_RoadSigns_09": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_RoadSigns_09_FoliageType.SM_RoadSigns_09_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_RoadSigns_09_ps.SM_RoadSigns_09_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 40.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 250.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_RoadSigns_10": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_RoadSigns_10_FoliageType.SM_RoadSigns_10_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_RoadSigns_10_ps.SM_RoadSigns_10_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 40.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 250.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_RoadSigns_13": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_RoadSigns_13_FoliageType.SM_RoadSigns_13_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_RoadSigns_13_ps.SM_RoadSigns_13_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 40.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 250.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_RoadSignslight": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_RoadSignslight_FoliageType.SM_RoadSignslight_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_RoadSignslight_ps.SM_RoadSignslight_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 40.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": true,
+        "ThreatenRadius": 250.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_XL_MetalFance_01": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_XL_MetalFance_01_FoliageType.SM_XL_MetalFance_01_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_XL_MetalFance_01_ps.SM_XL_MetalFance_01_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_PipeMetal.PM_PipeMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 15.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_XL_MetalFance_02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_XL_MetalFance_02_FoliageType.SM_XL_MetalFance_02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_XL_MetalFance_02_ps.SM_XL_MetalFance_02_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_PipeMetal.PM_PipeMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 15.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_XL_MetalFance_special": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_XL_MetalFance_special_FoliageType.SM_XL_MetalFance_special_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_XL_MetalFance_special_ps.SM_XL_MetalFance_special_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_PipeMetal.PM_PipeMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 15.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_Park_ConcreteStair01_05": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_Park_ConcreteStair01_05_FoliageType.SM_Park_ConcreteStair01_05_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_Park_ConcreteStair01_05_ps.SM_Park_ConcreteStair01_05_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 20.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 50.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_Park_ConcreteStair01_04": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_Park_ConcreteStair01_04_FoliageType.SM_Park_ConcreteStair01_04_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_Park_ConcreteStair01_04_ps.SM_Park_ConcreteStair01_04_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_PipeMetal.PM_PipeMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_Park_ConcreteStair01_03": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_Park_ConcreteStair01_03_FoliageType.SM_Park_ConcreteStair01_03_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_Park_ConcreteStair01_03_ps.SM_Park_ConcreteStair01_03_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_PipeMetal.PM_PipeMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_park_light02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_park_light02_FoliageType.SM_park_light02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_park_light02_ps.SM_park_light02_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 40.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 250.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_Road_fence_04": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SMSM_Road_fence_04_FoliageType.SMSM_Road_fence_04_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_Road_fence_04_ps.SM_Road_fence_04_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_PipeMetal.PM_PipeMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 15.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_TrafficSignal_01": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_TrafficSignal_01_FoliageType.SM_TrafficSignal_01_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_TrafficSignal_01_ps.SM_TrafficSignal_01_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 40.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": true,
+        "ThreatenRadius": 250.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_TrafficSignal_02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_TrafficSignal_02_FoliageType.SM_TrafficSignal_02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_TrafficSignal_02_ps.SM_TrafficSignal_02_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 40.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": true,
+        "ThreatenRadius": 250.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_WeiLan_04_ZYH": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_WeiLan_04_ZYH_FoliageType.SM_WeiLan_04_ZYH_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_WeiLan_04_ZYH_ps.SM_WeiLan_04_ZYH_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 1.0,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_Roadwarning": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SSM_Roadwarning_FoliageType.SSM_Roadwarning_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_Roadwarning_ps.SM_Roadwarning_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 20.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 50.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_CardboardCastle_Box_01": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_CardboardCastle_Box_01_FoliageType.SM_CardboardCastle_Box_01_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Broken/NS_PaperCastle_Break.NS_PaperCastle_Break",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_WoodenFloor.PM_WoodenFloor",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 10.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 50.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_CardboardCastle_Box_02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_CardboardCastle_Box_02_FoliageType.SM_CardboardCastle_Box_02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Broken/NS_PaperCastle_Break.NS_PaperCastle_Break",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_WoodenFloor.PM_WoodenFloor",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 10.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 50.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_TrafficLights_04_ZYH": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_TrafficLights_04_ZYH_FoliageType.SM_TrafficLights_04_ZYH_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_TrafficLights_04_ZYH_ps.SM_TrafficLights_04_ZYH_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 40.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 250.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_RE_Bridge_zhixiangpai02B": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_RE_Bridge_zhixiangpai02B_FoliageType.SM_RE_Bridge_zhixiangpai02B_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_RE_Bridge_zhixiangpai02B_ps.SM_RE_Bridge_zhixiangpai02B_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 40.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 250.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_RT_WaterBarrier01": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_RT_WaterBarrier01_FoliageType.SM_RT_WaterBarrier01_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_RT_WaterBarrier01_ps.SM_RT_WaterBarrier01_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Plastic.PM_Plastic",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 2000.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 1.0,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 150.0
+      },
+      "SM_RT_WaterBarrier02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_RT_WaterBarrier02_FoliageType.SM_RT_WaterBarrier02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_RT_WaterBarrier02.BP_Broken_SM_RT_WaterBarrier02_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Plastic.PM_Plastic",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 100.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 1.0,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 150.0
+      },
+      "SM_lamp_06": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_lamp_06_FoliageType.SM_lamp_06_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Roadblock",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_lamp_06_ps.SM_lamp_06_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 10.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 50.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_WoodFence_02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_WoodFence_02_FoliageType.SM_WoodFence_02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_WoodFence_02_ps.SM_WoodFence_02_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_WoodenFloor.PM_WoodenFloor",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 10.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_WoodFence_02_box": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_WoodFence_02_box_FoliageType.SM_WoodFence_02_box_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Roadblock",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_WoodFence_02_box_ps.SM_WoodFence_02_box_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_WoodenFloor.PM_WoodenFloor",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 10.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 50.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_campingArealight_02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_campingArealight_02_FoliageType.SM_campingArealight_02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_campingArealight_02_ps.SM_campingArealight_02_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Vehicle/NS_Breakable_Spark_01.NS_Breakable_Spark_01",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_WoodenFloor.PM_WoodenFloor",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": true,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 600.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_WeiLan_03_ZYH2": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_WeiLan_03_ZYH2_FoliageType.SM_WeiLan_03_ZYH2_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_WeiLan_03_ZYH2_ps.SM_WeiLan_03_ZYH2_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 3.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 1.0,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_postbox_02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_postbox_02_FoliageType.SM_postbox_02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_postbox_02_ps.SM_postbox_02_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 20.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_Roadblocks_05": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_Roadblocks_05_FoliageType.SM_Roadblocks_05_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_Roadblocks_05_ps.SM_Roadblocks_05_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 1.0,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_tomato_ZYF": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_tomato_ZYF02_FoliageType.SM_tomato_ZYF02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Common/Impact/NS_Impact_Wood_003.NS_Impact_Wood_003",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 10.0,
+          "Y": 10.0,
+          "Z": 10.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 20.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_GasStation_SignBoard_02": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_GasStation_SignBoard_02_FoliageType.SM_GasStation_SignBoard_02_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_GasStation_SignBoard_02_ps.SM_GasStation_SignBoard_02_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 100.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_CR_RoadName03": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_CR_RoadName03_FoliageType.SM_CR_RoadName03_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_CR_RoadName03.BP_Broken_SM_CR_RoadName03_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 100.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_CR_RoadName04": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_CR_RoadName04_FoliageType.SM_CR_RoadName04_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_CR_RoadName04.BP_Broken_SM_CR_RoadName04_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 100.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_CR_RoadName05": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_CR_RoadName05_FoliageType.SM_CR_RoadName05_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_CR_RoadName05.BP_Broken_SM_CR_RoadName05_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 100.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_XL_Bluesign_07": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_XL_Bluesign_07_FoliageType.SM_XL_Bluesign_07_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_XL_Bluesign_07.BP_Broken_SM_XL_Bluesign_07_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 100.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_XL_Bluesign_08": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_XL_Bluesign_08_FoliageType.SM_XL_Bluesign_08_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_XL_Bluesign_08.BP_Broken_SM_XL_Bluesign_08_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 100.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_XL_Bluesign_09": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_XL_Bluesign_09_FoliageType.SM_XL_Bluesign_09_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_StreetLamp",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "/Game/Blueprints/Level/World/Interact/Qiaojiandi_central/BP_Broken_SM_XL_Bluesign_09.BP_Broken_SM_XL_Bluesign_09_C",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_HollowMetal.PM_HollowMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_High",
+        "RealActorDisappearDelay": 6.0,
+        "RealActorMass": 80.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 40.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 400.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 100.0,
+        "MinBrokenEffectAngularSpeed": 100.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_Lifebuoy_01": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_Lifebuoy_01_FoliageType.SM_Lifebuoy_01_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Item/Item_CardboardBox/NS_CardboardBox_003.NS_CardboardBox_003",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 10.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 1.0,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_XL_bianlidian_zhanqi04": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_XL_bianlidian_zhanqi04_FoliageType.SM_XL_bianlidian_zhanqi04_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_XL_bianlidian_zhanqi04_ps.SM_XL_bianlidian_zhanqi04_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Plastic.PM_Plastic",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color_TexArray.MI_Unique_XL_Mask_Color_TexArray",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 100.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 50.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_PaintBucket_01": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_PaintBucket_01_FoliageType.SM_PaintBucket_01_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_PaintBucket_01_ps.SM_PaintBucket_01_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Plastic.PM_Plastic",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 5.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 50.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 100.0
+      },
+      "SM_PaintBucket_02_B": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_PaintBucket_02_B_FoliageType.SM_PaintBucket_02_B_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_PaintBucket_02_B_ps.SM_PaintBucket_02_B_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_SmallMetal.PM_SmallMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 5.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 50.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 100.0
+      },
+      "SM_CardboardBox_Closed_03_a_MagicBox": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_CardboardBox_Closed_03_a_MagicBox_FoliageType.SM_CardboardBox_Closed_03_a_MagicBox_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Max",
+        "BrokenStaticMesh": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "/Game/FX/Nia/Item/Item_CardboardBox/NS_CardboardBox_001.NS_CardboardBox_001",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_Cardboard.PM_Cardboard",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Low",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 10.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 50.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 6000.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_beaconrail_2": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_beaconrail_2_FoliageType.SM_beaconrail_2_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_beaconrail_2_ps.SM_beaconrail_2_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_PipeMetal.PM_PipeMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
+        "UpBrokenDistance": 150.0,
+        "UpBrokenRadius": 15.0
+      },
+      "SM_beaconrail_6": {
+        "TargetFoliageType": {
+          "AssetPathName": "/Game/Environment/Building/Phx_Instance/SM_beaconrail_6_FoliageType.SM_beaconrail_6_FoliageType",
+          "SubPathString": ""
+        },
+        "BreakableActorType": "EBreakableActorType::BT_Handrail",
+        "BrokenStaticMesh": {
+          "AssetPathName": "/Game/Environment/Props/BreakableActorTemplate/SM_beaconrail_6_ps.SM_beaconrail_6_ps",
+          "SubPathString": ""
+        },
+        "BreakableActorTemplate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "BreakParticle": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PhysicsMatOverride": {
+          "AssetPathName": "/Game/CoreMaterials/Physics/PM_PipeMetal.PM_PipeMetal",
+          "SubPathString": ""
+        },
+        "FadeMaterialList": [
+          {
+            "AssetPathName": "/Game/CoreMaterials/World/Unique/MI_Unique_XL_Mask_Color.MI_Unique_XL_Mask_Color",
+            "SubPathString": ""
+          }
+        ],
+        "BreakNiagaraScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        },
+        "BrokenLevel": "EBreakableLevel::BL_Middle",
+        "RealActorDisappearDelay": 10.0,
+        "RealActorMass": 50.0,
+        "bBlockVehicle": false,
+        "MinBreakSpeed": 20.0,
+        "bCanBeDamaged": true,
+        "bStillSpawnBrokenMeshAfterParticle": false,
+        "ThreatenRadius": 150.0,
+        "ThreatenOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "BrokenEffectInterval": 0.1,
+        "MinBrokenEffectSpeed": 600.0,
+        "MinBrokenEffectAngularSpeed": 180.0,
         "UpBrokenDistance": 150.0,
         "UpBrokenRadius": 15.0
       }

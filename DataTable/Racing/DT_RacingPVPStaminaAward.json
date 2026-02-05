@@ -1,0 +1,121 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_RacingPVPStaminaAward",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'RacingPVPStaminaAwardData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "1_100": {
+        "Rank": 1,
+        "ProgressRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 0.5
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1.0
+          }
+        },
+        "CostStaminaID": "CityStamina",
+        "CostStaminaAmountBase": 6
+      },
+      "1_50": {
+        "Rank": 1,
+        "ProgressRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 0.25
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.5
+          }
+        },
+        "CostStaminaID": "CityStamina",
+        "CostStaminaAmountBase": 3
+      },
+      "1_25": {
+        "Rank": 1,
+        "ProgressRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 0.05
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.25
+          }
+        },
+        "CostStaminaID": "CityStamina",
+        "CostStaminaAmountBase": 1
+      },
+      "1_5": {
+        "Rank": 1,
+        "ProgressRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.05
+          }
+        },
+        "CostStaminaID": "CityStamina",
+        "CostStaminaAmountBase": 0
+      },
+      "2_100": {
+        "Rank": 2,
+        "ProgressRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 0.5
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1.0
+          }
+        },
+        "CostStaminaID": "CityStamina",
+        "CostStaminaAmountBase": 4
+      },
+      "2_50": {
+        "Rank": 2,
+        "ProgressRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 0.1
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.5
+          }
+        },
+        "CostStaminaID": "CityStamina",
+        "CostStaminaAmountBase": 2
+      },
+      "2_10": {
+        "Rank": 2,
+        "ProgressRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.1
+          }
+        },
+        "CostStaminaID": "CityStamina",
+        "CostStaminaAmountBase": 0
+      }
+    }
+  }
+]

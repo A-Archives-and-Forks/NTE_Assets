@@ -30,13 +30,9 @@
             "CloneIDArray": [
               "DLC_levelbreakthrough_001"
             ],
+            "IsSuccess": true,
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "DT_QuestSystem_Quest1OBJName",
-              "SourceString": "完成指定异象界域",
-              "LocalizedString": "完成指定异象界域"
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CLONE_COMPLETED",
             "Amount": 1,
             "TargetType": {
@@ -51,15 +47,12 @@
             "Optional": false,
             "Description": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "DT_QuestSystem_Quest2Des",
-              "SourceString": "完成「鉴定突破Ⅱ」异象界域",
-              "LocalizedString": "完成「鉴定突破Ⅱ」异象界域"
+              "Key": "DT_QuestSystem_Quest1Des",
+              "SourceString": "完成「猎人等级突破Ⅰ」异象界域",
+              "LocalizedString": "完成「猎人等级突破Ⅰ」异象界域"
             },
             "CompletedDescription": {
-              "Namespace": "",
-              "Key": "0778D95E424ECE49E9416196659497D7",
-              "SourceString": "通关DLC_levelbreakthrough_001详细描述",
-              "LocalizedString": "通关DLC_levelbreakthrough_001详细描述"
+              "CultureInvariantString": null
             },
             "NeedShowProgress": false,
             "IntroduceInfo": null,
@@ -85,13 +78,14 @@
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_BREAKTHROUGH",
@@ -100,6 +94,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -107,6 +102,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_QuestSystem_Quest1PanelDes",
@@ -114,6 +110,7 @@
           "LocalizedString": "完成指定异象界域挑战以提高猎人等级上限"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [],
@@ -121,6 +118,7 @@
         "NeedLevel": 0,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -133,24 +131,33 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
-        "QuestAward": null,
+        "QuestAward": {
+          "AwardGroupID": "drop_breakworldclone",
+          "SimpleAwards": [],
+          "bShowAwardWindow": true,
+          "bShowInPanel": true
+        },
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "Sy100002": {
         "QuestId": "Sy100002",
@@ -171,13 +178,9 @@
             "CloneIDArray": [
               "DLC_levelbreakthrough_002"
             ],
+            "IsSuccess": true,
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "DT_QuestSystem_Quest1OBJName",
-              "SourceString": "完成指定异象界域",
-              "LocalizedString": "完成指定异象界域"
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CLONE_COMPLETED",
             "Amount": 1,
             "TargetType": {
@@ -193,14 +196,11 @@
             "Description": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_QuestSystem_Quest2Des",
-              "SourceString": "完成「鉴定突破Ⅱ」异象界域",
-              "LocalizedString": "完成「鉴定突破Ⅱ」异象界域"
+              "SourceString": "完成「猎人等级突破Ⅱ」异象界域",
+              "LocalizedString": "完成「猎人等级突破Ⅱ」异象界域"
             },
             "CompletedDescription": {
-              "Namespace": "",
-              "Key": "0778D95E424ECE49E9416196659497D7",
-              "SourceString": "通关DLC_levelbreakthrough_001详细描述",
-              "LocalizedString": "通关DLC_levelbreakthrough_001详细描述"
+              "CultureInvariantString": null
             },
             "NeedShowProgress": false,
             "IntroduceInfo": null,
@@ -226,13 +226,14 @@
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_BREAKTHROUGH",
@@ -241,6 +242,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -248,6 +250,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_QuestSystem_Quest1PanelDes",
@@ -255,6 +258,7 @@
           "LocalizedString": "完成指定异象界域挑战以提高猎人等级上限"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -264,9 +268,10 @@
           }
         ],
         "PreQuestConditionType": "EQuestConditionType::And",
-        "NeedLevel": 45,
+        "NeedLevel": 40,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -279,24 +284,33 @@
         ],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
-        "QuestAward": null,
+        "QuestAward": {
+          "AwardGroupID": "drop_breakworldclone",
+          "SimpleAwards": [],
+          "bShowAwardWindow": true,
+          "bShowInPanel": true
+        },
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       },
       "Sy100003": {
         "QuestId": "Sy100003",
@@ -317,13 +331,9 @@
             "CloneIDArray": [
               "DLC_levelbreakthrough_003"
             ],
+            "IsSuccess": true,
             "ObjectiveID": "1",
-            "ObjectiveName": {
-              "TableId": "/Game/Text/ST_Ui.ST_Ui",
-              "Key": "DT_QuestSystem_Quest1OBJName",
-              "SourceString": "完成指定异象界域",
-              "LocalizedString": "完成指定异象界域"
-            },
+            "ObjectiveTips": "",
             "ObjectiveType": "EObjectiveType::EOT_CLONE_COMPLETED",
             "Amount": 1,
             "TargetType": {
@@ -339,14 +349,11 @@
             "Description": {
               "TableId": "/Game/Text/ST_Ui.ST_Ui",
               "Key": "DT_QuestSystem_Quest3Des",
-              "SourceString": "完成「鉴定突破Ⅲ」异象界域",
-              "LocalizedString": "完成「鉴定突破Ⅲ」异象界域"
+              "SourceString": "完成「猎人等级突破Ⅲ」异象界域",
+              "LocalizedString": "完成「猎人等级突破Ⅲ」异象界域"
             },
             "CompletedDescription": {
-              "Namespace": "",
-              "Key": "0778D95E424ECE49E9416196659497D7",
-              "SourceString": "通关DLC_levelbreakthrough_001详细描述",
-              "LocalizedString": "通关DLC_levelbreakthrough_001详细描述"
+              "CultureInvariantString": null
             },
             "NeedShowProgress": false,
             "IntroduceInfo": null,
@@ -372,13 +379,14 @@
               "bNeedPassParking": false,
               "VehicleParkingArray": [],
               "AzimuthIndicatorable": true,
-              "bNavigationPath": false
+              "bShowNavigationPath": true
             },
             "CompleteTeleportID": "None",
             "CompleteTeleport": null,
             "CompleteCameraRotation": null,
             "BuffInfo": null,
-            "CompleteDistance": null
+            "CompleteDistance": null,
+            "ShortcutJumpData": null
           }
         ],
         "QuestType": "EQuestType::EQT_BREAKTHROUGH",
@@ -387,6 +395,7 @@
         "ObjectiveType": "EQuestProcessType::EQPT_SEQUENCE",
         "bMainQuestAutoSpeak": true,
         "bShowQuestAcceptTips": false,
+        "bShowQuestCompleteTip": false,
         "HideOrShowMainFormWidgets": null,
         "bHideQuestMark": false,
         "bHideTrackMark": false,
@@ -394,6 +403,7 @@
         "ShowSubmitMsg": false,
         "bNeedPlayAnimation": true,
         "bUseSpecialQuestSettleUI": false,
+        "bForceHybridQuest": false,
         "PanelDescription": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "DT_QuestSystem_Quest1PanelDes",
@@ -401,6 +411,7 @@
           "LocalizedString": "完成指定异象界域挑战以提高猎人等级上限"
         },
         "UnlockTeleportID": "None",
+        "BuffInfo": null,
         "TrackQuestConditionRange": null,
         "TrackConditionList": [],
         "PreQuests": [
@@ -410,9 +421,10 @@
           }
         ],
         "PreQuestConditionType": "EQuestConditionType::And",
-        "NeedLevel": 55,
+        "NeedLevel": 50,
         "NeedYahahaID": "None",
         "NeedVisionID": "None",
+        "NeedTycoonLevel": 0,
         "AcceptQuestConditionRange": null,
         "NeedConditionType": "EQuestConditionType::And",
         "bNotSatisfyCanNotAccept": false,
@@ -423,24 +435,33 @@
         "NextQuests": [],
         "bAutoNext": true,
         "NeedSubmit": false,
+        "PatcherTag": "None",
         "QuestSubmitDescription": {
           "CultureInvariantString": null
         },
         "SubmitConsume": null,
         "UIParamString": "",
         "bFreezeSinPoint": false,
+        "bNeedTmporaryTrack": true,
+        "bForceTrack": false,
+        "bForceTrackExceptMain": false,
+        "bCanMainQuestChangeTrack": false,
         "LikeabilityData": null,
-        "QuestAward": null,
+        "QuestAward": {
+          "AwardGroupID": "drop_breakworldclone",
+          "SimpleAwards": [],
+          "bShowAwardWindow": true,
+          "bShowInPanel": true
+        },
         "QuestTimeLock": null,
         "QuestWeatherLock": null,
         "ReloadLocation": null,
-        "AdventureManual": null,
-        "JumpToUIData": {
-          "QuestUIType": "EQuestUIType::QUT_None",
-          "UIParaming": [],
-          "UnlockFunctionID": "None"
-        },
-        "TrialCharacterID": "None"
+        "TrialCharacterID": "None",
+        "ActivateYahahaID": "None",
+        "bChangeTrackAnim": false,
+        "CustomTrackText": {
+          "CultureInvariantString": null
+        }
       }
     }
   }

@@ -1,0 +1,231 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_FishHandbookSimpleQuest",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'SimpleQuestStaticData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "FishHandbook_01": {
+        "QuestId": "FishHandbook_01",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "SimpleQuestType": "ESimpleQuestType::FishHandbook",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "ObjectiveType": "ESimpleQuestObjType::FishHandbook",
+          "Amount": 12
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "None",
+          "SimpleAwards": [
+            {
+              "UniqueID": {
+                "solt": 0,
+                "serial": 0
+              },
+              "ItemID": "Annulith",
+              "Amount": 20,
+              "bHiddenAmount": false,
+              "bIsReplaceItem": false,
+              "ExtraItemNetInfo": {
+                "RandomBaseModifyData": [],
+                "RandomModifyData": []
+              }
+            }
+          ],
+          "bShowAwardWindow": true
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": null,
+        "bPopAwardsWindow": true
+      },
+      "FishHandbook_02": {
+        "QuestId": "FishHandbook_02",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "SimpleQuestType": "ESimpleQuestType::FishHandbook",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "ObjectiveType": "ESimpleQuestObjType::FishHandbook",
+          "Amount": 24
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "None",
+          "SimpleAwards": [
+            {
+              "UniqueID": {
+                "solt": 0,
+                "serial": 0
+              },
+              "ItemID": "Annulith",
+              "Amount": 40,
+              "bHiddenAmount": false,
+              "bIsReplaceItem": false,
+              "ExtraItemNetInfo": {
+                "RandomBaseModifyData": [],
+                "RandomModifyData": []
+              }
+            }
+          ],
+          "bShowAwardWindow": true
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": null,
+        "bPopAwardsWindow": true
+      },
+      "FishHandbook_03": {
+        "QuestId": "FishHandbook_03",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "SimpleQuestType": "ESimpleQuestType::FishHandbook",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "ObjectiveType": "ESimpleQuestObjType::FishHandbook",
+          "Amount": 36
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "None",
+          "SimpleAwards": [
+            {
+              "UniqueID": {
+                "solt": 0,
+                "serial": 0
+              },
+              "ItemID": "Annulith",
+              "Amount": 60,
+              "bHiddenAmount": false,
+              "bIsReplaceItem": false,
+              "ExtraItemNetInfo": {
+                "RandomBaseModifyData": [],
+                "RandomModifyData": []
+              }
+            }
+          ],
+          "bShowAwardWindow": true
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": null,
+        "bPopAwardsWindow": true
+      },
+      "FishHandbook_04": {
+        "QuestId": "FishHandbook_04",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "SimpleQuestType": "ESimpleQuestType::FishHandbook",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "ObjectiveType": "ESimpleQuestObjType::FishHandbook",
+          "Amount": 50
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "None",
+          "SimpleAwards": [
+            {
+              "UniqueID": {
+                "solt": 0,
+                "serial": 0
+              },
+              "ItemID": "Annulith",
+              "Amount": 80,
+              "bHiddenAmount": false,
+              "bIsReplaceItem": false,
+              "ExtraItemNetInfo": {
+                "RandomBaseModifyData": [],
+                "RandomModifyData": []
+              }
+            }
+          ],
+          "bShowAwardWindow": true
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": null,
+        "bPopAwardsWindow": true
+      },
+      "FishHandbook_05": {
+        "QuestId": "FishHandbook_05",
+        "QuestName": {
+          "CultureInvariantString": null
+        },
+        "SimpleQuestType": "ESimpleQuestType::FishHandbook",
+        "QuestRefreshType": "ESimpleQuestRefresh::None",
+        "ObjectiveInfo": {
+          "ObjectiveType": "ESimpleQuestObjType::FishHandbook",
+          "Amount": 64
+        },
+        "QuestAwardData": {
+          "AwardGroupID": "None",
+          "SimpleAwards": [
+            {
+              "UniqueID": {
+                "solt": 0,
+                "serial": 0
+              },
+              "ItemID": "Annulith",
+              "Amount": 100,
+              "bHiddenAmount": false,
+              "bIsReplaceItem": false,
+              "ExtraItemNetInfo": {
+                "RandomBaseModifyData": [],
+                "RandomModifyData": []
+              }
+            }
+          ],
+          "bShowAwardWindow": true
+        },
+        "bAutoCommit": false,
+        "JumpPath": "None",
+        "QuestIcon": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Comment": {
+          "CultureInvariantString": null
+        },
+        "ExtensionData": null,
+        "bPopAwardsWindow": true
+      }
+    }
+  }
+]

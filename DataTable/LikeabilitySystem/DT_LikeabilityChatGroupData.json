@@ -198,7 +198,7 @@
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_028.player_028",
           "SubPathString": ""
         },
-        "MainPlotChatItemID": "1023_1_1"
+        "MainPlotChatItemID": "1023_1_21"
       },
       "H_NPC_1027": {
         "RoleIds": [
@@ -498,10 +498,7 @@
           "Trinity_2"
         ],
         "GroupNameText": {
-          "Namespace": "",
-          "Key": "2778ECD84000173C68EBCCAAA52E4A38",
-          "SourceString": "?¿?",
-          "LocalizedString": "?¿?"
+          "CultureInvariantString": "?¿?"
         },
         "SignatureText": {
           "CultureInvariantString": null
@@ -636,6 +633,107 @@
           "SubPathString": ""
         },
         "MainPlotChatItemID": "1025_1_1"
+      },
+      "npc_02505": {
+        "RoleIds": [
+          "npc_02505"
+        ],
+        "GroupNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "npc_02505_name",
+          "SourceString": "格思里",
+          "LocalizedString": "格思里"
+        },
+        "SignatureText": {
+          "CultureInvariantString": null
+        },
+        "HeadIconResource": {
+          "AssetPathName": "/Game/UI/UI/likeability/Icon/NPC_001.NPC_001",
+          "SubPathString": ""
+        },
+        "MainPlotChatItemID": "None"
+      },
+      "K111801": {
+        "RoleIds": [
+          "K111801"
+        ],
+        "GroupNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "K111801_name",
+          "SourceString": "AAA祖传异象逆天改命",
+          "LocalizedString": "AAA祖传异象逆天改命"
+        },
+        "SignatureText": {
+          "CultureInvariantString": null
+        },
+        "HeadIconResource": {
+          "AssetPathName": "/Game/UI/UI/likeability/Icon/NPC_001.NPC_001",
+          "SubPathString": ""
+        },
+        "MainPlotChatItemID": "None"
+      },
+      "1073": {
+        "RoleIds": [
+          "1073"
+        ],
+        "GroupNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1073_name",
+          "SourceString": "小吱",
+          "LocalizedString": "小吱"
+        },
+        "SignatureText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1073_title",
+          "SourceString": "粉爪银行大堂经理",
+          "LocalizedString": "粉爪银行大堂经理"
+        },
+        "HeadIconResource": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_073.player_073",
+          "SubPathString": ""
+        },
+        "MainPlotChatItemID": "1073_1_1"
+      },
+      "1014": {
+        "RoleIds": [
+          "1014"
+        ],
+        "GroupNameText": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_014",
+          "SourceString": "九原",
+          "LocalizedString": "九原"
+        },
+        "SignatureText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "1014_title",
+          "SourceString": "斯特利速递店员",
+          "LocalizedString": "斯特利速递店员"
+        },
+        "HeadIconResource": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_104.player_104",
+          "SubPathString": ""
+        },
+        "MainPlotChatItemID": "1014_1_1"
+      },
+      "NPC_04103": {
+        "RoleIds": [
+          "NPC_04103"
+        ],
+        "GroupNameText": {
+          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
+          "Key": "NPC_04103_name",
+          "SourceString": "伊莉丝",
+          "LocalizedString": "伊莉丝"
+        },
+        "SignatureText": {
+          "CultureInvariantString": null
+        },
+        "HeadIconResource": {
+          "AssetPathName": "/Game/UI/UI/likeability/Icon/NPC_04103.NPC_04103",
+          "SubPathString": ""
+        },
+        "MainPlotChatItemID": "None"
       }
     }
   }

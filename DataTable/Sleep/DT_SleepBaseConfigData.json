@@ -12,7 +12,7 @@
     },
     "Rows": {
       "1": {
-        "CheckDistance": 500.0,
+        "CheckDistance": 2000.0,
         "SleepVauleRecoveryInfos": [
           {
             "MinWorldLevel": 0,

@@ -11,86 +11,9 @@
       }
     },
     "Rows": {
-      "fork_tajiduo": {
-        "ItemType": "EItemType::ITEM_TYPE_FORK",
-        "ItemTags": [],
-        "ItemIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_wuhuakuang_256.fork_wuhuakuang_256",
-          "SubPathString": ""
-        },
-        "ItemIconSmall": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        },
-        "ItemName": {
-          "Namespace": "DT_ForkItemData",
-          "Key": "fork_tajiduo_ItemName",
-          "SourceString": "弧盘-塔吉多",
-          "LocalizedString": "弧盘-塔吉多"
-        },
-        "MaxAmount": 1,
-        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
-        "ItemCD": 0.0,
-        "TimeLimit": null,
-        "ItemEffectType": "EItemEffectType::NoEffect",
-        "UseContext": {
-          "CultureInvariantString": null
-        },
-        "Description": {
-          "TableId": "/Game/Text/ST_Fork.ST_Fork",
-          "Key": "fork_lingganzhongjiezhe_des",
-          "SourceString": "灵感像薯片，咔滋咔滋，留下一地碎屑，没有理由。",
-          "LocalizedString": "灵感像薯片，咔滋咔滋，留下一地碎屑，没有理由。"
-        },
-        "ToolDatas": [],
-        "ItemUseCount": 1,
-        "bAutoUseWhenAdd": false,
-        "bDisplayedWhenObtain": false,
-        "bUndisplayFirstAddMessageTips": false,
-        "bUndisplayCommonAddMessageTips": false,
-        "bUseAddMessageTips": true,
-        "BagFunctions": 4,
-        "CanDestory": false,
-        "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
-        "ExpandableAttributes": {
-          "ExpandedAttributes": []
-        },
-        "ExtensionData": null,
-        "ElementData": {
-          "ForkGlobalBuffTag": {
-            "TagName": "None"
-          },
-          "UpgradePackId": "upgrade_pack_Fork_rank4_3",
-          "BreakthroughPackId": "Breakthrough_pack_fork_jiaojuan",
-          "UpgradeStarPackID": "upgradestar_pack_fork_tajiduo",
-          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
-          "MaxBreakthrough": 6,
-          "MaxUpgradeStar": 5,
-          "ForkCard": {
-            "AssetPathName": "/Game/UI/UI_Icon/Fork/image15.image15",
-            "SubPathString": ""
-          },
-          "ModelActorClass": {
-            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
-            "SubPathString": ""
-          },
-          "EXP": 50000,
-          "CostGold": "gold:15000",
-          "Story": {
-            "CultureInvariantString": null
-          }
-        },
-        "SubstituteData": null,
-        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
-        "bIsShowAmount": true,
-        "PlayerViewTagArray": [],
-        "bIsLimitAmount": false,
-        "bIsManual": true
-      },
       "fork_yuren": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_yuren_256.fork_yuren_256",
@@ -98,6 +21,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_yuren_100.fork_yuren_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -123,17 +50,20 @@
           "SourceString": "记得睡觉，记得看天气预报；记得吃饭，记得出门带伞。",
           "LocalizedString": "记得睡觉，记得看天气预报；记得吃饭，记得出门带伞。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -161,17 +91,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_yuren.fork_yuren",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_bopu": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_bopu_256.fork_bopu_256",
@@ -179,6 +119,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_bopu_100.fork_bopu_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -204,17 +148,20 @@
           "SourceString": "Masterpiece made by 「Pop Re-Creator 」!",
           "LocalizedString": "Masterpiece made by 「Pop Re-Creator 」!"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -242,17 +189,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_bopu.fork_bopu",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_mofeikesi": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_mofeikesi_256.fork_mofeikesi_256",
@@ -260,6 +217,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_mofeikesi_100.fork_mofeikesi_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -285,17 +246,20 @@
           "SourceString": "你看到的是什么？长着翅膀的白狼？可爱的白色大狗？亦或是……？",
           "LocalizedString": "你看到的是什么？长着翅膀的白狼？可爱的白色大狗？亦或是……？"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -323,17 +287,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_mofeikesi.fork_mofeikesi",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_jiaojuan": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_jiaojuan_256.fork_jiaojuan_256",
@@ -341,6 +315,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_jiaojuan_100.fork_jiaojuan_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -366,17 +344,20 @@
           "SourceString": "捕捉闪耀的瞬间，在梦中都要继续。后悔从来都不会是美好的，你也并非是孤单一人。",
           "LocalizedString": "捕捉闪耀的瞬间，在梦中都要继续。后悔从来都不会是美好的，你也并非是孤单一人。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -404,17 +385,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_jiaojuan.fork_jiaojuan",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_wuhuakuang": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_wuhuakuang_256.fork_wuhuakuang_256",
@@ -422,6 +413,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_wuhuakuang_100.fork_wuhuakuang_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -447,17 +442,20 @@
           "SourceString": "即使是那些传世作品的陪衬，但……我也是很漂亮的，对吗？",
           "LocalizedString": "即使是那些传世作品的陪衬，但……我也是很漂亮的，对吗？"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -485,17 +483,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_wuhuakuang.fork_wuhuakuang",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_jingmotingyuan": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_jingmotingyuan_256.fork_jingmotingyuan_256",
@@ -503,6 +511,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_jingmotingyuan_100.fork_jingmotingyuan_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -528,17 +540,20 @@
           "SourceString": "虽然不被允许把失态暴露在花瓣上……那句花可真是深深刺伤我了。",
           "LocalizedString": "虽然不被允许把失态暴露在花瓣上……那句花可真是深深刺伤我了。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -566,17 +581,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_jingmotingyuan.fork_jingmotingyuan",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_oulaquantao": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_oulaquantao_256.fork_oulaquantao_256",
@@ -584,6 +609,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_oulaquantao_100.fork_oulaquantao_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -609,17 +638,20 @@
           "SourceString": "据说在遥远地方，欧拉拳套有一个远方表弟，叫做「木大拳套」。",
           "LocalizedString": "据说在遥远地方，欧拉拳套有一个远方表弟，叫做「木大拳套」。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -647,17 +679,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_oulaquantao.fork_oulaquantao",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_lingganzhongjiezhe": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_lingganzhongjiezhe_256.fork_lingganzhongjiezhe_256",
@@ -665,6 +707,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_lingganzhongjiezhe_100.fork_lingganzhongjiezhe_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -690,17 +736,20 @@
           "SourceString": "灵感像薯片，咔滋咔滋，留下一地碎屑，没有理由。",
           "LocalizedString": "灵感像薯片，咔滋咔滋，留下一地碎屑，没有理由。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -728,17 +777,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_lingganzhongjiezhe.fork_lingganzhongjiezhe",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_rishi": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_rishi_256.fork_rishi_256",
@@ -746,6 +805,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_rishi_100.fork_rishi_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -771,17 +834,20 @@
           "SourceString": "日蚀说，要有双休。\n于是就有了双休（日蚀专属版）。",
           "LocalizedString": "日蚀说，要有双休。\n于是就有了双休（日蚀专属版）。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -791,7 +857,7 @@
           "ForkGlobalBuffTag": {
             "TagName": "None"
           },
-          "UpgradePackId": "upgrade_pack_Fork_rank5_1",
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
           "BreakthroughPackId": "Breakthrough_pack_fork_rishi",
           "UpgradeStarPackID": "upgradestar_pack_fork_rishi",
           "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
@@ -809,17 +875,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_rishi.fork_rishi",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_dustbin": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_dustbin_256.fork_dustbin_256",
@@ -827,6 +903,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_dustbin_100.fork_dustbin_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -852,17 +932,20 @@
           "SourceString": "我跟你打个赌，输的人要吃土。",
           "LocalizedString": "我跟你打个赌，输的人要吃土。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -886,21 +969,31 @@
             "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
             "SubPathString": ""
           },
-          "EXP": 500,
-          "CostGold": "gold:150",
+          "EXP": 5000,
+          "CostGold": "gold:1500",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_dustbin.fork_dustbin",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_nonos": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_nonos_256.fork_nonos_256",
@@ -908,6 +1001,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_nonos_100.fork_nonos_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -933,17 +1030,20 @@
           "SourceString": "优良的自我管理是走上成功道路的第一步。",
           "LocalizedString": "优良的自我管理是走上成功道路的第一步。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -967,21 +1067,31 @@
             "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
             "SubPathString": ""
           },
-          "EXP": 500,
-          "CostGold": "gold:150",
+          "EXP": 5000,
+          "CostGold": "gold:1500",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_nonos.fork_nonos",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_vine": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_HugVine_256.fork_HugVine_256",
@@ -989,6 +1099,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_HugVine_100.fork_HugVine_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1014,17 +1128,20 @@
           "SourceString": "嗯？你怎么不笑呢？",
           "LocalizedString": "嗯？你怎么不笑呢？"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1048,21 +1165,31 @@
             "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
             "SubPathString": ""
           },
-          "EXP": 500,
-          "CostGold": "gold:150",
+          "EXP": 5000,
+          "CostGold": "gold:1500",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_HugVine.fork_HugVine",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_Prokaryon": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_yuanheti_256.fork_yuanheti_256",
@@ -1072,11 +1199,15 @@
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_yuanheti_100.fork_yuanheti_100",
           "SubPathString": ""
         },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "ItemName": {
           "TableId": "/Game/Text/ST_Fork.ST_Fork",
           "Key": "fork_Prokaryon_name",
-          "SourceString": "我们。",
-          "LocalizedString": "我们。"
+          "SourceString": "「我们。」",
+          "LocalizedString": "「我们。」"
         },
         "MaxAmount": 1,
         "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
@@ -1095,17 +1226,20 @@
           "SourceString": "我是、你……是……你，是……它、是……我……不，我——是、我们。",
           "LocalizedString": "我是、你……是……你，是……它、是……我……不，我——是、我们。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1129,21 +1263,31 @@
             "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
             "SubPathString": ""
           },
-          "EXP": 500,
-          "CostGold": "gold:150",
+          "EXP": 5000,
+          "CostGold": "gold:1500",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_yuanheti.fork_yuanheti",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_BitterCake": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_BitterCake_256.fork_BitterCake_256",
@@ -1151,6 +1295,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_BitterCake_100.fork_BitterCake_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1176,17 +1324,20 @@
           "SourceString": "些许的苦涩，但也会给你好心情，不是吗？",
           "LocalizedString": "些许的苦涩，但也会给你好心情，不是吗？"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1214,17 +1365,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_BitterCake.fork_BitterCake",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_appliance": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_fudianling_256.fork_fudianling_256",
@@ -1232,6 +1393,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_fudianling_100.fork_fudianling_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1257,17 +1422,20 @@
           "SourceString": "哪有电音？附电灵发出来的声音怎么不算「电音」呢？",
           "LocalizedString": "哪有电音？附电灵发出来的声音怎么不算「电音」呢？"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1291,21 +1459,31 @@
             "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
             "SubPathString": ""
           },
-          "EXP": 500,
-          "CostGold": "gold:150",
+          "EXP": 5000,
+          "CostGold": "gold:1500",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_fudianling.fork_fudianling",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_TigerTally": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_TigerTally_256.fork_TigerTally_256",
@@ -1313,6 +1491,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_TigerTally_100.fork_TigerTally_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1338,17 +1520,20 @@
           "SourceString": " 握住我，抱着超越死亡的勇气与决心——向您致敬，伟大的猛虎将士。",
           "LocalizedString": " 握住我，抱着超越死亡的勇气与决心——向您致敬，伟大的猛虎将士。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1376,17 +1561,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_TigerTally.fork_TigerTally",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_BitGame": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_BitGame_256.fork_BitGame_256",
@@ -1394,6 +1589,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_BitGame_100.fork_BitGame_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1419,17 +1618,20 @@
           "SourceString": "嘘……要来了，要来了！要！来！！了！！！",
           "LocalizedString": "嘘……要来了，要来了！要！来！！了！！！"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1439,10 +1641,10 @@
           "ForkGlobalBuffTag": {
             "TagName": "None"
           },
-          "UpgradePackId": "upgrade_pack_Fork_rank5_1",
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
           "BreakthroughPackId": "Breakthrough_pack_fork_BitGame",
           "UpgradeStarPackID": "upgradestar_pack_fork_BitGame",
-          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
           "MaxBreakthrough": 6,
           "MaxUpgradeStar": 5,
           "ForkCard": {
@@ -1457,17 +1659,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_BitGame.fork_BitGame",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_BlackBook": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_BlackBook_256.fork_BlackBook_256",
@@ -1475,6 +1687,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_BlackBook_100.fork_BlackBook_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1500,17 +1716,20 @@
           "SourceString": "「秘密」——当它被记录下来的那一刻起，就已经被所有人看见了。",
           "LocalizedString": "「秘密」——当它被记录下来的那一刻起，就已经被所有人看见了。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1538,17 +1757,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_BlackBook.fork_BlackBook",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_mamen": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_mamen_256.fork_mamen_256",
@@ -1556,6 +1785,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_mamen_100.fork_mamen_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1581,17 +1814,20 @@
           "SourceString": "生命的意义……存在的理由……宇宙的答案是——4……毛线团！",
           "LocalizedString": "生命的意义……存在的理由……宇宙的答案是——4……毛线团！"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1601,7 +1837,7 @@
           "ForkGlobalBuffTag": {
             "TagName": "None"
           },
-          "UpgradePackId": "upgrade_pack_Fork_rank5_1",
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
           "BreakthroughPackId": "Breakthrough_pack_fork_mamen",
           "UpgradeStarPackID": "upgradestar_pack_fork_mamen",
           "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
@@ -1619,17 +1855,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_mamen.fork_mamen",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_Nakupeda": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Nakupeda_256.fork_Nakupeda_256",
@@ -1637,6 +1883,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Nakupeda_100.fork_Nakupeda_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1662,17 +1912,20 @@
           "SourceString": "嗯，嗯嗯嗯，嗯嗯嗯嗯嗯嗯嗯嗯！（方斯给我，你开心，我也开心！）",
           "LocalizedString": "嗯，嗯嗯嗯，嗯嗯嗯嗯嗯嗯嗯嗯！（方斯给我，你开心，我也开心！）"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1682,10 +1935,10 @@
           "ForkGlobalBuffTag": {
             "TagName": "None"
           },
-          "UpgradePackId": "upgrade_pack_Fork_rank5_1",
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
           "BreakthroughPackId": "Breakthrough_pack_fork_Nakupeda",
           "UpgradeStarPackID": "upgradestar_pack_fork_Nakupeda",
-          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
           "MaxBreakthrough": 6,
           "MaxUpgradeStar": 5,
           "ForkCard": {
@@ -1700,17 +1953,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Nakupeda.fork_Nakupeda",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_wushoutieyu": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_wushoutieyu_256.fork_wushoutieyu_256",
@@ -1718,6 +1981,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_wushoutieyu_100.fork_wushoutieyu_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1743,17 +2010,20 @@
           "SourceString": "流淌于吾之体内的是对速度的渴望、轰鸣于吾之胸腔的是引擎的咆哮！来吧，来吧！踏上这以速度之魂相赌的赛道！",
           "LocalizedString": "流淌于吾之体内的是对速度的渴望、轰鸣于吾之胸腔的是引擎的咆哮！来吧，来吧！踏上这以速度之魂相赌的赛道！"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1766,7 +2036,7 @@
           "UpgradePackId": "upgrade_pack_Fork_rank5_5",
           "BreakthroughPackId": "Breakthrough_pack_Fork_wushoutieyu",
           "UpgradeStarPackID": "upgradestar_pack_Fork_wushoutieyu",
-          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
           "MaxBreakthrough": 6,
           "MaxUpgradeStar": 5,
           "ForkCard": {
@@ -1781,17 +2051,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Wushoutieyu.fork_Wushoutieyu",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_Arachne": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Arachne_256.fork_Arachne_256",
@@ -1799,6 +2079,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Arachne_100.fork_Arachne_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1824,17 +2108,20 @@
           "SourceString": "与我一同跳起3/4拍的舞步，感受仿佛世界末日般的晕眩感，直至永远！",
           "LocalizedString": "与我一同跳起3/4拍的舞步，感受仿佛世界末日般的晕眩感，直至永远！"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1844,7 +2131,7 @@
           "ForkGlobalBuffTag": {
             "TagName": "None"
           },
-          "UpgradePackId": "upgrade_pack_Fork_rank5_3",
+          "UpgradePackId": "upgrade_pack_Fork_rank52_3",
           "BreakthroughPackId": "Breakthrough_pack_fork_Arachne",
           "UpgradeStarPackID": "upgradestar_pack_fork_Arachne",
           "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FIVE",
@@ -1862,17 +2149,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Arachne.fork_Arachne",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_PoliceRat": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_PoliceRat_256.fork_PoliceRat_256",
@@ -1880,6 +2177,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_PoliceRat_100.fork_PoliceRat_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1905,17 +2206,20 @@
           "SourceString": "再一次的，一天平安度过了。感谢巡哨鼠鼠的努力！",
           "LocalizedString": "再一次的，一天平安度过了。感谢巡哨鼠鼠的努力！"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1925,7 +2229,7 @@
           "ForkGlobalBuffTag": {
             "TagName": "None"
           },
-          "UpgradePackId": "upgrade_pack_Fork_rank5_1",
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
           "BreakthroughPackId": "Breakthrough_pack_fork_PoliceRat",
           "UpgradeStarPackID": "upgradestar_pack_fork_PoliceRat",
           "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
@@ -1943,17 +2247,27 @@
           "CostGold": "gold:15000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_PoliceRat.fork_PoliceRat",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_tuansanlang": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_tuansanlang_256.fork_tuansanlang_256",
@@ -1961,6 +2275,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_tuansanlang_100.fork_tuansanlang_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1986,17 +2304,20 @@
           "SourceString": "见到你的第一眼，无法抗拒被夺走视线。柔软的毛发，脸上的狡黠，入迷许久，等到你离开后才发现——我烤串呢？",
           "LocalizedString": "见到你的第一眼，无法抗拒被夺走视线。柔软的毛发，脸上的狡黠，入迷许久，等到你离开后才发现——我烤串呢？"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2024,17 +2345,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_tuansanlang.fork_tuansanlang",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_Kite": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Kite_256.fork_Kite_256",
@@ -2042,6 +2373,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Kite_100.fork_Kite_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2067,17 +2402,20 @@
           "SourceString": "嘻嘻嘻……别怕，不过是一只爱笑的风筝而已……",
           "LocalizedString": "嘻嘻嘻……别怕，不过是一只爱笑的风筝而已……"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2105,17 +2443,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Kite.fork_Kite",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_PaperPlane": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_PaperPlane_256.fork_PaperPlane_256",
@@ -2123,6 +2471,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_PaperPlane_100.fork_PaperPlane_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2148,17 +2500,20 @@
           "SourceString": "战斗队形已确认，准备夺取制空权。",
           "LocalizedString": "战斗队形已确认，准备夺取制空权。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2186,17 +2541,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_PaperPlane.fork_PaperPlane",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_spider": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_spider_256.fork_spider_256",
@@ -2204,6 +2569,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_spider_100.fork_spider_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2229,17 +2598,20 @@
           "SourceString": "当你在老师的眼睛里看到红光，那一般代表你要挂科了。",
           "LocalizedString": "当你在老师的眼睛里看到红光，那一般代表你要挂科了。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2267,17 +2639,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_spider.fork_spider",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_yaodao": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_yaodao_256.fork_yaodao_256",
@@ -2285,6 +2667,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_yaodao_100.fork_yaodao_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2310,17 +2696,20 @@
           "SourceString": "孤月，墨云。刃出，魂归。色褪，刃泣。",
           "LocalizedString": "孤月，墨云。刃出，魂归。色褪，刃泣。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2348,17 +2737,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_yaodao.fork_yaodao",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_koinobori": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_koinobori_256.fork_koinobori_256",
@@ -2366,6 +2765,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_koinobori_100.fork_koinobori_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2391,17 +2794,20 @@
           "SourceString": "自天而下，重归于天。相信着那命中注定的一日，我们跃入这看不见终点的洄游。",
           "LocalizedString": "自天而下，重归于天。相信着那命中注定的一日，我们跃入这看不见终点的洄游。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2429,17 +2835,27 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_koinobori.fork_koinobori",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "fork_snowman": {
         "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_snowman_256.fork_snowman_256",
@@ -2447,6 +2863,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_snowman_100.fork_snowman_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2472,17 +2892,20 @@
           "SourceString": "假如我是一只蝉，我也会用嘶哑的喉咙歌唱。",
           "LocalizedString": "假如我是一只蝉，我也会用嘶哑的喉咙歌唱。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 4,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2510,14 +2933,1199 @@
           "CostGold": "gold:3000",
           "Story": {
             "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_snowman.fork_snowman",
+            "SubPathString": ""
           }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_BoxingCandy": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_BoxingCandy_256.fork_BoxingCandy_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_BoxingCandy_100.fork_BoxingCandy_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_BoxingCandy_name",
+          "SourceString": "不屈之绵",
+          "LocalizedString": "不屈之绵"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_BoxingCandy_context",
+          "SourceString": "猎人公会纪念版弧盘——毛啦毛啦！",
+          "LocalizedString": "猎人公会纪念版弧盘——毛啦毛啦！"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_BoxingCandy_des",
+          "SourceString": "猎人公会纪念版弧盘——毛啦毛啦！",
+          "LocalizedString": "猎人公会纪念版弧盘——毛啦毛啦！"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_BoxingCandy",
+          "UpgradeStarPackID": "upgradestar_pack_fork_BoxingCandy",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_BoxingCandy.image_fork_BoxingCandy",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 50000,
+          "CostGold": "gold:15000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Quanjitang.fork_Quanjitang",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_KnightCandy": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_KnightCandy_256.fork_KnightCandy_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_KnightCandy_100.fork_KnightCandy_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_KnightCandy_name",
+          "SourceString": "凶猛之绵",
+          "LocalizedString": "凶猛之绵"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_KnightCandy_context",
+          "SourceString": "猎人公会纪念版弧盘——将无用之物全部舍弃……",
+          "LocalizedString": "猎人公会纪念版弧盘——将无用之物全部舍弃……"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_KnightCandy_des",
+          "SourceString": "猎人公会纪念版弧盘——将无用之物全部舍弃……",
+          "LocalizedString": "猎人公会纪念版弧盘——将无用之物全部舍弃……"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_KnightCandy",
+          "UpgradeStarPackID": "upgradestar_pack_fork_KnightCandy",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FIVE",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_KnightCandy.image_fork_KnightCandy",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 50000,
+          "CostGold": "gold:15000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_KnightCandy.fork_KnightCandy",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_ThiefCandy": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_ThiefCandy_256.fork_ThiefCandy_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_ThiefCandy_100.fork_ThiefCandy_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_ThiefCandy_name",
+          "SourceString": "灵敏之绵",
+          "LocalizedString": "灵敏之绵"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_ThiefCandy_context",
+          "SourceString": "猎人公会纪念版弧盘——邂逅并不总是美好的……",
+          "LocalizedString": "猎人公会纪念版弧盘——邂逅并不总是美好的……"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_ThiefCandy_des",
+          "SourceString": "猎人公会纪念版弧盘——邂逅并不总是美好的……",
+          "LocalizedString": "猎人公会纪念版弧盘——邂逅并不总是美好的……"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_ThiefCandy",
+          "UpgradeStarPackID": "upgradestar_pack_fork_ThiefCandy",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_ThiefCandy.image_fork_ThiefCandy",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 50000,
+          "CostGold": "gold:15000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_ThiefCandy.fork_ThiefCandy",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_MotorCandy": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_MotorCandy_256.fork_MotorCandy_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_MotorCandy_100.fork_MotorCandy_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_MotorCandy_name",
+          "SourceString": "极速之绵",
+          "LocalizedString": "极速之绵"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_MotorCandy_context",
+          "SourceString": "猎人公会纪念版弧盘——焰魂狂「毛！」",
+          "LocalizedString": "猎人公会纪念版弧盘——焰魂狂「毛！」"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_MotorCandy_des",
+          "SourceString": "猎人公会纪念版弧盘——焰魂狂「毛！」",
+          "LocalizedString": "猎人公会纪念版弧盘——焰魂狂「毛！」"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_MotorCandy",
+          "UpgradeStarPackID": "upgradestar_pack_fork_MotorCandy",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_MotorCandy.image_fork_MotorCandy",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 50000,
+          "CostGold": "gold:15000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_MotorCandy.fork_MotorCandy",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_BlastCandy": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_BlastCandy_256.fork_BlastCandy_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_BlastCandy_100.fork_BlastCandy_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_BlastCandy_name",
+          "SourceString": "无畏之绵",
+          "LocalizedString": "无畏之绵"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_BlastCandy_context",
+          "SourceString": "猎人公会纪念版弧盘——真绵糖从不回头看爆炸。",
+          "LocalizedString": "猎人公会纪念版弧盘——真绵糖从不回头看爆炸。"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_BlastCandy_des",
+          "SourceString": "猎人公会纪念版弧盘——真绵糖从不回头看爆炸。",
+          "LocalizedString": "猎人公会纪念版弧盘——真绵糖从不回头看爆炸。"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_BlastCandy",
+          "UpgradeStarPackID": "upgradestar_pack_fork_BlastCandy",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_BlastCandy.image_fork_BlastCandy",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 50000,
+          "CostGold": "gold:15000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Baozhatang.fork_Baozhatang",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_Crowbar": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Qiaoqiao_256.fork_Qiaoqiao_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Qiaoqiao_100.fork_Qiaoqiao_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Crowbar_name",
+          "SourceString": "时间大盗",
+          "LocalizedString": "时间大盗"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Crowbar_context",
+          "SourceString": "时间就像海绵旁的水——一不留神就没了。",
+          "LocalizedString": "时间就像海绵旁的水——一不留神就没了。"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Crowbar_des",
+          "SourceString": "时间就像海绵旁的水——一不留神就没了。",
+          "LocalizedString": "时间就像海绵旁的水——一不留神就没了。"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank4_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_Crowbar",
+          "UpgradeStarPackID": "upgradestar_pack_fork_Crowbar",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_Crowbar.image_fork_Crowbar",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 10000,
+          "CostGold": "gold:3000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Qiaoqiao.fork_Qiaoqiao",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_Castle": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Castle_256.fork_Castle_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Castle_100.fork_Castle_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Castle_name",
+          "SourceString": "扭曲之城的呼唤",
+          "LocalizedString": "扭曲之城的呼唤"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Castle_context",
+          "SourceString": "当世界开始扭曲，发出无人能解的呐喊，又有谁能维持理智？",
+          "LocalizedString": "当世界开始扭曲，发出无人能解的呐喊，又有谁能维持理智？"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Castle_des",
+          "SourceString": "当世界开始扭曲，发出无人能解的呐喊，又有谁能维持理智？",
+          "LocalizedString": "当世界开始扭曲，发出无人能解的呐喊，又有谁能维持理智？"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank4_3",
+          "BreakthroughPackId": "Breakthrough_pack_fork_Castle",
+          "UpgradeStarPackID": "upgradestar_pack_fork_Castle",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_Castle.image_fork_Castle",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 10000,
+          "CostGold": "gold:3000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Castle.fork_Castle",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_Butterfly": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Butterfly_256.fork_Butterfly_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Butterfly_100.fork_Butterfly_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Butterfly_name",
+          "SourceString": "现实避难所",
+          "LocalizedString": "现实避难所"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Butterfly_context",
+          "SourceString": "她告诉我，其实我只是一只蝴蝶。",
+          "LocalizedString": "她告诉我，其实我只是一只蝴蝶。"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Butterfly_des",
+          "SourceString": "她告诉我，其实我只是一只蝴蝶。",
+          "LocalizedString": "她告诉我，其实我只是一只蝴蝶。"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank5_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_Butterfly",
+          "UpgradeStarPackID": "upgradestar_pack_fork_Butterfly",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_Butterfly.image_fork_Butterfly",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 50000,
+          "CostGold": "gold:15000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Butterfly.fork_Butterfly",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_NestBird": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_NestBird_256.fork_NestBird_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_NestBird_100.fork_NestBird_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_NestBird_name",
+          "SourceString": "面具下的泪",
+          "LocalizedString": "面具下的泪"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_NestBird_context",
+          "SourceString": "谁偷走了我的孩子？是你，是他，还是……",
+          "LocalizedString": "谁偷走了我的孩子？是你，是他，还是……"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_NestBird_des",
+          "SourceString": "谁偷走了我的孩子？是你，是他，还是……",
+          "LocalizedString": "谁偷走了我的孩子？是你，是他，还是……"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_NestBird",
+          "UpgradeStarPackID": "upgradestar_pack_fork_NestBird",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_NestBird.image_fork_NestBird",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 50000,
+          "CostGold": "gold:15000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_NestBird.fork_NestBird",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_Whale": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Whale_256.fork_Whale_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Whale_100.fork_Whale_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Whale_name",
+          "SourceString": "鲸之歌",
+          "LocalizedString": "鲸之歌"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Whale_context",
+          "SourceString": "翻涌的浪潮是它的诀别诗。",
+          "LocalizedString": "翻涌的浪潮是它的诀别诗。"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Whale_des",
+          "SourceString": "翻涌的浪潮是它的诀别诗。",
+          "LocalizedString": "翻涌的浪潮是它的诀别诗。"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank52_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_Whale",
+          "UpgradeStarPackID": "upgradestar_pack_fork_Whale",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_Whale.image_fork_Whale",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 50000,
+          "CostGold": "gold:15000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Whale.fork_Whale",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_Time": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Time_256.fork_Time_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Time_100.fork_Time_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Time_name",
+          "SourceString": "行进于时间之外",
+          "LocalizedString": "行进于时间之外"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Time_context",
+          "SourceString": "前进，是为了不落得锈蚀殆尽。",
+          "LocalizedString": "前进，是为了不落得锈蚀殆尽。"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Time_des",
+          "SourceString": "前进，是为了不落得锈蚀殆尽。",
+          "LocalizedString": "前进，是为了不落得锈蚀殆尽。"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank5_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_Time",
+          "UpgradeStarPackID": "upgradestar_pack_fork_Time",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_Time.image_fork_Time",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 50000,
+          "CostGold": "gold:15000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Time.fork_Time",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "fork_Rose": {
+        "ItemType": "EItemType::ITEM_TYPE_FORK",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Rose_256.fork_Rose_256",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/Fork/fork_Rose_100.fork_Rose_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Rose_name",
+          "SourceString": "「最后一朵玫瑰」",
+          "LocalizedString": "「最后一朵玫瑰」"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Rose_context",
+          "SourceString": "水面上，最后一朵玫瑰独自绽放，她在等待——等待亲爱的朋友或一片无边的梦到来。",
+          "LocalizedString": "水面上，最后一朵玫瑰独自绽放，她在等待——等待亲爱的朋友或一片无边的梦到来。"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Fork.ST_Fork",
+          "Key": "fork_Rose_des",
+          "SourceString": "水面上，最后一朵玫瑰独自绽放，她在等待——等待亲爱的朋友或一片无边的梦到来。",
+          "LocalizedString": "水面上，最后一朵玫瑰独自绽放，她在等待——等待亲爱的朋友或一片无边的梦到来。"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": false,
+        "bUseAddMessageTips": false,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 4,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "None",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "ForkGlobalBuffTag": {
+            "TagName": "None"
+          },
+          "UpgradePackId": "upgrade_pack_Fork_rank5_1",
+          "BreakthroughPackId": "Breakthrough_pack_fork_Rose",
+          "UpgradeStarPackID": "upgradestar_pack_fork_Rose",
+          "ApplyGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
+          "MaxBreakthrough": 6,
+          "MaxUpgradeStar": 5,
+          "ForkCard": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/image_fork_Rose.image_fork_Rose",
+            "SubPathString": ""
+          },
+          "ModelActorClass": {
+            "AssetPathName": "/Game/Blueprints/Actors/Fork/Fork001.Fork001_C",
+            "SubPathString": ""
+          },
+          "EXP": 50000,
+          "CostGold": "gold:15000",
+          "Story": {
+            "CultureInvariantString": null
+          },
+          "OriginalPainting": {
+            "AssetPathName": "/Game/UI/UI_Icon/Fork/1024/fork_Rose.fork_Rose",
+            "SubPathString": ""
+          }
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       }
     }
   }

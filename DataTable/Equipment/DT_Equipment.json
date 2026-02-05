@@ -13,6 +13,7 @@
     "Rows": {
       "cell2_style1_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip13.Equip13",
@@ -20,6 +21,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip13_100.Equip13_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -42,18 +47,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -87,19 +95,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip13.Development_Equip13",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell2_style2_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip14.Equip14",
@@ -107,6 +125,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip14_100.Equip14_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -129,18 +151,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -174,19 +199,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip14.Development_Equip14",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style1_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip01.Equip01",
@@ -194,6 +229,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip01_100.Equip01_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -216,18 +255,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -261,19 +303,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip01.Development_Equip01",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style2_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip02.Equip02",
@@ -281,6 +333,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip02_100.Equip02_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -303,18 +359,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -348,19 +407,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip02.Development_Equip02",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style3_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip03.Equip03",
@@ -368,6 +437,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip03_100.Equip03_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -390,18 +463,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -435,19 +511,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip03.Development_Equip03",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style4_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip04.Equip04",
@@ -455,6 +541,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip04_100.Equip04_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -477,18 +567,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -522,19 +615,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip04.Development_Equip04",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style5_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip05.Equip05",
@@ -542,6 +645,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip05_100.Equip05_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -564,18 +671,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -609,19 +719,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip05.Development_Equip05",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style6_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip06.Equip06",
@@ -629,6 +749,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip06_100.Equip06_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -651,18 +775,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -696,19 +823,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip06.Development_Equip06",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style1_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip11.Equip11",
@@ -716,6 +853,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip11_100.Equip11_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -738,18 +879,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -783,19 +927,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip11.Development_Equip11",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style2_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip12.Equip12",
@@ -803,6 +957,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip12_100.Equip12_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -825,18 +983,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -870,19 +1031,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip12.Development_Equip12",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style5_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip08.Equip08",
@@ -890,6 +1061,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip08_100.Equip08_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -912,18 +1087,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -957,19 +1135,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip08.Development_Equip08",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style6_1_Blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip09.Equip09",
@@ -977,6 +1165,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip09_100.Equip09_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -999,18 +1191,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1044,19 +1239,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1000,
-          "CostGold": "Gold:20",
-          "Weight": 1.0
+          "EXP": 2000,
+          "CostGold": "Gold:40",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip09.Development_Equip09",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell2_style1_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip27.Equip27",
@@ -1064,6 +1269,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip27_100.Equip27_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1086,18 +1295,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1131,19 +1343,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip27.Development_Equip27",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell2_style2_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip28.Equip28",
@@ -1151,6 +1373,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip28_100.Equip28_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1173,18 +1399,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1218,19 +1447,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip28.Development_Equip28",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style1_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip15.Equip15",
@@ -1238,6 +1477,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip15_100.Equip15_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1260,18 +1503,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1305,19 +1551,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip15.Development_Equip15",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style2_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip16.Equip16",
@@ -1325,6 +1581,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip16_100.Equip16_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1347,18 +1607,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1392,19 +1655,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip16.Development_Equip16",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style3_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip17.Equip17",
@@ -1412,6 +1685,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip17_100.Equip17_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1434,18 +1711,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1479,19 +1759,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip17.Development_Equip17",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style4_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip18.Equip18",
@@ -1499,6 +1789,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip18_100.Equip18_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1521,18 +1815,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1566,19 +1863,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip18.Development_Equip18",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style5_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip19.Equip19",
@@ -1586,6 +1893,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip19_100.Equip19_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1608,18 +1919,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1653,19 +1967,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip19.Development_Equip19",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style6_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip20.Equip20",
@@ -1673,6 +1997,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip20_100.Equip20_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1695,18 +2023,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1740,19 +2071,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip20.Development_Equip20",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style1_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip25.Equip25",
@@ -1760,6 +2101,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip25_100.Equip25_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1782,18 +2127,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1827,19 +2175,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip25.Development_Equip25",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style2_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip26.Equip26",
@@ -1847,6 +2205,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip26_100.Equip26_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1869,18 +2231,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -1914,19 +2279,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip26.Development_Equip26",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style5_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip22.Equip22",
@@ -1934,6 +2309,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip22_100.Equip22_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1956,18 +2335,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2001,19 +2383,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip22.Development_Equip22",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style6_1_Purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip23.Equip23",
@@ -2021,6 +2413,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip23_100.Equip23_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2043,18 +2439,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2088,19 +2487,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 3000,
-          "CostGold": "Gold:60",
-          "Weight": 1.0
+          "EXP": 6000,
+          "CostGold": "Gold:120",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip23.Development_Equip23",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell2_style1_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip41.Equip41",
@@ -2108,6 +2517,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip41_100.Equip41_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2130,18 +2543,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2175,19 +2591,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip41.Development_Equip41",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell2_style2_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip42.Equip42",
@@ -2195,6 +2621,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip42_100.Equip42_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2217,18 +2647,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2262,19 +2695,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip42.Development_Equip42",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style1_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip29.Equip29",
@@ -2282,6 +2725,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip29_100.Equip29_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2304,18 +2751,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2349,19 +2799,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip29.Development_Equip29",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style2_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip30.Equip30",
@@ -2369,6 +2829,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip30_100.Equip30_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2391,18 +2855,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2436,19 +2903,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip30.Development_Equip30",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style3_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip31.Equip31",
@@ -2456,6 +2933,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip31_100.Equip31_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2478,18 +2959,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2523,19 +3007,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip31.Development_Equip31",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style4_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip32.Equip32",
@@ -2543,6 +3037,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip32_100.Equip32_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2565,18 +3063,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2610,19 +3111,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip32.Development_Equip32",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style5_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip33.Equip33",
@@ -2630,6 +3141,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip33_100.Equip33_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2652,18 +3167,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2697,19 +3215,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip33.Development_Equip33",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell3_style6_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip34.Equip34",
@@ -2717,6 +3245,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip34_100.Equip34_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2739,18 +3271,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2784,19 +3319,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip34.Development_Equip34",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style1_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip39.Equip39",
@@ -2804,6 +3349,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip39_100.Equip39_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2826,18 +3375,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2871,19 +3423,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip39.Development_Equip39",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style2_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip40.Equip40",
@@ -2891,6 +3453,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip40_100.Equip40_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2913,18 +3479,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -2958,19 +3527,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip40.Development_Equip40",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style5_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip36.Equip36",
@@ -2978,6 +3557,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip36_100.Equip36_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3000,18 +3583,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3045,19 +3631,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip36.Development_Equip36",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "cell4_style6_1_Orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai/Equip37.Equip37",
@@ -3065,6 +3661,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI/Equip/fangkuai100/Equip37_100.Equip37_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3087,18 +3687,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Cell",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3132,19 +3735,29 @@
             "LocalizedString": "空幕的驱动块，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 6000,
-          "CostGold": "Gold:120",
-          "Weight": 1.0
+          "EXP": 12000,
+          "CostGold": "Gold:240",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "/Game/UI/UI/Cultivation/Development_Equip37.Development_Equip37",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Cosmos_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__23.UI_YH_kongmuicon__23",
@@ -3152,6 +3765,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__23.UI_YH_kongmuicon__23",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3174,18 +3791,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3207,7 +3827,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang1",
@@ -3219,19 +3839,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Cosmos_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__13.UI_YH_kongmuicon__13",
@@ -3239,6 +3869,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__13.UI_YH_kongmuicon__13",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3261,18 +3895,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3294,7 +3931,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang1",
@@ -3306,19 +3943,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Cosmos_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__03.UI_YH_kongmuicon__03",
@@ -3326,6 +3973,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__03.UI_YH_kongmuicon__03",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3348,18 +3999,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Cosmos_orange",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3381,7 +4035,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang1",
@@ -3393,19 +4047,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Nature_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__29.UI_YH_kongmuicon__29",
@@ -3413,6 +4077,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__29.UI_YH_kongmuicon__29",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3435,18 +4103,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3468,7 +4139,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang2",
@@ -3480,19 +4151,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Nature_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__19.UI_YH_kongmuicon__19",
@@ -3500,6 +4181,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__19.UI_YH_kongmuicon__19",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3522,18 +4207,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3555,7 +4243,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang2",
@@ -3567,19 +4255,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Nature_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__09.UI_YH_kongmuicon__09",
@@ -3587,6 +4285,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__09.UI_YH_kongmuicon__09",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3609,18 +4311,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Nature_orange",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3642,7 +4347,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang2",
@@ -3654,19 +4359,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Incantation_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__25.UI_YH_kongmuicon__25",
@@ -3674,6 +4389,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__25.UI_YH_kongmuicon__25",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3696,18 +4415,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3729,7 +4451,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang3",
@@ -3741,19 +4463,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Incantation_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__15.UI_YH_kongmuicon__15",
@@ -3761,6 +4493,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__15.UI_YH_kongmuicon__15",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3783,18 +4519,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3816,7 +4555,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang3",
@@ -3828,19 +4567,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Incantation_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__05.UI_YH_kongmuicon__05",
@@ -3848,6 +4597,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__05.UI_YH_kongmuicon__05",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3870,18 +4623,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Incantation_orange",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3903,7 +4659,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang3",
@@ -3915,19 +4671,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Chaos_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__27.UI_YH_kongmuicon__27",
@@ -3935,6 +4701,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__27.UI_YH_kongmuicon__27",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -3957,18 +4727,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -3990,7 +4763,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang4",
@@ -4002,19 +4775,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Chaos_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__17.UI_YH_kongmuicon__17",
@@ -4022,6 +4805,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__17.UI_YH_kongmuicon__17",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4044,18 +4831,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4077,7 +4867,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang4",
@@ -4089,19 +4879,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Chaos_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__07.UI_YH_kongmuicon__07",
@@ -4109,6 +4909,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__07.UI_YH_kongmuicon__07",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4131,18 +4935,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Chaos_orange",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4164,7 +4971,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang4",
@@ -4176,19 +4983,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Psyche_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__51.UI_YH_kongmuicon__51",
@@ -4196,6 +5013,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__51.UI_YH_kongmuicon__51",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4218,18 +5039,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4251,7 +5075,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang5",
@@ -4263,19 +5087,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Psyche_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__41.UI_YH_kongmuicon__41",
@@ -4283,6 +5117,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__41.UI_YH_kongmuicon__41",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4305,18 +5143,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4338,7 +5179,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang5",
@@ -4350,19 +5191,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Psyche_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__31.UI_YH_kongmuicon__31",
@@ -4370,6 +5221,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__31.UI_YH_kongmuicon__31",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4392,18 +5247,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Psyche_orange",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4425,7 +5283,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang5",
@@ -4437,19 +5295,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Lakshana_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__21.UI_YH_kongmuicon__21",
@@ -4457,6 +5325,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__21.UI_YH_kongmuicon__21",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4479,18 +5351,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4512,7 +5387,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang6",
@@ -4524,19 +5399,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Lakshana_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__11.UI_YH_kongmuicon__11",
@@ -4544,6 +5429,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__11.UI_YH_kongmuicon__11",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4566,18 +5455,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4599,7 +5491,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang6",
@@ -4611,19 +5503,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Lakshana_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__01.UI_YH_kongmuicon__01",
@@ -4631,6 +5533,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__01.UI_YH_kongmuicon__01",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4653,18 +5559,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Lakshana_orange",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4686,7 +5595,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang6",
@@ -4698,19 +5607,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Shield_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__53.UI_YH_kongmuicon__53",
@@ -4718,6 +5637,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__53.UI_YH_kongmuicon__53",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4740,18 +5663,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4773,7 +5699,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang7",
@@ -4785,19 +5711,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Shield_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__45.UI_YH_kongmuicon__45",
@@ -4805,6 +5741,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__45.UI_YH_kongmuicon__45",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4827,18 +5767,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4860,7 +5803,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang7",
@@ -4872,19 +5815,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Shield_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__33.UI_YH_kongmuicon__33",
@@ -4892,6 +5845,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__33.UI_YH_kongmuicon__33",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -4914,18 +5871,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -4947,7 +5907,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang7",
@@ -4959,19 +5919,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Attack_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__59.UI_YH_kongmuicon__59",
@@ -4979,6 +5949,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__59.UI_YH_kongmuicon__59",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5001,18 +5975,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5034,7 +6011,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang8",
@@ -5046,19 +6023,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Attack_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__43.UI_YH_kongmuicon__43",
@@ -5066,6 +6053,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__43.UI_YH_kongmuicon__43",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5088,18 +6079,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5121,7 +6115,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang8",
@@ -5133,19 +6127,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Attack_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__39.UI_YH_kongmuicon__39",
@@ -5153,6 +6157,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__39.UI_YH_kongmuicon__39",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5175,18 +6183,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5208,7 +6219,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang8",
@@ -5220,19 +6231,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Heal_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__83.UI_YH_kongmuicon__83",
@@ -5240,6 +6261,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__83.UI_YH_kongmuicon__83",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5262,18 +6287,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5295,7 +6323,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang9",
@@ -5307,19 +6335,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Heal_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__73.UI_YH_kongmuicon__73",
@@ -5327,6 +6365,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__73.UI_YH_kongmuicon__73",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5349,18 +6391,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5382,7 +6427,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang9",
@@ -5394,19 +6439,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Heal_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__63.UI_YH_kongmuicon__63",
@@ -5414,6 +6469,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__63.UI_YH_kongmuicon__63",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5436,18 +6495,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5469,7 +6531,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang9",
@@ -5481,19 +6543,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Mag_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__57.UI_YH_kongmuicon__57",
@@ -5501,6 +6573,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__57.UI_YH_kongmuicon__57",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5523,18 +6599,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5556,7 +6635,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang10",
@@ -5568,19 +6647,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Mag_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__49.UI_YH_kongmuicon__49",
@@ -5588,6 +6677,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__49.UI_YH_kongmuicon__49",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5610,18 +6703,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5643,7 +6739,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang10",
@@ -5655,19 +6751,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Mag_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__37.UI_YH_kongmuicon__37",
@@ -5675,6 +6781,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__37.UI_YH_kongmuicon__37",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5697,18 +6807,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5730,7 +6843,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang10",
@@ -5742,19 +6855,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "GetEfficiency_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__55.UI_YH_kongmuicon__55",
@@ -5762,6 +6885,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__55.UI_YH_kongmuicon__55",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5784,18 +6911,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5817,7 +6947,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang11",
@@ -5829,19 +6959,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "GetEfficiency_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__47.UI_YH_kongmuicon__47",
@@ -5849,6 +6989,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__47.UI_YH_kongmuicon__47",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5871,18 +7015,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5904,7 +7051,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang11",
@@ -5916,19 +7063,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "GetEfficiency_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__35.UI_YH_kongmuicon__35",
@@ -5936,6 +7093,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__35.UI_YH_kongmuicon__35",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -5958,18 +7119,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -5991,7 +7155,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang11",
@@ -6003,19 +7167,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Psychically_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__81.UI_YH_kongmuicon__81",
@@ -6023,6 +7197,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__81.UI_YH_kongmuicon__81",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -6045,18 +7223,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -6078,7 +7259,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang12",
@@ -6090,19 +7271,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Psychically_purple": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__71.UI_YH_kongmuicon__71",
@@ -6110,6 +7301,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__71.UI_YH_kongmuicon__71",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -6132,18 +7327,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -6165,7 +7363,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "purple_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang12",
@@ -6177,19 +7375,29 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 4500,
-          "CostGold": "Gold:90",
-          "Weight": 1.0
+          "EXP": 9000,
+          "CostGold": "Gold:180",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "Psychically_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__61.UI_YH_kongmuicon__61",
@@ -6197,6 +7405,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__61.UI_YH_kongmuicon__61",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
@@ -6219,18 +7431,21 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
@@ -6252,7 +7467,7 @@
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "orange_core",
           "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang12",
@@ -6264,33 +7479,47 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 9000,
-          "CostGold": "Gold:180",
-          "Weight": 1.0
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
-      "Rookie_Atk_blue": {
+      "Cosmos_guide_blue": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmu_rookie_01.UI_YH_kongmu_rookie_01",
+          "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__23.UI_YH_kongmuicon__23",
           "SubPathString": ""
         },
         "ItemIconSmall": {
-          "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmu_rookie_01.UI_YH_kongmu_rookie_01",
+          "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__23.UI_YH_kongmuicon__23",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
-          "Key": "suit_rookie_Atk",
-          "SourceString": "「时光之音」",
-          "LocalizedString": "「时光之音」"
+          "Key": "Suit_Cosmos",
+          "SourceString": "「失落光芒」",
+          "LocalizedString": "「失落光芒」"
         },
         "MaxAmount": 1,
         "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
@@ -6306,25 +7535,28 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
         "ExtensionData": null,
         "ElementData": {
           "EquipActorClass": {
-            "AssetPathName": "/Game/Blueprints/Actors/Equipment/EquipCore_Rookie_04.EquipCore_Rookie_04_C",
+            "AssetPathName": "/Game/Blueprints/Actors/Equipment/EquipCore11.EquipCore11_C",
             "SubPathString": ""
           },
           "ItemNickName": {
@@ -6334,16 +7566,16 @@
             "LocalizedString": "「卡带」"
           },
           "OwnGridNum": "None",
-          "RandomBaseAttributeId": "strength_randompool_Coremain",
+          "RandomBaseAttributeId": "strength_randompool_Coremain_Atk",
           "RandomBaseCount": 1,
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
           "StrengthPackId": "blue_core",
-          "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang13",
-          "SuitPackID": "Suit13",
+          "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang1",
+          "SuitPackID": "Suit6",
           "HasNotDescription": {
             "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
             "Key": "core_use",
@@ -6351,36 +7583,50 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          "EXP": 3000,
+          "CostGold": "Gold:60",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
-      "Rookie_Def_blue": {
+      "Cosmos_guide_orange": {
         "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmu_rookie_02.UI_YH_kongmu_rookie_02",
+          "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmuicon__03.UI_YH_kongmuicon__03",
           "SubPathString": ""
         },
         "ItemIconSmall": {
-          "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmu_rookie_02.UI_YH_kongmu_rookie_02",
+          "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmuicon__03.UI_YH_kongmuicon__03",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "ItemName": {
           "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
-          "Key": "suit_rookie_Def",
-          "SourceString": "「蓝鳞」",
-          "LocalizedString": "「蓝鳞」"
+          "Key": "Suit_Cosmos",
+          "SourceString": "「失落光芒」",
+          "LocalizedString": "「失落光芒」"
         },
         "MaxAmount": 1,
-        "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
         "ItemCD": 0.0,
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
@@ -6393,25 +7639,28 @@
         "Description": {
           "CultureInvariantString": null
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": false,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": true,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
+        "OutputSourceID": "Equipment_Core",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
         },
         "ExtensionData": null,
         "ElementData": {
           "EquipActorClass": {
-            "AssetPathName": "/Game/Blueprints/Actors/Equipment/EquipCore_Rookie_03.EquipCore_Rookie_03_C",
+            "AssetPathName": "/Game/Blueprints/Actors/Equipment/EquipCore35.EquipCore35_C",
             "SubPathString": ""
           },
           "ItemNickName": {
@@ -6421,16 +7670,16 @@
             "LocalizedString": "「卡带」"
           },
           "OwnGridNum": "None",
-          "RandomBaseAttributeId": "strength_randompool_Coremain",
+          "RandomBaseAttributeId": "strength_randompool_Coremain_Atk",
           "RandomBaseCount": 1,
           "RandomAttributeId": "strength_randompool_Coresub",
           "RandomAttributeCount": 4,
           "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
+          "EquipmentGeometryType": "EEquipmentGeometryType::EquipmentGeometry_Core",
           "IsCore": true,
-          "StrengthPackId": "blue_core",
-          "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang14",
-          "SuitPackID": "Suit14",
+          "StrengthPackId": "orange_core",
+          "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang1",
+          "SuitPackID": "Suit6",
           "HasNotDescription": {
             "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
             "Key": "core_use",
@@ -6438,190 +7687,25 @@
             "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
           },
           "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
-        },
-        "SubstituteData": null,
-        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
-        "bIsShowAmount": true,
-        "PlayerViewTagArray": [],
-        "bIsLimitAmount": false,
-        "bIsManual": false
-      },
-      "Rookie_Hp_blue": {
-        "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
-        "ItemTags": [],
-        "ItemIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmu_rookie_03.UI_YH_kongmu_rookie_03",
-          "SubPathString": ""
-        },
-        "ItemIconSmall": {
-          "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmu_rookie_03.UI_YH_kongmu_rookie_03",
-          "SubPathString": ""
-        },
-        "ItemName": {
-          "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
-          "Key": "suit_rookie_Hp",
-          "SourceString": "「极限狂热」",
-          "LocalizedString": "「极限狂热」"
-        },
-        "MaxAmount": 1,
-        "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
-        "ItemCD": 0.0,
-        "TimeLimit": null,
-        "ItemEffectType": "EItemEffectType::NoEffect",
-        "UseContext": {
-          "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
-          "Key": "core_use",
-          "SourceString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。",
-          "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
-        },
-        "Description": {
-          "CultureInvariantString": null
-        },
-        "ToolDatas": [],
-        "ItemUseCount": 1,
-        "bAutoUseWhenAdd": false,
-        "bDisplayedWhenObtain": false,
-        "bUndisplayFirstAddMessageTips": false,
-        "bUndisplayCommonAddMessageTips": false,
-        "bUseAddMessageTips": true,
-        "BagFunctions": 0,
-        "CanDestory": true,
-        "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
-        "ExpandableAttributes": {
-          "ExpandedAttributes": []
-        },
-        "ExtensionData": null,
-        "ElementData": {
-          "EquipActorClass": {
-            "AssetPathName": "/Game/Blueprints/Actors/Equipment/EquipCore_Rookie_02.EquipCore_Rookie_02_C",
+          "EXP": 18000,
+          "CostGold": "Gold:360",
+          "Weight": 1.0,
+          "PlanIcon": {
+            "AssetPathName": "",
             "SubPathString": ""
-          },
-          "ItemNickName": {
-            "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
-            "Key": "category_core",
-            "SourceString": "「卡带」",
-            "LocalizedString": "「卡带」"
-          },
-          "OwnGridNum": "None",
-          "RandomBaseAttributeId": "strength_randompool_Coremain",
-          "RandomBaseCount": 1,
-          "RandomAttributeId": "strength_randompool_Coresub",
-          "RandomAttributeCount": 4,
-          "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
-          "IsCore": true,
-          "StrengthPackId": "blue_core",
-          "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang15",
-          "SuitPackID": "Suit15",
-          "HasNotDescription": {
-            "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
-            "Key": "core_use",
-            "SourceString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。",
-            "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
-          },
-          "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
+          }
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [],
         "bIsLimitAmount": false,
-        "bIsManual": false
-      },
-      "Rookie_Dmg_blue": {
-        "ItemType": "EItemType::ITEM_TYPE_EQUIPMENT_CORE",
-        "ItemTags": [],
-        "ItemIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/kongmu/256/UI_YH_kongmu_rookie_04.UI_YH_kongmu_rookie_04",
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
           "SubPathString": ""
-        },
-        "ItemIconSmall": {
-          "AssetPathName": "/Game/UI/UI_Icon/kongmu/100/UI_YH_kongmu_rookie_04.UI_YH_kongmu_rookie_04",
-          "SubPathString": ""
-        },
-        "ItemName": {
-          "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
-          "Key": "suit_rookie_Dmg",
-          "SourceString": "「次元之刃」",
-          "LocalizedString": "「次元之刃」"
-        },
-        "MaxAmount": 1,
-        "ItemQuality": "EItemQuality::ITEM_QUALITY_BLUE",
-        "ItemCD": 0.0,
-        "TimeLimit": null,
-        "ItemEffectType": "EItemEffectType::NoEffect",
-        "UseContext": {
-          "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
-          "Key": "core_use",
-          "SourceString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。",
-          "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
-        },
-        "Description": {
-          "CultureInvariantString": null
-        },
-        "ToolDatas": [],
-        "ItemUseCount": 1,
-        "bAutoUseWhenAdd": false,
-        "bDisplayedWhenObtain": false,
-        "bUndisplayFirstAddMessageTips": false,
-        "bUndisplayCommonAddMessageTips": false,
-        "bUseAddMessageTips": true,
-        "BagFunctions": 0,
-        "CanDestory": true,
-        "MeltPackID": "None",
-        "ActiveBoxItemID": "None",
-        "OutputSourceID": "None",
-        "ExpandableAttributes": {
-          "ExpandedAttributes": []
-        },
-        "ExtensionData": null,
-        "ElementData": {
-          "EquipActorClass": {
-            "AssetPathName": "/Game/Blueprints/Actors/Equipment/EquipCore_Rookie_01.EquipCore_Rookie_01_C",
-            "SubPathString": ""
-          },
-          "ItemNickName": {
-            "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
-            "Key": "category_core",
-            "SourceString": "「卡带」",
-            "LocalizedString": "「卡带」"
-          },
-          "OwnGridNum": "None",
-          "RandomBaseAttributeId": "strength_randompool_Coremain",
-          "RandomBaseCount": 1,
-          "RandomAttributeId": "strength_randompool_Coresub",
-          "RandomAttributeCount": 4,
-          "RandomAttributeMaxCount": 4,
-          "EquipmentGeometryType": "EEquipmentGeometryType::100",
-          "IsCore": true,
-          "StrengthPackId": "blue_core",
-          "EquipmentSuitType": "EEquipmentSuitType::EquipmentSuitType_TaoZhuang16",
-          "SuitPackID": "Suit16",
-          "HasNotDescription": {
-            "TableId": "/Game/Text/ST_Equipment.ST_Equipment",
-            "Key": "core_use",
-            "SourceString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。",
-            "LocalizedString": "空幕的「卡带」，装配至角色空幕上，可以激活它的能力。"
-          },
-          "MaxStrengthenLevel": 20,
-          "EXP": 1500,
-          "CostGold": "Gold:30",
-          "Weight": 1.0
-        },
-        "SubstituteData": null,
-        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
-        "bIsShowAmount": true,
-        "PlayerViewTagArray": [],
-        "bIsLimitAmount": false,
-        "bIsManual": false
+        }
       }
     }
   }

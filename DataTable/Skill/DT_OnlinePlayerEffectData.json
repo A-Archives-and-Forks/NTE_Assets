@@ -1,0 +1,98 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_OnlinePlayerEffectData",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'OnlinePlayerStaticData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "Default": {
+        "OnlinePlayerDataArray": [
+          {
+            "OnlineDataArray": [
+              0.15,
+              0.075,
+              0.05,
+              0.0375
+            ]
+          },
+          {
+            "OnlineMonsterDataArray": [
+              0.1,
+              0.1,
+              0.1,
+              0.1
+            ],
+            "OnlineBossDataArray": [
+              0.05,
+              0.05,
+              0.05,
+              0.05
+            ]
+          },
+          {
+            "MMOSagiriSlotDisableOverride": [
+              false,
+              false,
+              false
+            ]
+          },
+          {
+            "OnlineReduceDataArray": [
+              -0.1,
+              -0.05,
+              -0.033,
+              -0.025
+            ]
+          }
+        ]
+      },
+      "robbank": {
+        "OnlinePlayerDataArray": [
+          {
+            "OnlineDataArray": [
+              0.15,
+              0.075,
+              0.05,
+              0.0375
+            ]
+          },
+          {
+            "OnlineMonsterDataArray": [
+              0.05,
+              0.05,
+              0.05,
+              0.05
+            ],
+            "OnlineBossDataArray": [
+              0.025,
+              0.025,
+              0.025,
+              0.025
+            ]
+          },
+          {
+            "MMOSagiriSlotDisableOverride": [
+              false,
+              true,
+              true
+            ]
+          },
+          {
+            "OnlineReduceDataArray": [
+              -0.1,
+              -0.05,
+              -0.033,
+              -0.025
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

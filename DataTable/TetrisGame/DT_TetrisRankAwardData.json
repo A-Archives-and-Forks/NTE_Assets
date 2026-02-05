@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TetrisRankAwardData",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'TetrisRankAwardData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "第1名": {
+        "Rank": 1,
+        "RankScore": 6,
+        "RankUseCityStamina": 7
+      },
+      "第2名": {
+        "Rank": 2,
+        "RankScore": 3,
+        "RankUseCityStamina": 5
+      },
+      "第3名": {
+        "Rank": 3,
+        "RankScore": 0,
+        "RankUseCityStamina": 5
+      },
+      "第4名": {
+        "Rank": 4,
+        "RankScore": -2,
+        "RankUseCityStamina": 0
+      }
+    }
+  }
+]

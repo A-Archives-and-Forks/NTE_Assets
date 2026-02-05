@@ -18,6 +18,24 @@
             "CVName": {
               "CultureInvariantString": "杜晴晴"
             }
+          },
+          {
+            "AudioType": "EAudioCultureType::Audio_English",
+            "CVName": {
+              "CultureInvariantString": "Lindsay Sheppard"
+            }
+          },
+          {
+            "AudioType": "EAudioCultureType::Audio_Japanese",
+            "CVName": {
+              "CultureInvariantString": "伊藤静"
+            }
+          },
+          {
+            "AudioType": "EAudioCultureType::Audio_Korean",
+            "CVName": {
+              "CultureInvariantString": "이지현"
+            }
           }
         ],
         "Birthday": {
@@ -911,6 +929,66 @@
             "ID": "Battle07",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "aoe004",
+              "SourceString": "极轨终结·Ⅳ",
+              "LocalizedString": "极轨终结·Ⅳ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_aoe_004",
+              "SourceString": "行至今时今刻。",
+              "LocalizedString": "行至今时今刻。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_aoe_UI_004.Play_Vo_Char_NPC009_aoe_UI_004",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle08",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "aoe005",
+              "SourceString": "极轨终结·V",
+              "LocalizedString": "极轨终结·V"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_aoe_005",
+              "SourceString": "月落了。",
+              "LocalizedString": "月落了。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_aoe_UI_005.Play_Vo_Char_NPC009_aoe_UI_005",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle09",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "aoe006",
+              "SourceString": "极轨终结·VI",
+              "LocalizedString": "极轨终结·VI"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_aoe_006",
+              "SourceString": "呵~",
+              "LocalizedString": "呵~"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_aoe_UI_006.Play_Vo_Char_NPC009_aoe_UI_006",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle10",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "anomaly_001",
               "SourceString": "收容异象·Ⅰ",
               "LocalizedString": "收容异象·Ⅰ"
@@ -928,7 +1006,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle08",
+            "ID": "Battle11",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "anomaly_002",
@@ -948,7 +1026,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle09",
+            "ID": "Battle12",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "anomaly_003",
@@ -968,7 +1046,27 @@
             "Conditions": []
           },
           {
-            "ID": "Battle11",
+            "ID": "Battle13",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "anomaly_004",
+              "SourceString": "泯除异象·Ⅱ",
+              "LocalizedString": "泯除异象·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_anomaly_004",
+              "SourceString": "总算是又解决掉一桩。",
+              "LocalizedString": "总算是又解决掉一桩。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_anomaly_004.Play_Vo_Char_NPC009_anomaly_004",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle14",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_001",
@@ -988,7 +1086,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle12",
+            "ID": "Battle15",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_002",
@@ -1008,7 +1106,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle13",
+            "ID": "Battle16",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "windfall_003",
@@ -1028,7 +1126,67 @@
             "Conditions": []
           },
           {
-            "ID": "Battle14",
+            "ID": "Battle17",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "windfall_004",
+              "SourceString": "意外收获·Ⅳ",
+              "LocalizedString": "意外收获·Ⅳ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_windfall_004",
+              "SourceString": "真有天上掉馅饼的好事？",
+              "LocalizedString": "真有天上掉馅饼的好事？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_windfall_004.Play_Vo_Char_NPC009_windfall_004",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle18",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "windfall_005",
+              "SourceString": "意外收获·Ⅴ",
+              "LocalizedString": "意外收获·Ⅴ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_windfall_005",
+              "SourceString": "管他值不值钱的，先拿上再说！",
+              "LocalizedString": "管他值不值钱的，先拿上再说！"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_windfall_005.Play_Vo_Char_NPC009_windfall_005",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle19",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "windfall_006",
+              "SourceString": "意外收获·Ⅵ",
+              "LocalizedString": "意外收获·Ⅵ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_windfall_006",
+              "SourceString": "今天运气还不错嘛~",
+              "LocalizedString": "今天运气还不错嘛~"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_windfall_006.Play_Vo_Char_NPC009_windfall_006",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle20",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hp_001",
@@ -1048,7 +1206,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle15",
+            "ID": "Battle21",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hp_002",
@@ -1068,7 +1226,27 @@
             "Conditions": []
           },
           {
-            "ID": "Battle16",
+            "ID": "Battle22",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "hp_003",
+              "SourceString": "生命值低·Ⅲ",
+              "LocalizedString": "生命值低·Ⅲ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_hp_003",
+              "SourceString": "喝点什么，暖暖身子吧……",
+              "LocalizedString": "喝点什么，暖暖身子吧……"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_hp_003.Play_Vo_Char_NPC009_hp_003",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle23",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "fh_001",
@@ -1088,7 +1266,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle17",
+            "ID": "Battle24",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "fh_002",
@@ -1108,7 +1286,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle18",
+            "ID": "Battle25",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_001",
@@ -1128,7 +1306,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle19",
+            "ID": "Battle26",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_002",
@@ -1148,7 +1326,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle20",
+            "ID": "Battle27",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "dead_003",
@@ -1168,7 +1346,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle21",
+            "ID": "Battle28",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "kill_001",
@@ -1188,7 +1366,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle22",
+            "ID": "Battle29",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "kill_002",
@@ -1208,7 +1386,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle23",
+            "ID": "Battle30",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "struck_001",
@@ -1228,7 +1406,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle24",
+            "ID": "Battle31",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "struck_002",
@@ -1248,7 +1426,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle25",
+            "ID": "Battle32",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hstruck_001",
@@ -1268,7 +1446,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle26",
+            "ID": "Battle33",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "hstruck_002",
@@ -1288,7 +1466,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle27",
+            "ID": "Battle34",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "deploy_001",
@@ -1308,7 +1486,7 @@
             "Conditions": []
           },
           {
-            "ID": "Battle28",
+            "ID": "Battle35",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "deploy_002",
@@ -1328,12 +1506,12 @@
             "Conditions": []
           },
           {
-            "ID": "Battle29",
+            "ID": "Battle36",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "QTE_001",
-              "SourceString": "协同技",
-              "LocalizedString": "协同技"
+              "SourceString": "协同技·Ⅰ",
+              "LocalizedString": "协同技·Ⅰ"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
@@ -1342,7 +1520,587 @@
               "LocalizedString": "放肆的家伙。"
             },
             "AudioEvent": {
-              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_QTE.Play_Vo_Char_NPC009_QTE",
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_QTE_001.Play_Vo_Char_NPC009_QTE_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle37",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "QTE_002",
+              "SourceString": "协同技·Ⅱ",
+              "LocalizedString": "协同技·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_QTE_002",
+              "SourceString": "真没礼貌啊~",
+              "LocalizedString": "真没礼貌啊~"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_QTE_002.Play_Vo_Char_NPC009_QTE_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle38",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "QTE_003",
+              "SourceString": "协同技·Ⅲ",
+              "LocalizedString": "协同技·Ⅲ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_QTE_003",
+              "SourceString": "送客。",
+              "LocalizedString": "送客。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_QTE_003.Play_Vo_Char_NPC009_QTE_003",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle39",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Fly_001",
+              "SourceString": "滑翔·Ⅰ",
+              "LocalizedString": "滑翔·Ⅰ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_Fly_001",
+              "SourceString": "走吧走吧~",
+              "LocalizedString": "走吧走吧~"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_Fly_001.Play_Vo_Char_NPC009_Fly_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle40",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Fly_002",
+              "SourceString": "滑翔·Ⅱ",
+              "LocalizedString": "滑翔·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_Fly_002",
+              "SourceString": "呼~",
+              "LocalizedString": "呼~"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_Fly_002.Play_Vo_Char_NPC009_Fly_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle41",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Switch_001",
+              "SourceString": "切换·Ⅰ",
+              "LocalizedString": "切换·Ⅰ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_Switch_001",
+              "SourceString": "来了来了~",
+              "LocalizedString": "来了来了~"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_Switch_001.Play_Vo_Char_NPC009_Switch_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle42",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Switch_002",
+              "SourceString": "切换·Ⅱ",
+              "LocalizedString": "切换·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_Switch_002",
+              "SourceString": "找我有事？",
+              "LocalizedString": "找我有事？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_Switch_002.Play_Vo_Char_NPC009_Switch_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle43",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Switch_003",
+              "SourceString": "切换·Ⅲ",
+              "LocalizedString": "切换·Ⅲ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_Switch_003",
+              "SourceString": "别急，时间还够呢。",
+              "LocalizedString": "别急，时间还够呢。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_Switch_003.Play_Vo_Char_NPC009_Switch_003",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle44",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_ADL_001",
+              "SourceString": "特殊切换Ⅰ·阿德勒",
+              "LocalizedString": "特殊切换Ⅰ·阿德勒"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_001",
+              "SourceString": "你受累了。",
+              "LocalizedString": "你受累了。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_001.Play_Vo_Char_NPC009_SSC_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle45",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_ADL_002",
+              "SourceString": "特殊切换Ⅱ·阿德勒",
+              "LocalizedString": "特殊切换Ⅱ·阿德勒"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_002",
+              "SourceString": "帮我照顾好小鬼们。",
+              "LocalizedString": "帮我照顾好小鬼们。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_002.Play_Vo_Char_NPC009_SSC_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle46",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_ZW_001",
+              "SourceString": "特殊切换Ⅰ·早雾",
+              "LocalizedString": "特殊切换Ⅰ·早雾"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_003",
+              "SourceString": "给我把鬼郎丸看好了！",
+              "LocalizedString": "给我把鬼郎丸看好了！"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_003.Play_Vo_Char_NPC009_SSC_003",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle47",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_ZW_002",
+              "SourceString": "特殊切换Ⅱ·早雾",
+              "LocalizedString": "特殊切换Ⅱ·早雾"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_004",
+              "SourceString": "吵死了，臭小鬼。",
+              "LocalizedString": "吵死了，臭小鬼。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_004.Play_Vo_Char_NPC009_SSC_004",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle48",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_NNL_001",
+              "SourceString": "特殊切换Ⅰ·娜娜莉",
+              "LocalizedString": "特殊切换Ⅰ·娜娜莉"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_005",
+              "SourceString": "真不叫人省心哪~",
+              "LocalizedString": "真不叫人省心哪~"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_005.Play_Vo_Char_NPC009_SSC_005",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle49",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_NNL_002",
+              "SourceString": "特殊切换Ⅱ·娜娜莉",
+              "LocalizedString": "特殊切换Ⅱ·娜娜莉"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_006",
+              "SourceString": "又闯什么祸了？",
+              "LocalizedString": "又闯什么祸了？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_006.Play_Vo_Char_NPC009_SSC_006",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle50",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_DFDR_001",
+              "SourceString": "特殊切换Ⅰ·达芙蒂尔",
+              "LocalizedString": "特殊切换Ⅰ·达芙蒂尔"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_007",
+              "SourceString": "你殿后就好。",
+              "LocalizedString": "你殿后就好。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_007.Play_Vo_Char_NPC009_SSC_007",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle51",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_DFDR_002",
+              "SourceString": "特殊切换Ⅱ·达芙蒂尔",
+              "LocalizedString": "特殊切换Ⅱ·达芙蒂尔"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_008",
+              "SourceString": "我来搭把手吧。",
+              "LocalizedString": "我来搭把手吧。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_008.Play_Vo_Char_NPC009_SSC_008",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle52",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_ADJ_001",
+              "SourceString": "特殊切换Ⅰ·埃德嘉",
+              "LocalizedString": "特殊切换Ⅰ·埃德嘉"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_009",
+              "SourceString": "早点把这单结了吧。",
+              "LocalizedString": "早点把这单结了吧。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_009.Play_Vo_Char_NPC009_SSC_009",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle53",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_ADJ_002",
+              "SourceString": "特殊切换Ⅱ·埃德嘉",
+              "LocalizedString": "特殊切换Ⅱ·埃德嘉"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_010",
+              "SourceString": "不用勉强自己。",
+              "LocalizedString": "不用勉强自己。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_010.Play_Vo_Char_NPC009_SSC_010",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle54",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_L_001",
+              "SourceString": "特殊切换Ⅰ·零",
+              "LocalizedString": "特殊切换Ⅰ·零"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_011",
+              "SourceString": "别伤了我的招财宝！",
+              "LocalizedString": "别伤了我的招财宝！"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_011.Play_Vo_Char_NPC009_SSC_011",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle55",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_L_002",
+              "SourceString": "特殊切换Ⅱ·零",
+              "LocalizedString": "特殊切换Ⅱ·零"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_SSC_012",
+              "SourceString": "时机正好。",
+              "LocalizedString": "时机正好。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_SSC_012.Play_Vo_Char_NPC009_SSC_012",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle56",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_ADL",
+              "SourceString": "队友倒下·阿德勒",
+              "LocalizedString": "队友倒下·阿德勒"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_TeammateDown_001",
+              "SourceString": "没有什么是不变的……",
+              "LocalizedString": "没有什么是不变的……"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_TeammateDown_001.Play_Vo_Char_NPC009_TeammateDown_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle57",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_ZW",
+              "SourceString": "队友倒下·早雾",
+              "LocalizedString": "队友倒下·早雾"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_TeammateDown_002",
+              "SourceString": "知道逞强的后果了么？",
+              "LocalizedString": "知道逞强的后果了么？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_TeammateDown_002.Play_Vo_Char_NPC009_TeammateDown_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle58",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_NNL",
+              "SourceString": "队友倒下·娜娜莉",
+              "LocalizedString": "队友倒下·娜娜莉"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_TeammateDown_003",
+              "SourceString": "你还有很长的路要走呢。",
+              "LocalizedString": "你还有很长的路要走呢。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_TeammateDown_003.Play_Vo_Char_NPC009_TeammateDown_003",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle59",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_DFDE",
+              "SourceString": "队友倒下·达芙蒂尔",
+              "LocalizedString": "队友倒下·达芙蒂尔"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_TeammateDown_004",
+              "SourceString": "睡吧，我的小水仙……",
+              "LocalizedString": "睡吧，我的小水仙……"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_TeammateDown_004.Play_Vo_Char_NPC009_TeammateDown_004",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle60",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_ADJ",
+              "SourceString": "队友倒下·埃德嘉",
+              "LocalizedString": "队友倒下·埃德嘉"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_TeammateDown_005",
+              "SourceString": "好孩子，你尽力了。",
+              "LocalizedString": "好孩子，你尽力了。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_TeammateDown_005.Play_Vo_Char_NPC009_TeammateDown_005",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle61",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_L",
+              "SourceString": "队友倒下·零",
+              "LocalizedString": "队友倒下·零"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_TeammateDown_006",
+              "SourceString": "招财宝……这仇非得替你报了！",
+              "LocalizedString": "招财宝……这仇非得替你报了！"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_TeammateDown_006.Play_Vo_Char_NPC009_TeammateDown_006",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle62",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Parry_001",
+              "SourceString": "弹反·Ⅰ",
+              "LocalizedString": "弹反·Ⅰ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_Parry_001",
+              "SourceString": "还缺点力道啊~",
+              "LocalizedString": "还缺点力道啊~"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_Parry_001.Play_Vo_Char_NPC009_Parry_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle63",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Parry_002",
+              "SourceString": "弹反·Ⅱ",
+              "LocalizedString": "弹反·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_Parry_002",
+              "SourceString": "梧桐断角，柔能胜刚。",
+              "LocalizedString": "梧桐断角，柔能胜刚。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_Parry_002.Play_Vo_Char_NPC009_Parry_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle64",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "DodgeCombo_001",
+              "SourceString": "连续极限闪避成功·Ⅰ",
+              "LocalizedString": "连续极限闪避成功·Ⅰ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_DodgeCombo_001",
+              "SourceString": "那点小伎俩，我早就看穿了~",
+              "LocalizedString": "那点小伎俩，我早就看穿了~"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_DodgeCombo_001.Play_Vo_Char_NPC009_DodgeCombo_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle66",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "DodgeCombo_002",
+              "SourceString": "连续极限闪避成功·Ⅱ",
+              "LocalizedString": "连续极限闪避成功·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC009_DodgeCombo_002",
+              "SourceString": "唉，打不准就再回去练练。",
+              "LocalizedString": "唉，打不准就再回去练练。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC009/Play_Vo_Char_NPC009_DodgeCombo_002.Play_Vo_Char_NPC009_DodgeCombo_002",
               "SubPathString": ""
             },
             "Conditions": []

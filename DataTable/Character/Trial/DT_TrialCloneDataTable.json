@@ -13,7 +13,55 @@
     "Rows": {
       "TrialClone01": {
         "TrialID": "Trial01",
-        "MonsterID": "Trial_Monster01"
+        "MonsterID": "BeParryAttackMonster"
+      },
+      "TrialTeach01": {
+        "TrialID": "Trial01_Boss06",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "AdlerClone": {
+        "TrialID": "TeachChar_Adler",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "CangClone": {
+        "TrialID": "TeachChar_Cang",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "SkiaClone": {
+        "TrialID": "TeachChar_Skia",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "FadiaClone": {
+        "TrialID": "TeachChar_Fadia_single",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "GeneralClone": {
+        "TrialID": "TeachChar_ring_single",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "XunClone": {
+        "TrialID": "TeachChar_Jin_single",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "NanaliClone": {
+        "TrialID": "TeachChar_Nanali",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "SagiriClone": {
+        "TrialID": "TeachChar_Sagiri",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "MintClone": {
+        "TrialID": "TeachChar_Mint",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "EdgarClone": {
+        "TrialID": "TeachChar_edgar",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
+      },
+      "Chiichan073Clone": {
+        "TrialID": "TeachChar_Chiichan073",
+        "MonsterID": "TrailTeach01_MonsterWood_01"
       }
     }
   }

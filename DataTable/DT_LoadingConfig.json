@@ -486,6 +486,234 @@
             }
           }
         ]
+      },
+      "Robbank": {
+        "LoadingDatas": [
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/Robbank/UI_YH_Loading_Robbank_001.UI_YH_Loading_Robbank_001",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_26_1",
+              "SourceString": "「乔望尼·德沃夏克」",
+              "LocalizedString": "「乔望尼·德沃夏克」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_26_2",
+              "SourceString": "粉爪银行的董事长，德沃夏克家族的长子，海特洛市著名的爱情诗人。\r\n永远在追求真爱的路上，除此之外对其余「杂事」概不关心。尽管一生多情，但与子女们的关系似乎并不怎么融洽。",
+              "LocalizedString": "粉爪银行的董事长，德沃夏克家族的长子，海特洛市著名的爱情诗人。\r\n永远在追求真爱的路上，除此之外对其余「杂事」概不关心。尽管一生多情，但与子女们的关系似乎并不怎么融洽。"
+            }
+          },
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/Robbank/UI_YH_Loading_Robbank_004.UI_YH_Loading_Robbank_004",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_27_1",
+              "SourceString": "「粉爪银行」",
+              "LocalizedString": "「粉爪银行」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_27_2",
+              "SourceString": "德沃夏克集团旗下的商业银行。\r\n是海特洛市规模巨大的商业银行，经营时间长，实力雄厚，市内常见其支行与ATM机。主楼位于市中心区域，其粉爪Logo来源于和德沃夏克家族签订契约的异象拉冬。",
+              "LocalizedString": "德沃夏克集团旗下的商业银行。\r\n是海特洛市规模巨大的商业银行，经营时间长，实力雄厚，市内常见其支行与ATM机。主楼位于市中心区域，其粉爪Logo来源于和德沃夏克家族签订契约的异象拉冬。"
+            }
+          },
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/Robbank/UI_YH_Loading_Robbank_003.UI_YH_Loading_Robbank_003",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_28_1",
+              "SourceString": "「粉爪大劫案」",
+              "LocalizedString": "「粉爪大劫案」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_28_2",
+              "SourceString": "由德沃夏克家族投资推出的综艺节目。\r\n受到电影「金库大劫案」的启发，德沃夏克家族联合知名导演推出名为「粉爪大劫案」的综艺节目，旨在为市民们提供体验另一种生活的可能，不过优胜者在获得丰厚奖励的同时似乎也会被录入某个神秘名单……？",
+              "LocalizedString": "由德沃夏克家族投资推出的综艺节目。\r\n受到电影「金库大劫案」的启发，德沃夏克家族联合知名导演推出名为「粉爪大劫案」的综艺节目，旨在为市民们提供体验另一种生活的可能，不过优胜者在获得丰厚奖励的同时似乎也会被录入某个神秘名单……？"
+            }
+          },
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/Robbank/UI_YH_Loading_Robbank_002.UI_YH_Loading_Robbank_002",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_29_1",
+              "SourceString": "「拉冬」",
+              "LocalizedString": "「拉冬」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_29_2",
+              "SourceString": "与德沃夏克家族签订契约的岐骸，出现时间已不可考。\r\n据传德沃夏克庞大的财富便是来自于神秘的拉冬。请勿用除了「拉冬」以外的名字叫它，必要时请使用「拉冬大人」的称呼，至于「乌冬面」之类的昵称……不管你是在哪听到的，务必赶快忘记。",
+              "LocalizedString": "与德沃夏克家族签订契约的岐骸，出现时间已不可考。\r\n据传德沃夏克庞大的财富便是来自于神秘的拉冬。请勿用除了「拉冬」以外的名字叫它，必要时请使用「拉冬大人」的称呼，至于「乌冬面」之类的昵称……不管你是在哪听到的，务必赶快忘记。"
+            }
+          }
+        ]
+      },
+      "Hospital": {
+        "LoadingDatas": [
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/Hospital/UI_YH_Loading_Hospital_001.UI_YH_Loading_Hospital_001",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "Hospital_1_1",
+              "SourceString": "「无名医院」",
+              "LocalizedString": "「无名医院」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "Hospital_1_2",
+              "SourceString": "一所因未知事故废弃的无名医院；一个挥之不去却又面目模糊的噩梦。\r\n「它的名字，它的过去，它的真相……你终将知晓。」",
+              "LocalizedString": "一所因未知事故废弃的无名医院；一个挥之不去却又面目模糊的噩梦。\r\n「它的名字，它的过去，它的真相……你终将知晓。」"
+            }
+          }
+        ]
+      },
+      "Online": {
+        "LoadingDatas": [
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/UI_YH_Loading_Image_001.UI_YH_Loading_Image_001",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_1",
+              "SourceString": "正在进入「多人游戏」",
+              "LocalizedString": "正在进入「多人游戏」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_2",
+              "SourceString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。",
+              "LocalizedString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。"
+            }
+          },
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/UI_YH_Loading_Image_003.UI_YH_Loading_Image_003",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_1",
+              "SourceString": "正在进入「多人游戏」",
+              "LocalizedString": "正在进入「多人游戏」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_2",
+              "SourceString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。",
+              "LocalizedString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。"
+            }
+          },
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/UI_YH_Loading_Image_008.UI_YH_Loading_Image_008",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_1",
+              "SourceString": "正在进入「多人游戏」",
+              "LocalizedString": "正在进入「多人游戏」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_2",
+              "SourceString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。",
+              "LocalizedString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。"
+            }
+          },
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/UI_YH_Loading_Image_004.UI_YH_Loading_Image_004",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_1",
+              "SourceString": "正在进入「多人游戏」",
+              "LocalizedString": "正在进入「多人游戏」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_2",
+              "SourceString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。",
+              "LocalizedString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。"
+            }
+          },
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/UI_YH_Loading_Image_010.UI_YH_Loading_Image_010",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_1",
+              "SourceString": "正在进入「多人游戏」",
+              "LocalizedString": "正在进入「多人游戏」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_2",
+              "SourceString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。",
+              "LocalizedString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。"
+            }
+          },
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/UI_YH_Loading_Image_011.UI_YH_Loading_Image_011",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_1",
+              "SourceString": "正在进入「多人游戏」",
+              "LocalizedString": "正在进入「多人游戏」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_2",
+              "SourceString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。",
+              "LocalizedString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。"
+            }
+          },
+          {
+            "BackImage": {
+              "AssetPathName": "/Game/UI/UI/loading/res/UI_YH_Loading_Image_015.UI_YH_Loading_Image_015",
+              "SubPathString": ""
+            },
+            "Title": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_1",
+              "SourceString": "正在进入「多人游戏」",
+              "LocalizedString": "正在进入「多人游戏」"
+            },
+            "Desc": {
+              "TableId": "/Game/Text/ST_Loading.ST_Loading",
+              "Key": "loading_online_1_2",
+              "SourceString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。",
+              "LocalizedString": "支持至多4名玩家在同一世界探索游玩。\r\n在多人游戏中，可以与其他玩家一起战斗击败强大异象，在游戏厅进行同台竞技，海特洛街道上演狂飙竞速，参观其他玩家别具一格的房屋装修等全新体验。"
+            }
+          }
+        ]
       }
     }
   }

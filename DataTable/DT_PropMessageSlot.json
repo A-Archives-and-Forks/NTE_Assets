@@ -22,6 +22,18 @@
           "AssetPathName": "/Game/UI/Blueprints/Vision/BPUI_VisionAward.BPUI_VisionAward_C",
           "SubPathString": ""
         }
+      },
+      "CityEvent": {
+        "PropMessageSlot": {
+          "AssetPathName": "/Game/UI/Blueprints/MainForm/BPUI_CityEventComplete.BPUI_CityEventComplete_C",
+          "SubPathString": ""
+        }
+      },
+      "RobBank": {
+        "PropMessageSlot": {
+          "AssetPathName": "/Game/UI/Blueprints/Message/BPUI_Robbank_PropMessageSlot.BPUI_Robbank_PropMessageSlot_C",
+          "SubPathString": ""
+        }
       }
     }
   }

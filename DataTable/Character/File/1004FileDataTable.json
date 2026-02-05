@@ -18,6 +18,24 @@
             "CVName": {
               "CultureInvariantString": "宴宁"
             }
+          },
+          {
+            "AudioType": "EAudioCultureType::Audio_English",
+            "CVName": {
+              "CultureInvariantString": "Baraka May"
+            }
+          },
+          {
+            "AudioType": "EAudioCultureType::Audio_Japanese",
+            "CVName": {
+              "CultureInvariantString": "長縄まりあ"
+            }
+          },
+          {
+            "AudioType": "EAudioCultureType::Audio_Korean",
+            "CVName": {
+              "CultureInvariantString": "김보나"
+            }
           }
         ],
         "Birthday": {
@@ -778,6 +796,32 @@
                 "CharacterFileBreakLevel": 3
               }
             ]
+          },
+          {
+            "ID": "Daily31",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "ug_003",
+              "SourceString": "角色突破·Ⅲ",
+              "LocalizedString": "角色突破·Ⅲ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_ug_003",
+              "SourceString": "安魂曲，有进步了吗？",
+              "LocalizedString": "安魂曲，有进步了吗？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_ug_003.Play_Vo_Char_NPC004_ug_003",
+              "SubPathString": ""
+            },
+            "Conditions": [
+              {
+                "Firendly": 0,
+                "QuestId": "None",
+                "CharacterFileBreakLevel": 5
+              }
+            ]
           }
         ],
         "BattleContent": [
@@ -1102,6 +1146,66 @@
             "Conditions": []
           },
           {
+            "ID": "Battle33",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "windfall_004",
+              "SourceString": "意外收获·Ⅳ",
+              "LocalizedString": "意外收获·Ⅳ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_windfall_004",
+              "SourceString": "不可以……随地乱丢。",
+              "LocalizedString": "不可以……随地乱丢。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_windfall_004.Play_Vo_Char_NPC004_windfall_004",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle34",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "windfall_005",
+              "SourceString": "意外收获·Ⅴ",
+              "LocalizedString": "意外收获·Ⅴ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_windfall_005",
+              "SourceString": "好像是，有用的东西？",
+              "LocalizedString": "好像是，有用的东西？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_windfall_005.Play_Vo_Char_NPC004_windfall_005",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle35",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "windfall_006",
+              "SourceString": "意外收获·Ⅵ",
+              "LocalizedString": "意外收获·Ⅵ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_windfall_006",
+              "SourceString": "安魂曲，捡到了亮闪闪的……",
+              "LocalizedString": "安魂曲，捡到了亮闪闪的……"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_windfall_006.Play_Vo_Char_NPC004_windfall_006",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
             "ID": "Battle17",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
@@ -1137,6 +1241,26 @@
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_hp_002.Play_Vo_Char_NPC004_hp_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle36",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "hp_003",
+              "SourceString": "生命值低·Ⅲ",
+              "LocalizedString": "生命值低·Ⅲ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_hp_003",
+              "SourceString": "安魂曲，想休息一下。就一下……",
+              "LocalizedString": "安魂曲，想休息一下。就一下……"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_hp_003.Play_Vo_Char_NPC004_hp_003",
               "SubPathString": ""
             },
             "Conditions": []
@@ -1402,12 +1526,12 @@
             "Conditions": []
           },
           {
-            "ID": "Battle32",
+            "ID": "Battle56",
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "QTE_001",
-              "SourceString": "协同技",
-              "LocalizedString": "协同技"
+              "SourceString": "协同技·Ⅰ",
+              "LocalizedString": "协同技·Ⅰ"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
@@ -1417,6 +1541,386 @@
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_QTE_001.Play_Vo_Char_NPC004_QTE_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle37",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "QTE_002",
+              "SourceString": "协同技·Ⅱ",
+              "LocalizedString": "协同技·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_QTE_002",
+              "SourceString": "嗯……没有迟到。",
+              "LocalizedString": "嗯……没有迟到。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_QTE_002.Play_Vo_Char_NPC004_QTE_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle38",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "QTE_003",
+              "SourceString": "协同技·Ⅲ",
+              "LocalizedString": "协同技·Ⅲ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_QTE_003",
+              "SourceString": "安魂曲，很强的。",
+              "LocalizedString": "安魂曲，很强的。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_QTE_003.Play_Vo_Char_NPC004_QTE_003",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle39",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Fly_001",
+              "SourceString": "滑翔·Ⅰ",
+              "LocalizedString": "滑翔·Ⅰ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_Fly_001",
+              "SourceString": "要小心……玻璃。",
+              "LocalizedString": "要小心……玻璃。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_Fly_001.Play_Vo_Char_NPC004_Fly_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle40",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Fly_002",
+              "SourceString": "滑翔·Ⅱ",
+              "LocalizedString": "滑翔·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_Fly_002",
+              "SourceString": "不用翅膀，好轻松。",
+              "LocalizedString": "不用翅膀，好轻松。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_Fly_002.Play_Vo_Char_NPC004_Fly_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle41",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Switch_001",
+              "SourceString": "切换·Ⅰ",
+              "LocalizedString": "切换·Ⅰ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_Switch_001",
+              "SourceString": "……交给，安魂曲。",
+              "LocalizedString": "……交给，安魂曲。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_Switch_001.Play_Vo_Char_NPC004_Switch_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle42",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Switch_002",
+              "SourceString": "切换·Ⅱ",
+              "LocalizedString": "切换·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_Switch_002",
+              "SourceString": "安魂曲，可以解决。",
+              "LocalizedString": "安魂曲，可以解决。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_Switch_002.Play_Vo_Char_NPC004_Switch_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle43",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Switch_003",
+              "SourceString": "切换·Ⅲ",
+              "LocalizedString": "切换·Ⅲ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_Switch_003",
+              "SourceString": "「换班」，可以去休息了。",
+              "LocalizedString": "「换班」，可以去休息了。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_Switch_003.Play_Vo_Char_NPC004_Switch_003",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle44",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_BC",
+              "SourceString": "特殊切换·白藏",
+              "LocalizedString": "特殊切换·白藏"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_SSC_001",
+              "SourceString": "白藏，小心。",
+              "LocalizedString": "白藏，小心。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_SSC_001.Play_Vo_Char_NPC004_SSC_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle45",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_Y",
+              "SourceString": "特殊切换·翳",
+              "LocalizedString": "特殊切换·翳"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_SSC_002",
+              "SourceString": "狗狗人，要帮忙吗？",
+              "LocalizedString": "狗狗人，要帮忙吗？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_SSC_002.Play_Vo_Char_NPC004_SSC_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle46",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_FDY",
+              "SourceString": "特殊切换·法帝娅",
+              "LocalizedString": "特殊切换·法帝娅"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_SSC_003",
+              "SourceString": "法帝娅的「朋友」，不好玩。",
+              "LocalizedString": "法帝娅的「朋友」，不好玩。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_SSC_003.Play_Vo_Char_NPC004_SSC_003",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle47",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "SSC_BH",
+              "SourceString": "特殊切换·薄荷",
+              "LocalizedString": "特殊切换·薄荷"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_SSC_004",
+              "SourceString": "不可以……欺负薄荷。",
+              "LocalizedString": "不可以……欺负薄荷。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_SSC_004.Play_Vo_Char_NPC004_SSC_004",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle48",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_BC",
+              "SourceString": "队友倒下·白藏",
+              "LocalizedString": "队友倒下·白藏"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_TeammateDown_001",
+              "SourceString": "白藏，还不可以睡。",
+              "LocalizedString": "白藏，还不可以睡。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_TeammateDown_001.Play_Vo_Char_NPC004_TeammateDown_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle49",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_Y",
+              "SourceString": "队友倒下·翳",
+              "LocalizedString": "队友倒下·翳"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_TeammateDown_002",
+              "SourceString": "狗狗人，受伤了？",
+              "LocalizedString": "狗狗人，受伤了？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_TeammateDown_002.Play_Vo_Char_NPC004_TeammateDown_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle50",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_FDY",
+              "SourceString": "队友倒下·法帝娅",
+              "LocalizedString": "队友倒下·法帝娅"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_TeammateDown_003",
+              "SourceString": "法帝娅，玩累了吗？",
+              "LocalizedString": "法帝娅，玩累了吗？"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_TeammateDown_003.Play_Vo_Char_NPC004_TeammateDown_003",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle51",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "TeammateDown_BH",
+              "SourceString": "队友倒下·薄荷",
+              "LocalizedString": "队友倒下·薄荷"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_TeammateDown_004",
+              "SourceString": "薄荷……好像很累，快去休息。",
+              "LocalizedString": "薄荷……好像很累，快去休息。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_TeammateDown_004.Play_Vo_Char_NPC004_TeammateDown_004",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle52",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Parry_001",
+              "SourceString": "弹反·Ⅰ",
+              "LocalizedString": "弹反·Ⅰ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_Parry_001",
+              "SourceString": "就是现在。",
+              "LocalizedString": "就是现在。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_Parry_001.Play_Vo_Char_NPC004_Parry_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle53",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "Parry_002",
+              "SourceString": "弹反·Ⅱ",
+              "LocalizedString": "弹反·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_Parry_002",
+              "SourceString": "安魂曲，不会输。",
+              "LocalizedString": "安魂曲，不会输。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_Parry_002.Play_Vo_Char_NPC004_Parry_002",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle54",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "DodgeCombo_001",
+              "SourceString": "连续极限闪避成功·Ⅰ",
+              "LocalizedString": "连续极限闪避成功·Ⅰ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_DodgeCombo_001",
+              "SourceString": "呼，都躲开了。",
+              "LocalizedString": "呼，都躲开了。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_DodgeCombo_001.Play_Vo_Char_NPC004_DodgeCombo_001",
+              "SubPathString": ""
+            },
+            "Conditions": []
+          },
+          {
+            "ID": "Battle55",
+            "Title": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "DodgeCombo_002",
+              "SourceString": "连续极限闪避成功·Ⅱ",
+              "LocalizedString": "连续极限闪避成功·Ⅱ"
+            },
+            "Content": {
+              "TableId": "/Game/Text/ST_File.ST_File",
+              "Key": "NPC004_DodgeCombo_002",
+              "SourceString": "是安魂曲……更快。",
+              "LocalizedString": "是安魂曲……更快。"
+            },
+            "AudioEvent": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC004/Play_Vo_Char_NPC004_DodgeCombo_002.Play_Vo_Char_NPC004_DodgeCombo_002",
               "SubPathString": ""
             },
             "Conditions": []

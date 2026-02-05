@@ -1,0 +1,226 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SelfiePhotoSticker",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'HTSelfiePhotoSticker'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "1": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_046.sticker_046",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_046.sticker_046",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_045.sticker_045",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_045.sticker_045",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_041.sticker_041",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_041.sticker_041",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_010.sticker_010",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_010.sticker_010",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_012.sticker_012",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_012.sticker_012",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_013.sticker_013",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_013.sticker_013",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_017.sticker_017",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_017.sticker_017",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_018.sticker_018",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_018.sticker_018",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_019.sticker_019",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_019.sticker_019",
+          "SubPathString": ""
+        }
+      },
+      "9_0": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_025.sticker_025",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_025.sticker_025",
+          "SubPathString": ""
+        }
+      },
+      "9_1": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_028.sticker_028",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_028.sticker_028",
+          "SubPathString": ""
+        }
+      },
+      "9_2": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_032.sticker_032",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_032.sticker_032",
+          "SubPathString": ""
+        }
+      },
+      "9_3": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_042.sticker_042",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_042.sticker_042",
+          "SubPathString": ""
+        }
+      },
+      "9_4": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_043.sticker_043",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_043.sticker_043",
+          "SubPathString": ""
+        }
+      },
+      "9_5": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_044.sticker_044",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_044.sticker_044",
+          "SubPathString": ""
+        }
+      },
+      "9_6": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_049.sticker_049",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_049.sticker_049",
+          "SubPathString": ""
+        }
+      },
+      "9_7": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_050.sticker_050",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_050.sticker_050",
+          "SubPathString": ""
+        }
+      },
+      "9_8": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_051.sticker_051",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_051.sticker_051",
+          "SubPathString": ""
+        }
+      },
+      "9_9": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_040.sticker_040",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_040.sticker_040",
+          "SubPathString": ""
+        }
+      },
+      "9_10": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_039.sticker_039",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_039.sticker_039",
+          "SubPathString": ""
+        }
+      },
+      "9_11": {
+        "StickerIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_047.sticker_047",
+          "SubPathString": ""
+        },
+        "StickerSource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Sticker/sticker_047.sticker_047",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

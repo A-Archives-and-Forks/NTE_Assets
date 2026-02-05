@@ -15,42 +15,60 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Female_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Female_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Mint019_Melee": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Mint019_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Mint019_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Mint_Passive_1": {
@@ -58,8 +76,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Mint019_Passive1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_019_Mint/PassiveEffect/Buff_Mint019_Passive1.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_019_Mint/PassiveEffect/Buff_Mint019_Passive1.Buff_Mint019_Passive1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -68,8 +86,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Mint019_Passive2_New_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_019_Mint/PassiveEffect/New/Buff_Mint019_Passive2_New.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_019_Mint/PassiveEffect/New/Buff_Mint019_Passive2_New.Buff_Mint019_Passive2_New_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -77,21 +95,30 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Sagiri_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Sagiri_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Sagiri_Passive_1": {
@@ -99,8 +126,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Sagiri003_Passive2_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_003_Sagiri/PassiveEffect/Buff_Sagiri003_Passive2.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_003_Sagiri/PassiveEffect/Buff_Sagiri003_Passive2.Buff_Sagiri003_Passive2_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -109,8 +136,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Sagiri003_Passive1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_003_Sagiri/PassiveEffect/Buff_Sagiri003_Passive1.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_003_Sagiri/PassiveEffect/Buff_Sagiri003_Passive1.Buff_Sagiri003_Passive1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -118,21 +145,30 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Nanally_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Nanally_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Nanally_Passive_1": {
@@ -140,8 +176,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Nanally010_Passive1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_010_Nanally/PassiveEffect/Buff_Nanally010_Passive1.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_010_Nanally/PassiveEffect/Buff_Nanally010_Passive1.Buff_Nanally010_Passive1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -150,8 +186,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Nanally010_Level1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_010_Nanally/Upgrade/Level1/Buff_Nanally010_Level1.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_010_Nanally/Upgrade/Level1/Buff_Nanally010_Level1.Buff_Nanally010_Level1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -159,21 +195,30 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Adler_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Adler_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Adler_Passive_1": {
@@ -181,8 +226,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Adler033_Passive1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/PassiveEffect/Buff_Adler033_Passive1.1"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/PassiveEffect/Buff_Adler033_Passive1.Buff_Adler033_Passive1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -191,8 +236,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Adler033_Passive2_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/PassiveEffect/Buff_Adler033_Passive2.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_033_Adler/PassiveEffect/Buff_Adler033_Passive2.Buff_Adler033_Passive2_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -200,21 +245,30 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_lacrimosa_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_lacrimosa_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_lacrimosa_Passive_1": {
@@ -222,8 +276,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Lacrimosa004_Passive2_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_004_Lacrimosa/PassiveEffect/Buff_Lacrimosa004_Passive2.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_004_Lacrimosa/PassiveEffect/Buff_Lacrimosa004_Passive2.Buff_Lacrimosa004_Passive2_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -232,8 +286,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Lacrimosa004_Level4_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_004_Lacrimosa/Upgrade/Level4/Buff_Lacrimosa004_Level4.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_004_Lacrimosa/Upgrade/Level4/Buff_Lacrimosa004_Level4.Buff_Lacrimosa004_Level4_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -241,21 +295,30 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Skia_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Skia_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Skia_Passive_1": {
@@ -263,8 +326,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Skia_Passivity1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_008_Skia/Passivity/Buff_Skia_Passivity1.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_008_Skia/Passivity/Buff_Skia_Passivity1.Buff_Skia_Passivity1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -273,8 +336,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Skia_Passivity2_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_008_Skia/Passivity/Buff_Skia_Passivity2.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_008_Skia/Passivity/Buff_Skia_Passivity2.Buff_Skia_Passivity2_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -282,21 +345,30 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Fadia_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Fadia_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Fadia_Passive_1": {
@@ -304,8 +376,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Fadia039_Passive1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/PassiveEffect/Buff_Fadia039_Passive1.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/PassiveEffect/Buff_Fadia039_Passive1.Buff_Fadia039_Passive1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -314,8 +386,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Fadia039_Passive2_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/PassiveEffect/Buff_Fadia039_Passive2.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_039_Fadia/PassiveEffect/Buff_Fadia039_Passive2.Buff_Fadia039_Passive2_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": true
       },
@@ -323,21 +395,30 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Cang_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Cang_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Cang_Passive_1": {
@@ -345,8 +426,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Cang023_Passive1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_023_Cang/PassiveEffect/Buff_Cang023_Passive1.1"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_023_Cang/PassiveEffect/Buff_Cang023_Passive1.Buff_Cang023_Passive1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -355,8 +436,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Cang023_Passive2_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_023_Cang/PassiveEffect/Buff_Cang023_Passive2.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_023_Cang/PassiveEffect/Buff_Cang023_Passive2.Buff_Cang023_Passive2_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -364,21 +445,30 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Hathor_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Hathor_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Hathor_Passive_1": {
@@ -386,8 +476,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Hathor025_Passive1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/PassiveEffect/Buff_Hathor025_Passive1.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/PassiveEffect/Buff_Hathor025_Passive1.Buff_Hathor025_Passive1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -396,8 +486,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Hathor025_Passive2_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/PassiveEffect/Buff_Hathor025_Passive2.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_025_Hathor/PassiveEffect/Buff_Hathor025_Passive2.Buff_Hathor025_Passive2_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -405,21 +495,30 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Jin_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Jin_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Jin_Passive_1": {
@@ -427,8 +526,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Jin052_Passive1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_052_Jin/PassiveEffect/Buff_Jin052_Passive1.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_052_Jin/PassiveEffect/Buff_Jin052_Passive1.Buff_Jin052_Passive1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -437,8 +536,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Jin052_Passive2_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_052_Jin/PassiveEffect/Buff_Jin052_Passive2.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_052_Jin/PassiveEffect/Buff_Jin052_Passive2.Buff_Jin052_Passive2_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -446,21 +545,30 @@
         "AbilityGameplayTag": {
           "TagName": "Ability.Melee"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Female051_Skill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.Skill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Female051_UltraSkill": {
         "AbilityGameplayTag": {
           "TagName": "Ability.UltraSkill"
         },
-        "GameplayEffectToActivate": null,
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
         "bReliveNeedAddAgain": false
       },
       "GA_Female_Passive_1": {
@@ -468,8 +576,8 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Female051_Passive1_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_051_Female/PassiveEffect/Buff_Female051_Passive1.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_051_Female/PassiveEffect/Buff_Female051_Passive1.Buff_Female051_Passive1_C",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       },
@@ -478,8 +586,258 @@
           "TagName": "None"
         },
         "GameplayEffectToActivate": {
-          "ObjectName": "BlueprintGeneratedClass'Buff_Female051_Passive2_C'",
-          "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_051_Female/PassiveEffect/Buff_Female051_Passive2.0"
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_051_Female/PassiveEffect/Buff_Female051_Passive2.Buff_Female051_Passive2_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Edgar_Melee": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.Melee"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Edgar_Skill": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.Skill"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Edgar_UltraSkill": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.UltraSkill"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Edgar_Passive_1": {
+        "AbilityGameplayTag": {
+          "TagName": "None"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_021_Edgar/PassiveEffect/Buff_Edgar021_Passive1.Buff_Edgar021_Passive1_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Edgar_Passive_2": {
+        "AbilityGameplayTag": {
+          "TagName": "None"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_021_Edgar/PassiveEffect/Buff_Edgar021_Passive2.Buff_Edgar021_Passive2_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Daffodill_Melee": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.Melee"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Daffodill_Skill": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.Skill"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Daffodill_UltraSkill": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.UltraSkill"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Daffodill_Passive_1": {
+        "AbilityGameplayTag": {
+          "TagName": "None"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_054_daffodill/PassiveEffect/Buff_Daffodill054_Passive1.Buff_Daffodill054_Passive1_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Daffodill_Passive_2": {
+        "AbilityGameplayTag": {
+          "TagName": "None"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_054_daffodill/PassiveEffect/Buff_Daffodill054_Passive2.Buff_Daffodill054_Passive2_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Kuhara_Melee": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.Melee"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Kuhara_Skill": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.Skill"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Kuhara_UltraSkill": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.UltraSkill"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Kuhara_Passive_1": {
+        "AbilityGameplayTag": {
+          "TagName": "None"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_055_Kuhara/PassiveEffect/Buff_Kuhara055_Passive1.Buff_Kuhara055_Passive1_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Kuhara_Passive_2": {
+        "AbilityGameplayTag": {
+          "TagName": "None"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_055_Kuhara/PassiveEffect/Buff_Kuhara055_Passive2.Buff_Kuhara055_Passive2_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Chiichan073_Melee": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.Melee"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Chiichan073_Skill": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.Skill"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Chiichan073_UltraSkill": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.UltraSkill"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Chiichan073_Passive_1": {
+        "AbilityGameplayTag": {
+          "TagName": "None"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_073_Chiichan/PassiveEffect/Buff_Chiichan073_Passive1.Buff_Chiichan073_Passive1_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Chiichan073_Passive_2": {
+        "AbilityGameplayTag": {
+          "TagName": "None"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_073_Chiichan/PassiveEffect/Buff_Chiichan073_Passive2.Buff_Chiichan073_Passive2_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Haniel_Passive_2": {
+        "AbilityGameplayTag": {
+          "TagName": "None"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_020_haniel/PassiveEffect/Buff_Haniel020_Passive2.Buff_Haniel020_Passive2_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Haniel_Passive_1": {
+        "AbilityGameplayTag": {
+          "TagName": "None"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_020_haniel/PassiveEffect/Buff_Haniel020_Passive1.Buff_Haniel020_Passive1_C",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Haniel_Melee": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.Melee"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Haniel_Skill": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.Skill"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bReliveNeedAddAgain": false
+      },
+      "GA_Haniel_UltraSkill": {
+        "AbilityGameplayTag": {
+          "TagName": "Ability.UltraSkill"
+        },
+        "GameplayEffectToActivate": {
+          "AssetPathName": "",
+          "SubPathString": ""
         },
         "bReliveNeedAddAgain": false
       }

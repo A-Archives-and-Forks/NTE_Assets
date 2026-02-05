@@ -21,10 +21,7 @@
                   "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_001/BP_NPC_001.BP_NPC_001_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": {
-                  "AssetPathName": "",
-                  "SubPathString": ""
-                },
+                "AITemplateCache": null,
                 "Count": 1,
                 "SpawnTransformPointsOverride": [
                   {
@@ -68,7 +65,10 @@
                 "AIConfigOverrideID": "None",
                 "FleeTargetPoints": [],
                 "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
-                "bUseDataTable": true
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0
               }
             ],
             "WaveDelayTime": 0.0,
@@ -89,10 +89,7 @@
                   "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_002/BP_NPC_002.BP_NPC_002_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": {
-                  "AssetPathName": "",
-                  "SubPathString": ""
-                },
+                "AITemplateCache": null,
                 "Count": 1,
                 "SpawnTransformPointsOverride": [
                   {
@@ -136,7 +133,10 @@
                 "AIConfigOverrideID": "None",
                 "FleeTargetPoints": [],
                 "AILeaveBattleType": "EAILeaveBattleType::AILBNormal",
-                "bUseDataTable": true
+                "bUseDataTable": true,
+                "PlatformManagerOverride": "ESpawnerPlatformManagerOverride::NotOverride",
+                "bUseRangeForPassiveAggro": false,
+                "PassiveAggroNotifyRange": 0.0
               }
             ],
             "WaveDelayTime": 0.0,

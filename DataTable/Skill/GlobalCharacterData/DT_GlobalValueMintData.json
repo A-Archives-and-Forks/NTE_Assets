@@ -343,31 +343,43 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 117.0
+            "Value": 67.0
           },
           {
             "Time": 2.0,
-            "Value": 122.0
+            "Value": 71.0
           },
           {
             "Time": 3.0,
-            "Value": 128.0
+            "Value": 74.0
           },
           {
             "Time": 7.0,
-            "Value": 156.0
+            "Value": 90.0
+          },
+          {
+            "Time": 8.0,
+            "Value": 95.0
           },
           {
             "Time": 9.0,
-            "Value": 172.0
+            "Value": 99.0
+          },
+          {
+            "Time": 10.0,
+            "Value": 104.0
+          },
+          {
+            "Time": 11.0,
+            "Value": 110.0
           },
           {
             "Time": 12.0,
-            "Value": 199.0
+            "Value": 115.0
           },
           {
             "Time": 13.0,
-            "Value": 209.0
+            "Value": 121.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -499,11 +511,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 18.0
+            "Value": 21.0
           },
           {
             "Time": 13.0,
-            "Value": 18.0
+            "Value": 21.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -567,11 +579,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 4.0
+            "Value": 5.0
           },
           {
             "Time": 13.0,
-            "Value": 4.0
+            "Value": 5.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -916,6 +928,38 @@
           {
             "Time": 13.0,
             "Value": 313.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Mint_Melee_10_1": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 38.0
+          },
+          {
+            "Time": 13.0,
+            "Value": 38.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "Mint_Melee_11_1": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 4.0
+          },
+          {
+            "Time": 13.0,
+            "Value": 4.0
           }
         ],
         "DefaultValue": 3.4028235E+38,

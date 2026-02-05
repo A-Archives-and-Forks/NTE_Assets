@@ -13,114 +13,666 @@
     "Rows": {
       "1": {
         "Name": {
-          "Namespace": "",
-          "Key": "3A873E954237C4DC782456ACE506910F",
-          "SourceString": "海特洛夜景1",
-          "LocalizedString": "海特洛夜景1"
+          "TableId": "/Game/Text/ST_EditPlayerInfo.ST_EditPlayerInfo",
+          "Key": "ui_editbusinesscard_001",
+          "SourceString": "默认名片",
+          "LocalizedString": "默认名片"
         },
         "bIsDefault": true,
         "bAutoUnlock": true,
         "UnlockDescription": {
-          "Namespace": "",
-          "Key": "187717F54CA7BAFA513D73938B5C010A",
-          "SourceString": "预约游戏获得",
-          "LocalizedString": "预约游戏获得"
+          "TableId": "/Game/Text/ST_EditPlayerInfo.ST_EditPlayerInfo",
+          "Key": "ui_editbusinesscard_002",
+          "SourceString": "默认获取",
+          "LocalizedString": "默认获取"
         },
         "Description": {
-          "Namespace": "",
-          "Key": "4235F3F1402B29F682F206B117C418F2",
-          "SourceString": "美丽炫酷的海特洛",
-          "LocalizedString": "美丽炫酷的海特洛"
+          "TableId": "/Game/Text/ST_EditPlayerInfo.ST_EditPlayerInfo",
+          "Key": "ui_editbusinesscard_002",
+          "SourceString": "默认获取",
+          "LocalizedString": "默认获取"
         },
         "IconSource": {
-          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/YH_UI_calling_card_01.YH_UI_calling_card_01",
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_00_s.YH_UI_bg_card_show_strip_00_s",
           "SubPathString": ""
         },
         "IconSourceBig": {
-          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/YH_UI_personal_info_bg_calling_card_01.YH_UI_personal_info_bg_calling_card_01",
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_00.YH_UI_bg_card_show_strip_00",
           "SubPathString": ""
-        }
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_00.YH_UI_bg_information_card_show_strip_00",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
       },
-      "1_0": {
+      "1023": {
         "Name": {
-          "CultureInvariantString": "海特洛夜景2"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1023_name",
+          "SourceString": "小小纸片",
+          "LocalizedString": "小小纸片"
         },
         "bIsDefault": false,
         "bAutoUnlock": false,
         "UnlockDescription": {
-          "Namespace": "",
-          "Key": "BA9978454C46598C3F3369A23833B764",
-          "SourceString": "预约游戏获得",
-          "LocalizedString": "预约游戏获得"
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1023",
+          "SourceString": "白藏好感等级10级奖励",
+          "LocalizedString": "白藏好感等级10级奖励"
         },
         "Description": {
-          "Namespace": "",
-          "Key": "9148B061447A90DAD34A6F8C9AA84232",
-          "SourceString": "美丽炫酷的海特洛",
-          "LocalizedString": "美丽炫酷的海特洛"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1023_desc",
+          "SourceString": "「异象管理局」E.T.D四队队长白藏的名片。\n陈述简洁，排版清晰，正经得不像是白藏的名片——当然，也确实不是他自己制作的。显而易见，功劳都得归结于他那靠谱的副队。至于他的态度嘛……一张小小的纸片而已，如何定义得了一个活生生的、复杂的人呢？",
+          "LocalizedString": "「异象管理局」E.T.D四队队长白藏的名片。\n陈述简洁，排版清晰，正经得不像是白藏的名片——当然，也确实不是他自己制作的。显而易见，功劳都得归结于他那靠谱的副队。至于他的态度嘛……一张小小的纸片而已，如何定义得了一个活生生的、复杂的人呢？"
         },
         "IconSource": {
-          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/YH_UI_calling_card_01.YH_UI_calling_card_01",
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_15_s.YH_UI_bg_card_show_strip_15_s",
           "SubPathString": ""
         },
         "IconSourceBig": {
-          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/YH_UI_personal_info_bg_calling_card_01.YH_UI_personal_info_bg_calling_card_01",
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_15.YH_UI_bg_card_show_strip_15",
           "SubPathString": ""
-        }
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_15.YH_UI_bg_information_card_show_strip_15",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
       },
-      "1_1": {
+      "1019": {
         "Name": {
-          "CultureInvariantString": "海特洛夜景3"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1019_name",
+          "SourceString": "微风的悄悄话",
+          "LocalizedString": "微风的悄悄话"
         },
         "bIsDefault": false,
-        "bAutoUnlock": true,
+        "bAutoUnlock": false,
         "UnlockDescription": {
-          "Namespace": "",
-          "Key": "E1420F104BD45CF0974C22B15C1DAF24",
-          "SourceString": "预约游戏获得",
-          "LocalizedString": "预约游戏获得"
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1019",
+          "SourceString": "薄荷好感等级10级奖励",
+          "LocalizedString": "薄荷好感等级10级奖励"
         },
         "Description": {
-          "Namespace": "",
-          "Key": "3A0D350245BD63EC764A23B55A9484AB",
-          "SourceString": "美丽炫酷的海特洛",
-          "LocalizedString": "美丽炫酷的海特洛"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1019_desc",
+          "SourceString": "「异象管理局」收容二组薄荷的名片。\n看到这张名片，是不是就会想起薄荷呢？那就立刻打开呗果，和薄荷聊聊天吧！薄荷的话匣子里总是有聊不完的话题，她绝对会第一时间回复你！当然了，出勤时间除外。",
+          "LocalizedString": "「异象管理局」收容二组薄荷的名片。\n看到这张名片，是不是就会想起薄荷呢？那就立刻打开呗果，和薄荷聊聊天吧！薄荷的话匣子里总是有聊不完的话题，她绝对会第一时间回复你！当然了，出勤时间除外。"
         },
         "IconSource": {
-          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/YH_UI_calling_card_01.YH_UI_calling_card_01",
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_09_s.YH_UI_bg_card_show_strip_09_s",
           "SubPathString": ""
         },
         "IconSourceBig": {
-          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/YH_UI_personal_info_bg_calling_card_01.YH_UI_personal_info_bg_calling_card_01",
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_09.YH_UI_bg_card_show_strip_09",
           "SubPathString": ""
-        }
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_09.YH_UI_bg_information_card_show_strip_09",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
       },
-      "1_2": {
+      "1039": {
         "Name": {
-          "CultureInvariantString": "海特洛夜景4"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1039_name",
+          "SourceString": "测试游戏",
+          "LocalizedString": "测试游戏"
         },
         "bIsDefault": false,
-        "bAutoUnlock": true,
+        "bAutoUnlock": false,
         "UnlockDescription": {
-          "Namespace": "",
-          "Key": "C3BE6B474BFED5DA0A8DB188B985E257",
-          "SourceString": "预约游戏获得",
-          "LocalizedString": "预约游戏获得"
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1039",
+          "SourceString": "法帝娅好感等级10级奖励",
+          "LocalizedString": "法帝娅好感等级10级奖励"
         },
         "Description": {
-          "Namespace": "",
-          "Key": "1D86431B4A69958F716003967CAE6942",
-          "SourceString": "美丽炫酷的海特洛",
-          "LocalizedString": "美丽炫酷的海特洛"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1039_desc",
+          "SourceString": "「异象管理局」E.T.D四队队员法帝娅的名片。\n当名片上印着一个热烈乖张的口红印时，接收方往往会露出一个有趣的表情。譬如，误认作一场邀约的窃喜；跳脱于正常社交范围的尴尬；一闪而过的鄙夷……实际上，这只是一个测试游戏。她从中窥见对方的底色，并乐此不疲。",
+          "LocalizedString": "「异象管理局」E.T.D四队队员法帝娅的名片。\n当名片上印着一个热烈乖张的口红印时，接收方往往会露出一个有趣的表情。譬如，误认作一场邀约的窃喜；跳脱于正常社交范围的尴尬；一闪而过的鄙夷……实际上，这只是一个测试游戏。她从中窥见对方的底色，并乐此不疲。"
         },
         "IconSource": {
-          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/YH_UI_calling_card_01.YH_UI_calling_card_01",
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_12_s.YH_UI_bg_card_show_strip_12_s",
           "SubPathString": ""
         },
         "IconSourceBig": {
-          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/YH_UI_personal_info_bg_calling_card_01.YH_UI_personal_info_bg_calling_card_01",
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_12.YH_UI_bg_card_show_strip_12",
           "SubPathString": ""
-        }
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_12.YH_UI_bg_information_card_show_strip_12",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1014": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1014_name",
+          "SourceString": "玫约在先",
+          "LocalizedString": "玫约在先"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1055",
+          "SourceString": "九原好感等级10级奖励",
+          "LocalizedString": "九原好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1014_desc",
+          "SourceString": "「斯特利速递」代理店长九原的名片。\n这张名片由斯特利统一制作，照片是其中固定的部分。当它被递到你手中时，便意味着交易早已悄然开始——只是多数人总要等到很久以后，才会真正明白自己究竟同意了些什么。",
+          "LocalizedString": "「斯特利速递」代理店长九原的名片。\n这张名片由斯特利统一制作，照片是其中固定的部分。当它被递到你手中时，便意味着交易早已悄然开始——只是多数人总要等到很久以后，才会真正明白自己究竟同意了些什么。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_04_s.YH_UI_bg_card_show_strip_04_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_04.YH_UI_bg_card_show_strip_04",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_04.YH_UI_bg_information_card_show_strip_04",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1010": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1010_name",
+          "SourceString": "老大的派头",
+          "LocalizedString": "老大的派头"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1010",
+          "SourceString": "娜娜莉好感等级10级奖励",
+          "LocalizedString": "娜娜莉好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1010_desc",
+          "SourceString": "「伊波恩古董店」店员娜娜莉的名片。\n凹凸有形的纸面暗纹（睡觉时压皱的）、低奢的配色（彩印经费不够）、隐约可见的装饰性线条（手抖涂出去了）……种种细节彰显着名片持有者神秘且高贵的身份。这个叫「老大的派头」，相信有人能懂。",
+          "LocalizedString": "「伊波恩古董店」店员娜娜莉的名片。\n凹凸有形的纸面暗纹（睡觉时压皱的）、低奢的配色（彩印经费不够）、隐约可见的装饰性线条（手抖涂出去了）……种种细节彰显着名片持有者神秘且高贵的身份。这个叫「老大的派头」，相信有人能懂。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_08_s.YH_UI_bg_card_show_strip_08_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_08.YH_UI_bg_card_show_strip_08",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_08.YH_UI_bg_information_card_show_strip_08",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1003": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1003_name",
+          "SourceString": "家族成员",
+          "LocalizedString": "家族成员"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1003",
+          "SourceString": "早雾好感等级10级奖励",
+          "LocalizedString": "早雾好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1003_desc",
+          "SourceString": "「伊波恩古董店」店员早雾的名片。\n「什么叫你还没有名片？柯林斯家族的成员怎么能没有名片，快做一张去！」因为这种原因诞生的名片，不知道早雾对这张名片到底是什么态度，至少娜娜莉很满意。",
+          "LocalizedString": "「伊波恩古董店」店员早雾的名片。\n「什么叫你还没有名片？柯林斯家族的成员怎么能没有名片，快做一张去！」因为这种原因诞生的名片，不知道早雾对这张名片到底是什么态度，至少娜娜莉很满意。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_05.YH_UI_bg_card_show_strip_05",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_05.YH_UI_bg_card_show_strip_05",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_05.YH_UI_bg_information_card_show_strip_05",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1033": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1033_name",
+          "SourceString": "欢迎光临",
+          "LocalizedString": "欢迎光临"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1033",
+          "SourceString": "阿德勒好感等级10级奖励",
+          "LocalizedString": "阿德勒好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1033_desc",
+          "SourceString": "「伊波恩古董店」管家的正式名片。\n持本名片到店可享受伊波恩管家亲自招待并有优惠折扣！但对阿德勒先生本人来说，这张名片的存在意味着漂泊半生的旅人，也终于有了歇脚之处。",
+          "LocalizedString": "「伊波恩古董店」管家的正式名片。\n持本名片到店可享受伊波恩管家亲自招待并有优惠折扣！但对阿德勒先生本人来说，这张名片的存在意味着漂泊半生的旅人，也终于有了歇脚之处。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_11_s.YH_UI_bg_card_show_strip_11_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_11.YH_UI_bg_card_show_strip_11",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_11.YH_UI_bg_information_card_show_strip_11",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1025": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1025_name",
+          "SourceString": "S级执行担当",
+          "LocalizedString": "S级执行担当"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1025",
+          "SourceString": "哈索尔好感等级10级奖励",
+          "LocalizedString": "哈索尔好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1025_desc",
+          "SourceString": "「斯特利速递」精英快递员哈索尔的名片。\n这张名片由斯特利统一制作，上面的照片并非随意选取。它本身不意味着任何担保，却传递着一个无声的讯息：至少有人，已将你最坏的处境预先思量周全。",
+          "LocalizedString": "「斯特利速递」精英快递员哈索尔的名片。\n这张名片由斯特利统一制作，上面的照片并非随意选取。它本身不意味着任何担保，却传递着一个无声的讯息：至少有人，已将你最坏的处境预先思量周全。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_17_s.YH_UI_bg_card_show_strip_17_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_17.YH_UI_bg_card_show_strip_17",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_17.YH_UI_bg_information_card_show_strip_17",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1020": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1020_name",
+          "SourceString": "谜底是十字路口",
+          "LocalizedString": "谜底是十字路口"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1020",
+          "SourceString": "哈尼娅好感等级10级奖励",
+          "LocalizedString": "哈尼娅好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1020_desc",
+          "SourceString": "「斯特利速递」精英快递员哈尼娅的名片。\n这张名片由斯特利统一制作，但显然在拍摄时候加入了一点哈尼娅本人的小巧思。递出名片的时候应该说：樱花雨落下的时候，能不能再见面？",
+          "LocalizedString": "「斯特利速递」精英快递员哈尼娅的名片。\n这张名片由斯特利统一制作，但显然在拍摄时候加入了一点哈尼娅本人的小巧思。递出名片的时候应该说：樱花雨落下的时候，能不能再见面？"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_18_s.YH_UI_bg_card_show_strip_18_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_18.YH_UI_bg_card_show_strip_18",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_18.YH_UI_bg_information_card_show_strip_18",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1005": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1005_name",
+          "SourceString": "唯一确定性",
+          "LocalizedString": "唯一确定性"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1054",
+          "SourceString": "达芙蒂尔好感等级10级奖励",
+          "LocalizedString": "达芙蒂尔好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1005_desc",
+          "SourceString": "「伊波恩古董店」店员达芙蒂尔的名片。\n人拥有名片意味着什么呢？就好像狗狗拥有了写着自己名字的铭牌吗？她尚且不太明白其中的含义。唯独能确信的是——以前，她总是在不同的任务中使用不同的姓名代号。现在，她只要做「达芙蒂尔」就可以。",
+          "LocalizedString": "「伊波恩古董店」店员达芙蒂尔的名片。\n人拥有名片意味着什么呢？就好像狗狗拥有了写着自己名字的铭牌吗？她尚且不太明白其中的含义。唯独能确信的是——以前，她总是在不同的任务中使用不同的姓名代号。现在，她只要做「达芙蒂尔」就可以。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_16_s.YH_UI_bg_card_show_strip_16_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_16.YH_UI_bg_card_show_strip_16",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_16.YH_UI_bg_information_card_show_strip_16",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1021": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1021_name",
+          "SourceString": "正式申请",
+          "LocalizedString": "正式申请"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1021",
+          "SourceString": "埃德嘉好感等级10级奖励",
+          "LocalizedString": "埃德嘉好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1021_desc",
+          "SourceString": "「伊波恩古董店」店员埃德嘉的名片。\n照片出自埃德嘉的个人简历。埃德嘉为应聘伊波恩古董店做足了准备……实际上，都没派上用场。\n不过，被埃德嘉当作「面试官」尊敬的塔吉多过足了瘾。",
+          "LocalizedString": "「伊波恩古董店」店员埃德嘉的名片。\n照片出自埃德嘉的个人简历。埃德嘉为应聘伊波恩古董店做足了准备……实际上，都没派上用场。\n不过，被埃德嘉当作「面试官」尊敬的塔吉多过足了瘾。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_13_s.YH_UI_bg_card_show_strip_13_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_13.YH_UI_bg_card_show_strip_13",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_13.YH_UI_bg_information_card_show_strip_13",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1073": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1073_name",
+          "SourceString": "告白信",
+          "LocalizedString": "告白信"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1073",
+          "SourceString": "小吱好感等级10级奖励",
+          "LocalizedString": "小吱好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1073_desc",
+          "SourceString": "「粉爪银行」大堂经理的私人名片。\n出自小吱在拍入职照时被同事抓拍的一张，只会送给亲近的人。入职本司请牢记——《粉爪银行员工守则第一条》：「浪漫」。",
+          "LocalizedString": "「粉爪银行」大堂经理的私人名片。\n出自小吱在拍入职照时被同事抓拍的一张，只会送给亲近的人。入职本司请牢记——《粉爪银行员工守则第一条》：「浪漫」。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_19_s.YH_UI_bg_card_show_strip_19_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_19.YH_UI_bg_card_show_strip_19",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_19.YH_UI_bg_information_card_show_strip_19",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1008": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1008_name",
+          "SourceString": "商务模版",
+          "LocalizedString": "商务模版"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1008",
+          "SourceString": "翳好感等级10级奖励",
+          "LocalizedString": "翳好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1008_desc",
+          "SourceString": "「异象管理局」E.T.D四队副队长翳的名片。\n名片应包含基本姓名、职位、公司全称、详细地址和有效联络方式，如电话号码、邮箱、呗果账号和芝码等，确保客户和合作伙伴能够便捷地取得联系——而这张在统一格式下制作的名片似乎稍显信息不足，翳颇有微词。",
+          "LocalizedString": "「异象管理局」E.T.D四队副队长翳的名片。\n名片应包含基本姓名、职位、公司全称、详细地址和有效联络方式，如电话号码、邮箱、呗果账号和芝码等，确保客户和合作伙伴能够便捷地取得联系——而这张在统一格式下制作的名片似乎稍显信息不足，翳颇有微词。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_07_s.YH_UI_bg_card_show_strip_07_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_07.YH_UI_bg_card_show_strip_07",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_07.YH_UI_bg_information_card_show_strip_07",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1029": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1029_name",
+          "SourceString": "风水问题",
+          "LocalizedString": "风水问题"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1052",
+          "SourceString": "浔好感等级10级奖励",
+          "LocalizedString": "浔好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1029_desc",
+          "SourceString": "「伊波恩古董店」店长浔的名片。\n几乎每一桩结局是被次品、假货所骗的古董收购交易，都通过这张名片找到了浔的头上。所以她偶尔会掏出来打量，寻思着是不是照片文字在设计布局上的位置出了什么毛病……风水角度的。",
+          "LocalizedString": "「伊波恩古董店」店长浔的名片。\n几乎每一桩结局是被次品、假货所骗的古董收购交易，都通过这张名片找到了浔的头上。所以她偶尔会掏出来打量，寻思着是不是照片文字在设计布局上的位置出了什么毛病……风水角度的。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_14_s.YH_UI_bg_card_show_strip_14_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_14.YH_UI_bg_card_show_strip_14",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_14.YH_UI_bg_information_card_show_strip_14",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "1004": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1004_name",
+          "SourceString": "以下省略",
+          "LocalizedString": "以下省略"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_UI_W.ST_UI_W",
+          "Key": "likeability_card_1004",
+          "SourceString": "安魂曲好感等级10级奖励",
+          "LocalizedString": "安魂曲好感等级10级奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_BusinessCard_1004_desc",
+          "SourceString": "「异象管理局」E.T.D四队队员安魂曲的……名片？\n「把这张卡片递给别人，不需要自我介绍，大家也能认识你。」听上去好像很方便，所以安魂曲也学着做了……或许照片不太正式，但确实令人印象深刻。",
+          "LocalizedString": "「异象管理局」E.T.D四队队员安魂曲的……名片？\n「把这张卡片递给别人，不需要自我介绍，大家也能认识你。」听上去好像很方便，所以安魂曲也学着做了……或许照片不太正式，但确实令人印象深刻。"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_06_s.YH_UI_bg_card_show_strip_06_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_06.YH_UI_bg_card_show_strip_06",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_06.YH_UI_bg_information_card_show_strip_06",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
+      },
+      "Combat_BussinessCard_01": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Combat_BussinessCard_01_name",
+          "SourceString": "独家风景",
+          "LocalizedString": "独家风景"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
+          "Key": "Combat_Avatar_01_obtain",
+          "SourceString": "「环期赏令」奖励",
+          "LocalizedString": "「环期赏令」奖励"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Combat_BussinessCard_01_desc",
+          "SourceString": "「这可是只有本老大才能找到的，绝佳的观景点！」",
+          "LocalizedString": "「这可是只有本老大才能找到的，绝佳的观景点！」"
+        },
+        "IconSource": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Small/YH_UI_bg_card_show_strip_33_s.YH_UI_bg_card_show_strip_33_s",
+          "SubPathString": ""
+        },
+        "IconSourceBig": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Big/YH_UI_bg_card_show_strip_33.YH_UI_bg_card_show_strip_33",
+          "SubPathString": ""
+        },
+        "IconSourceLong": {
+          "AssetPathName": "/Game/UI/UI/PlayerInfo/BusinessCards/Card_Long/YH_UI_bg_information_card_show_strip_33.YH_UI_bg_information_card_show_strip_33",
+          "SubPathString": ""
+        },
+        "IconSourceMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "bHide": false
       }
     }
   }

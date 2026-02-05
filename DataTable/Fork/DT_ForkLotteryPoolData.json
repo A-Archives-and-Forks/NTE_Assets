@@ -32,7 +32,7 @@
           "LocalizedString": "限定弧盘概率提升"
         },
         "Bg": {
-          "AssetPathName": "/Game/UI/UI/ForkShop/YH_HPSC_SP01.YH_HPSC_SP01",
+          "AssetPathName": "/Game/UI/UI/ForkShop/UI_YH_Shoppingmall_hupandiban.UI_YH_Shoppingmall_hupandiban",
           "SubPathString": ""
         },
         "Icon": {
@@ -48,6 +48,14 @@
             "IsUp": true
           },
           {
+            "ItemID": "fork_Butterfly",
+            "IsUp": false
+          },
+          {
+            "ItemID": "fork_BlackBook",
+            "IsUp": false
+          },
+          {
             "ItemID": "fork_mofeikesi",
             "IsUp": false
           },
@@ -57,14 +65,6 @@
           },
           {
             "ItemID": "fork_wushoutieyu",
-            "IsUp": false
-          },
-          {
-            "ItemID": "fork_BitGame",
-            "IsUp": false
-          },
-          {
-            "ItemID": "fork_BlackBook",
             "IsUp": false
           }
         ],

@@ -16,27 +16,27 @@
         "TeamChargeDataArray": [
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           }
         ]
       },
@@ -45,27 +45,27 @@
         "TeamChargeDataArray": [
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           }
         ]
       },
@@ -74,27 +74,27 @@
         "TeamChargeDataArray": [
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           }
         ]
       },
@@ -103,27 +103,27 @@
         "TeamChargeDataArray": [
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           }
         ]
       },
@@ -132,27 +132,27 @@
         "TeamChargeDataArray": [
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           }
         ]
       },
@@ -161,27 +161,27 @@
         "TeamChargeDataArray": [
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_INCANTATION",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           },
           {
             "TeamCharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
-            "TeamChargeCoefficient": 0.2
+            "TeamChargeCoefficient": 0.6
           }
         ]
       }

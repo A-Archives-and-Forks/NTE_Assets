@@ -1528,6 +1528,628 @@
             }
           }
         ]
+      },
+      "q1103541": {
+        "Captions": [
+          {
+            "StartTime": 2400,
+            "EndTime": 5700,
+            "Text": {
+              "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_maintask.ST_IntroduceMsg_maintask",
+              "Key": "MT01_03_NPC05801_022",
+              "SourceString": "一亿？！怎么不按剧本来啊！",
+              "LocalizedString": "一亿？！怎么不按剧本来啊！"
+            }
+          },
+          {
+            "StartTime": 6300,
+            "EndTime": 8700,
+            "Text": {
+              "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg_maintask.ST_IntroduceMsg_maintask",
+              "Key": "MT01_03_NPC009_061",
+              "SourceString": "看来，胜利归我喽~",
+              "LocalizedString": "看来，胜利归我喽~"
+            }
+          }
+        ]
+      },
+      "WJ100101": {
+        "Captions": [
+          {
+            "StartTime": 0,
+            "EndTime": 2000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC_011_WJ1001_015",
+              "SourceString": "走喽~",
+              "LocalizedString": "走喽~"
+            }
+          },
+          {
+            "StartTime": 6000,
+            "EndTime": 8500,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC_011_WJ1001_014",
+              "SourceString": "哼哼，我一直都很想试试这招……",
+              "LocalizedString": "哼哼，我一直都很想试试这招……"
+            }
+          },
+          {
+            "StartTime": 9000,
+            "EndTime": 10000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC_011_WJ1001_Player_009",
+              "SourceString": "啊？",
+              "LocalizedString": "啊？"
+            }
+          },
+          {
+            "StartTime": 19000,
+            "EndTime": 21000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC_011_WJ1001_016",
+              "SourceString": "酷吧！",
+              "LocalizedString": "酷吧！"
+            }
+          },
+          {
+            "StartTime": 26000,
+            "EndTime": 28000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC_011_WJ1001_Player_010",
+              "SourceString": "看！",
+              "LocalizedString": "看！"
+            }
+          }
+        ]
+      },
+      "WJ100401": {
+        "Captions": [
+          {
+            "StartTime": 15000,
+            "EndTime": 17000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC_011_WJ1004_006",
+              "SourceString": "呼~",
+              "LocalizedString": "呼~"
+            }
+          },
+          {
+            "StartTime": 22500,
+            "EndTime": 24500,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC_011_WJ1004_Player_004",
+              "SourceString": "下次再练吧。",
+              "LocalizedString": "下次再练吧。"
+            }
+          },
+          {
+            "StartTime": 25000,
+            "EndTime": 26000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC_011_WJ1004_007",
+              "SourceString": "嗯。",
+              "LocalizedString": "嗯。"
+            }
+          },
+          {
+            "StartTime": 27000,
+            "EndTime": 30000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC_011_WJ1004_008",
+              "SourceString": "饿了，去看看大叔有没有做好吃的！",
+              "LocalizedString": "饿了，去看看大叔有没有做好吃的！"
+            }
+          }
+        ]
+      },
+      "WJ100501": {
+        "Captions": [
+          {
+            "StartTime": 10000,
+            "EndTime": 16000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1005_A_001",
+              "SourceString": "（不和家族站在一起的老大，不算是真正的老大……）",
+              "LocalizedString": "（不和家族站在一起的老大，不算是真正的老大……）"
+            }
+          },
+          {
+            "StartTime": 16500,
+            "EndTime": 22000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1005_A_002",
+              "SourceString": "哦，这句这句！（我势必要带着家族，在这片土地上站稳脚跟。）",
+              "LocalizedString": "哦，这句这句！（我势必要带着家族，在这片土地上站稳脚跟。）"
+            }
+          },
+          {
+            "StartTime": 28000,
+            "EndTime": 30000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1005_A_003",
+              "SourceString": "多谢你啦。",
+              "LocalizedString": "多谢你啦。"
+            }
+          },
+          {
+            "StartTime": 30000,
+            "EndTime": 34000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1005_A_004",
+              "SourceString": "这就是我心里当之无愧的影史第一。",
+              "LocalizedString": "这就是我心里当之无愧的影史第一。"
+            }
+          },
+          {
+            "StartTime": 42500,
+            "EndTime": 44500,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1005_A_005",
+              "SourceString": "下次也一起看吧。",
+              "LocalizedString": "下次也一起看吧。"
+            }
+          },
+          {
+            "StartTime": 44800,
+            "EndTime": 46800,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1005_A_006",
+              "SourceString": "好。",
+              "LocalizedString": "好。"
+            }
+          }
+        ]
+      },
+      "WJ101601": {
+        "Captions": [
+          {
+            "StartTime": 9000,
+            "EndTime": 12000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC001_WJ1016_011",
+              "SourceString": "海风的味道……真舒服啊。",
+              "LocalizedString": "海风的味道……真舒服啊。"
+            }
+          },
+          {
+            "StartTime": 15000,
+            "EndTime": 17000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC001_WJ1016_012",
+              "SourceString": "可可，谢谢你。",
+              "LocalizedString": "可可，谢谢你。"
+            }
+          },
+          {
+            "StartTime": 17500,
+            "EndTime": 19500,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1016_Player_006",
+              "SourceString": "谢我什么？",
+              "LocalizedString": "谢我什么？"
+            }
+          },
+          {
+            "StartTime": 19500,
+            "EndTime": 21500,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC001_WJ1016_013",
+              "SourceString": "嘿嘿。",
+              "LocalizedString": "嘿嘿。"
+            }
+          }
+        ]
+      },
+      "WJ102101": {
+        "Captions": [
+          {
+            "StartTime": 500,
+            "EndTime": 3000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1021_Player_007",
+              "SourceString": "这是……",
+              "LocalizedString": "这是……"
+            }
+          },
+          {
+            "StartTime": 2500,
+            "EndTime": 11500,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC004_WJ1021_007",
+              "SourceString": "今天，做活动，有「自由定制」套餐，可以自己动手……做汉堡。",
+              "LocalizedString": "今天，做活动，有「自由定制」套餐，可以自己动手……做汉堡。"
+            }
+          },
+          {
+            "StartTime": 11600,
+            "EndTime": 15000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC004_WJ1021_008",
+              "SourceString": "安魂曲，想试试。",
+              "LocalizedString": "安魂曲，想试试。"
+            }
+          }
+        ]
+      },
+      "WJ102201": {
+        "Captions": [
+          {
+            "StartTime": 13000,
+            "EndTime": 16000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1022_Player_006",
+              "SourceString": "不知不觉，已经这么晚了啊。",
+              "LocalizedString": "不知不觉，已经这么晚了啊。"
+            }
+          },
+          {
+            "StartTime": 17000,
+            "EndTime": 23000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1022_Player_007",
+              "SourceString": "安魂曲今天很努力，对异能的掌控明显更熟练了。之后再……",
+              "LocalizedString": "安魂曲今天很努力，对异能的掌控明显更熟练了。之后再……"
+            }
+          },
+          {
+            "StartTime": 24000,
+            "EndTime": 26000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1022_Player_008",
+              "SourceString": "安魂曲？",
+              "LocalizedString": "安魂曲？"
+            }
+          }
+        ]
+      },
+      "WJ102301": {
+        "Captions": [
+          {
+            "StartTime": 3000,
+            "EndTime": 8000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1023_Player_008",
+              "SourceString": "说起来，安魂曲会飞，高处的景致应该早就看惯了吧？",
+              "LocalizedString": "说起来，安魂曲会飞，高处的景致应该早就看惯了吧？"
+            }
+          },
+          {
+            "StartTime": 8300,
+            "EndTime": 15000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC004_WJ1023_011",
+              "SourceString": "唔……没有。飞太高，很累。很少，飞到这么高。",
+              "LocalizedString": "唔……没有。飞太高，很累。很少，飞到这么高。"
+            }
+          },
+          {
+            "StartTime": 17000,
+            "EndTime": 19000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1023_Player_009",
+              "SourceString": "怎么样，看到星星了吗？",
+              "LocalizedString": "怎么样，看到星星了吗？"
+            }
+          },
+          {
+            "StartTime": 19300,
+            "EndTime": 27500,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC004_WJ1023_012",
+              "SourceString": "没有……但是，下面的汽车，都变得好小，亮闪闪的。",
+              "LocalizedString": "没有……但是，下面的汽车，都变得好小，亮闪闪的。"
+            }
+          },
+          {
+            "StartTime": 28500,
+            "EndTime": 32000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC004_WJ1023_013",
+              "SourceString": "大楼，也亮晶晶的。",
+              "LocalizedString": "大楼，也亮晶晶的。"
+            }
+          },
+          {
+            "StartTime": 32200,
+            "EndTime": 36000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC004_WJ1023_014",
+              "SourceString": "原来地面上，有更多星星……",
+              "LocalizedString": "原来地面上，有更多星星……"
+            }
+          }
+        ]
+      },
+      "WJ103001": {
+        "Captions": [
+          {
+            "StartTime": 14000,
+            "EndTime": 16500,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1030_Player_005",
+              "SourceString": "店长……许的是什么愿望？",
+              "LocalizedString": "店长……许的是什么愿望？"
+            }
+          },
+          {
+            "StartTime": 17000,
+            "EndTime": 21000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC009_WJ1030_005",
+              "SourceString": "那还用问吗？当然是发大财咯~",
+              "LocalizedString": "那还用问吗？当然是发大财咯~"
+            }
+          },
+          {
+            "StartTime": 25500,
+            "EndTime": 28000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1030_Player_006",
+              "SourceString": "果然是店长啊……",
+              "LocalizedString": "果然是店长啊……"
+            }
+          },
+          {
+            "StartTime": 36000,
+            "EndTime": 41000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1030_XY",
+              "SourceString": " ",
+              "LocalizedString": " "
+            }
+          }
+        ]
+      },
+      "WJ103201": {
+        "Captions": [
+          {
+            "StartTime": 20000,
+            "EndTime": 22000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_NPC009_WJ1032_001",
+              "SourceString": "谢谢。",
+              "LocalizedString": "谢谢。"
+            }
+          },
+          {
+            "StartTime": 23000,
+            "EndTime": 26000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1032_Player_001",
+              "SourceString": "好好休息，店长。",
+              "LocalizedString": "好好休息，店长。"
+            }
+          }
+        ]
+      },
+      "Hospital_Ending_01": {
+        "Captions": [
+          {
+            "StartTime": 100,
+            "EndTime": 6800,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCN_01",
+              "SourceString": "「隐火症」，涉异病症，初次发现于冷山医院，可传染，方式未知，无治愈手段。",
+              "LocalizedString": "「隐火症」，涉异病症，初次发现于冷山医院，可传染，方式未知，无治愈手段。"
+            }
+          },
+          {
+            "StartTime": 7166,
+            "EndTime": 13300,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCN_02",
+              "SourceString": "发病早期，患者会因身体局部的灼痛感而情绪不稳定、出现自毁倾向……",
+              "LocalizedString": "发病早期，患者会因身体局部的灼痛感而情绪不稳定、出现自毁倾向……"
+            }
+          },
+          {
+            "StartTime": 13633,
+            "EndTime": 22500,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCN_03",
+              "SourceString": "即使在并无烧伤的情况下，患者也会要求用绷带对患处进行包扎，这种方式疑似能减轻其灼痛感和不安心理。",
+              "LocalizedString": "即使在并无烧伤的情况下，患者也会要求用绷带对患处进行包扎，这种方式疑似能减轻其灼痛感和不安心理。"
+            }
+          },
+          {
+            "StartTime": 22866,
+            "EndTime": 30700,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCN_04",
+              "SourceString": "发病中期，症状会逐步扩散，患者会尽可能地用绷带包裹自己的肢体甚至头部，严重影响活动，",
+              "LocalizedString": "发病中期，症状会逐步扩散，患者会尽可能地用绷带包裹自己的肢体甚至头部，严重影响活动，"
+            }
+          },
+          {
+            "StartTime": 30866,
+            "EndTime": 38833,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCN_05",
+              "SourceString": "同时，将无法进行沟通，停止进食，丧失睡眠，任何尝试摘下绷带的举动会引发剧烈的反抗。",
+              "LocalizedString": "同时，将无法进行沟通，停止进食，丧失睡眠，任何尝试摘下绷带的举动会引发剧烈的反抗。"
+            }
+          },
+          {
+            "StartTime": 38966,
+            "EndTime": 42100,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCN_06",
+              "SourceString": "哪怕是处于深度麻醉状态下，也会直接苏醒。",
+              "LocalizedString": "哪怕是处于深度麻醉状态下，也会直接苏醒。"
+            }
+          },
+          {
+            "StartTime": 42200,
+            "EndTime": 45233,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCN_07",
+              "SourceString": "发病后期，症状扩散至全身……",
+              "LocalizedString": "发病后期，症状扩散至全身……"
+            }
+          }
+        ]
+      },
+      "Hospital_Ending_02": {
+        "Captions": [
+          {
+            "StartTime": 10966,
+            "EndTime": 21200,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCJ_01",
+              "SourceString": "冷山医院的一切都是施特林家族的财产，包括他们的病，他们的生，他们的死。",
+              "LocalizedString": "冷山医院的一切都是施特林家族的财产，包括他们的病，他们的生，他们的死。"
+            }
+          },
+          {
+            "StartTime": 22200,
+            "EndTime": 29900,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCJ_02",
+              "SourceString": "当家族将这一批实验品以患者的名义收入冷山医院时，我就已经做好了最坏的打算。",
+              "LocalizedString": "当家族将这一批实验品以患者的名义收入冷山医院时，我就已经做好了最坏的打算。"
+            }
+          },
+          {
+            "StartTime": 31366,
+            "EndTime": 37200,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCJ_03",
+              "SourceString": "但我从未想过，最终的差错竟然出在了一个小小的实验员身上。",
+              "LocalizedString": "但我从未想过，最终的差错竟然出在了一个小小的实验员身上。"
+            }
+          },
+          {
+            "StartTime": 38400,
+            "EndTime": 45433,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCJ_04",
+              "SourceString": "家族给所有人许诺了财富与健康，也包括他在内。可为何他要背叛？",
+              "LocalizedString": "家族给所有人许诺了财富与健康，也包括他在内。可为何他要背叛？"
+            }
+          },
+          {
+            "StartTime": 46866,
+            "EndTime": 50066,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCJ_05",
+              "SourceString": "因为对那些本就无法治愈之人产生了怜悯？",
+              "LocalizedString": "因为对那些本就无法治愈之人产生了怜悯？"
+            }
+          },
+          {
+            "StartTime": 50500,
+            "EndTime": 56833,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCJ_06",
+              "SourceString": "还是因为自己也感染了异病，觉得生命毫无意义，所以和我们鱼死网破？",
+              "LocalizedString": "还是因为自己也感染了异病，觉得生命毫无意义，所以和我们鱼死网破？"
+            }
+          },
+          {
+            "StartTime": 57600,
+            "EndTime": 60900,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCJ_07",
+              "SourceString": "无法理解，我也没有时间关心。",
+              "LocalizedString": "无法理解，我也没有时间关心。"
+            }
+          },
+          {
+            "StartTime": 61800,
+            "EndTime": 67900,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCJ_08",
+              "SourceString": "那些失控的实验品已经把这个创造了无数奇迹的地方，变成了炼狱。",
+              "LocalizedString": "那些失控的实验品已经把这个创造了无数奇迹的地方，变成了炼狱。"
+            }
+          },
+          {
+            "StartTime": 68866,
+            "EndTime": 74666,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "Hospital_Ending_NPCJ_09",
+              "SourceString": "但即便如此，护理部也有义务将所有家族的痕迹抹除。",
+              "LocalizedString": "但即便如此，护理部也有义务将所有家族的痕迹抹除。"
+            }
+          }
+        ]
+      },
+      "WJ101401": {
+        "Captions": [
+          {
+            "StartTime": 25000,
+            "EndTime": 29000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1014_01",
+              "SourceString": "大~功~告成！",
+              "LocalizedString": "大~功~告成！"
+            }
+          },
+          {
+            "StartTime": 32000,
+            "EndTime": 34000,
+            "Text": {
+              "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+              "Key": "WLSD_WJ1014_02",
+              "SourceString": "不愧是我们！",
+              "LocalizedString": "不愧是我们！"
+            }
+          }
+        ]
       }
     }
   }

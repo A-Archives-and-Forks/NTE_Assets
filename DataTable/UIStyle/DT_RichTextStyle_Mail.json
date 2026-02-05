@@ -301,11 +301,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.745404,
-              "G": 0.381326,
-              "B": 0.059511,
+              "R": 0.982251,
+              "G": 0.107023,
+              "B": 0.000607,
               "A": 1.0,
-              "Hex": "E0A645"
+              "Hex": "FD5C02"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -817,11 +817,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.879623,
-              "G": 0.082283,
-              "B": 0.082283,
+              "R": 0.610496,
+              "G": 0.049707,
+              "B": 0.025187,
               "A": 1.0,
-              "Hex": "F15151"
+              "Hex": "CD3F2C"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },

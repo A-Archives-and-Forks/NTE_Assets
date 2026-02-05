@@ -14,15 +14,12 @@
       "q110001_0": {
         "QuestId": "q110001_0",
         "QuestIcon": {
-          "AssetPathName": "/Game/Characters/Player/lusm/zang/8/1.1",
+          "AssetPathName": "",
           "SubPathString": ""
         },
         "bHasExtraDesc": true,
         "ExQuestDesc": {
-          "Namespace": "",
-          "Key": "94759415465C6E3B8157D98FBFFD0CE2",
-          "SourceString": "extraDesc",
-          "LocalizedString": "extraDesc"
+          "CultureInvariantString": null
         },
         "MiniMapFixIconName": "None"
       },
@@ -34,10 +31,7 @@
         },
         "bHasExtraDesc": true,
         "ExQuestDesc": {
-          "TableId": "/Game/Text/ST_Fork.ST_Fork",
-          "Key": "buff_huixianglieche_des1",
-          "SourceString": null,
-          "LocalizedString": null
+          "CultureInvariantString": null
         },
         "MiniMapFixIconName": "Test2"
       }

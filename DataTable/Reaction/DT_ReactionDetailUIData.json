@@ -37,6 +37,9 @@
             "CharacterID": "1025",
             "ReactionAbilityID": "GA_hathor_Passive_1"
           }
+        ],
+        "TriggerTeachArray": [
+          "combination3"
         ]
       },
       "2": {
@@ -53,8 +56,8 @@
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_guangling_des",
-          "SourceString": "触发异能环合后，目标附近将诞生<NumGreen>1</>株<bule>「创生株」</>，并绽放<NumGreen>5</>朵<bule>「创生花」</>。\r\n每隔<NumGreen>2</>秒，<bule>「创生花」</>会陆续飞向射程内的目标并爆炸，造成一定范围伤害。",
-          "LocalizedString": "触发异能环合后，目标附近将诞生<NumGreen>1</>株<bule>「创生株」</>，并绽放<NumGreen>5</>朵<bule>「创生花」</>。\r\n每隔<NumGreen>2</>秒，<bule>「创生花」</>会陆续飞向射程内的目标并爆炸，造成一定范围伤害。"
+          "SourceString": "触发异能环合后，目标附近将诞生<NumGreen>1</>株<bule>「创生株」</>，并绽放<NumGreen>5</>朵<bule>「创生花」</>。\r\n每隔<NumGreen>2</>秒，<bule>「创生花」</>会陆续飞向射程内的目标并爆炸，造成一定范围伤害。\r\n场上最多同时存在<NumGreen>3</>株<bule>「创生株」</>。",
+          "LocalizedString": "触发异能环合后，目标附近将诞生<NumGreen>1</>株<bule>「创生株」</>，并绽放<NumGreen>5</>朵<bule>「创生花」</>。\r\n每隔<NumGreen>2</>秒，<bule>「创生花」</>会陆续飞向射程内的目标并爆炸，造成一定范围伤害。\r\n场上最多同时存在<NumGreen>3</>株<bule>「创生株」</>。"
         },
         "InnerData": [
           {
@@ -68,7 +71,14 @@
           {
             "CharacterID": "1052",
             "ReactionAbilityID": "GA_Jin_Passive_1"
+          },
+          {
+            "CharacterID": "1055",
+            "ReactionAbilityID": "GA_Kuhara_Passive_1"
           }
+        ],
+        "TriggerTeachArray": [
+          "combination1"
         ]
       },
       "3": {
@@ -85,10 +95,13 @@
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_lingzhou_des",
-          "SourceString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>灵系或咒系异能伤害</>时，将额外受到一次原伤害<NumGreen>50%</>的<bule>联袂邀击伤害</>。",
-          "LocalizedString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>灵系或咒系异能伤害</>时，将额外受到一次原伤害<NumGreen>50%</>的<bule>联袂邀击伤害</>。"
+          "SourceString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>灵属性或咒属性异能伤害</>时，将额外受到一次原伤害<NumGreen>20%</>的<bule>追加攻击伤害</>。",
+          "LocalizedString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>灵属性或咒属性异能伤害</>时，将额外受到一次原伤害<NumGreen>20%</>的<bule>追加攻击伤害</>。"
         },
-        "InnerData": []
+        "InnerData": [],
+        "TriggerTeachArray": [
+          "combination2"
+        ]
       },
       "4": {
         "ReactionElementArray": [
@@ -104,14 +117,21 @@
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_anhun_des",
-          "SourceString": "触发异能环合后的<NumGreen>5</>秒内，目标进入黯星状态。该状态结束时，目标将受到一次高额<bule>潜意伤害</>。",
-          "LocalizedString": "触发异能环合后的<NumGreen>5</>秒内，目标进入黯星状态。该状态结束时，目标将受到一次高额<bule>潜意伤害</>。"
+          "SourceString": "触发异能环合后的<NumGreen>5</>秒内，目标进入黯星状态。该状态结束时，目标将受到一次高额<bule>心灵伤害</>。",
+          "LocalizedString": "触发异能环合后的<NumGreen>5</>秒内，目标进入黯星状态。该状态结束时，目标将受到一次高额<bule>心灵伤害</>。"
         },
         "InnerData": [
           {
             "CharacterID": "1039",
             "ReactionAbilityID": "GA_Fadia_Passive_1"
+          },
+          {
+            "CharacterID": "1020",
+            "ReactionAbilityID": "GA_Haniel_Passive_1"
           }
+        ],
+        "TriggerTeachArray": [
+          "combination4"
         ]
       },
       "5": {
@@ -144,6 +164,9 @@
             "CharacterID": "1033",
             "ReactionAbilityID": "GA_Adler_Passive_1"
           }
+        ],
+        "TriggerTeachArray": [
+          "combination5"
         ]
       },
       "6": {
@@ -160,10 +183,13 @@
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_hunxiang_des",
-          "SourceString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>魂系或相系异能伤害</>时，所受伤害量提升<NumGreen>50%</>。",
-          "LocalizedString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>魂系或相系异能伤害</>时，所受伤害量提升<NumGreen>50%</>。"
+          "SourceString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>魂属性或相属性异能伤害</>时，所受伤害量提升<NumGreen>20%</>。",
+          "LocalizedString": "触发异能环合后的<NumGreen>12</>秒内，目标受到<bule>魂属性或相属性异能伤害</>时，所受伤害量提升<NumGreen>20%</>。"
         },
-        "InnerData": []
+        "InnerData": [],
+        "TriggerTeachArray": [
+          "combination6"
+        ]
       },
       "7": {
         "ReactionElementArray": [
@@ -180,14 +206,25 @@
         "ReactionResultDesc": {
           "TableId": "/Game/Text/ST_ReactionDes.ST_ReactionDes",
           "Key": "Reaction_guanglingxiang_des",
-          "SourceString": "<bule>「创生花」</>命中处于延滞状态的目标时，当前驻场角色额外获得<NumGreen>2</>点<bule>场域原质</>。",
-          "LocalizedString": "<bule>「创生花」</>命中处于延滞状态的目标时，当前驻场角色额外获得<NumGreen>2</>点<bule>场域原质</>。"
+          "SourceString": "<bule>「创生花」</>命中处于延滞状态的目标时，当前驻场角色额外获得<NumGreen>10</>点<bule>终结能量</>。",
+          "LocalizedString": "<bule>「创生花」</>命中处于延滞状态的目标时，当前驻场角色额外获得<NumGreen>10</>点<bule>终结能量</>。"
         },
         "InnerData": [
           {
             "CharacterID": "1051",
             "ReactionAbilityID": "GA_Female_Passive_1"
+          },
+          {
+            "CharacterID": "1073",
+            "ReactionAbilityID": "GA_Chiichan073_Passive_1"
+          },
+          {
+            "CharacterID": "1021",
+            "ReactionAbilityID": "GA_Edgar_Passive_1"
           }
+        ],
+        "TriggerTeachArray": [
+          "combination7"
         ]
       },
       "8": {
@@ -212,7 +249,14 @@
           {
             "CharacterID": "1004",
             "ReactionAbilityID": "GA_Lacrimosa_Passive_1"
+          },
+          {
+            "CharacterID": "1054",
+            "ReactionAbilityID": "GA_Daffodill_Passive_1"
           }
+        ],
+        "TriggerTeachArray": [
+          "combination8"
         ]
       }
     }

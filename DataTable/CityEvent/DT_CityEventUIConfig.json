@@ -1,0 +1,123 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_CityEventUIConfig",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'CityEventUIConfig'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "Crimes": {
+        "UIData": {
+          "SonInfo": [
+            {
+              "Type": "Crimes::ThreatenNPC",
+              "TriggerTitle": {
+                "TableId": "/Game/Text/ST_Dialogue_WorldRandomCriminal_Chat.ST_Dialogue_WorldRandomCriminal_Chat",
+                "Key": "CityEvent_Crime_IB_Des",
+                "SourceString": "市民受到威胁",
+                "LocalizedString": "市民受到威胁"
+              },
+              "StageTriggerTitle": []
+            },
+            {
+              "Type": "Crimes::VehicleTheft",
+              "TriggerTitle": {
+                "TableId": "/Game/Text/ST_Dialogue_WorldRandomCriminal_Chat.ST_Dialogue_WorldRandomCriminal_Chat",
+                "Key": "CityEvent_Crime_VT_Des",
+                "SourceString": "存在他人行窃",
+                "LocalizedString": "存在他人行窃"
+              },
+              "StageTriggerTitle": []
+            },
+            {
+              "Type": "Crimes::HawkerHarassment",
+              "TriggerTitle": {
+                "TableId": "/Game/Text/ST_Dialogue_WorldRandomCriminal_Chat.ST_Dialogue_WorldRandomCriminal_Chat",
+                "Key": "CityEvent_Crime_SH_Des",
+                "SourceString": "商铺受到骚扰",
+                "LocalizedString": "商铺受到骚扰"
+              },
+              "StageTriggerTitle": []
+            },
+            {
+              "Type": "Crimes::StoreHarassment",
+              "TriggerTitle": {
+                "TableId": "/Game/Text/ST_Dialogue_WorldRandomCriminal_Chat.ST_Dialogue_WorldRandomCriminal_Chat",
+                "Key": "CityEvent_Crime_SH_Des",
+                "SourceString": "商铺受到骚扰",
+                "LocalizedString": "商铺受到骚扰"
+              },
+              "StageTriggerTitle": []
+            },
+            {
+              "Type": "Crimes::RecklessChase",
+              "TriggerTitle": {
+                "TableId": "/Game/Text/ST_Dialogue_WorldRandomCriminal_Chat.ST_Dialogue_WorldRandomCriminal_Chat",
+                "Key": "CityEvent_Crime_RD_Des",
+                "SourceString": "存在恶意行车干扰",
+                "LocalizedString": "存在恶意行车干扰"
+              },
+              "StageTriggerTitle": []
+            },
+            {
+              "Type": "Crimes::VehiclePlunder",
+              "TriggerTitle": {
+                "TableId": "/Game/Text/ST_Dialogue_WorldRandomCriminal_Chat.ST_Dialogue_WorldRandomCriminal_Chat",
+                "Key": "CityEvent_Crime_VP_Des",
+                "SourceString": "存在被盗车辆",
+                "LocalizedString": "存在被盗车辆"
+              },
+              "StageTriggerTitle": [
+                {
+                  "TableId": "/Game/Text/ST_Dialogue_WorldRandomCriminal_Chat.ST_Dialogue_WorldRandomCriminal_Chat",
+                  "Key": "CityEvent_Crime_VP_Des",
+                  "SourceString": "存在被盗车辆",
+                  "LocalizedString": "存在被盗车辆"
+                },
+                {
+                  "TableId": "/Game/Text/ST_Dialogue_WorldRandomCriminal_Chat.ST_Dialogue_WorldRandomCriminal_Chat",
+                  "Key": "CityEvent_Crime_VT_Des02",
+                  "SourceString": "已开上车，需要把车辆开到指定地点",
+                  "LocalizedString": "已开上车，需要把车辆开到指定地点"
+                }
+              ]
+            }
+          ],
+          "FatherInfo": {
+            "TriggerTitle": {
+              "TableId": "/Game/Text/ST_TeachAndIllustrate.ST_TeachAndIllustrate",
+              "Key": "CityEvent_Crime_Name",
+              "SourceString": "附近发现城市违规行径",
+              "LocalizedString": "附近发现城市违规行径"
+            },
+            "FinishTitle": {
+              "TableId": "/Game/Text/ST_Dialogue_WorldRandomCriminal_Chat.ST_Dialogue_WorldRandomCriminal_Chat",
+              "Key": "CityEvent_Crime_Complete_Des",
+              "SourceString": "已解决",
+              "LocalizedString": "已解决"
+            },
+            "Icon": {
+              "AssetPathName": "/Game/UI/UI/CityEvent/UI_quest_type1_arrest.UI_quest_type1_arrest",
+              "SubPathString": ""
+            },
+            "FinishIcon": {
+              "AssetPathName": "/Game/UI/UI/CityEvent/UI_YH_Archive_FileImages_10.UI_YH_Archive_FileImages_10",
+              "SubPathString": ""
+            },
+            "MapIconID": "CityEvent_Crime",
+            "MapIconOffset": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            }
+          }
+        }
+      }
+    }
+  }
+]

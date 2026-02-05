@@ -17,10 +17,7 @@
           "SubPathString": ""
         },
         "IntroductionText": {
-          "Namespace": "",
-          "Key": "454C8AC540C3871C1BBFC09E8EAB011A",
-          "SourceString": "<!>test1",
-          "LocalizedString": "<!>test1"
+          "CultureInvariantString": "<!>test1"
         }
       },
       "Test2": {
@@ -29,10 +26,7 @@
           "SubPathString": ""
         },
         "IntroductionText": {
-          "Namespace": "",
-          "Key": "6B022A73452CE3F315B18D88DB9873F3",
-          "SourceString": "<!>test2",
-          "LocalizedString": "<!>test2"
+          "CultureInvariantString": "<!>test2"
         }
       },
       "THD_K110344_L_1": {

@@ -127,7 +127,10 @@
           "DropGroupID": "drop_Wishingpond_fishingup",
           "AngryProbability": 0.5,
           "AngrySequenceID": "SE_World_WishWell_02_all",
-          "AngryGEClass": null
+          "AngryGEClass": {
+            "ObjectName": "BlueprintGeneratedClass'Buff_WishWell_Punish_C'",
+            "ObjectPath": "/Game/Blueprints/Level/World/Interact/WishWell/BUFF/Buff_WishWell_Punish.0"
+          }
         }
       }
     }

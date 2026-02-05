@@ -17,6 +17,7 @@
         "Priority": 1,
         "ParentAreaId": "None",
         "ExitMapIcon": "HTArea_test_wzy_1_1_exit",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": 22840.986,
@@ -52,6 +53,7 @@
         "Priority": 2,
         "ParentAreaId": "HTAreaVolume_test_wzy_1_1",
         "ExitMapIcon": "HTArea_test_wzy_1_2_1",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": 22840.986,
@@ -78,6 +80,7 @@
         "Priority": 0,
         "ParentAreaId": "HTAreaVolume_test_wzy_1_1",
         "ExitMapIcon": "HTArea_test_wzy_1_2_2_exit",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": 22840.986,
@@ -113,6 +116,7 @@
         "Priority": 3,
         "ParentAreaId": "HTAreaVolume_test_wzy_1_2_2",
         "ExitMapIcon": "HTArea_test_wzy_1_2_2_enter_1",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": 22840.986,
@@ -139,6 +143,7 @@
         "Priority": 3,
         "ParentAreaId": "HTAreaVolume_test_wzy_1_2_2",
         "ExitMapIcon": "HTArea_test_wzy_1_2_2_enter_2",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": 22840.986,
@@ -165,6 +170,7 @@
         "Priority": 1,
         "ParentAreaId": "None",
         "ExitMapIcon": "HTArea_test_wzy_2_1_exit",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": 20348.758,
@@ -200,6 +206,7 @@
         "Priority": 2,
         "ParentAreaId": "HTRoomVolume_test_wzy_2_1",
         "ExitMapIcon": "HTArea_test_wzy_2_2_1_exit",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": 20348.758,
@@ -231,6 +238,7 @@
         "Priority": 2,
         "ParentAreaId": "HTRoomVolume_test_wzy_2_1",
         "ExitMapIcon": "HTArea_test_wzy_2_2_2_exit",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": 20348.758,
@@ -257,6 +265,7 @@
         "Priority": 3,
         "ParentAreaId": "HTRoomVolume_test_wzy_2_2_1",
         "ExitMapIcon": "HTArea_test_wzy_2_2_1_enter",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": 20348.758,
@@ -283,6 +292,7 @@
         "Priority": 1,
         "ParentAreaId": "HTTrackVolume_L1",
         "ExitMapIcon": "Hotel_area_B2_exit",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": -9362.852,
@@ -314,6 +324,7 @@
         "Priority": 2,
         "ParentAreaId": "HTTrackVolume_B2",
         "ExitMapIcon": "Hotel_area_B3_exit",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": -6491.59,
@@ -340,6 +351,7 @@
         "Priority": 0,
         "ParentAreaId": "None",
         "ExitMapIcon": "None",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": -6692.243,
@@ -379,6 +391,7 @@
         "Priority": 1,
         "ParentAreaId": "HTTrackVolume_L1",
         "ExitMapIcon": "Hotel_area_L10_exit",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": -4812.395,
@@ -405,6 +418,7 @@
         "Priority": 1,
         "ParentAreaId": "HTTrackVolume_L1",
         "ExitMapIcon": "Hotel_area_L6_exit",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": -8669.184,
@@ -425,119 +439,32 @@
         },
         "SubAreaEntranceList": []
       },
-      "HTRoomVolume_yiguanju1F": {
-        "CurAreaId": "HTRoomVolume_yiguanju1F",
-        "LevelMap": "XL_map_bigworld_test",
-        "Priority": 1,
-        "ParentAreaId": "None",
-        "ExitMapIcon": "YiGuanju1Ftoapartment",
-        "AreaBox": {
-          "Min": {
-            "X": -3045.0,
-            "Y": 263847.0,
-            "Z": 4121.0
-          },
-          "Max": {
-            "X": 10955.0,
-            "Y": 279847.0,
-            "Z": 5721.0
-          },
-          "IsValid": 1
-        },
-        "Location": {
-          "X": 3955.0,
-          "Y": 271847.0,
-          "Z": 4921.0
-        },
-        "SubAreaEntranceList": [
-          {
-            "Key": "HTRoomVolume_yiguanju2F",
-            "Value": "YiGuanju1Fto2F"
-          }
-        ]
-      },
-      "HTRoomVolume_yiguanju2F": {
-        "CurAreaId": "HTRoomVolume_yiguanju2F",
-        "LevelMap": "XL_map_bigworld_test",
-        "Priority": 2,
-        "ParentAreaId": "HTRoomVolume_yiguanju1F",
-        "ExitMapIcon": "YiGuanju2Fto1F",
-        "AreaBox": {
-          "Min": {
-            "X": -5840.0,
-            "Y": 253965.0,
-            "Z": 6418.0
-          },
-          "Max": {
-            "X": 14160.0,
-            "Y": 277965.0,
-            "Z": 8818.0
-          },
-          "IsValid": 1
-        },
-        "Location": {
-          "X": 4160.0,
-          "Y": 265965.0,
-          "Z": 7618.0
-        },
-        "SubAreaEntranceList": []
-      },
-      "HTRoomVolume_station": {
-        "CurAreaId": "HTRoomVolume_station",
-        "LevelMap": "XL_map_bigworld_test",
-        "Priority": 2,
-        "ParentAreaId": "HTRoomVolume_stationwild",
-        "ExitMapIcon": "HTRoomVolume_stationtowild",
-        "AreaBox": {
-          "Min": {
-            "X": -40342.0,
-            "Y": -31456.0,
-            "Z": -18906.0
-          },
-          "Max": {
-            "X": -20342.0,
-            "Y": -1456.0,
-            "Z": 1094.0
-          },
-          "IsValid": 1
-        },
-        "Location": {
-          "X": -30342.0,
-          "Y": -16456.0,
-          "Z": -8906.0
-        },
-        "SubAreaEntranceList": []
-      },
       "HTRoomVolume_stationwild": {
         "CurAreaId": "HTRoomVolume_stationwild",
         "LevelMap": "XL_map_bigworld_test",
         "Priority": 1,
         "ParentAreaId": "None",
         "ExitMapIcon": "HTRoomVolume_stationwildtowild",
+        "bShowExitIcon": false,
         "AreaBox": {
           "Min": {
-            "X": -33431.89,
-            "Y": -18973.283,
+            "X": -33315.773,
+            "Y": -18399.447,
             "Z": 8668.594
           },
           "Max": {
-            "X": -32354.793,
-            "Y": -16111.632,
+            "X": -32368.91,
+            "Y": -16276.403,
             "Z": 9668.594
           },
           "IsValid": 1
         },
         "Location": {
-          "X": -32893.34,
-          "Y": -17542.457,
+          "X": -32842.34,
+          "Y": -17337.926,
           "Z": 9168.594
         },
-        "SubAreaEntranceList": [
-          {
-            "Key": "HTRoomVolume_station",
-            "Value": "HTRoomVolume_stationwildtostation"
-          }
-        ]
+        "SubAreaEntranceList": []
       },
       "HTRoomVolume_s110601_02": {
         "CurAreaId": "HTRoomVolume_s110601_02",
@@ -545,6 +472,7 @@
         "Priority": 2,
         "ParentAreaId": "HTRoomVolume_s110601_03",
         "ExitMapIcon": "A_ThirdFloor_to_FirstFloor",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": -139441.7,
@@ -571,6 +499,7 @@
         "Priority": 1,
         "ParentAreaId": "None",
         "ExitMapIcon": "BigWorld_to_ArtistHome",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": -139441.7,
@@ -602,23 +531,24 @@
         "Priority": 1,
         "ParentAreaId": "None",
         "ExitMapIcon": "A_Tower_1F_to_TF",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
-            "X": 19101.816,
-            "Y": 37168.8,
-            "Z": 6466.4165
+            "X": 21367.023,
+            "Y": 39112.473,
+            "Z": 4001.0796
           },
           "Max": {
-            "X": 31207.32,
-            "Y": 49274.3,
-            "Z": 10462.737
+            "X": 28942.113,
+            "Y": 47330.63,
+            "Z": 17125.193
           },
           "IsValid": 1
         },
         "Location": {
           "X": 25154.568,
           "Y": 43221.55,
-          "Z": 8464.577
+          "Z": 10563.137
         },
         "SubAreaEntranceList": [
           {
@@ -633,23 +563,24 @@
         "Priority": 2,
         "ParentAreaId": "HTRoomVolume_s111100_Inner_1F",
         "ExitMapIcon": "A_Tower_TF_to_1F",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
-            "X": 23054.662,
-            "Y": 40482.03,
-            "Z": 43388.184
+            "X": 22122.6,
+            "Y": 39661.883,
+            "Z": 9815.831
           },
           "Max": {
-            "X": 28942.91,
-            "Y": 46370.277,
-            "Z": 47360.746
+            "X": 28663.566,
+            "Y": 46044.844,
+            "Z": 63767.7
           },
           "IsValid": 1
         },
         "Location": {
-          "X": 25998.785,
-          "Y": 43426.152,
-          "Z": 45374.465
+          "X": 25393.084,
+          "Y": 42853.363,
+          "Z": 36791.766
         },
         "SubAreaEntranceList": []
       },
@@ -659,22 +590,23 @@
         "Priority": 1,
         "ParentAreaId": "None",
         "ExitMapIcon": "apartment_1L_Exit",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
-            "X": -120550.516,
-            "Y": 168585.62,
+            "X": -120169.61,
+            "Y": 168597.14,
             "Z": 6333.326
           },
           "Max": {
-            "X": -114922.26,
-            "Y": 174213.89,
+            "X": -114851.164,
+            "Y": 173972.39,
             "Z": 7533.326
           },
           "IsValid": 1
         },
         "Location": {
-          "X": -117736.39,
-          "Y": 171399.77,
+          "X": -117510.39,
+          "Y": 171284.77,
           "Z": 6933.326
         },
         "SubAreaEntranceList": [
@@ -694,6 +626,7 @@
         "Priority": 2,
         "ParentAreaId": "HTRoomVolume1L",
         "ExitMapIcon": "apartment_wjHome_to_Ele",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": -120550.516,
@@ -720,6 +653,7 @@
         "Priority": 2,
         "ParentAreaId": "HTRoomVolume1L",
         "ExitMapIcon": "apartment_YsjjHome_to_Ele",
+        "bShowExitIcon": true,
         "AreaBox": {
           "Min": {
             "X": -120550.516,
@@ -739,6 +673,278 @@
           "Z": 9983.326
         },
         "SubAreaEntranceList": []
+      },
+      "HTRoomVolume_yiguanju0F": {
+        "CurAreaId": "HTRoomVolume_yiguanju0F",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 3,
+        "ParentAreaId": "HTRoomVolume_yiguanju2F",
+        "ExitMapIcon": "YiGuanju0FtoYiGuanju2F",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": -6956.314,
+            "Y": 261244.94,
+            "Z": -18666.844
+          },
+          "Max": {
+            "X": 13843.686,
+            "Y": 283244.94,
+            "Z": -7966.8438
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": 3443.6858,
+          "Y": 272244.94,
+          "Z": -13316.844
+        },
+        "SubAreaEntranceList": []
+      },
+      "HTRoomVolume_yiguanju1F": {
+        "CurAreaId": "HTRoomVolume_yiguanju1F",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 1,
+        "ParentAreaId": "None",
+        "ExitMapIcon": "YiGuanju1Ftoapartment",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": 653.68585,
+            "Y": 258393.94,
+            "Z": 4561.1562
+          },
+          "Max": {
+            "X": 14653.686,
+            "Y": 280393.94,
+            "Z": 6361.1562
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": 7653.686,
+          "Y": 269393.94,
+          "Z": 5461.1562
+        },
+        "SubAreaEntranceList": [
+          {
+            "Key": "HTRoomVolume_yiguanju2F",
+            "Value": "YiGuanju1Fto2F"
+          }
+        ]
+      },
+      "HTRoomVolume_yiguanju2F": {
+        "CurAreaId": "HTRoomVolume_yiguanju2F",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 2,
+        "ParentAreaId": "HTRoomVolume_yiguanju1F",
+        "ExitMapIcon": "YiGuanju2Fto1F",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": -984.3143,
+            "Y": 260601.2,
+            "Z": 7004.976
+          },
+          "Max": {
+            "X": 9015.686,
+            "Y": 276601.2,
+            "Z": 10204.976
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": 4015.6858,
+          "Y": 268601.2,
+          "Z": 8604.976
+        },
+        "SubAreaEntranceList": [
+          {
+            "Key": "HTRoomVolume_yiguanju0F",
+            "Value": "YiGuanju2Fto0F"
+          }
+        ]
+      },
+      "HTRoomVolume_station": {
+        "CurAreaId": "HTRoomVolume_station",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 2,
+        "ParentAreaId": "HTRoomVolume_stationwild",
+        "ExitMapIcon": "HTRoomVolume_stationtowild",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": -33944.332,
+            "Y": -29478.72,
+            "Z": -10887.441
+          },
+          "Max": {
+            "X": -23944.33,
+            "Y": 1596.2802,
+            "Z": -5974.941
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": -28944.33,
+          "Y": -13941.22,
+          "Z": -8431.191
+        },
+        "SubAreaEntranceList": []
+      },
+      "HTRoomVolume_1F_B1100511": {
+        "CurAreaId": "HTRoomVolume_1F_B1100511",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 1,
+        "ParentAreaId": "None",
+        "ExitMapIcon": "PlayerLoft_to_BigWorld",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": -174844.08,
+            "Y": 118323.414,
+            "Z": 6903.8647
+          },
+          "Max": {
+            "X": -172360.56,
+            "Y": 120089.88,
+            "Z": 7503.8647
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": -173602.31,
+          "Y": 119206.65,
+          "Z": 7203.8647
+        },
+        "SubAreaEntranceList": [
+          {
+            "Key": "HTRoomVolume_5F_B110511",
+            "Value": "PlayerLoft1F_to_Elevator"
+          }
+        ]
+      },
+      "HTRoomVolume_5F_B110511": {
+        "CurAreaId": "HTRoomVolume_5F_B110511",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 3,
+        "ParentAreaId": "HTRoomVolume_Elevator_B1100511",
+        "ExitMapIcon": "PlayerLoft5F_to_Elevator",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": -175002.64,
+            "Y": 118226.23,
+            "Z": 10676.109
+          },
+          "Max": {
+            "X": -172268.42,
+            "Y": 120157.586,
+            "Z": 11476.109
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": -173635.53,
+          "Y": 119191.91,
+          "Z": 11076.109
+        },
+        "SubAreaEntranceList": []
+      },
+      "HTRoomVolume_Elevator_B1100511": {
+        "CurAreaId": "HTRoomVolume_Elevator_B1100511",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 2,
+        "ParentAreaId": "HTRoomVolume_1F_B1100511",
+        "ExitMapIcon": "PlayerLoft5F_to_Elevator",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": -174935.72,
+            "Y": 118738.9,
+            "Z": 7094.4077
+          },
+          "Max": {
+            "X": -174210.08,
+            "Y": 119386.75,
+            "Z": 11494.407
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": -174572.89,
+          "Y": 119062.83,
+          "Z": 9294.407
+        },
+        "SubAreaEntranceList": [
+          {
+            "Key": "HTRoomVolume_5F_B110511",
+            "Value": "Elevator_to_PlayerLoft5F"
+          }
+        ]
+      },
+      "HTRoomVolume7": {
+        "CurAreaId": "HTRoomVolume7",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 1,
+        "ParentAreaId": "None",
+        "ExitMapIcon": "BigWorld_to_Museum",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": 20480.605,
+            "Y": 116081.555,
+            "Z": 5816.109
+          },
+          "Max": {
+            "X": 30510.68,
+            "Y": 122975.18,
+            "Z": 9005.81
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": 25495.643,
+          "Y": 119528.37,
+          "Z": 7410.959
+        },
+        "SubAreaEntranceList": []
+      },
+      "HTRoomVolume_Ele": {
+        "CurAreaId": "HTRoomVolume_Ele",
+        "LevelMap": "XL_map_bigworld_test",
+        "Priority": 2,
+        "ParentAreaId": "HTRoomVolume1L",
+        "ExitMapIcon": "apartment_elevator_Exit",
+        "bShowExitIcon": true,
+        "AreaBox": {
+          "Min": {
+            "X": -116648.516,
+            "Y": 170058.11,
+            "Z": 6417.0
+          },
+          "Max": {
+            "X": -116149.484,
+            "Y": 170545.89,
+            "Z": 12417.0
+          },
+          "IsValid": 1
+        },
+        "Location": {
+          "X": -116399.0,
+          "Y": 170302.0,
+          "Z": 9417.0
+        },
+        "SubAreaEntranceList": [
+          {
+            "Key": "HTRoomVolume_YsjHome",
+            "Value": "apartment_Ele_to_YsjHome"
+          },
+          {
+            "Key": "HTRoomVolume_wjHome",
+            "Value": "apartment_Ele_to_wjHome"
+          }
+        ]
       }
     }
   }

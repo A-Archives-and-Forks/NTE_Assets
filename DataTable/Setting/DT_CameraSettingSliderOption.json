@@ -22,6 +22,12 @@
       },
       "fCameraSlidePitchSpeed": {
         "DefaultValue": 5
+      },
+      "fFPCameraSlideYawSpeed": {
+        "DefaultValue": 5
+      },
+      "fFPCameraSlidePitchSpeed": {
+        "DefaultValue": 7
       }
     }
   }

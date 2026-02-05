@@ -35,11 +35,11 @@
       },
       "EQT_LIKING": {
         "TrackIcon": {
-          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_zhixian02.UI_mission_zhixian02",
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_zhixian03.UI_mission_zhixian03",
           "SubPathString": ""
         },
         "ExitIcon": {
-          "AssetPathName": "/Game/UI/UI/minimap/minimapicon/Task_likai/YH_UI_export_01.YH_UI_export_01",
+          "AssetPathName": "/Game/UI/UI/minimap/minimapicon/Task_likai/YH_UI_export_03.YH_UI_export_03",
           "SubPathString": ""
         },
         "QuestObjTypeIconMap": []
@@ -57,11 +57,11 @@
       },
       "EQT_LEGEND": {
         "TrackIcon": {
-          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_zhixian03.UI_mission_zhixian03",
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_fanwai.UI_mission_fanwai",
           "SubPathString": ""
         },
         "ExitIcon": {
-          "AssetPathName": "/Game/UI/UI/minimap/minimapicon/Task_likai/YH_UI_export_03.YH_UI_export_03",
+          "AssetPathName": "/Game/UI/UI/minimap/minimapicon/Task_likai/UI_YH_Missions_GuideIcon_FanWaiTuiChu.UI_YH_Missions_GuideIcon_FanWaiTuiChu",
           "SubPathString": ""
         },
         "QuestObjTypeIconMap": []
@@ -101,7 +101,7 @@
       },
       "VisionSoul": {
         "TrackIcon": {
-          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/QuestTrack_down.QuestTrack_down",
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/YH_UI_mapicon_ShouRong.YH_UI_mapicon_ShouRong",
           "SubPathString": ""
         },
         "ExitIcon": {
@@ -139,6 +139,28 @@
         },
         "ExitIcon": {
           "AssetPathName": "/Game/UI/UI/house/yixiangjiaju/YH_UI_common_yxjj.YH_UI_common_yxjj",
+          "SubPathString": ""
+        },
+        "QuestObjTypeIconMap": []
+      },
+      "EQT_FAVORABILITY_ATMOSPHERE": {
+        "TrackIcon": {
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_zhixian03.UI_mission_zhixian03",
+          "SubPathString": ""
+        },
+        "ExitIcon": {
+          "AssetPathName": "/Game/UI/UI/minimap/minimapicon/Task_likai/YH_UI_export_03.YH_UI_export_03",
+          "SubPathString": ""
+        },
+        "QuestObjTypeIconMap": []
+      },
+      "PrisonStain": {
+        "TrackIcon": {
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/QuestTrack_down.QuestTrack_down",
+          "SubPathString": ""
+        },
+        "ExitIcon": {
+          "AssetPathName": "/Game/UI/UI/minimap/minimapicon/Task_likai/YH_UI_export_02.YH_UI_export_02",
           "SubPathString": ""
         },
         "QuestObjTypeIconMap": []

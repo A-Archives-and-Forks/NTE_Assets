@@ -52,6 +52,12 @@
           "AssetPathName": "/Game/Text/ST_Guide.ST_Guide",
           "SubPathString": ""
         }
+      },
+      "Update": {
+        "TextTable": {
+          "AssetPathName": "/Game/Text/ST_Update.ST_Update",
+          "SubPathString": ""
+        }
       }
     }
   }

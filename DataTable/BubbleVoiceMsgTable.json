@@ -1737,7 +1737,7 @@
       },
       "MT01_03_NPC00803_001": {
         "DialogSoundEvent": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC00803/Play_Vo_MT01_03_NPC00803_001.Play_Vo_MT01_03_NPC00803_001",
           "SubPathString": ""
         },
         "RTPCConfig": [
@@ -1750,7 +1750,7 @@
       },
       "MT01_03_NPC01107_001": {
         "DialogSoundEvent": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC01107/Play_Vo_MT01_03_NPC01107_001.Play_Vo_MT01_03_NPC01107_001",
           "SubPathString": ""
         },
         "RTPCConfig": [
@@ -1763,7 +1763,7 @@
       },
       "MT01_03_NPC015_009": {
         "DialogSoundEvent": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_MT01_03_NPC015_009.Play_Vo_MT01_03_NPC015_009",
           "SubPathString": ""
         },
         "RTPCConfig": [
@@ -1776,7 +1776,7 @@
       },
       "MT01_03_NPC00803_002": {
         "DialogSoundEvent": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC00803/Play_Vo_MT01_03_NPC00803_002.Play_Vo_MT01_03_NPC00803_002",
           "SubPathString": ""
         },
         "RTPCConfig": [
@@ -1789,7 +1789,7 @@
       },
       "MT01_03_NPC01107_002": {
         "DialogSoundEvent": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC01107/Play_Vo_MT01_03_NPC01107_002.Play_Vo_MT01_03_NPC01107_002",
           "SubPathString": ""
         },
         "RTPCConfig": [
@@ -1802,7 +1802,7 @@
       },
       "MT01_03_NPC015_010": {
         "DialogSoundEvent": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_MT01_03_NPC015_010.Play_Vo_MT01_03_NPC015_010",
           "SubPathString": ""
         },
         "RTPCConfig": [
@@ -1815,7 +1815,7 @@
       },
       "MT01_03_NPC00803_003": {
         "DialogSoundEvent": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC00803/Play_Vo_MT01_03_NPC00803_003.Play_Vo_MT01_03_NPC00803_003",
           "SubPathString": ""
         },
         "RTPCConfig": [
@@ -2640,7 +2640,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2657,7 +2657,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2674,7 +2674,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2691,7 +2691,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2708,7 +2708,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2725,7 +2725,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2742,7 +2742,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2759,7 +2759,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2776,7 +2776,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2793,7 +2793,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2810,7 +2810,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2827,7 +2827,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2844,7 +2844,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -2858,7 +2858,16 @@
           "AssetPathName": "",
           "SubPathString": ""
         },
-        "RTPCConfig": [],
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 0.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 200.0
+          }
+        ],
         "Delay": 0.0
       },
       "MT01_03_NPC009_046": {
@@ -3192,7 +3201,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3209,7 +3218,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3226,7 +3235,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3243,7 +3252,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3260,7 +3269,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3430,7 +3439,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3447,7 +3456,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3464,7 +3473,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3481,7 +3490,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3498,7 +3507,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3515,7 +3524,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3532,7 +3541,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3549,7 +3558,7 @@
         "RTPCConfig": [
           {
             "Key": "RTPC_Voice_Enable_3D",
-            "Value": 2.0
+            "Value": 0.0
           },
           {
             "Key": "RTPC_Voice_Distance_Scaling",
@@ -3792,6 +3801,1241 @@
           {
             "Key": "RTPC_Voice_Distance_Scaling",
             "Value": 200.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_04_NPC011_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_MT01_04_NPC011_003.Play_Vo_MT01_04_NPC011_003",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 2.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 200.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_04_NPC009_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_MT01_04_NPC009_001.Play_Vo_MT01_04_NPC009_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 2.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 200.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_04_NPC012_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC012/Play_Vo_MT01_04_NPC012_002.Play_Vo_MT01_04_NPC012_002",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 2.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 200.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_04_NPC011_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_MT01_04_NPC011_004.Play_Vo_MT01_04_NPC011_004",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 2.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 200.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_04_NPC013_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC013/Play_Vo_MT01_04_NPC013_001.Play_Vo_MT01_04_NPC013_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 2.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 200.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_04_NPC009_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_MT01_04_NPC009_002.Play_Vo_MT01_04_NPC009_002",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 2.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 200.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC03903_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC03903/Play_Vo_MT01_03_NPC03903_003.Play_Vo_MT01_03_NPC03903_003",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC017_016": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC017/Play_Vo_MT01_03_NPC017_016.Play_Vo_MT01_03_NPC017_016",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC017_017": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC017/Play_Vo_MT01_03_NPC017_017.Play_Vo_MT01_03_NPC017_017",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC017_018": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC017/Play_Vo_MT01_03_NPC017_018.Play_Vo_MT01_03_NPC017_018",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC017_019": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC017/Play_Vo_MT01_03_NPC017_019.Play_Vo_MT01_03_NPC017_019",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC009_038": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_MT01_03_NPC009_038.Play_Vo_MT01_03_NPC009_038",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC009_039": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_MT01_03_NPC009_039.Play_Vo_MT01_03_NPC009_039",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC009_040": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_MT01_03_NPC009_040.Play_Vo_MT01_03_NPC009_040",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 200.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC009_041": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_MT01_03_NPC009_041.Play_Vo_MT01_03_NPC009_041",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC009_042": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_MT01_03_NPC009_042.Play_Vo_MT01_03_NPC009_042",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC06904_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC06904/Play_Vo_MT01_03_NPC06904_001.Play_Vo_MT01_03_NPC06904_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC009_043": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_MT01_03_NPC009_043.Play_Vo_MT01_03_NPC009_043",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC009_044": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_MT01_03_NPC009_044.Play_Vo_MT01_03_NPC009_044",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC014_015": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC014/Play_Vo_MT01_03_NPC014_015.Play_Vo_MT01_03_NPC014_015",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC014_016": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC014/Play_Vo_MT01_03_NPC014_016.Play_Vo_MT01_03_NPC014_016",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC014_017": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC014/Play_Vo_MT01_03_NPC014_017.Play_Vo_MT01_03_NPC014_017",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC01207_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC01207/Play_Vo_MT01_03_NPC01207_001.Play_Vo_MT01_03_NPC01207_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC014_018": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC014/Play_Vo_MT01_03_NPC014_018.Play_Vo_MT01_03_NPC014_018",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC018_007": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC018/Play_Vo_MT01_03_NPC018_007.Play_Vo_MT01_03_NPC018_007",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC018_008": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC018/Play_Vo_MT01_03_NPC018_008.Play_Vo_MT01_03_NPC018_008",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC018_009": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC018/Play_Vo_MT01_03_NPC018_009.Play_Vo_MT01_03_NPC018_009",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC00912_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC00912/Play_Vo_MT01_03_NPC00912_001.Play_Vo_MT01_03_NPC00912_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC018_010": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC018/Play_Vo_MT01_03_NPC018_010.Play_Vo_MT01_03_NPC018_010",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC018_011": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC018/Play_Vo_MT01_03_NPC018_011.Play_Vo_MT01_03_NPC018_011",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC05701_013": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC05701/Play_Vo_MT01_03_NPC05701_013.Play_Vo_MT01_03_NPC05701_013",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC05701_014": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC05701/Play_Vo_MT01_03_NPC05701_014.Play_Vo_MT01_03_NPC05701_014",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC05701_015": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC05701/Play_Vo_MT01_03_NPC05701_015.Play_Vo_MT01_03_NPC05701_015",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC05801_015": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC05801/Play_Vo_MT01_03_NPC05801_015.Play_Vo_MT01_03_NPC05801_015",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC05801_016": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC05801/Play_Vo_MT01_03_NPC05801_016.Play_Vo_MT01_03_NPC05801_016",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC05801_017": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC05801/Play_Vo_MT01_03_NPC05801_017.Play_Vo_MT01_03_NPC05801_017",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC01307_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC01307/Play_Vo_MT01_03_NPC01307_001.Play_Vo_MT01_03_NPC01307_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC01108_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC01108/Play_Vo_MT01_03_NPC01108_001.Play_Vo_MT01_03_NPC01108_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC00812_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC00812/Play_Vo_MT01_03_NPC00812_001.Play_Vo_MT01_03_NPC00812_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC05611_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC05611/Play_Vo_MT01_03_NPC05611_001.Play_Vo_MT01_03_NPC05611_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC05704_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC05704/Play_Vo_MT01_03_NPC05704_001.Play_Vo_MT01_03_NPC05704_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC06902_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC06902/Play_Vo_MT01_03_NPC06902_001.Play_Vo_MT01_03_NPC06902_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MT01_03_NPC06903_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC06903/Play_Vo_MT01_03_NPC06903_001.Play_Vo_MT01_03_NPC06903_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC07503_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC10401_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC07503_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC10401_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC07503_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC10401_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC045A_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC045A_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC045A_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC045A_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC045A_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC045A_006": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC045A_007": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC053A_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_006": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_007": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_008": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC078A_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_009": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_010": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_011": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC078A_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_006": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_007": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_008": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_009": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_012": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_013": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_010": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC011_011": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC028_014": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC12201_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC12201_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC12301_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC12301_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "MB01_05_NPC12301_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_003.Play_Vo_ST031_mon_38_003",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 300.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_004.Play_Vo_ST031_mon_38_004",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 300.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_005.Play_Vo_ST031_mon_38_005",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 300.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_39_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_39_001.Play_Vo_ST031_mon_39_001",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_006": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_006.Play_Vo_ST031_mon_38_006",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_39_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_39_003.Play_Vo_ST031_mon_39_003",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_007": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_007.Play_Vo_ST031_mon_38_007",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_008": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_008.Play_Vo_ST031_mon_38_008",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_009": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_009.Play_Vo_ST031_mon_38_009",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_010": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_010.Play_Vo_ST031_mon_38_010",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_39_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_39_005.Play_Vo_ST031_mon_39_005",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_39_006": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_39_006.Play_Vo_ST031_mon_39_006",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_011": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_011.Play_Vo_ST031_mon_38_011",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_012": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_012.Play_Vo_ST031_mon_38_012",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_014": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_014.Play_Vo_ST031_mon_38_014",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
+          }
+        ],
+        "Delay": 0.0
+      },
+      "ST031_mon_38_015": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_ST031_mon_38_015.Play_Vo_ST031_mon_38_015",
+          "SubPathString": ""
+        },
+        "RTPCConfig": [
+          {
+            "Key": "RTPC_Voice_Enable_3D",
+            "Value": 1.0
+          },
+          {
+            "Key": "RTPC_Voice_Distance_Scaling",
+            "Value": 400.0
           }
         ],
         "Delay": 0.0

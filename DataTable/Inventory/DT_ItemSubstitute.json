@@ -1,0 +1,72 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ItemSubstitute",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'ItemSubstituteData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "Annulith": {
+        "SubstituteItemID": "Riftcrystal",
+        "SubstituteAmount": 1,
+        "TitleText": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "BPUI_Login_Title",
+          "SourceString": "提示",
+          "LocalizedString": "提示"
+        },
+        "ShowCapitals": []
+      },
+      "DiceNormal": {
+        "SubstituteItemID": "Annulith",
+        "SubstituteAmount": 160,
+        "TitleText": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "BPUI_Login_Title",
+          "SourceString": "提示",
+          "LocalizedString": "提示"
+        },
+        "ShowCapitals": [
+          "DiceNormal",
+          "Annulith",
+          "Riftcrystal"
+        ]
+      },
+      "Dicelimite": {
+        "SubstituteItemID": "Annulith",
+        "SubstituteAmount": 160,
+        "TitleText": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "BPUI_Login_Title",
+          "SourceString": "提示",
+          "LocalizedString": "提示"
+        },
+        "ShowCapitals": [
+          "Dicelimite",
+          "Annulith",
+          "Riftcrystal"
+        ]
+      },
+      "WeaponGacha": {
+        "SubstituteItemID": "Annulith",
+        "SubstituteAmount": 160,
+        "TitleText": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "BPUI_Login_Title",
+          "SourceString": "提示",
+          "LocalizedString": "提示"
+        },
+        "ShowCapitals": [
+          "WeaponGacha",
+          "Annulith",
+          "Riftcrystal"
+        ]
+      }
+    }
+  }
+]

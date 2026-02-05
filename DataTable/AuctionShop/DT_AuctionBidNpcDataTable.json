@@ -13,14 +13,11 @@
     "Rows": {
       "AuctionNpc_1": {
         "NpcIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_055.npc_055",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_056.npc_056",
           "SubPathString": ""
         },
         "NpcName": {
-          "Namespace": "",
-          "Key": "328BA491496F147E9EA79194BED9EB1D",
-          "SourceString": "name1",
-          "LocalizedString": "name1"
+          "CultureInvariantString": null
         },
         "NpcExpectationRange": {
           "LowerBound": {
@@ -35,11 +32,11 @@
         "BidSecondsRange": {
           "LowerBound": {
             "Type": "ERangeBoundTypes::Inclusive",
-            "Value": 5
+            "Value": 4
           },
           "UpperBound": {
             "Type": "ERangeBoundTypes::Inclusive",
-            "Value": 11
+            "Value": 8
           }
         },
         "JoinWeight": 1000,
@@ -59,14 +56,11 @@
       },
       "AuctionNpc_2": {
         "NpcIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_056.npc_056",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_059.npc_059",
           "SubPathString": ""
         },
         "NpcName": {
-          "Namespace": "",
-          "Key": "198BB6054AF3E10E026982B8B31E766D",
-          "SourceString": "name2",
-          "LocalizedString": "name2"
+          "CultureInvariantString": null
         },
         "NpcExpectationRange": {
           "LowerBound": {
@@ -81,11 +75,11 @@
         "BidSecondsRange": {
           "LowerBound": {
             "Type": "ERangeBoundTypes::Inclusive",
-            "Value": 3
+            "Value": 5
           },
           "UpperBound": {
             "Type": "ERangeBoundTypes::Inclusive",
-            "Value": 7
+            "Value": 9
           }
         },
         "JoinWeight": 1000,
@@ -105,14 +99,11 @@
       },
       "AuctionNpc_3": {
         "NpcIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_059.npc_059",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_054.npc_054",
           "SubPathString": ""
         },
         "NpcName": {
-          "Namespace": "",
-          "Key": "5C5B98B044E4E42B97A3AD9F65889BA9",
-          "SourceString": "name3",
-          "LocalizedString": "name3"
+          "CultureInvariantString": null
         },
         "NpcExpectationRange": {
           "LowerBound": {
@@ -151,14 +142,11 @@
       },
       "AuctionNpc_4": {
         "NpcIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_060.npc_060",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_064.npc_064",
           "SubPathString": ""
         },
         "NpcName": {
-          "Namespace": "",
-          "Key": "9BC4B061440CEE5EB51634AFAF177C45",
-          "SourceString": "name4",
-          "LocalizedString": "name4"
+          "CultureInvariantString": null
         },
         "NpcExpectationRange": {
           "LowerBound": {
@@ -173,11 +161,11 @@
         "BidSecondsRange": {
           "LowerBound": {
             "Type": "ERangeBoundTypes::Inclusive",
-            "Value": 4
+            "Value": 3
           },
           "UpperBound": {
             "Type": "ERangeBoundTypes::Inclusive",
-            "Value": 9
+            "Value": 8
           }
         },
         "JoinWeight": 1000,
@@ -197,14 +185,11 @@
       },
       "AuctionNpc_5": {
         "NpcIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_061.npc_061",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_053.npc_053",
           "SubPathString": ""
         },
         "NpcName": {
-          "Namespace": "",
-          "Key": "CCA5206149F78CD7BD7171825706F640",
-          "SourceString": "name5",
-          "LocalizedString": "name5"
+          "CultureInvariantString": null
         },
         "NpcExpectationRange": {
           "LowerBound": {
@@ -223,7 +208,7 @@
           },
           "UpperBound": {
             "Type": "ERangeBoundTypes::Inclusive",
-            "Value": 9
+            "Value": 8
           }
         },
         "JoinWeight": 1000,
@@ -243,14 +228,11 @@
       },
       "AuctionNpc_6": {
         "NpcIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_064.npc_064",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_058.npc_058",
           "SubPathString": ""
         },
         "NpcName": {
-          "Namespace": "",
-          "Key": "6E4244514955E46334E948BE4333C152",
-          "SourceString": "name6",
-          "LocalizedString": "name6"
+          "CultureInvariantString": null
         },
         "NpcExpectationRange": {
           "LowerBound": {
@@ -265,7 +247,7 @@
         "BidSecondsRange": {
           "LowerBound": {
             "Type": "ERangeBoundTypes::Inclusive",
-            "Value": 4
+            "Value": 6
           },
           "UpperBound": {
             "Type": "ERangeBoundTypes::Inclusive",
@@ -289,14 +271,11 @@
       },
       "AuctionNpc_7": {
         "NpcIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_065.npc_065",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_055.npc_055",
           "SubPathString": ""
         },
         "NpcName": {
-          "Namespace": "",
-          "Key": "31108FCE4FB303D5D5190392F6DBB157",
-          "SourceString": "name7",
-          "LocalizedString": "name7"
+          "CultureInvariantString": null
         },
         "NpcExpectationRange": {
           "LowerBound": {
@@ -311,7 +290,7 @@
         "BidSecondsRange": {
           "LowerBound": {
             "Type": "ERangeBoundTypes::Inclusive",
-            "Value": 4
+            "Value": 5
           },
           "UpperBound": {
             "Type": "ERangeBoundTypes::Inclusive",
@@ -335,14 +314,11 @@
       },
       "AuctionNpc_8": {
         "NpcIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_058.npc_058",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_062.npc_062",
           "SubPathString": ""
         },
         "NpcName": {
-          "Namespace": "",
-          "Key": "F8DA540D42DAF5F5ECFC97B20192975A",
-          "SourceString": "name8",
-          "LocalizedString": "name8"
+          "CultureInvariantString": null
         },
         "NpcExpectationRange": {
           "LowerBound": {
@@ -357,7 +333,7 @@
         "BidSecondsRange": {
           "LowerBound": {
             "Type": "ERangeBoundTypes::Inclusive",
-            "Value": 4
+            "Value": 3
           },
           "UpperBound": {
             "Type": "ERangeBoundTypes::Inclusive",
@@ -377,6 +353,178 @@
         "GiveUpChatPool": [
           "AuctionChat_9_6_lose",
           "AuctionChat_9_7_lose"
+        ]
+      },
+      "AuctionNpc_9": {
+        "NpcIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_063.npc_063",
+          "SubPathString": ""
+        },
+        "NpcName": {
+          "CultureInvariantString": null
+        },
+        "NpcExpectationRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.75
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1.25
+          }
+        },
+        "BidSecondsRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 2
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 7
+          }
+        },
+        "JoinWeight": 1000,
+        "NpcGender": 0,
+        "ExclusiveChatPool": [
+          "AuctionChat_10_1",
+          "AuctionChat_10_2",
+          "AuctionChat_10_3",
+          "AuctionChat_10_4",
+          "AuctionChat_10_5"
+        ],
+        "CommonChatPool": [],
+        "GiveUpChatPool": [
+          "AuctionChat_10_6_lose",
+          "AuctionChat_10_7_lose"
+        ]
+      },
+      "AuctionNpc_10": {
+        "NpcIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_065.npc_065",
+          "SubPathString": ""
+        },
+        "NpcName": {
+          "CultureInvariantString": null
+        },
+        "NpcExpectationRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.75
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1.25
+          }
+        },
+        "BidSecondsRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 3
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 9
+          }
+        },
+        "JoinWeight": 1000,
+        "NpcGender": 0,
+        "ExclusiveChatPool": [
+          "AuctionChat_11_1",
+          "AuctionChat_11_2",
+          "AuctionChat_11_3",
+          "AuctionChat_11_4",
+          "AuctionChat_11_5"
+        ],
+        "CommonChatPool": [],
+        "GiveUpChatPool": [
+          "AuctionChat_11_6_lose",
+          "AuctionChat_11_7_lose"
+        ]
+      },
+      "AuctionNpc_11": {
+        "NpcIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_057.npc_057",
+          "SubPathString": ""
+        },
+        "NpcName": {
+          "CultureInvariantString": null
+        },
+        "NpcExpectationRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.75
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1.25
+          }
+        },
+        "BidSecondsRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 3
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 6
+          }
+        },
+        "JoinWeight": 1000,
+        "NpcGender": 0,
+        "ExclusiveChatPool": [
+          "AuctionChat_12_1",
+          "AuctionChat_12_2",
+          "AuctionChat_12_3",
+          "AuctionChat_12_4",
+          "AuctionChat_12_5"
+        ],
+        "CommonChatPool": [],
+        "GiveUpChatPool": [
+          "AuctionChat_12_6_lose",
+          "AuctionChat_12_7_lose"
+        ]
+      },
+      "AuctionNpc_12": {
+        "NpcIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/npc/npc_061.npc_061",
+          "SubPathString": ""
+        },
+        "NpcName": {
+          "CultureInvariantString": null
+        },
+        "NpcExpectationRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.75
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1.25
+          }
+        },
+        "BidSecondsRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 3
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 8
+          }
+        },
+        "JoinWeight": 1000,
+        "NpcGender": 0,
+        "ExclusiveChatPool": [
+          "AuctionChat_13_1",
+          "AuctionChat_13_2",
+          "AuctionChat_13_3",
+          "AuctionChat_13_4",
+          "AuctionChat_13_5"
+        ],
+        "CommonChatPool": [],
+        "GiveUpChatPool": [
+          "AuctionChat_13_6_lose",
+          "AuctionChat_13_7_lose"
         ]
       }
     }

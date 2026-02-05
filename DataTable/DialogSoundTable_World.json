@@ -947,262 +947,6 @@
         "RTPCConfigs": [],
         "AuxBus": []
       },
-      "SUW_TBS_283_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_283_001.Play_Vo_SUW_TBS_283_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_283_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_283_002.Play_Vo_SUW_TBS_283_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_307_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_307_001.Play_Vo_SUW_TBS_307_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_308_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_308_001.Play_Vo_SUW_TBS_308_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_309_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_309_001.Play_Vo_SUW_TBS_309_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_310_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_310_001.Play_Vo_SUW_TBS_310_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_311_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_311_001.Play_Vo_SUW_TBS_311_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_312_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_312_001.Play_Vo_SUW_TBS_312_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_313_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_313_001.Play_Vo_SUW_TBS_313_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_314_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_314_001.Play_Vo_SUW_TBS_314_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_315_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_315_001.Play_Vo_SUW_TBS_315_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_316_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_316_001.Play_Vo_SUW_TBS_316_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_317_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_317_001.Play_Vo_SUW_TBS_317_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_318_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_318_001.Play_Vo_SUW_TBS_318_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_319_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_319_001.Play_Vo_SUW_TBS_319_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_320_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_320_001.Play_Vo_SUW_TBS_320_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_321_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_321_001.Play_Vo_SUW_TBS_321_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_322_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_322_001.Play_Vo_SUW_TBS_322_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_323_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_323_001.Play_Vo_SUW_TBS_323_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_324_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_324_001.Play_Vo_SUW_TBS_324_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_325_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_325_001.Play_Vo_SUW_TBS_325_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_326_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_326_001.Play_Vo_SUW_TBS_326_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_327_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_327_001.Play_Vo_SUW_TBS_327_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_328_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_328_001.Play_Vo_SUW_TBS_328_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_329_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_329_001.Play_Vo_SUW_TBS_329_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_330_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_330_001.Play_Vo_SUW_TBS_330_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_331_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_331_001.Play_Vo_SUW_TBS_331_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_332_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_332_001.Play_Vo_SUW_TBS_332_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_333_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_333_001.Play_Vo_SUW_TBS_333_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_334_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_334_001.Play_Vo_SUW_TBS_334_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_335_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_335_001.Play_Vo_SUW_TBS_335_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_336_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_336_001.Play_Vo_SUW_TBS_336_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
       "SD_S0044_NPC_06503_001": {
         "DialogSoundEvent": {
           "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0044_NPC_06503_001.Play_Vo_SD_S0044_NPC_06503_001",
@@ -1550,422 +1294,6 @@
       "SD_S0059_NPC_02302_009": {
         "DialogSoundEvent": {
           "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0059_NPC_02302_009.Play_Vo_SD_S0059_NPC_02302_009",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_352_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_352_001.Play_Vo_SUW_TBS_352_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SDW_TBS_353_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SDW_TBS_353_001.Play_Vo_SDW_TBS_353_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SDW_TBS_353_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SDW_TBS_353_002.Play_Vo_SDW_TBS_353_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SDW_TBS_353_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SDW_TBS_353_003.Play_Vo_SDW_TBS_353_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_354_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_354_001.Play_Vo_SUW_TBS_354_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_354_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_354_002.Play_Vo_SUW_TBS_354_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_354_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_354_003.Play_Vo_SUW_TBS_354_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_356_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_356_001.Play_Vo_SUW_TBS_356_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_356_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_356_002.Play_Vo_SUW_TBS_356_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_356_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_356_003.Play_Vo_SUW_TBS_356_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_357_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_357_001.Play_Vo_SUW_TBS_357_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_357_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_357_002.Play_Vo_SUW_TBS_357_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_357_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_357_003.Play_Vo_SUW_TBS_357_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_372_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_372_001.Play_Vo_SUW_TBS_372_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_372_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_372_002.Play_Vo_SUW_TBS_372_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_372_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_372_003.Play_Vo_SUW_TBS_372_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_372_004": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_372_004.Play_Vo_SUW_TBS_372_004",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_379_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_379_001.Play_Vo_SUW_TBS_379_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_379_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_379_002.Play_Vo_SUW_TBS_379_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_379_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_379_003.Play_Vo_SUW_TBS_379_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_103008_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_103008_001.Play_Vo_SUW_CNPC_103008_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_082003_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_082003_001.Play_Vo_SUW_CNPC_082003_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_082003_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_082003_002.Play_Vo_SUW_CNPC_082003_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_082003_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_082003_003.Play_Vo_SUW_CNPC_082003_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_103009_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_103009_001.Play_Vo_SUW_CNPC_103009_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_103010_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_103010_001.Play_Vo_SUW_CNPC_103010_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_103009_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_103009_002.Play_Vo_SUW_CNPC_103009_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_103010_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_103010_002.Play_Vo_SUW_CNPC_103010_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_090006_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_090006_001.Play_Vo_SUW_CNPC_090006_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_417_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_417_001.Play_Vo_SUW_TBS_417_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_417_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_417_002.Play_Vo_SUW_TBS_417_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_417_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_417_003.Play_Vo_SUW_TBS_417_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_417_004": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_417_004.Play_Vo_SUW_TBS_417_004",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_417_005": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_417_005.Play_Vo_SUW_TBS_417_005",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_090007_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_090007_001.Play_Vo_SUW_CNPC_090007_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_063005_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_063005_001.Play_Vo_SUW_CNPC_063005_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_CNPC_005017_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_CNPC_005017_001.Play_Vo_SUW_CNPC_005017_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_418_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_418_001.Play_Vo_SUW_TBS_418_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_418_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_418_002.Play_Vo_SUW_TBS_418_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_418_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_418_003.Play_Vo_SUW_TBS_418_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_418_004": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_418_004.Play_Vo_SUW_TBS_418_004",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_418_005": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_418_005.Play_Vo_SUW_TBS_418_005",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_418_006": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_418_006.Play_Vo_SUW_TBS_418_006",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_351_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_351_001.Play_Vo_SUW_TBS_351_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_351_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_351_002.Play_Vo_SUW_TBS_351_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_351_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_351_003.Play_Vo_SUW_TBS_351_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_359_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_359_001.Play_Vo_SUW_TBS_359_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_359_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_359_002.Play_Vo_SUW_TBS_359_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_359_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_359_003.Play_Vo_SUW_TBS_359_003",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_374_001": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_374_001.Play_Vo_SUW_TBS_374_001",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_374_002": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_374_002.Play_Vo_SUW_TBS_374_002",
-          "SubPathString": ""
-        },
-        "RTPCConfigs": [],
-        "AuxBus": []
-      },
-      "SUW_TBS_374_003": {
-        "DialogSoundEvent": {
-          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SUW/Play_Vo_SUW_TBS_374_003.Play_Vo_SUW_TBS_374_003",
           "SubPathString": ""
         },
         "RTPCConfigs": [],
@@ -2366,6 +1694,1422 @@
       "RU_T006_SNPC_007": {
         "DialogSoundEvent": {
           "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/RU/Play_Vo_RU_T006_SNPC_007.Play_Vo_RU_T006_SNPC_007",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "Vo_SD_S0026_NPC_02309_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0026_NPC_02309_001.Play_Vo_SD_S0026_NPC_02309_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "WF_001_NPC02304_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0026_NPC_02309_001.Play_Vo_SD_S0026_NPC_02309_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SD_S0026_NPC_02309_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0026_NPC_02309_002.Play_Vo_SD_S0026_NPC_02309_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SD_S0026_NPC_02309_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0026_NPC_02309_003.Play_Vo_SD_S0026_NPC_02309_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SD_S0026_NPC_02309_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0026_NPC_02309_004.Play_Vo_SD_S0026_NPC_02309_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SD_S0026_NPC_02309_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0026_NPC_02309_005.Play_Vo_SD_S0026_NPC_02309_005",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SD_S0002_NPC_02303_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0002_NPC_02303_001.Play_Vo_SD_S0002_NPC_02303_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SD_S0002_NPC_02303_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0002_NPC_02303_003.Play_Vo_SD_S0002_NPC_02303_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SD_S0002_NPC_02303_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0002_NPC_02303_004.Play_Vo_SD_S0002_NPC_02303_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SD_S0002_NPC_02303_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0002_NPC_02303_005.Play_Vo_SD_S0002_NPC_02303_005",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SD_S0002_NPC_02303_006": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/SD/Play_Vo_SD_S0002_NPC_02303_006.Play_Vo_SD_S0002_NPC_02303_006",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA001_NPC_001_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC001/Play_Vo_SDW_WA001_NPC001_001.Play_Vo_SDW_WA001_NPC001_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA001_NPC_001_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA001_Player_001.Play_Vo_SDW_WA001_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA001_NPC_001_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC001/Play_Vo_SDW_WA001_NPC001_002.Play_Vo_SDW_WA001_NPC001_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA001_NPC_001_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC001/Play_Vo_SDW_WA001_NPC001_003.Play_Vo_SDW_WA001_NPC001_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA001_NPC_001_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA001_Player_002.Play_Vo_SDW_WA001_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA002_NPC_001_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC001/Play_Vo_SDW_WA002_NPC001_001.Play_Vo_SDW_WA002_NPC001_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA002_NPC_001_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA002_Player_001.Play_Vo_SDW_WA002_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA002_NPC_001_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC001/Play_Vo_SDW_WA002_NPC001_002.Play_Vo_SDW_WA002_NPC001_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA002_NPC_001_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA002_Player_002.Play_Vo_SDW_WA002_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA002_NPC_001_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC001/Play_Vo_SDW_WA002_NPC001_003.Play_Vo_SDW_WA002_NPC001_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA002_NPC_001_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC001/Play_Vo_SDW_WA002_NPC001_004.Play_Vo_SDW_WA002_NPC001_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA002_NPC_001_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA002_Player_003.Play_Vo_SDW_WA002_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA003_NPC_001_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC001/Play_Vo_SDW_WA003_NPC001_001.Play_Vo_SDW_WA003_NPC001_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA003_NPC_001_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA003_Player_001.Play_Vo_SDW_WA003_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA003_NPC_001_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC001/Play_Vo_SDW_WA003_NPC001_002.Play_Vo_SDW_WA003_NPC001_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA003_NPC_001_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA003_Player_002.Play_Vo_SDW_WA003_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA003_NPC_001_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA003_Player_003.Play_Vo_SDW_WA003_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA003_NPC_001_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC001/Play_Vo_SDW_WA003_NPC001_003.Play_Vo_SDW_WA003_NPC001_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA005_NPC_011_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA005_NPC011_001.Play_Vo_SDW_WA005_NPC011_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA005_NPC_011_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA005_Player_001.Play_Vo_SDW_WA005_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA005_NPC_011_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA005_NPC011_002.Play_Vo_SDW_WA005_NPC011_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA005_NPC_011_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA005_Player_002.Play_Vo_SDW_WA005_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA005_NPC_011_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA005_NPC011_003.Play_Vo_SDW_WA005_NPC011_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA005_NPC_011_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA005_Player_003.Play_Vo_SDW_WA005_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA005_NPC_011_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA005_NPC011_004.Play_Vo_SDW_WA005_NPC011_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA006_NPC011_001.Play_Vo_SDW_WA006_NPC011_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA006_Player_001.Play_Vo_SDW_WA006_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA006_NPC011_002.Play_Vo_SDW_WA006_NPC011_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA006_Player_002.Play_Vo_SDW_WA006_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA006_NPC011_003.Play_Vo_SDW_WA006_NPC011_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA006_Player_003.Play_Vo_SDW_WA006_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA006_NPC011_004.Play_Vo_SDW_WA006_NPC011_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_Player_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA006_Player_004.Play_Vo_SDW_WA006_Player_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_Player_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA006_Player_005.Play_Vo_SDW_WA006_Player_005",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA006_NPC011_005.Play_Vo_SDW_WA006_NPC011_005",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA006_NPC_011_Player_006": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA006_Player_006.Play_Vo_SDW_WA006_Player_006",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA007_NPC_011_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA007_NPC011_001.Play_Vo_SDW_WA007_NPC011_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA007_NPC_011_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA007_Player_001.Play_Vo_SDW_WA007_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA007_NPC_011_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA007_NPC011_002.Play_Vo_SDW_WA007_NPC011_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA007_NPC_011_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA007_Player_002.Play_Vo_SDW_WA007_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA007_NPC_011_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC011/Play_Vo_SDW_WA007_NPC011_003.Play_Vo_SDW_WA007_NPC011_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA007_NPC_011_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA007_Player_003.Play_Vo_SDW_WA007_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA008_NPC_011_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA008_Player_001.Play_Vo_SDW_WA008_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA009_NPC_004_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA009_NPC004_001.Play_Vo_SDW_WA009_NPC004_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA009_NPC_004_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA009_Player_001.Play_Vo_SDW_WA009_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA009_NPC_004_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA009_NPC004_002.Play_Vo_SDW_WA009_NPC004_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA009_NPC_004_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA009_NPC004_003.Play_Vo_SDW_WA009_NPC004_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA009_NPC_004_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA009_Player_002.Play_Vo_SDW_WA009_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA010_NPC_004_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA010_NPC004_001.Play_Vo_SDW_WA010_NPC004_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA010_NPC_004_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA010_Player_001.Play_Vo_SDW_WA010_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA010_NPC_004_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA010_NPC004_002.Play_Vo_SDW_WA010_NPC004_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA010_NPC_004_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA010_Player_002.Play_Vo_SDW_WA010_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA010_NPC_004_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA010_NPC004_003.Play_Vo_SDW_WA010_NPC004_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA011_NPC_004_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA011_NPC004_001.Play_Vo_SDW_WA011_NPC004_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA011_NPC_004_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA011_Player_001.Play_Vo_SDW_WA011_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA011_NPC_004_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA011_NPC004_002.Play_Vo_SDW_WA011_NPC004_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA011_NPC_004_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA011_Player_002.Play_Vo_SDW_WA011_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA011_NPC_004_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA011_NPC004_003.Play_Vo_SDW_WA011_NPC004_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA011_NPC_004_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA011_Player_003.Play_Vo_SDW_WA011_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA011_NPC_004_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA011_NPC004_004.Play_Vo_SDW_WA011_NPC004_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA011_NPC_004_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC004/Play_Vo_SDW_WA011_NPC004_005.Play_Vo_SDW_WA011_NPC004_005",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA011_NPC_004_Player_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA011_Player_004.Play_Vo_SDW_WA011_Player_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA011_NPC_004_Player_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA011_Player_005.Play_Vo_SDW_WA011_Player_005",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA014_NPC_009_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_SDW_WA014_NPC009_001.Play_Vo_SDW_WA014_NPC009_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA014_NPC_009_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA014_Player_001.Play_Vo_SDW_WA014_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA014_NPC_009_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_SDW_WA014_NPC009_002.Play_Vo_SDW_WA014_NPC009_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA014_NPC_009_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA014_Player_002.Play_Vo_SDW_WA014_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA014_NPC_05702_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC05702/Play_Vo_SDW_WA014_NPC05702_001.Play_Vo_SDW_WA014_NPC05702_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA014_NPC_009_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_SDW_WA014_NPC009_003.Play_Vo_SDW_WA014_NPC009_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA014_NPC_009_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA014_Player_003.Play_Vo_SDW_WA014_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA015_NPC_009_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA015_Player_001.Play_Vo_SDW_WA015_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA015_NPC_009_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_SDW_WA015_NPC009_001.Play_Vo_SDW_WA015_NPC009_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA015_NPC_009_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA015_Player_002.Play_Vo_SDW_WA015_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA015_NPC_009_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_SDW_WA015_NPC009_002.Play_Vo_SDW_WA015_NPC009_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA015_NPC_009_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC009/Play_Vo_SDW_WA015_NPC009_003.Play_Vo_SDW_WA015_NPC009_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA016_NPC_013_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC013/Play_Vo_SUW_WA016_NPC013_001.Play_Vo_SUW_WA016_NPC013_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA016_NPC_013_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA016_Player_001.Play_Vo_SDW_WA016_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA016_NPC_013_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC013/Play_Vo_SUW_WA016_NPC013_002.Play_Vo_SUW_WA016_NPC013_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA016_NPC_013_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA016_Player_002.Play_Vo_SDW_WA016_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA017_NPC_003_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA017_Player_001.Play_Vo_SDW_WA017_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA017_NPC_003_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA017_NPC003_001.Play_Vo_SDW_WA017_NPC003_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA017_NPC_003_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA017_NPC003_002.Play_Vo_SDW_WA017_NPC003_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA017_NPC_003_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA017_Player_002.Play_Vo_SDW_WA017_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA017_NPC_003_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA017_NPC003_003.Play_Vo_SDW_WA017_NPC003_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA017_NPC_003_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA017_Player_003.Play_Vo_SDW_WA017_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA018_NPC_003_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA018_NPC003_001.Play_Vo_SDW_WA018_NPC003_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA018_NPC_003_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA018_Player_001.Play_Vo_SDW_WA018_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA018_NPC_003_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA018_NPC003_002.Play_Vo_SDW_WA018_NPC003_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA018_NPC_003_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA018_NPC003_003.Play_Vo_SDW_WA018_NPC003_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA018_NPC_003_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA018_NPC003_004.Play_Vo_SDW_WA018_NPC003_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA018_NPC_003_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA018_Player_002.Play_Vo_SDW_WA018_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA018_NPC_003_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA018_NPC003_005.Play_Vo_SDW_WA018_NPC003_005",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA019_NPC_003_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA019_NPC003_001.Play_Vo_SDW_WA019_NPC003_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA019_NPC_003_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA019_Player_001.Play_Vo_SDW_WA019_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA019_NPC_003_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA019_NPC003_002.Play_Vo_SDW_WA019_NPC003_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA019_NPC_003_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA019_Player_002.Play_Vo_SDW_WA019_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA019_NPC_003_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC003/Play_Vo_SDW_WA019_NPC003_003.Play_Vo_SDW_WA019_NPC003_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA019_NPC_003_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA019_Player_003.Play_Vo_SDW_WA019_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA020_NPC_015_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA020_Player_001.Play_Vo_SDW_WA020_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA020_NPC_015_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA020_NPC015_001.Play_Vo_SDW_WA020_NPC015_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA020_NPC_015_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA020_Player_002.Play_Vo_SDW_WA020_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA020_NPC_015_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA020_NPC015_002.Play_Vo_SDW_WA020_NPC015_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA020_NPC_015_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA020_Player_003.Play_Vo_SDW_WA020_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA020_NPC_015_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA020_NPC015_003.Play_Vo_SDW_WA020_NPC015_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA021_NPC_015_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA021_NPC015_001.Play_Vo_SDW_WA021_NPC015_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA021_NPC_015_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA021_Player_001.Play_Vo_SDW_WA021_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA021_NPC_015_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA021_NPC015_002.Play_Vo_SDW_WA021_NPC015_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA021_NPC_015_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA021_Player_002.Play_Vo_SDW_WA021_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA021_NPC_015_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA021_NPC015_003.Play_Vo_SDW_WA021_NPC015_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA022_NPC_015_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA022_Player_001.Play_Vo_SDW_WA022_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA022_NPC_015_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA022_NPC015_001.Play_Vo_SDW_WA022_NPC015_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA022_NPC_015_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA022_Player_002.Play_Vo_SDW_WA022_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA022_NPC_015_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA022_NPC015_002.Play_Vo_SDW_WA022_NPC015_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA022_NPC_015_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA022_Player_003.Play_Vo_SDW_WA022_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA022_NPC_015_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA022_NPC015_003.Play_Vo_SDW_WA022_NPC015_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA022_NPC_015_Player_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA022_Player_004.Play_Vo_SDW_WA022_Player_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA022_NPC_015_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA022_NPC015_004.Play_Vo_SDW_WA022_NPC015_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA022_NPC_015_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC015/Play_Vo_SDW_WA022_NPC015_005.Play_Vo_SDW_WA022_NPC015_005",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA023_NPC_008_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA023_Player_001.Play_Vo_SDW_WA023_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA023_NPC_008_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC008/Play_Vo_SDW_WA023_NPC008_001.Play_Vo_SDW_WA023_NPC008_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA023_NPC_008_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC008/Play_Vo_SDW_WA023_NPC008_002.Play_Vo_SDW_WA023_NPC008_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA024_NPC_008_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA024_Player_001.Play_Vo_SDW_WA024_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA024_NPC_008_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC008/Play_Vo_SDW_WA024_NPC008_001.Play_Vo_SDW_WA024_NPC008_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA025_NPC_008_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA025_Player_001.Play_Vo_SDW_WA025_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA025_NPC_008_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC008/Play_Vo_SDW_WA025_NPC008_001.Play_Vo_SDW_WA025_NPC008_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA025_NPC_008_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA025_Player_002.Play_Vo_SDW_WA025_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA026_NPC_006_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA026_Player_001.Play_Vo_SDW_WA026_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA026_NPC_006_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC006/Play_Vo_SDW_WA026_NPC006_001.Play_Vo_SDW_WA026_NPC006_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA026_NPC_006_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA026_Player_002.Play_Vo_SDW_WA026_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA026_NPC_006_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC006/Play_Vo_SDW_WA026_NPC006_002.Play_Vo_SDW_WA026_NPC006_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA026_NPC_006_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA026_Player_003.Play_Vo_SDW_WA026_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA027_NPC_006_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC006/Play_Vo_SDW_WA027_NPC006_001.Play_Vo_SDW_WA027_NPC006_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA027_NPC_006_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA027_Player_001.Play_Vo_SDW_WA027_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA027_NPC_006_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC006/Play_Vo_SDW_WA027_NPC006_002.Play_Vo_SDW_WA027_NPC006_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA027_NPC_006_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC006/Play_Vo_SDW_WA027_NPC006_003.Play_Vo_SDW_WA027_NPC006_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA027_NPC_006_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA027_Player_002.Play_Vo_SDW_WA027_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA028_NPC_006_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA028_Player_001.Play_Vo_SDW_WA028_Player_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA028_NPC_006_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC006/Play_Vo_SDW_WA028_NPC006_001.Play_Vo_SDW_WA028_NPC006_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA028_NPC_006_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA028_Player_002.Play_Vo_SDW_WA028_Player_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA028_NPC_006_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/NPC006/Play_Vo_SDW_WA028_NPC006_002.Play_Vo_SDW_WA028_NPC006_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA028_NPC_006_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA028_Player_003.Play_Vo_SDW_WA028_Player_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA028_NPC_006_Player_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA028_Player_004.Play_Vo_SDW_WA028_Player_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_WA028_NPC_006_Player_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Dialogue/ZERO/Play_Vo_SDW_WA028_Player_005.Play_Vo_SDW_WA028_Player_005",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073016_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073016_001.Play_Vo_SDW_CNPC073016_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073016_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_Player_500.Play_Vo_SDW_Player_500",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073016_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_Player_501.Play_Vo_SDW_Player_501",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073016_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073016_002.Play_Vo_SDW_CNPC073016_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073016_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073016_003.Play_Vo_SDW_CNPC073016_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073016_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073016_004.Play_Vo_SDW_CNPC073016_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_001.Play_Vo_SDW_CNPC073020_001",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_Player_001": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_Player_503.Play_Vo_SDW_Player_503",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_002.Play_Vo_SDW_CNPC073020_002",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_Player_002": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_Player_504.Play_Vo_SDW_Player_504",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_003.Play_Vo_SDW_CNPC073020_003",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_004.Play_Vo_SDW_CNPC073020_004",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_Player_003": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_Player_505.Play_Vo_SDW_Player_505",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_005.Play_Vo_SDW_CNPC073020_005",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_006": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_006.Play_Vo_SDW_CNPC073020_006",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_007": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_007.Play_Vo_SDW_CNPC073020_007",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_008": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_008.Play_Vo_SDW_CNPC073020_008",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_Player_004": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_Player_506.Play_Vo_SDW_Player_506",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_009": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_009.Play_Vo_SDW_CNPC073020_009",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_Player_005": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_Player_507.Play_Vo_SDW_Player_507",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_Player_006": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_Player_508.Play_Vo_SDW_Player_508",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_010": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_010.Play_Vo_SDW_CNPC073020_010",
+          "SubPathString": ""
+        },
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "SDW_CNPC073020_011": {
+        "DialogSoundEvent": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Voice/Bubble/Cmn/Play_Vo_SDW_CNPC073020_011.Play_Vo_SDW_CNPC073020_011",
           "SubPathString": ""
         },
         "RTPCConfigs": [],

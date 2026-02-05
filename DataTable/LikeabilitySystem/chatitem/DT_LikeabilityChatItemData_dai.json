@@ -17,9 +17,10 @@
         "bIsPlayer": false,
         "bIsLastSetenceInDay": false,
         "bIsFirstSetenceInSequence": true,
-        "bIsLastSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::SideStorySingle",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -44,22 +45,27 @@
         "ForceRefreshChatDatas": [],
         "ForceRefreshChatID": "None",
         "AddLikeabilityValue": 0,
-        "ChatPushType": "ELikeabilityChatPushType::NextDay",
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
         "PustGameTimeDay": 1,
         "PustGameTimeHour": 8,
-        "ChatPushTime": 0.0,
+        "ChatPushTime": 2.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "dai_a_2": {
         "ChatID": "dai_a",
         "RoleId": "dai",
         "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
+        "bIsLastSetenceInDay": true,
         "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::SideStorySingle",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -79,27 +85,32 @@
         "DropID": "None",
         "OptionType": "ELikeabilityChatOptionType::Null",
         "Options": [],
-        "NextSetenceID": "H_NPC_03404_e_1",
+        "NextSetenceID": "None",
         "HideChatIDs": [],
         "ForceRefreshChatDatas": [],
         "ForceRefreshChatID": "None",
         "AddLikeabilityValue": 0,
-        "ChatPushType": "ELikeabilityChatPushType::NextDay",
+        "ChatPushType": "ELikeabilityChatPushType::Immediately",
         "PustGameTimeDay": 1,
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "dai_a_3": {
         "ChatID": "dai_a",
         "RoleId": "dai",
         "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
+        "bIsLastSetenceInDay": true,
         "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::SideStorySingle",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -129,17 +140,22 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "dai_a_4": {
         "ChatID": "dai_a",
         "RoleId": "dai",
         "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
+        "bIsLastSetenceInDay": true,
         "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
+        "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": true,
-        "bUnActiveRedPoint": false,
+        "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::SideStorySingle",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -159,46 +175,6 @@
         "DropID": "None",
         "OptionType": "ELikeabilityChatOptionType::Null",
         "Options": [],
-        "NextSetenceID": "dai_a_4_1",
-        "HideChatIDs": [],
-        "ForceRefreshChatDatas": [],
-        "ForceRefreshChatID": "None",
-        "AddLikeabilityValue": 0,
-        "ChatPushType": "ELikeabilityChatPushType::GameTime",
-        "PustGameTimeDay": 1,
-        "PustGameTimeHour": 8,
-        "ChatPushTime": 0.0,
-        "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
-      },
-      "dai_a_4_1": {
-        "ChatID": "dai_a",
-        "RoleId": "dai",
-        "bIsPlayer": false,
-        "bIsLastSetenceInDay": false,
-        "bIsFirstSetenceInSequence": false,
-        "bIsLastSetenceInSequence": false,
-        "bActiveRedPoint": false,
-        "bUnActiveRedPoint": true,
-        "ChatType": "ELikeabilityChatType::Event",
-        "Conditions": [],
-        "bIsImmediatelyShow": true,
-        "ChatItemType": "ELikeabilityChatItemType::Quest",
-        "Content": {
-          "TableId": "/Game/Text/ST_Likeability.ST_Likeability",
-          "Key": "chat_dai_a_4",
-          "SourceString": "【At.1】注意！I级异象「幽灵们的蛋糕盛宴」在桥间地店铺「爱丽丝烘焙店」出现了！本人非常遗憾地告诉大家，因为异象的影响，这家深受桥间地市民喜爱的蛋糕店被迫暂时关闭……不过，异象管理局目前正在全力解决异象中，相信很快就能把各位市民喜爱的蛋糕带回大家的身边！",
-          "LocalizedString": "【At.1】注意！I级异象「幽灵们的蛋糕盛宴」在桥间地店铺「爱丽丝烘焙店」出现了！本人非常遗憾地告诉大家，因为异象的影响，这家深受桥间地市民喜爱的蛋糕店被迫暂时关闭……不过，异象管理局目前正在全力解决异象中，相信很快就能把各位市民喜爱的蛋糕带回大家的身边！"
-        },
-        "ParaContent": "",
-        "IconSource": {
-          "AssetPathName": "",
-          "SubPathString": ""
-        },
-        "QuestId": "K110222",
-        "DropID": "None",
-        "OptionType": "ELikeabilityChatOptionType::Null",
-        "Options": [],
         "NextSetenceID": "None",
         "HideChatIDs": [],
         "ForceRefreshChatDatas": [],
@@ -207,9 +183,13 @@
         "ChatPushType": "ELikeabilityChatPushType::Immediately",
         "PustGameTimeDay": 1,
         "PustGameTimeHour": 8,
-        "ChatPushTime": 1.0,
-        "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "None"
+        "ChatPushTime": 0.0,
+        "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "dai_b_1": {
         "ChatID": "dai_b",
@@ -220,6 +200,7 @@
         "bIsLastSetenceInSequence": true,
         "bActiveRedPoint": true,
         "bUnActiveRedPoint": true,
+        "ChatFlagType": "ELikeabilityActiveChatFLagType::SideStorySingle",
         "ChatType": "ELikeabilityChatType::Event",
         "Conditions": [],
         "bIsImmediatelyShow": true,
@@ -249,7 +230,11 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "None"
+        "LikeabilityID": "None",
+        "LivingEmojiMaterial": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       }
     }
   }

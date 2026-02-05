@@ -25,7 +25,7 @@
       },
       "BH": {
         "CountryName": "巴林(BAHREIN)",
-        "ZoneID": "AS"
+        "ZoneID": "EU"
       },
       "BN": {
         "CountryName": "文莱(BRUNEI DARUSSALAM)",
@@ -125,91 +125,91 @@
       },
       "CA": {
         "CountryName": "加拿大(CANADA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "CR": {
         "CountryName": "哥斯达黎加(COSTA RICA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "CU": {
         "CountryName": "古巴(CUBA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "DO": {
         "CountryName": "多米尼加共和国(DOMINICAN REPUBLIC)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "HN": {
         "CountryName": "洪都拉斯(HONDURAS)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "JM": {
         "CountryName": "牙买加(JAMAICA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "LC": {
         "CountryName": "圣卢西亚(SAINT LUEIA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "MX": {
         "CountryName": "墨西哥(MEXICO)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "US": {
         "CountryName": "美国(UNITED STATES)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "AR": {
         "CountryName": "阿根廷(ARGENTINA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "BO": {
         "CountryName": "玻利维亚(BOLIVIA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "BR": {
         "CountryName": "巴西(BRAZIL)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "CL": {
         "CountryName": "智利(CHILE)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "CO": {
         "CountryName": "哥伦比亚(COLOMBIA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "EC": {
         "CountryName": "厄瓜多尔(ECUADOR)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "GT": {
         "CountryName": "危地马拉(GUATEMALA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "NI": {
         "CountryName": "尼加拉瓜(NICARAGUA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "PA": {
         "CountryName": "巴拿马(PANAMA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "PE": {
         "CountryName": "秘鲁(PERU)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "PY": {
         "CountryName": "巴拉圭(PARAGUAY)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "UY": {
         "CountryName": "乌拉圭(URUGUAY)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "VE": {
         "CountryName": "委内瑞拉(VENEZUELA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "AE": {
         "CountryName": "阿联酋(UNITED EMIRATES)",
@@ -252,7 +252,7 @@
         "ZoneID": "EU"
       },
       "BL": {
-        "CountryName": "巴勒斯坦()",
+        "CountryName": "巴勒斯坦(PALESTINE)",
         "ZoneID": "EU"
       },
       "BW": {
@@ -288,7 +288,7 @@
         "ZoneID": "EU"
       },
       "DE": {
-        "CountryName": "德 国(GERMANY)",
+        "CountryName": "德国(GERMANY)",
         "ZoneID": "EU"
       },
       "DK": {
@@ -333,7 +333,7 @@
       },
       "GD": {
         "CountryName": "格林纳达(GRENADA)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "GE": {
         "CountryName": "格鲁吉亚(GEORGIA)",
@@ -385,7 +385,7 @@
       },
       "KG": {
         "CountryName": "吉尔吉斯坦(KYRGYZSTAN)",
-        "ZoneID": "EU"
+        "ZoneID": "AS"
       },
       "KT": {
         "CountryName": "科特迪瓦共和国(COTE O’IVOIRE)",
@@ -397,7 +397,7 @@
       },
       "KZ": {
         "CountryName": "哈萨克(KAZAKHSTAN)",
-        "ZoneID": "EU"
+        "ZoneID": "AS"
       },
       "LB": {
         "CountryName": "黎巴嫩(LEBANON)",
@@ -409,7 +409,7 @@
       },
       "LK": {
         "CountryName": "斯里兰卡(SRI LANKA)",
-        "ZoneID": "EU"
+        "ZoneID": "AS"
       },
       "LR": {
         "CountryName": "利比里亚(LIBERIA)",
@@ -493,7 +493,7 @@
       },
       "PG": {
         "CountryName": "巴布亚新几内亚(PAPUA NEW GUINEA)",
-        "ZoneID": "EU"
+        "ZoneID": "AS"
       },
       "PL": {
         "CountryName": "波兰(POLAND)",
@@ -569,11 +569,11 @@
       },
       "TJ": {
         "CountryName": "塔吉克斯坦(TAJIKISTAN)",
-        "ZoneID": "EU"
+        "ZoneID": "AS"
       },
       "TM": {
         "CountryName": "土库曼(TURKMENISTAN)",
-        "ZoneID": "EU"
+        "ZoneID": "AS"
       },
       "TN": {
         "CountryName": "突尼斯(TUNISIA)",
@@ -597,11 +597,11 @@
       },
       "UZ": {
         "CountryName": "乌兹别克(UZBEKISTAN)",
-        "ZoneID": "EU"
+        "ZoneID": "AS"
       },
       "VC": {
         "CountryName": "圣文森特岛(SAINT VINCENT)",
-        "ZoneID": "EU"
+        "ZoneID": "NA/SA"
       },
       "YE": {
         "CountryName": "也门(YEMEN)",

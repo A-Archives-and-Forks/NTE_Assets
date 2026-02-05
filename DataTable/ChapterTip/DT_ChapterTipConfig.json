@@ -54,10 +54,7 @@
       "NewRow_1": {
         "ChapterID": 2,
         "Title": {
-          "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
-          "Key": "chapter_title2",
-          "SourceString": "第2话",
-          "LocalizedString": "第2话"
+          "CultureInvariantString": null
         },
         "Content": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
@@ -75,9 +72,9 @@
         "ChapterID": 3,
         "Title": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
-          "Key": "chapter_title3",
-          "SourceString": "第3话",
-          "LocalizedString": "第3话"
+          "Key": "chapter_title2",
+          "SourceString": "第2话",
+          "LocalizedString": "第2话"
         },
         "Content": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
@@ -95,9 +92,9 @@
         "ChapterID": 4,
         "Title": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
-          "Key": "chapter_title4",
-          "SourceString": "第4话",
-          "LocalizedString": "第4话"
+          "Key": "chapter_title3",
+          "SourceString": "第3话",
+          "LocalizedString": "第3话"
         },
         "Content": {
           "TableId": "/Game/Text/ST_Chapter.ST_Chapter",
@@ -107,7 +104,7 @@
         },
         "ShowTime": 4.0,
         "ContentPosition": {
-          "X": 1000.0,
+          "X": 1400.0,
           "Y": 600.0
         }
       }

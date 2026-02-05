@@ -33,8 +33,8 @@
                 "Hex": "000000"
               }
             },
-            "TypefaceFontName": "Default",
-            "Size": 22.0,
+            "TypefaceFontName": "Blod",
+            "Size": 24.0,
             "LetterSpacing": 0,
             "SkewAmount": 0.0,
             "bForceMonospaced": false,
@@ -43,11 +43,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.05,
-              "G": 0.05,
-              "B": 0.05,
+              "R": 0.144128,
+              "G": 0.144128,
+              "B": 0.144128,
               "A": 1.0,
-              "Hex": "3F3F3F"
+              "Hex": "6A6A6A"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -291,8 +291,8 @@
                 "Hex": "000000"
               }
             },
-            "TypefaceFontName": "Default",
-            "Size": 22.0,
+            "TypefaceFontName": "Blod",
+            "Size": 24.0,
             "LetterSpacing": 0,
             "SkewAmount": 0.0,
             "bForceMonospaced": false,
@@ -301,11 +301,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.745404,
-              "G": 0.381326,
-              "B": 0.059511,
+              "R": 0.982251,
+              "G": 0.107023,
+              "B": 0.000607,
               "A": 1.0,
-              "Hex": "E0A645"
+              "Hex": "FD5C02"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -549,8 +549,8 @@
                 "Hex": "000000"
               }
             },
-            "TypefaceFontName": "Default",
-            "Size": 22.0,
+            "TypefaceFontName": "Blod",
+            "Size": 24.0,
             "LetterSpacing": 0,
             "SkewAmount": 0.0,
             "bForceMonospaced": false,
@@ -559,11 +559,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 1.0,
-              "G": 0.234551,
-              "B": 0.630757,
+              "R": 0.982251,
+              "G": 0.107023,
+              "B": 0.000607,
               "A": 1.0,
-              "Hex": "FF85D0"
+              "Hex": "FD5C02"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },

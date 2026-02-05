@@ -33,6 +33,7 @@
                 "TileImageDatas": []
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -1374,6 +1375,7 @@
                 ]
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -1414,6 +1416,7 @@
                 "TileImageDatas": []
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -1454,6 +1457,7 @@
                 "TileImageDatas": []
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -1494,6 +1498,7 @@
                 "TileImageDatas": []
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -1534,6 +1539,7 @@
                 "TileImageDatas": []
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -4123,6 +4129,7 @@
                 ]
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -5464,6 +5471,7 @@
                 ]
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -7377,6 +7385,7 @@
                 ]
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -8991,6 +9000,7 @@
                 ]
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -11957,6 +11967,7 @@
                 ]
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -13870,6 +13881,7 @@
                 ]
               }
             ],
+            "BackgroundTileDatasMobile": [],
             "BlendMode": "EBlendMode::BLEND_Opaque"
           },
           "ThumbnailImage": {
@@ -13884,6 +13896,516 @@
           "MiniMapEdgeSize": {
             "X": 187500.0,
             "Y": 187500.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "WertheimerTower_008": {
+        "BelongsLevel": "XL_map_bigworld_test",
+        "DefaultUnlock": false,
+        "FogMaskRenderData": {
+          "BackgroundRenderRule": {
+            "BackgroundTileDatas": [
+              {
+                "ZoomRange": {
+                  "LowerBound": {
+                    "Type": "ERangeBoundTypes::Open",
+                    "Value": 0.0
+                  },
+                  "UpperBound": {
+                    "Type": "ERangeBoundTypes::Open",
+                    "Value": 0.0
+                  }
+                },
+                "TileCountX": 6,
+                "TileCountY": 6,
+                "TileImageDatas": [
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10001.bigmap_maskarea_area006_10001",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10002.bigmap_maskarea_area006_10002",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10003.bigmap_maskarea_area006_10003",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10004.bigmap_maskarea_area006_10004",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10005.bigmap_maskarea_area006_10005",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10006.bigmap_maskarea_area006_10006",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10007.bigmap_maskarea_area006_10007",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10008.bigmap_maskarea_area006_10008",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10009.bigmap_maskarea_area006_10009",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10010.bigmap_maskarea_area006_10010",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10011.bigmap_maskarea_area006_10011",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10012.bigmap_maskarea_area006_10012",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10013.bigmap_maskarea_area006_10013",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10014.bigmap_maskarea_area006_10014",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10015.bigmap_maskarea_area006_10015",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10016.bigmap_maskarea_area006_10016",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10017.bigmap_maskarea_area006_10017",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10018.bigmap_maskarea_area006_10018",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10019.bigmap_maskarea_area006_10019",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10020.bigmap_maskarea_area006_10020",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10021.bigmap_maskarea_area006_10021",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10022.bigmap_maskarea_area006_10022",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10023.bigmap_maskarea_area006_10023",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10024.bigmap_maskarea_area006_10024",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10025.bigmap_maskarea_area006_10025",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10026.bigmap_maskarea_area006_10026",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10027.bigmap_maskarea_area006_10027",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10028.bigmap_maskarea_area006_10028",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10029.bigmap_maskarea_area006_10029",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10030.bigmap_maskarea_area006_10030",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10031.bigmap_maskarea_area006_10031",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10032.bigmap_maskarea_area006_10032",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10033.bigmap_maskarea_area006_10033",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10034.bigmap_maskarea_area006_10034",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10035.bigmap_maskarea_area006_10035",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  },
+                  {
+                    "TileImage": {
+                      "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Area006/bigmap_maskarea_area006_10036.bigmap_maskarea_area006_10036",
+                      "SubPathString": ""
+                    },
+                    "TileColor": {
+                      "R": 0.0,
+                      "G": 0.0,
+                      "B": 0.0,
+                      "A": 0.0,
+                      "Hex": "000000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "BackgroundTileDatasMobile": [],
+            "BlendMode": "EBlendMode::BLEND_Opaque"
+          },
+          "ThumbnailImage": {
+            "AssetPathName": "/Game/UI/UI/minimap/bigworldmap_maskarea/Mask_mini/bigmap_maskarea_area006.bigmap_maskarea_area006",
+            "SubPathString": ""
+          },
+          "MiniMapCenterLocation": {
+            "X": 226389.25,
+            "Y": 361783.47,
+            "Z": 0.0
+          },
+          "MiniMapEdgeSize": {
+            "X": 90763.0,
+            "Y": 90763.0,
             "Z": 1.0
           }
         }

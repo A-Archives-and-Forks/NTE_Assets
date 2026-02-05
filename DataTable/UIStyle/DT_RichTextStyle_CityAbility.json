@@ -20,21 +20,21 @@
             },
             "FontMaterial": null,
             "OutlineSettings": {
-              "OutlineSize": 3,
+              "OutlineSize": 0,
               "bMiteredCorners": false,
               "bSeparateFillAlpha": false,
               "bApplyOutlineToDropShadows": false,
               "OutlineMaterial": null,
               "OutlineColor": {
-                "R": 0.049707,
-                "G": 0.049707,
-                "B": 0.049707,
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
                 "A": 1.0,
-                "Hex": "3F3F3F"
+                "Hex": "000000"
               }
             },
             "TypefaceFontName": "Default",
-            "Size": 22.0,
+            "Size": 19.0,
             "LetterSpacing": 0,
             "SkewAmount": 0.0,
             "bForceMonospaced": false,
@@ -301,11 +301,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 1.0,
-              "G": 0.411906,
-              "B": 0.096568,
+              "R": 0.982251,
+              "G": 0.107023,
+              "B": 0.000607,
               "A": 1.0,
-              "Hex": "FFAC57"
+              "Hex": "FD5C02"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -550,7 +550,7 @@
               }
             },
             "TypefaceFontName": "Default",
-            "Size": 22.0,
+            "Size": 19.0,
             "LetterSpacing": 0,
             "SkewAmount": 0.0,
             "bForceMonospaced": false,
@@ -817,11 +817,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.05929,
-              "G": 0.385417,
-              "B": 0.274456,
+              "R": 0.982251,
+              "G": 0.107023,
+              "B": 0.000607,
               "A": 1.0,
-              "Hex": "45A78F"
+              "Hex": "FD5C02"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -1333,11 +1333,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.791298,
-              "G": 0.06301,
-              "B": 0.05448,
+              "R": 0.982251,
+              "G": 0.107023,
+              "B": 0.000607,
               "A": 1.0,
-              "Hex": "E64742"
+              "Hex": "FD5C02"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -1849,11 +1849,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 1.0,
-              "G": 0.031896,
-              "B": 0.0,
+              "R": 0.982251,
+              "G": 0.107023,
+              "B": 0.000607,
               "A": 1.0,
-              "Hex": "FF3200"
+              "Hex": "FD5C02"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -2342,21 +2342,21 @@
             },
             "FontMaterial": null,
             "OutlineSettings": {
-              "OutlineSize": 3,
+              "OutlineSize": 0,
               "bMiteredCorners": false,
               "bSeparateFillAlpha": false,
               "bApplyOutlineToDropShadows": false,
               "OutlineMaterial": null,
               "OutlineColor": {
-                "R": 0.049707,
-                "G": 0.049707,
-                "B": 0.049707,
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
                 "A": 1.0,
-                "Hex": "3F3F3F"
+                "Hex": "000000"
               }
             },
             "TypefaceFontName": "Default",
-            "Size": 22.0,
+            "Size": 19.0,
             "LetterSpacing": 0,
             "SkewAmount": 0.0,
             "bForceMonospaced": false,
@@ -2365,11 +2365,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.003347,
-              "G": 0.462077,
-              "B": 0.198069,
+              "R": 0.982251,
+              "G": 0.107023,
+              "B": 0.000607,
               "A": 1.0,
-              "Hex": "0BB57B"
+              "Hex": "FD5C02"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -2614,7 +2614,7 @@
               }
             },
             "TypefaceFontName": "Default",
-            "Size": 22.0,
+            "Size": 19.0,
             "LetterSpacing": 0,
             "SkewAmount": 0.0,
             "bForceMonospaced": false,
@@ -2623,11 +2623,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.901042,
-              "G": 0.381142,
-              "B": 0.199673,
+              "R": 0.982251,
+              "G": 0.107023,
+              "B": 0.000607,
               "A": 1.0,
-              "Hex": "F4A67B"
+              "Hex": "FD5C02"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },

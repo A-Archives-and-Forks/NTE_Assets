@@ -34,7 +34,7 @@
               }
             },
             "TypefaceFontName": "Default",
-            "Size": 15.0,
+            "Size": 16.0,
             "LetterSpacing": -60,
             "SkewAmount": 0.2,
             "bForceMonospaced": false,
@@ -550,7 +550,7 @@
               }
             },
             "TypefaceFontName": "Default",
-            "Size": 15.0,
+            "Size": 16.0,
             "LetterSpacing": -60,
             "SkewAmount": 0.2,
             "bForceMonospaced": false,

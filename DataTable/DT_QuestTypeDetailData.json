@@ -40,11 +40,11 @@
       },
       "EQT_LEGEND": {
         "TypeImage": {
-          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_haogandu.UI_mission_haogandu",
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_YH_Missions_GuideIcon_FanWai.UI_YH_Missions_GuideIcon_FanWai",
           "SubPathString": ""
         },
         "TypeTrackImage": {
-          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_haogandu.UI_mission_haogandu",
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_fanwai.UI_mission_fanwai",
           "SubPathString": ""
         },
         "TypeText": {
@@ -94,11 +94,11 @@
       },
       "EQT_LIKING": {
         "TypeImage": {
-          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_shangdian.UI_mission_shangdian",
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_haogandu.UI_mission_haogandu",
           "SubPathString": ""
         },
         "TypeTrackImage": {
-          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_zhixian02.UI_mission_zhixian02",
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_zhixian03.UI_mission_zhixian03",
           "SubPathString": ""
         },
         "TypeText": {
@@ -113,9 +113,9 @@
         },
         "TypeName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
-          "Key": "QuestTitle_2",
-          "SourceString": "支线",
-          "LocalizedString": "支线"
+          "Key": "QuestTitle_6",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
         },
         "bShowInQuestPanel": true
       },
@@ -287,6 +287,33 @@
           "Key": "QuestTitle_3",
           "SourceString": "番外",
           "LocalizedString": "番外"
+        },
+        "bShowInQuestPanel": true
+      },
+      "EQT_FAVORABILITY_ATMOSPHERE": {
+        "TypeImage": {
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_haogandu.UI_mission_haogandu",
+          "SubPathString": ""
+        },
+        "TypeTrackImage": {
+          "AssetPathName": "/Game/UI/UI/Quest/QuestMain/mission/UI_mission_zhixian03.UI_mission_zhixian03",
+          "SubPathString": ""
+        },
+        "TypeText": {
+          "TableId": "/Game/Text/ST_Common.ST_Common",
+          "Key": "quest_LikingQuest",
+          "SourceString": "{0}",
+          "LocalizedString": "{0}"
+        },
+        "bCanTrack": true,
+        "CannotTrackDesc": {
+          "CultureInvariantString": null
+        },
+        "TypeName": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "QuestTitle_6",
+          "SourceString": "羁遇",
+          "LocalizedString": "羁遇"
         },
         "bShowInQuestPanel": true
       }

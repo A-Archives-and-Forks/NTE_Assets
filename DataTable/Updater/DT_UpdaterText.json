@@ -28,6 +28,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Mettre à jour"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Actualizar"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновить"
           }
         ]
       },
@@ -48,6 +68,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "退出"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "나가기"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Beenden"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Quitter"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Salir"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Выйти"
           }
         ]
       },
@@ -68,6 +108,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "重試"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "다시 시도"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Erneut versuchen"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Réessayer"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Repetir"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Заново"
           }
         ]
       },
@@ -88,6 +148,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "您當前正在使用移動網路，繼續更新將消耗流量，是否繼續更新？"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "현재 모바일 네트워크를 사용 중입니다. 업데이트를 계속하면 데이터가 소모됩니다. 계속하시겠습니까?"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Du verwendest ein mobiles Netzwerk. Wenn du mit der Aktualisierung fortfährst, werden Daten verbraucht. Weiter?"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Vous utilisez le réseau mobile. Poursuivre la mise à jour consommera des données. Continuer ?"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Estás usando datos móviles. Proseguir con la actualización usará datos. ¿Quieres continuar?"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Вы используете мобильное соединение. Обновление приведет к расходу данных. Продолжить?"
           }
         ]
       },
@@ -108,6 +188,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "取消"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "취소"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Abbrechen"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Annuler"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Cancelar"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Отмена"
           }
         ]
       },
@@ -128,6 +228,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "需要重啟應用"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "앱을 재시작해 주세요"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Neustart erforderlich"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Redémarrage nécessaire"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Se requiere reiniciar"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Требуется перезапуск"
           }
         ]
       },
@@ -148,6 +268,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "重啟"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "재시작"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Neustart"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Redémarrer"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Reiniciar"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Перезапустить"
           }
         ]
       },
@@ -208,6 +348,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "警告：請在遊戲前詳閱"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "경고: 게임 시작 전 반드시 주의사항을 확인해 주세요"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Warnung: Vor dem Spielen bitte lesen"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Attention : lire avant de jouer"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Advertencia: leer antes de jugar"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Внимание: прочтите перед игрой"
           }
         ]
       },
@@ -228,6 +388,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "當暴露在特定光影圖案或閃光光亮下時，有極少數人群會引發癲癇。甚至連不具有癲癇史的人，也可能在進行電子遊戲時，出現類似癲癇症狀。如果您或您的家人曾出現過癲癇症狀，請在遊玩本遊戲之前諮詢您的醫生。如果您在遊玩本遊戲時出現視力模糊、頭暈、失去意識、方向混亂、不自覺肌肉痙攣、眼抽搐或麻木等症狀，請立即中止遊戲及時就醫，並且請您再次進行本遊戲之前諮詢您的醫生。"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "특정한 빛 패턴이나 깜빡임에 노출될 경우, 극소수의 사용자에게 뇌전증 증상이 유발될 수 있습니다. 뇌전증 병력이 없더라도 게임 중 유사한 증상이 나타날 수 있으므로 본인 혹은 가족 중 뇌전증 증상을 경험한 적이 있다면, 게임을 시작하기 전에 반드시 의사와 상담하시기를 바랍니다. 게임 도중 시야 흐림, 어지럼증, 의식 상실, 방향 감각 상실, 근육 경련, 눈 떨림, 저림 등 증상이 나타나면 즉시 게임 중단 후 의사의 진료를 받으시고, 게임을 다시 시작하기 전에도 반드시 의사와 상담하시기를 바랍니다."
+          },
+          {
+            "Language": "de",
+            "TextValue": "Bei einer sehr kleinen Anzahl von Menschen können bestimmte Lichtmuster und blinkende Bilder zu Krampfanfällen führen. Selbst Personen ohne Epilepsie in der Vorgeschichte können beim Spielen von Videospielen krampfartige Symptome entwickeln. Wenn bei dir oder deinen Familienmitgliedern Epilepsie vorkommt, sprich vorher mit einem Arzt. Wenn du beim Spielen Symptome wie verschwommenes Sehen, Schwindel, Bewusstlosigkeit, Orientierungslosigkeit, Krampfanfälle, Augenzucken oder Taubheitsgefühle hast, höre sofort auf und suche einen Arzt auf. Konsultiere einen Arzt, bevor du das Spiel fortsetzt."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Un très petit nombre de personnes peut être sujet à des crises d’épilepsie lorsqu’elles sont exposées à certains motifs lumineux ou à des images clignotantes. Même des individus sans antécédents d’épilepsie peuvent présenter des symptômes similaires à des crises d’épilepsie en jouant aux jeux vidéo. Si vous ou un membre de votre famille avez des antécédents d’épilepsie, consultez un médecin avant de jouer. Si vous ressentez des symptômes tels que vision trouble, vertiges, perte de conscience, désorientation, crises d’épilepsie, tremblements des yeux ou engourdissement en jouant, arrêtez immédiatement et demandez un avis médical. Consultez un médecin avant de reprendre le jeu."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Un número muy reducido de personas puede sufrir convulsiones al exponerse a ciertos patrones de luz e imágenes con destellos. Incluso las personas sin antecedentes de epilepsia pueden experimentar síntomas similares a las convulsiones mientras juegan videojuegos. Si tú o algún miembro de tu familia han tenido síntomas de epilepsia, consulta con tu médico antes de jugar este juego. Si experimentas síntomas como visión borrosa, mareos, pérdida de conciencia, desorientación, convulsiones, espasmos oculares o entumecimiento mientras juegas, deja de hacerlo inmediatamente y acude al médico. Consulta a un médico antes de reanudar el juego."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Очень небольшое число людей может испытывать припадки при воздействии определенных световых узоров и вспышек. Даже те, кто не страдает эпилепсией, могут испытывать припадки во время видеоигр. Если у вас или ваших родственников бывали симптомы эпилепсии, проконсультируйтесь с врачом, прежде чем играть в эту игру. Если во время игры у вас возникли такие симптомы, как помутнение зрения, головокружение, потеря сознания, дезориентация, судороги, подергивание глаз или оцепенение, немедленно прекратите игру и обратитесь к врачу. Проконсультируйтесь с врачом, прежде чем продолжать играть."
           }
         ]
       },
@@ -304,6 +484,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗，請重新嘗試"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패. 다시 시도해 주세요"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen. Bitte versuche es erneut."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour. Veuillez réessayer."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar. Vuelve a intentarlo."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось. Повторите попытку."
           }
         ]
       },
@@ -324,6 +524,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "儲存空間不足無法更新"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "저장 공간 부족으로 업데이트할 수 없습니다"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Unzureichender Speicherplatz"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Stockage insuffisant"
+          },
+          {
+            "Language": "es",
+            "TextValue": "No hay espacio suficiente"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Недостаточно места для хранения"
           }
         ]
       },
@@ -344,6 +564,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "當前版本為{0}需要更新到{1}版本才能進行遊戲"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "현재 버전: {0}, 먼저 {1} 버전으로 업데이트 후 게임을 진행해 주세요"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktuelle Ver.: {0}. Ver. {1} erforderlich."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Actuellement en Ver. {0}. Ver. {1} requise."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Esta es la Ver. {0}. Debes actualizar a la Ver. {1} para poder jugar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Сейчас у вас версия {0}. Требуется версия {1}."
           }
         ]
       },
@@ -364,6 +604,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "遊戲有更新，請更新遊戲後重試。"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "클라이언트 업데이트가 있습니다. 업데이트 후 다시 시도해 주세요"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Client-Aktualisierung verfügbar. Aktualisieren und erneut versuchen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Mise à jour client disponible. Effectuez la mise à jour et réessayez."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Hay una actualización disponible del cliente. Actualiza y vuelva a intentarlo."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Доступно обновление клиента. Обновите игру и повторите попытку."
           }
         ]
       },
@@ -384,6 +644,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "當前版本為{0}更新到{1}版本後才能體驗到完整的遊戲，是否要更新到最新版本"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "현재 버전: {0}. 전체 게임 콘텐츠를 즐기려면 {1} 버전으로 업데이트해야 합니다. 최신 버전으로 업데이트하시겠습니까?"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktuelle Ver.: {0}. Für ein vollständiges Erlebnis, bitte auf Ver. {1} aktualisieren. Weiter?"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Actuellement en Ver. {0}. Mettre à jour vers la Ver. {1} pour une expérience complète. Mettre à jour ?"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Esta es la Ver. {0}. ¿Quieres actualizar a la Ver. {1} para poder jugar el juego completo?"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Сейчас у вас версия {0}. Для полноты впечатлений требуется версия {1}. Обновить игру?"
           }
         ]
       },
@@ -404,6 +684,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "版本 {0}   資源{1}"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "버전: {0}   리소스: {1}"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Ver. {0} Asset {1}"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Ver. {0} Ressource {1}"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Ver. {0} Asset {1}"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Вер. {0}, активы {1}"
           }
         ]
       },
@@ -424,6 +724,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "本次下載{0}，速度{1}/秒 ({2})【支援後臺更新】"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "{0} 다운로드 중, 속도 {1}/s({2}) [백그라운드 업데이트 지원]"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Größe: {0}, Geschwindigkeit: {1}/s ({2}) (Hintergrundaktualisierung unterstützt)"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Taille : {0}, vitesse : {1}/s ({2}) (mise à jour en arrière-plan prise en charge)"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Tamaño {0}, velocidad {1}/s ({2}) [Admite actualización en segundo plano]."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Размер: {0}, скорость: {1}/сек ({2}) (Поддерживается фоновое обновление.)"
           }
         ]
       },
@@ -444,6 +764,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新參數錯誤"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 파라미터 오류"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung-Parameter-Fehler."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Erreur des paramètres de mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Problema con los parámetros de actualización."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Ошибка параметров обновления."
           }
         ]
       },
@@ -464,6 +804,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось."
           }
         ]
       },
@@ -484,6 +844,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "域名解析失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "도메인 이름 확인 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Parsen von Domänennamen fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de l’analyse du nom de domaine."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo analizar el nombre de dominio."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Ошибка парсинга доменного имени."
           }
         ]
       },
@@ -504,6 +884,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "無法連接伺服器"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "서버에 연결할 수 없습니다"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Verbindung zum Server konnte nicht erstellt werden."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Impossible de se connecter au serveur."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se puede conectar al servidor."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Не удалось подключиться к серверу."
           }
         ]
       },
@@ -524,6 +924,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "連接超時"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "연결 시간 초과"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Verbindungs-Zeitüberschreitung."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Délai de connexion expiré."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Tiempo de espera de conexión agotado."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Превышено время ожидания запроса."
           }
         ]
       },
@@ -544,6 +964,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось."
           }
         ]
       },
@@ -564,6 +1004,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "網路異常"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "네트워크 연결 오류"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Netzwerkfehler."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Erreur de réseau."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Error de red."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Ошибка сети."
           }
         ]
       },
@@ -584,6 +1044,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось."
           }
         ]
       },
@@ -604,6 +1084,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось."
           }
         ]
       },
@@ -624,6 +1124,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "請求失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "요청 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Anfrage verweigert."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Requête rejetée."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Solicitud denegada."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Запрос отклонен."
           }
         ]
       },
@@ -644,6 +1164,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось."
           }
         ]
       },
@@ -664,6 +1204,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось."
           }
         ]
       },
@@ -684,6 +1244,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "運行中，不可重複操作"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "진행 중이므로 동일한 작업을 반복할 수 없습니다"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Wiederholtes Ausführen nicht erlaubt."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Action en cours d’exécution ; la répétition n’est pas autorisée."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se permite la ejecución repetida."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Повторяющиеся действия не разрешены."
           }
         ]
       },
@@ -704,6 +1284,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "遊戲版本不匹配"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "클라이언트 버전 불일치"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Version-Diskrepanz."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Incompatibilité de version."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Incompatibilidad entre versiones."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Несоответствие версий."
           }
         ]
       },
@@ -724,6 +1324,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "資源更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "리소스 업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Ressourcenaktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour des ressources."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar los recursos."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Ошибка обновления ресурса."
           }
         ]
       },
@@ -744,6 +1364,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "資源驗證檢查失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "리소스 검사 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Ressourcenüberprüfung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la vérification des ressources."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudieron verificar los recursos."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Ошибка проверки ресурса."
           }
         ]
       },
@@ -764,6 +1404,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "解壓失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "압축 해제 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Dekomprimieren fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la décompression."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Error al descomprimir."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Ошибка распаковки."
           }
         ]
       },
@@ -784,6 +1444,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось."
           }
         ]
       },
@@ -804,6 +1484,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "資源錯誤"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "리소스 오류"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Ressourcenfehler"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Erreur de ressources."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Error de recursos."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Ошибка ресурса."
           }
         ]
       },
@@ -824,6 +1524,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "空間不足"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "공간 부족"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Unzureichender Speicherplatz."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Stockage insuffisant."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No hay espacio suficiente."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Недостаточно места для хранения."
           }
         ]
       },
@@ -844,6 +1564,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось."
           }
         ]
       },
@@ -864,6 +1604,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось."
           }
         ]
       },
@@ -884,6 +1644,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新檔錯誤"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 파일 오류"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Fehler bei der Dateiaktualisierung."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Erreur de mise à jour du fichier."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Error de actualización de archivos."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Ошибка обновления файлов."
           }
         ]
       },
@@ -904,6 +1684,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "檔案丟失"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "파일 누락"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Datei verloren."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Fichier perdu."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Archivo perdido."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Файл потерян."
           }
         ]
       },
@@ -924,6 +1724,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "更新失敗"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 실패"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung fehlgeschlagen."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Échec de la mise à jour."
+          },
+          {
+            "Language": "es",
+            "TextValue": "No se pudo actualizar."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление не удалось."
           }
         ]
       },
@@ -944,6 +1764,26 @@
           {
             "Language": "zh-Hant",
             "TextValue": "著色器編譯中"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "셰이더 컴파일 중"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Shader werden kompiliert"
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Compilation des shaders"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Compilando sombreadores"
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Компиляция шейдеров"
           }
         ]
       },
@@ -955,15 +1795,75 @@
           },
           {
             "Language": "en",
-            "TextValue": "更新成功，需要重启游戏。"
+            "TextValue": "Update successful. Game restart required."
           },
           {
             "Language": "ja",
-            "TextValue": "更新成功，需要重启游戏。"
+            "TextValue": "更新成功。ゲームを再起動してください。"
           },
           {
             "Language": "zh-Hant",
-            "TextValue": ""
+            "TextValue": "更新成功，需要重啟遊戲。"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "업데이트 완료, 게임을 다시 시작해 주세요"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Aktualisierung erolgreich. Bitte das Spiel neu starten."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Mise à jour réussie. Veuillez redémarrer le jeu."
+          },
+          {
+            "Language": "es",
+            "TextValue": "Actualización exitosa. Reinicia el juego."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Обновление успешно. Пожалуйста, перезапустите игру."
+          }
+        ]
+      },
+      "ui_patcher_res_check": {
+        "TextForLanguage": [
+          {
+            "Language": "zh-CN",
+            "TextValue": "资源校验中"
+          },
+          {
+            "Language": "en",
+            "TextValue": "Verifying resources"
+          },
+          {
+            "Language": "ja",
+            "TextValue": "リソース確認中"
+          },
+          {
+            "Language": "zh-Hant",
+            "TextValue": "資源校驗中"
+          },
+          {
+            "Language": "ko",
+            "TextValue": "리소스 검사 중"
+          },
+          {
+            "Language": "de",
+            "TextValue": "Ressourcen werden überprüft ..."
+          },
+          {
+            "Language": "fr",
+            "TextValue": "Vérification des ressources…"
+          },
+          {
+            "Language": "es",
+            "TextValue": "Verificando recursos..."
+          },
+          {
+            "Language": "ru",
+            "TextValue": "Проверка ресурсов…"
           }
         ]
       }

@@ -13,10 +13,10 @@
     "Rows": {
       "Doll_Huili": {
         "Name": {
-          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
-          "Key": "BPUI_EquipmentList_1",
-          "SourceString": "空幕列表",
-          "LocalizedString": "空幕列表"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Name_Doll_Huili",
+          "SourceString": "银月圆舞会-浅绯祈",
+          "LocalizedString": "银月圆舞会-浅绯祈"
         },
         "Icon": {
           "AssetPathName": "/Game/Blueprints/Level/World/Common/ClawMachine/Doll/6.6",
@@ -29,10 +29,10 @@
       },
       "Doll_LonelyDoll": {
         "Name": {
-          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
-          "Key": "BPUI_EquipmentList_1",
-          "SourceString": "空幕列表",
-          "LocalizedString": "空幕列表"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Name_Doll_LonelyDoll",
+          "SourceString": "奇迹时刻-肯特",
+          "LocalizedString": "奇迹时刻-肯特"
         },
         "Icon": {
           "AssetPathName": "/Game/Blueprints/Level/World/Common/ClawMachine/Doll/5.5",
@@ -45,10 +45,10 @@
       },
       "Doll_Rider": {
         "Name": {
-          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
-          "Key": "BPUI_EquipmentList_1",
-          "SourceString": "空幕列表",
-          "LocalizedString": "空幕列表"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Name_Doll_Rider",
+          "SourceString": "特装心猎铁骑-L1",
+          "LocalizedString": "特装心猎铁骑-L1"
         },
         "Icon": {
           "AssetPathName": "/Game/Blueprints/Level/World/Common/ClawMachine/Doll/4.4",
@@ -61,10 +61,10 @@
       },
       "Doll_PoliceMouse": {
         "Name": {
-          "TableId": "/Game/Text/ST_UI_C.ST_UI_C",
-          "Key": "BPUI_EquipmentList_1",
-          "SourceString": "空幕列表",
-          "LocalizedString": "空幕列表"
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Name_Doll_PoliceMouse",
+          "SourceString": "巡哨-干练精英",
+          "LocalizedString": "巡哨-干练精英"
         },
         "Icon": {
           "AssetPathName": "/Game/Blueprints/Level/World/Common/ClawMachine/Doll/1.1",

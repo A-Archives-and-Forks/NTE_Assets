@@ -4908,8 +4908,8 @@
         "SpeakerName": {
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "NPC_1019_Name",
-          "SourceString": "波赛特",
-          "LocalizedString": "波赛特"
+          "SourceString": "珀塞特",
+          "LocalizedString": "珀塞特"
         },
         "DialogSoundEvent": {
           "AssetPathName": "",
@@ -4937,8 +4937,8 @@
         "SpeakerName": {
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
           "Key": "NPC_1019_Name",
-          "SourceString": "波赛特",
-          "LocalizedString": "波赛特"
+          "SourceString": "珀塞特",
+          "LocalizedString": "珀塞特"
         },
         "DialogSoundEvent": {
           "AssetPathName": "",
@@ -5827,8 +5827,8 @@
         "Desc": {
           "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
           "Key": "HM_U01C02_02_NPC008_001",
-          "SourceString": "哟哟！大人物~",
-          "LocalizedString": "哟哟！大人物~"
+          "SourceString": "嚯~？可不是大人物嘛？",
+          "LocalizedString": "嚯~？可不是大人物嘛？"
         },
         "SpeakerName": {
           "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
@@ -10377,6 +10377,2362 @@
         "RTPCConfigs": [],
         "AuxBus": []
       },
+      "HM_Lacrimosa01_NPC079A_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence_Legend.ST_Sequence_Legend",
+          "Key": "HM_Lacrimosa01_NPC079A_001",
+          "SourceString": "破坏！破坏！",
+          "LocalizedString": "破坏！破坏！"
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_079_A_Name",
+          "SourceString": "番茄酱恶魔",
+          "LocalizedString": "番茄酱恶魔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_Lacrimosa01_NPC079A_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence_Legend.ST_Sequence_Legend",
+          "Key": "HM_Lacrimosa01_NPC079A_002",
+          "SourceString": "碾碎！碾碎！",
+          "LocalizedString": "碾碎！碾碎！"
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_079_A_Name",
+          "SourceString": "番茄酱恶魔",
+          "LocalizedString": "番茄酱恶魔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_05_NPC013_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_05_NPC013_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_013_Name",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_05_NPC022_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_05_NPC022_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_05_NPC022_004": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_05_NPC022_004",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_05_NPC022_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_05_NPC022_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_05_NPC011_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_05_NPC011_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_011_Name",
+          "SourceString": "娜娜莉",
+          "LocalizedString": "娜娜莉"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_05_NPC022_003": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_05_NPC022_003",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_05_Player_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_05_Player_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_05_NPC013_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_05_NPC013_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_013_Name",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_05_NPC024_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_05_NPC024_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_024_Name",
+          "SourceString": "卡厄斯",
+          "LocalizedString": "卡厄斯"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_Player_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_Player_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1053_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1053_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1053_Name",
+          "SourceString": "德洛丽思",
+          "LocalizedString": "德洛丽思"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1046_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1046_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1046_Name",
+          "SourceString": "蕾妮",
+          "LocalizedString": "蕾妮"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1053_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1053_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1053_Name",
+          "SourceString": "德洛丽思",
+          "LocalizedString": "德洛丽思"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1053_003": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1053_003",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1053_Name",
+          "SourceString": "德洛丽思",
+          "LocalizedString": "德洛丽思"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1053_004": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1053_004",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1053_Name",
+          "SourceString": "德洛丽思",
+          "LocalizedString": "德洛丽思"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1053_005": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1053_005",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1053_Name",
+          "SourceString": "德洛丽思",
+          "LocalizedString": "德洛丽思"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1053_006": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1053_006",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1053_Name",
+          "SourceString": "德洛丽思",
+          "LocalizedString": "德洛丽思"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1046_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1046_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1046_Name",
+          "SourceString": "蕾妮",
+          "LocalizedString": "蕾妮"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1046_003": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1046_003",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1046_Name",
+          "SourceString": "蕾妮",
+          "LocalizedString": "蕾妮"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1046_004": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1046_004",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1046_Name",
+          "SourceString": "蕾妮",
+          "LocalizedString": "蕾妮"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1046_005": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1046_005",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1046_Name",
+          "SourceString": "蕾妮",
+          "LocalizedString": "蕾妮"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_04_NPC1046_006": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_04_NPC1046_006",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1046_Name",
+          "SourceString": "蕾妮",
+          "LocalizedString": "蕾妮"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_03_NPC022_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_03_NPC022_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_03_NPC022_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_03_NPC022_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_03_NPC022_003": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_03_NPC022_003",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_03_NPC022_004": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_03_NPC022_004",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_03_NPC022_005": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_03_NPC022_005",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_03_NPC022_006": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_03_NPC022_006",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_03_NPC022_007": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_03_NPC022_007",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_03_NPC022_008": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_03_NPC022_008",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_03_NPC022_009": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_03_NPC022_009",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_03_NPC022_010": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_03_NPC022_010",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_02_NPC022_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_02_NPC022_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_01_Player_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_01_Player_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C04_01_NPC011_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C04_01_NPC011_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_011_Name",
+          "SourceString": "娜娜莉",
+          "LocalizedString": "娜娜莉"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "MT01_03_NPC009_060": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "MT01_03_NPC009_060",
+          "SourceString": "这种时候，可别松懈哦~",
+          "LocalizedString": "这种时候，可别松懈哦~"
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_009_Name",
+          "SourceString": "浔",
+          "LocalizedString": "浔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "MT01_03_NPC05801_015": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "MT01_03_NPC05801_015",
+          "SourceString": "一亿？！怎么不按剧本来啊！",
+          "LocalizedString": "一亿？！怎么不按剧本来啊！"
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_05801_Name",
+          "SourceString": "玛丽亚",
+          "LocalizedString": "玛丽亚"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "MT01_03_NPC009_061": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "MT01_03_NPC009_061",
+          "SourceString": "看来，胜利归我喽~",
+          "LocalizedString": "看来，胜利归我喽~"
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_009_Name",
+          "SourceString": "浔",
+          "LocalizedString": "浔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_Lacrimosa03_NPC079A_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_Lacrimosa03_NPC079A_001",
+          "SourceString": "破坏！破坏！",
+          "LocalizedString": "破坏！破坏！"
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_079_A_Name",
+          "SourceString": "番茄酱恶魔",
+          "LocalizedString": "番茄酱恶魔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_Lacrimosa03_NPC079A_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_Lacrimosa03_NPC079A_002",
+          "SourceString": "碾碎！碾碎！",
+          "LocalizedString": "碾碎！碾碎！"
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_079_A_Name",
+          "SourceString": "番茄酱恶魔",
+          "LocalizedString": "番茄酱恶魔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_01_NPC074A_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_01_NPC074A_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_074_A_Name",
+          "SourceString": "桀桀熊",
+          "LocalizedString": "桀桀熊"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_01_NPC010_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_01_NPC010_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_010_Name",
+          "SourceString": "阿德勒",
+          "LocalizedString": "阿德勒"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_01_NPC008_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_01_NPC008_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_008_Name",
+          "SourceString": "早雾",
+          "LocalizedString": "早雾"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_01_Player_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_01_Player_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_01_NPC074A_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_01_NPC074A_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_074_A_Name",
+          "SourceString": "桀桀熊",
+          "LocalizedString": "桀桀熊"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_01_NPC074A_003": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_01_NPC074A_003",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_074_A_Name",
+          "SourceString": "桀桀熊",
+          "LocalizedString": "桀桀熊"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_NPC074A_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_NPC074A_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_074_A_Name",
+          "SourceString": "桀桀熊",
+          "LocalizedString": "桀桀熊"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_NPC074A_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_NPC074A_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_074_A_Name",
+          "SourceString": "桀桀熊",
+          "LocalizedString": "桀桀熊"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_Player_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_Player_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_Player_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_Player_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_Player_003": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_Player_003",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_NPC077A_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_NPC077A_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_077_A_Name",
+          "SourceString": "摆渡人",
+          "LocalizedString": "摆渡人"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_NPC078A_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_NPC078A_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_078_A_Name",
+          "SourceString": "扭扭",
+          "LocalizedString": "扭扭"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_Player_004": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_Player_004",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_NPC077A_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_NPC077A_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_Player_005": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_Player_005",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_NPC077A_003": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_NPC077A_003",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_077_A_Name",
+          "SourceString": "摆渡人",
+          "LocalizedString": "摆渡人"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_Player_006": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_Player_006",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_Player_007": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_Player_007",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_02_Player_008": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_02_Player_008",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC1019_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC1019_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1019_Name",
+          "SourceString": "珀塞特",
+          "LocalizedString": "珀塞特"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC1013_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC1013_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_013_Name",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC1013_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC1013_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_013_Name",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC1013_003": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC1013_003",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_013_Name",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC013_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC013_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_013_Name",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC1013_004": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC1013_004",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1013_Name",
+          "SourceString": "T女士",
+          "LocalizedString": "T女士"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC013_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC013_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_013_Name",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC022_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC022_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_022_Name",
+          "SourceString": "残虹",
+          "LocalizedString": "残虹"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC1013_005": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC1013_005",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1013_Name",
+          "SourceString": "T女士",
+          "LocalizedString": "T女士"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC1019_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC1019_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1019_Name",
+          "SourceString": "珀塞特",
+          "LocalizedString": "珀塞特"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC013_003": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC013_003",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_013_Name",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_03_NPC013_004": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_03_NPC013_004",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_013_Name",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_04_NPC1018_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_04_NPC1018_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1018_Name",
+          "SourceString": "莳",
+          "LocalizedString": "莳"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_04_Player_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_04_Player_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_04_Player_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_04_Player_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_04_NPC1018_002": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_04_NPC1018_002",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1018_Name",
+          "SourceString": "莳",
+          "LocalizedString": "莳"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_04_Player_003": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_04_Player_003",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_001_Name",
+          "SourceString": "薄荷",
+          "LocalizedString": "薄荷"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_04_NPC011_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_04_NPC011_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_011_Name",
+          "SourceString": "娜娜莉",
+          "LocalizedString": "娜娜莉"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_04_Player_004": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_04_Player_004",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_04_Player_005": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_04_Player_005",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": true,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "HM_U01C05_04_NPC1013_001": {
+        "Desc": {
+          "TableId": "/Game/Text/Sequence/ST_Sequence.ST_Sequence",
+          "Key": "HM_U01C05_04_NPC1013_001",
+          "SourceString": null,
+          "LocalizedString": null
+        },
+        "SpeakerName": {
+          "TableId": "/Game/Text/ST_ActorName.ST_ActorName",
+          "Key": "NPC_1013_Name",
+          "SourceString": "T女士",
+          "LocalizedString": "T女士"
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
       "NewRow_3": {
         "Desc": {
           "CultureInvariantString": null
@@ -10401,6 +12757,29 @@
         "AuxBus": []
       },
       "NewRow_4": {
+        "Desc": {
+          "CultureInvariantString": null
+        },
+        "SpeakerName": {
+          "CultureInvariantString": null
+        },
+        "DialogSoundEvent": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "IsSelf": false,
+        "duration": 2.0,
+        "Delay": 0.5,
+        "EndByVoice": true,
+        "NeedTyping": true,
+        "ClearNeedQuestID": "None",
+        "MontageInfos": [],
+        "LockTargetInfo": null,
+        "VoiceInfo": null,
+        "RTPCConfigs": [],
+        "AuxBus": []
+      },
+      "NewRow_5": {
         "Desc": {
           "CultureInvariantString": null
         },

@@ -12,11 +12,11 @@
     },
     "Rows": {
       "TrainState": {
-        "LimitGamePlayFun": 114686,
+        "LimitGamePlayFun": 4325374,
         "LimitSpecialAbilities": 0
       },
       "BusState": {
-        "LimitGamePlayFun": 73726,
+        "LimitGamePlayFun": 4317182,
         "LimitSpecialAbilities": 0
       },
       "SpecialBanState": {
@@ -28,15 +28,27 @@
         "LimitSpecialAbilities": 4
       },
       "OnlyGroundMoveState": {
-        "LimitGamePlayFun": 248318,
+        "LimitGamePlayFun": 37997054,
         "LimitSpecialAbilities": 4
       },
       "GroundMoveBattleState": {
         "LimitGamePlayFun": 166086,
         "LimitSpecialAbilities": 4
       },
+      "ResourceCloneState": {
+        "LimitGamePlayFun": 2129920,
+        "LimitSpecialAbilities": 0
+      },
       "Default": {
-        "LimitGamePlayFun": 122302,
+        "LimitGamePlayFun": 6412702,
+        "LimitSpecialAbilities": 0
+      },
+      "WorldBoss": {
+        "LimitGamePlayFun": 52465670,
+        "LimitSpecialAbilities": 0
+      },
+      "Elevator": {
+        "LimitGamePlayFun": 6412798,
         "LimitSpecialAbilities": 0
       }
     }

@@ -21,6 +21,10 @@
         "IconImage": {
           "AssetPathName": "/Game/UI/UI/minimap/minimapicon/Lv_LLL.Lv_LLL",
           "SubPathString": ""
+        },
+        "IconImageLight": {
+          "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/YH_UI_icon_house_03.YH_UI_icon_house_03",
+          "SubPathString": ""
         }
       },
       "Apartment": {
@@ -33,6 +37,10 @@
         "IconImage": {
           "AssetPathName": "/Game/UI/UI/minimap/minimapicon/Lv_LL.Lv_LL",
           "SubPathString": ""
+        },
+        "IconImageLight": {
+          "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/YH_UI_icon_house_02.YH_UI_icon_house_02",
+          "SubPathString": ""
         }
       },
       "OfficeBuilding": {
@@ -44,6 +52,10 @@
         },
         "IconImage": {
           "AssetPathName": "/Game/UI/UI/minimap/minimapicon/Lv_L.Lv_L",
+          "SubPathString": ""
+        },
+        "IconImageLight": {
+          "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/YH_UI_icon_house_01.YH_UI_icon_house_01",
           "SubPathString": ""
         }
       }

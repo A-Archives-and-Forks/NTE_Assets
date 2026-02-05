@@ -25,7 +25,9 @@
         "Range": 8000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "YahahaScreen1": {
         "Index": 6401,
@@ -41,7 +43,9 @@
         "Range": 8000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
       },
       "YahahaScreen2": {
         "Index": 6402,
@@ -57,7 +61,63 @@
         "Range": 8000.0,
         "DropID": "None",
         "CanReset": false,
-        "NeedCheckPos": true
+        "NeedCheckPos": true,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Yahaha_Mu_Lamp_02_Store": {
+        "Index": 6403,
+        "YahahaId": "Yahaha_Mu_Lamp_02_Store",
+        "TableName": "Clone",
+        "Type": "Museum_Lamp02",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Yahaha_Mu_Lamp_02_Building": {
+        "Index": 6404,
+        "YahahaId": "Yahaha_Mu_Lamp_02_Building",
+        "TableName": "Clone",
+        "Type": "Museum_Lamp02",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
+      },
+      "Yahaha_Mu_Lamp_02_Fake_InNer": {
+        "Index": 6405,
+        "YahahaId": "Yahaha_Mu_Lamp_02_Fake_InNer",
+        "TableName": "Clone",
+        "Type": "Museum_Lamp02",
+        "CD": 0,
+        "Location": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Range": 0.0,
+        "DropID": "None",
+        "CanReset": true,
+        "NeedCheckPos": false,
+        "ResetTimes": [],
+        "bOnlyServer": false
       }
     }
   }

@@ -194,6 +194,34 @@
         "RoleIds": [],
         "UnLockID": "None",
         "QuestId": "None"
+      },
+      "Mail_gachaunlock": {
+        "CreateRoleTimeStart": "",
+        "CreateRoleTimeEnd": "",
+        "DayCount": 0,
+        "RechargeMin": 0,
+        "RechargeMax": 0,
+        "RoleLevelMin": 0,
+        "RoleLevelMax": 0,
+        "WorldLevelMin": 0,
+        "WorldLevelMax": 0,
+        "RoleIds": [],
+        "UnLockID": "None",
+        "QuestId": "q110057"
+      },
+      "Mail_hunterlv10": {
+        "CreateRoleTimeStart": "",
+        "CreateRoleTimeEnd": "",
+        "DayCount": 0,
+        "RechargeMin": 0,
+        "RechargeMax": 0,
+        "RoleLevelMin": 10,
+        "RoleLevelMax": 0,
+        "WorldLevelMin": 0,
+        "WorldLevelMax": 0,
+        "RoleIds": [],
+        "UnLockID": "None",
+        "QuestId": "None"
       }
     }
   }

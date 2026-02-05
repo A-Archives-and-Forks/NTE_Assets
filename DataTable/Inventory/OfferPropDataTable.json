@@ -16,10 +16,7 @@
           "Food"
         ],
         "OfferName": {
-          "Namespace": "",
-          "Key": "973E95C4479BABB08EE0D89E6BEA6390",
-          "SourceString": "赠送",
-          "LocalizedString": "赠送"
+          "CultureInvariantString": "赠送"
         },
         "TypeNums": [
           2,
@@ -37,7 +34,8 @@
                 "Num": 1
               }
             ],
-            "Effect": 1
+            "Effect": 1,
+            "bIsDeduct": true
           },
           {
             "InfoSets": [
@@ -50,20 +48,19 @@
                 "Num": 1
               }
             ],
-            "Effect": 2
+            "Effect": 2,
+            "bIsDeduct": true
           }
         ],
-        "bCanOfferUnmatchedProps": true
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
       },
       "L110044": {
         "OfferPropTag": [
           "Flower"
         ],
         "OfferName": {
-          "Namespace": "",
-          "Key": "DA0664564098185BE77BBA8A6B99D5F7",
-          "SourceString": "赠送",
-          "LocalizedString": "赠送"
+          "CultureInvariantString": "赠送"
         },
         "TypeNums": [
           1
@@ -76,7 +73,8 @@
                 "Num": 1
               }
             ],
-            "Effect": 1
+            "Effect": 1,
+            "bIsDeduct": true
           },
           {
             "InfoSets": [
@@ -85,7 +83,8 @@
                 "Num": 1
               }
             ],
-            "Effect": 2
+            "Effect": 2,
+            "bIsDeduct": true
           },
           {
             "InfoSets": [
@@ -94,20 +93,19 @@
                 "Num": 1
               }
             ],
-            "Effect": 3
+            "Effect": 3,
+            "bIsDeduct": true
           }
         ],
-        "bCanOfferUnmatchedProps": true
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
       },
       "Mu_Lamp01_Key": {
         "OfferPropTag": [
           "Mu_Lamp01_Key"
         ],
         "OfferName": {
-          "Namespace": "",
-          "Key": "A2F61EF540075DC495F093B62CBD3295",
-          "SourceString": "故事1-获得道具书",
-          "LocalizedString": "故事1-获得道具书"
+          "CultureInvariantString": "故事1-获得道具书"
         },
         "TypeNums": [
           1
@@ -120,20 +118,19 @@
                 "Num": 1
               }
             ],
-            "Effect": 0
+            "Effect": 0,
+            "bIsDeduct": true
           }
         ],
-        "bCanOfferUnmatchedProps": true
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
       },
       "Mu_Lamp01_RedBear": {
         "OfferPropTag": [
           "Mu_Lamp01_RedBear"
         ],
         "OfferName": {
-          "Namespace": "",
-          "Key": "978E1DDC40A9F03F1788CEACBC7448F2",
-          "SourceString": "故事2-获得玩具熊",
-          "LocalizedString": "故事2-获得玩具熊"
+          "CultureInvariantString": "故事2-获得玩具熊"
         },
         "TypeNums": [
           1
@@ -142,11 +139,12 @@
           {
             "InfoSets": [
               {
-                "PropID": "Yahaha_Mu_Lamp01_RedBear",
+                "PropID": "Yahaha_Mu_Lamp01_RedBear_01",
                 "Num": 1
               }
             ],
-            "Effect": 0
+            "Effect": 0,
+            "bIsDeduct": true
           },
           {
             "InfoSets": [
@@ -155,7 +153,8 @@
                 "Num": 1
               }
             ],
-            "Effect": 1
+            "Effect": 1,
+            "bIsDeduct": false
           },
           {
             "InfoSets": [
@@ -164,20 +163,19 @@
                 "Num": 1
               }
             ],
-            "Effect": 2
+            "Effect": 2,
+            "bIsDeduct": false
           }
         ],
-        "bCanOfferUnmatchedProps": true
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
       },
       "Mu_Lamp01_DesignDrawing": {
         "OfferPropTag": [
           "Mu_Lamp01_DesignDrawing"
         ],
         "OfferName": {
-          "Namespace": "",
-          "Key": "8D2C49FC4A81CFBBE48913AF0F658E74",
-          "SourceString": "故事4-获得设计图",
-          "LocalizedString": "故事4-获得设计图"
+          "CultureInvariantString": "故事4-获得设计图"
         },
         "TypeNums": [
           1
@@ -190,7 +188,8 @@
                 "Num": 1
               }
             ],
-            "Effect": 0
+            "Effect": 0,
+            "bIsDeduct": true
           },
           {
             "InfoSets": [
@@ -199,20 +198,19 @@
                 "Num": 1
               }
             ],
-            "Effect": 1
+            "Effect": 1,
+            "bIsDeduct": true
           }
         ],
-        "bCanOfferUnmatchedProps": true
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
       },
       "Mu_Lamp01_Story_01": {
         "OfferPropTag": [
           "Mu_Lamp01_Story_01"
         ],
         "OfferName": {
-          "Namespace": "",
-          "Key": "875D91E349D64E589A396EA6AB5BF9B2",
-          "SourceString": "完成故事1",
-          "LocalizedString": "完成故事1"
+          "CultureInvariantString": "完成故事1"
         },
         "TypeNums": [
           1
@@ -225,7 +223,8 @@
                 "Num": 1
               }
             ],
-            "Effect": 0
+            "Effect": 0,
+            "bIsDeduct": false
           },
           {
             "InfoSets": [
@@ -234,20 +233,19 @@
                 "Num": 1
               }
             ],
-            "Effect": 1
+            "Effect": 1,
+            "bIsDeduct": true
           }
         ],
-        "bCanOfferUnmatchedProps": true
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
       },
       "Mu_Lamp01_Story_02": {
         "OfferPropTag": [
           "Mu_Lamp01_Story_02"
         ],
         "OfferName": {
-          "Namespace": "",
-          "Key": "E119A16E4A1627F277325BA1B09A0792",
-          "SourceString": "完成故事2",
-          "LocalizedString": "完成故事2"
+          "CultureInvariantString": "完成故事2"
         },
         "TypeNums": [
           1
@@ -260,7 +258,8 @@
                 "Num": 1
               }
             ],
-            "Effect": 0
+            "Effect": 0,
+            "bIsDeduct": false
           },
           {
             "InfoSets": [
@@ -269,7 +268,8 @@
                 "Num": 1
               }
             ],
-            "Effect": 1
+            "Effect": 1,
+            "bIsDeduct": true
           },
           {
             "InfoSets": [
@@ -278,20 +278,19 @@
                 "Num": 1
               }
             ],
-            "Effect": 2
+            "Effect": 2,
+            "bIsDeduct": false
           }
         ],
-        "bCanOfferUnmatchedProps": true
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
       },
       "Mu_Lamp01_Story_03": {
         "OfferPropTag": [
           "Mu_Lamp01_Story_03"
         ],
         "OfferName": {
-          "Namespace": "",
-          "Key": "791497A44CE7ECC53D8C579A96D05423",
-          "SourceString": "完成故事3",
-          "LocalizedString": "完成故事3"
+          "CultureInvariantString": "完成故事3"
         },
         "TypeNums": [
           1
@@ -304,7 +303,8 @@
                 "Num": 1
               }
             ],
-            "Effect": 0
+            "Effect": 0,
+            "bIsDeduct": false
           },
           {
             "InfoSets": [
@@ -313,20 +313,19 @@
                 "Num": 1
               }
             ],
-            "Effect": 1
+            "Effect": 1,
+            "bIsDeduct": true
           }
         ],
-        "bCanOfferUnmatchedProps": true
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
       },
       "Mu_Lamp01_Story_04": {
         "OfferPropTag": [
           "Mu_Lamp01_Story_04"
         ],
         "OfferName": {
-          "Namespace": "",
-          "Key": "5AFB357945852AC309A66DAE51D5E5AA",
-          "SourceString": "完成故事4",
-          "LocalizedString": "完成故事4"
+          "CultureInvariantString": "完成故事4"
         },
         "TypeNums": [
           1
@@ -339,7 +338,8 @@
                 "Num": 1
               }
             ],
-            "Effect": 0
+            "Effect": 0,
+            "bIsDeduct": true
           },
           {
             "InfoSets": [
@@ -348,10 +348,467 @@
                 "Num": 1
               }
             ],
-            "Effect": 1
+            "Effect": 1,
+            "bIsDeduct": false
           }
         ],
-        "bCanOfferUnmatchedProps": true
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "Test_key": {
+        "OfferPropTag": [
+          "Flower"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "开门"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "Item_L110042_02",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "WishingTree": {
+        "OfferPropTag": [
+          "Wishing"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "祈福"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "WishingItem_01",
+                "Num": 1
+              }
+            ],
+            "Effect": 1,
+            "bIsDeduct": true
+          },
+          {
+            "InfoSets": [
+              {
+                "PropID": "WishingItem_02",
+                "Num": 1
+              }
+            ],
+            "Effect": 2,
+            "bIsDeduct": true
+          },
+          {
+            "InfoSets": [
+              {
+                "PropID": "WishingItem_03",
+                "Num": 1
+              }
+            ],
+            "Effect": 3,
+            "bIsDeduct": true
+          },
+          {
+            "InfoSets": [
+              {
+                "PropID": "WishingItem_04",
+                "Num": 1
+              }
+            ],
+            "Effect": 4,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": false,
+        "bIsAutoUse": true
+      },
+      "BankVault_Imp_01": {
+        "OfferPropTag": [
+          "BankVault_Imp_01"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "高级金库卡权限卡"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G004",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "Bank_Card_Temporary": {
+        "OfferPropTag": [
+          "Bank_Card_Temporary"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "临时访客卡"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G001",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_01": {
+        "OfferPropTag": [
+          "BankVault_01"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "金库卡001"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G006",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_02": {
+        "OfferPropTag": [
+          "BankVault_02"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "金库卡002"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G007",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_03": {
+        "OfferPropTag": [
+          "BankVault_03"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "金库卡003"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G008",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_04": {
+        "OfferPropTag": [
+          "BankVault_04"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "金库卡004"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G009",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_05": {
+        "OfferPropTag": [
+          "BankVault_05"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "金库卡005"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G010",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_06": {
+        "OfferPropTag": [
+          "BankVault_06"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "金库卡006"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G011",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_07": {
+        "OfferPropTag": [
+          "BankVault_07"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "金库卡007"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G012",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_08": {
+        "OfferPropTag": [
+          "BankVault_08"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "金库卡008"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G013",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_09": {
+        "OfferPropTag": [
+          "BankVault_09"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "金库卡009"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G014",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_10": {
+        "OfferPropTag": [
+          "BankVault_10"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "金库卡010"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G015",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "Bank_Card_Employee_ID": {
+        "OfferPropTag": [
+          "Bank_Card_Employee_ID"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "员工身份卡"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G003",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "Bank_Card_Employee_ID_0": {
+        "OfferPropTag": [
+          "Bank_Card_Electrical_Key"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "变电箱钥匙"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_G002",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
+      },
+      "BankVault_Imp_03": {
+        "OfferPropTag": [
+          "BankVault_Imp_03"
+        ],
+        "OfferName": {
+          "CultureInvariantString": "魔方钥匙"
+        },
+        "TypeNums": [
+          1
+        ],
+        "ResultMaps": [
+          {
+            "InfoSets": [
+              {
+                "PropID": "RobBankItem_001",
+                "Num": 1
+              }
+            ],
+            "Effect": 0,
+            "bIsDeduct": true
+          }
+        ],
+        "bCanOfferUnmatchedProps": true,
+        "bIsAutoUse": false
       }
     }
   }

@@ -47,6 +47,43 @@
             }
           }
         ]
+      },
+      "robbank": {
+        "OnlinePropRatioMap": [
+          {
+            "Key": "OnlineMaxHPRatio",
+            "Value": {
+              "RatioList": [
+                1.0,
+                2.0,
+                3.0,
+                4.0
+              ]
+            }
+          },
+          {
+            "Key": "OnlineAtkRatio",
+            "Value": {
+              "RatioList": [
+                1.0,
+                1.5,
+                2.0,
+                2.5
+              ]
+            }
+          },
+          {
+            "Key": "OnlineUnbalMaxRatio",
+            "Value": {
+              "RatioList": [
+                1.0,
+                2.0,
+                3.0,
+                4.0
+              ]
+            }
+          }
+        ]
       }
     }
   }

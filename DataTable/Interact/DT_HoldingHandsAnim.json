@@ -1,0 +1,104 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_HoldingHandsAnim",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'HoldingHandsDataTableRow'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "NPC_001_ACT": {
+        "HoldingHandsAnims": [
+          {
+            "Key": "1046",
+            "Value": {
+              "StartContextAnimScene": {
+                "ObjectName": "ContextualAnimSceneAsset'ContextAnim_HoldingHands_Mint_M'",
+                "ObjectPath": "/Game/Blueprints/Character/ContextAnim/ContextAnim_HoldingHands_Mint_M.0"
+              }
+            }
+          },
+          {
+            "Key": "1051",
+            "Value": {
+              "StartContextAnimScene": {
+                "ObjectName": "ContextualAnimSceneAsset'ContextAnim_HoldingHands_Mint_F'",
+                "ObjectPath": "/Game/Blueprints/Character/ContextAnim/ContextAnim_HoldingHands_Mint_F.0"
+              }
+            }
+          }
+        ]
+      },
+      "NPC_003_ACT": {
+        "HoldingHandsAnims": [
+          {
+            "Key": "1046",
+            "Value": {
+              "StartContextAnimScene": {
+                "ObjectName": "ContextualAnimSceneAsset'ContextAnim_HoldingHands_Fadia_M'",
+                "ObjectPath": "/Game/Blueprints/Character/ContextAnim/ContextAnim_HoldingHands_Fadia_M.0"
+              }
+            }
+          },
+          {
+            "Key": "1051",
+            "Value": {
+              "StartContextAnimScene": {
+                "ObjectName": "ContextualAnimSceneAsset'ContextAnim_HoldingHands_Fadia_F'",
+                "ObjectPath": "/Game/Blueprints/Character/ContextAnim/ContextAnim_HoldingHands_Fadia_F.0"
+              }
+            }
+          }
+        ]
+      },
+      "NPC_011_ACT": {
+        "HoldingHandsAnims": [
+          {
+            "Key": "1046",
+            "Value": {
+              "StartContextAnimScene": {
+                "ObjectName": "ContextualAnimSceneAsset'ContextAnim_HoldingHands_Nanally_M'",
+                "ObjectPath": "/Game/Blueprints/Character/ContextAnim/ContextAnim_HoldingHands_Nanally_M.0"
+              }
+            }
+          },
+          {
+            "Key": "1051",
+            "Value": {
+              "StartContextAnimScene": {
+                "ObjectName": "ContextualAnimSceneAsset'ContextAnim_HoldingHands_Nanally_F'",
+                "ObjectPath": "/Game/Blueprints/Character/ContextAnim/ContextAnim_HoldingHands_Nanally_F.0"
+              }
+            }
+          }
+        ]
+      },
+      "NPC_015_ACT": {
+        "HoldingHandsAnims": [
+          {
+            "Key": "1046",
+            "Value": {
+              "StartContextAnimScene": {
+                "ObjectName": "ContextualAnimSceneAsset'ContextAnim_HoldingHands_Kuhara_M'",
+                "ObjectPath": "/Game/Blueprints/Character/ContextAnim/ContextAnim_HoldingHands_Kuhara_M.0"
+              }
+            }
+          },
+          {
+            "Key": "1051",
+            "Value": {
+              "StartContextAnimScene": {
+                "ObjectName": "ContextualAnimSceneAsset'ContextAnim_HoldingHands_Kuhara_F'",
+                "ObjectPath": "/Game/Blueprints/Character/ContextAnim/ContextAnim_HoldingHands_Kuhara_F.0"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+]

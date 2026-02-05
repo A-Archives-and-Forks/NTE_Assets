@@ -13,6 +13,7 @@
     "Rows": {
       "1003": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_003.player_003",
@@ -20,6 +21,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_003x100.player_003x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_003_256.player_003_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -34,32 +39,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_003_des",
-          "SourceString": "伊波恩古董店成员",
-          "LocalizedString": "伊波恩古董店成员"
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "ZERO_F_homeplace",
+          "SourceString": "伊波恩古董店",
+          "LocalizedString": "伊波恩古董店"
         },
         "Description": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_003_des",
-          "SourceString": "伊波恩古董店成员",
-          "LocalizedString": "伊波恩古董店成员"
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC008_introduction",
+          "SourceString": "看起来不太好惹实际也不太好惹的伊波恩一霸。",
+          "LocalizedString": "看起来不太好惹实际也不太好惹的伊波恩一霸。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1003"
+            "AvatarId": "1003"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_Sagiri",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -170,7 +178,7 @@
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_zaowu.YH_lihui_character_zaowu",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -187,9 +195,72 @@
             "AssetPathName": "",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [
+            "pm_0001",
+            "pm_0002"
+          ],
+          "FashionList": [
+            {
+              "FashionID": "Fashion_1003_1",
+              "FashionItemID": "EquipmentUpMaterial_lv3",
+              "FashionIconInviteForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/jiaohu/YH_UI_img_check_in_costume_02.YH_UI_img_check_in_costume_02",
+                "SubPathString": ""
+              },
+              "FashionIconNpcForm": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              },
+              "FashionSmallIcon": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              },
+              "CharacterClass": {
+                "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_011/BP_NPC_011_ACT.BP_NPC_011_ACT_C",
+                "SubPathString": ""
+              }
+            },
+            {
+              "FashionID": "None",
+              "FashionItemID": "None",
+              "FashionIconInviteForm": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              },
+              "FashionIconNpcForm": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              },
+              "FashionSmallIcon": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              },
+              "CharacterClass": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "DefaultFashionID": "Fashion_1003_1",
+          "UnlockLevel": 4,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_zaowu.YH_UI_shizhuang_big_zaowu",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1003"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -197,8 +268,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Sagiri_tag_0",
-              "SourceString": "<Mainwhite>辅助</>",
-              "LocalizedString": "<Mainwhite>辅助</>"
+              "SourceString": "增益",
+              "LocalizedString": "增益"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -207,14 +278,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_fuzhu01.YH_UI_icon_Tag_fuzhu01",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Sagiri_tag_1",
-              "SourceString": "<white>控制</>",
-              "LocalizedString": "<white>控制</>"
+              "SourceString": "控制",
+              "LocalizedString": "控制"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -223,14 +307,63 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_kongzhi.YH_UI_icon_Tag_kongzhi",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.187821,
+                "G": 0.187821,
+                "B": 0.191202,
+                "A": 1.0,
+                "Hex": "787879"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Haniel_tag_2",
+              "SourceString": "输出增益",
+              "LocalizedString": "输出增益"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zengyi.YH_UI_icon_Tag_zengyi",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.672443,
+                "G": 0.099899,
+                "B": 0.021219,
+                "A": 1.0,
+                "Hex": "D65928"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1004": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_004.player_004",
@@ -238,6 +371,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_004x100.player_004x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_004_256.player_004_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -252,29 +389,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC004_homeplace",
+          "SourceString": "异象管理局禁制机动队四队",
+          "LocalizedString": "异象管理局禁制机动队四队"
         },
         "Description": {
-          "Namespace": "",
-          "Key": "F2A2360C4769BE04A37FEF8294F979D0",
-          "SourceString": "性格天然，语言组织能力很差，看起来傻乎乎的且有点迟钝，缺乏常识，生活自理能力很差，经常出现走路碰到玻璃门、被自己的鞋带绊倒等小问题，有着令周围的人不知不觉的就照顾她的天赋，应变能力为零。缺乏干劲，对于出任务完全提不起兴趣，偷懒放水的时候经常被队友抓个正着。被队友吐槽后本着尽快结束尽快休息的原则，下手总是会突然变重，有时候会影响到市民的正常生活，因此是异象管理局接到投诉最多的成员之一。不擅长与人争执，当周围人关系紧张，虽然想要靠自己来让气氛缓和下来，但因为不擅长观察他人的心情，基本上难以收到好的效果。",
-          "LocalizedString": "性格天然，语言组织能力很差，看起来傻乎乎的且有点迟钝，缺乏常识，生活自理能力很差，经常出现走路碰到玻璃门、被自己的鞋带绊倒等小问题，有着令周围的人不知不觉的就照顾她的天赋，应变能力为零。缺乏干劲，对于出任务完全提不起兴趣，偷懒放水的时候经常被队友抓个正着。被队友吐槽后本着尽快结束尽快休息的原则，下手总是会突然变重，有时候会影响到市民的正常生活，因此是异象管理局接到投诉最多的成员之一。不擅长与人争执，当周围人关系紧张，虽然想要靠自己来让气氛缓和下来，但因为不擅长观察他人的心情，基本上难以收到好的效果。"
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC004_introduction",
+          "SourceString": "异象管理局员工后勤报修次数最多记录保持者。",
+          "LocalizedString": "异象管理局员工后勤报修次数最多记录保持者。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1004"
+            "AvatarId": "1004"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_lacrimosa",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -385,7 +528,7 @@
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_anhunqu.YH_lihui_character_anhunqu",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -402,9 +545,28 @@
             "AssetPathName": "",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": false,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_anhunqu.YH_UI_shizhuang_big_anhunqu",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1004"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -412,8 +574,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
-              "SourceString": "<Mainwhite>攻击</>",
-              "LocalizedString": "<Mainwhite>攻击</>"
+              "SourceString": "输出",
+              "LocalizedString": "输出"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -422,14 +584,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_1",
-              "SourceString": "<white>主力输出</>",
-              "LocalizedString": "<white>主力输出</>"
+              "SourceString": "主力输出",
+              "LocalizedString": "主力输出"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -438,14 +613,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhuli.YH_UI_icon_Tag_zhuli",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_2",
-              "SourceString": "<white>持续伤害</>",
-              "LocalizedString": "<white>持续伤害</>"
+              "SourceString": "持续伤害",
+              "LocalizedString": "持续伤害"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -454,14 +642,34 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_chixu.YH_UI_icon_Tag_chixu",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.3564,
+                "G": 0.132868,
+                "B": 0.132868,
+                "A": 1.0,
+                "Hex": "A16666"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1008": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_008.player_008",
@@ -469,6 +677,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_008x100.player_008x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_008_256.player_008_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -483,26 +695,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC005_homeplace",
+          "SourceString": "异象管理局禁制机动队四队",
+          "LocalizedString": "异象管理局禁制机动队四队"
         },
         "Description": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC005_introduction",
+          "SourceString": "常被认为是E.T.D四队队长的副队长。",
+          "LocalizedString": "常被认为是E.T.D四队队长的副队长。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1008"
+            "AvatarId": "1008"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_skia",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -604,16 +825,16 @@
             "Z": 1.0
           },
           "CameraUpHeight": 55.0,
-          "CameraOffsets": 38.0,
-          "ForkMeshOffsets": 46.0,
-          "EquipmentHandMeshOffsets": 38.0,
+          "CameraOffsets": 30.0,
+          "ForkMeshOffsets": 41.0,
+          "EquipmentHandMeshOffsets": 31.0,
           "bIsAutoEquip": false,
           "AbyssAssistBuff": {
             "AssetPathName": "",
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_langren.YH_lihui_character_langren",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -630,9 +851,28 @@
             "AssetPathName": "",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_yi.YH_UI_shizhuang_big_yi",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1008"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -640,8 +880,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
-              "SourceString": "<Mainwhite>攻击</>",
-              "LocalizedString": "<Mainwhite>攻击</>"
+              "SourceString": "输出",
+              "LocalizedString": "输出"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -650,14 +890,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_1",
-              "SourceString": "<white>主力输出</>",
-              "LocalizedString": "<white>主力输出</>"
+              "SourceString": "主力输出",
+              "LocalizedString": "主力输出"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -666,14 +919,34 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhuli.YH_UI_icon_Tag_zhuli",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1010": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_010.player_010",
@@ -681,6 +954,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_010x100.player_010x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_010_256.player_010_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -695,32 +972,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_010_des",
-          "SourceString": "伊波恩古董店成员",
-          "LocalizedString": "伊波恩古董店成员"
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "ZERO_F_homeplace",
+          "SourceString": "伊波恩古董店",
+          "LocalizedString": "伊波恩古董店"
         },
         "Description": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_010_des",
-          "SourceString": "伊波恩古董店成员",
-          "LocalizedString": "伊波恩古董店成员"
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC011_007",
+          "SourceString": "尚在扩招中的「柯林斯家族」的一代目。",
+          "LocalizedString": "尚在扩招中的「柯林斯家族」的一代目。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1010"
+            "AvatarId": "1010"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_nanally",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -831,7 +1111,7 @@
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_nanali.YH_lihui_character_nanali",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -848,9 +1128,70 @@
             "AssetPathName": "",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [
+            "nanali_0001",
+            "nanali_0002",
+            "nanali_0003",
+            "nanali_0004",
+            "nanali_0005",
+            "nanali_0006",
+            "nanali_0007",
+            "nanali_0008",
+            "nanali_0009",
+            "nanali_0010",
+            "nanali_0011",
+            "nanali_0012",
+            "nanali_0013",
+            "nanali_0014",
+            "nanali_jh_0001",
+            "nanali_jh_0002",
+            "nanali_jh_0003",
+            "nanali_jh_0004",
+            "nanali_jh_0005",
+            "nanali_jh_0006"
+          ],
+          "FashionList": [
+            {
+              "FashionID": "Fashion_1010_nighty",
+              "FashionItemID": "EquipmentUpMaterial_lv3",
+              "FashionIconInviteForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_Character_nanali.UI_Mask_Fashion_Character_nanali",
+                "SubPathString": ""
+              },
+              "FashionIconNpcForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_UI_nanali.UI_Mask_Fashion_UI_nanali",
+                "SubPathString": ""
+              },
+              "FashionSmallIcon": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/BPUI_CharacterChange3.BPUI_CharacterChange3",
+                "SubPathString": ""
+              },
+              "CharacterClass": {
+                "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_011/BP_NPC_011_ACT_fashion1.BP_NPC_011_ACT_fashion1_C",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "DefaultFashionID": "Fashion_1010_nighty",
+          "UnlockLevel": 4,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_nanali.YH_UI_shizhuang_big_nanali",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "Likeability_003",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1010"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -858,8 +1199,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
-              "SourceString": "<Mainwhite>攻击</>",
-              "LocalizedString": "<Mainwhite>攻击</>"
+              "SourceString": "输出",
+              "LocalizedString": "输出"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -868,14 +1209,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_1",
-              "SourceString": "<white>主力输出</>",
-              "LocalizedString": "<white>主力输出</>"
+              "SourceString": "主力输出",
+              "LocalizedString": "主力输出"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -884,30 +1238,63 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhuli.YH_UI_icon_Tag_zhuli",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Nanally_tag_2",
-              "SourceString": "<white>联袂邀击</>",
-              "LocalizedString": "<white>联袂邀击</>"
+              "SourceString": "追加攻击",
+              "LocalizedString": "追加攻击"
             },
             "TagBgIcon": {
               "AssetPathName": "",
               "SubPathString": ""
             },
             "TagIcon": {
-              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_yaoji.YH_UI_icon_Tag_yaoji",
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhuijiagongji.YH_UI_icon_Tag_zhuijiagongji",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.318547,
+                "G": 0.107023,
+                "B": 0.391573,
+                "A": 1.0,
+                "Hex": "995CA8"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": true,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1019": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_019.player_019",
@@ -915,6 +1302,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_019x100.player_019x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_019_256.player_019_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -929,32 +1320,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_019_des",
-          "SourceString": "异象管理局-收容二组组员",
-          "LocalizedString": "异象管理局-收容二组组员"
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC001_homeplace",
+          "SourceString": "异象管理局收容二组",
+          "LocalizedString": "异象管理局收容二组"
         },
         "Description": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_019_des",
-          "SourceString": "异象管理局-收容二组组员",
-          "LocalizedString": "异象管理局-收容二组组员"
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC001_introduction",
+          "SourceString": "如果能有评定，应该会是收容组内「被异象骗最多次」的人。",
+          "LocalizedString": "如果能有评定，应该会是收容组内「被异象骗最多次」的人。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1019"
+            "AvatarId": "1019"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": true,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_Mint",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1055,7 +1449,7 @@
             "Y": 1.0,
             "Z": 1.0
           },
-          "CameraUpHeight": 20.0,
+          "CameraUpHeight": 28.0,
           "CameraOffsets": 0.0,
           "ForkMeshOffsets": 8.0,
           "EquipmentHandMeshOffsets": 0.0,
@@ -1065,7 +1459,7 @@
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_bohe.YH_lihui_character_bohe",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -1082,9 +1476,69 @@
             "AssetPathName": "",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [
+            "bohe_0001",
+            "bohe_0002",
+            "bohe_0003",
+            "bohe_0004",
+            "bohe_0005",
+            "bohe_0006",
+            "bohe_0007",
+            "bohe_0008",
+            "bohe_0009",
+            "bohe_0010",
+            "bohe_0011",
+            "bohe_0012",
+            "bohe_jh_0001",
+            "bohe_jh_0002",
+            "bohe_jh_0004",
+            "bohe_jh_0005",
+            "bohe_jh_0006",
+            "bohe_jh_0007",
+            "bohe_jh_0008"
+          ],
+          "FashionList": [
+            {
+              "FashionID": "Fashion_1019_nighty",
+              "FashionItemID": "EquipmentUpMaterial_lv3",
+              "FashionIconInviteForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_Character_bohe.UI_Mask_Fashion_Character_bohe",
+                "SubPathString": ""
+              },
+              "FashionIconNpcForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_UI_bohe.UI_Mask_Fashion_UI_bohe",
+                "SubPathString": ""
+              },
+              "FashionSmallIcon": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/BPUI_CharacterChange2.BPUI_CharacterChange2",
+                "SubPathString": ""
+              },
+              "CharacterClass": {
+                "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_001/BP_NPC_001_ACT_fashion1.BP_NPC_001_ACT_fashion1_C",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "DefaultFashionID": "Fashion_1019_nighty",
+          "UnlockLevel": 4,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_bohe.YH_UI_shizhuang_big_bohe",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "Likeability_004",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1019"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -1092,8 +1546,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
-              "SourceString": "<Mainwhite>攻击</>",
-              "LocalizedString": "<Mainwhite>攻击</>"
+              "SourceString": "输出",
+              "LocalizedString": "输出"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -1102,14 +1556,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_1",
-              "SourceString": "<white>主力输出</>",
-              "LocalizedString": "<white>主力输出</>"
+              "SourceString": "主力输出",
+              "LocalizedString": "主力输出"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -1118,21 +1585,599 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhuli.YH_UI_icon_Tag_zhuli",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": true,
+        "bIsInvite": true,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1020": {
+        "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_020.player_020",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_020.player_020",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_020_256.player_020_256",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_020",
+          "SourceString": "哈尼娅",
+          "LocalizedString": "哈尼娅"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC014_006",
+          "SourceString": "斯特利速递",
+          "LocalizedString": "斯特利速递"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC014_007",
+          "SourceString": "梦想是成为拯救世界的美少女高中生！",
+          "LocalizedString": "梦想是成为拯救世界的美少女高中生！"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [
+          {
+            "AvatarId": "1020"
+          }
+        ],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": true,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": true,
+        "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 0,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "melt_Haniel",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "CharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/Player/Player_020_Haniel.Player_020_Haniel_C",
+            "SubPathString": ""
+          },
+          "UISimpleCharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_020.PlayerUIShow_020_C",
+            "SubPathString": ""
+          },
+          "PropModifyID": "Haniel_base",
+          "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_PSYCHE",
+          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
+          "UpgradePackId": "character_Upgrade",
+          "UpgradeModifyPackId": "Haniel_lv",
+          "BreakthroughPackId": "Haniel_Breakthrough",
+          "AwakenCostItem": "Characterawaken_Haniel:1",
+          "MaxAwakenLevel": 6,
+          "AwakenIconList": [
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs21.jxcs21",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs15.jxcs15",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs22.jxcs22",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs16.jxcs16",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs23.jxcs23",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs17.jxcs17",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs19.jxcs19",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs13.jxcs13",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs24.jxcs24",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs18.jxcs18",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs20.jxcs20",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs14.jxcs14",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "ForkID": "None",
+          "EquipmentSlotID": "EquipmentSlots_Haniel",
+          "EquipBaseplateStaticMesh": {
+            "AssetPathName": "/Game/Environment/NPCprops/Items/Handhelds/SM_Handhelds_Tetris_044.SM_Handhelds_Tetris_044",
+            "SubPathString": ""
+          },
+          "EquipInnerReactionLayerStaticMesh": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "EquipmentHandleBaseLockedEffectIndex": 2,
+          "UIScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "CameraUpHeight": 20.0,
+          "CameraOffsets": -6.0,
+          "ForkMeshOffsets": 1.5,
+          "EquipmentHandMeshOffsets": -6.0,
+          "bIsAutoEquip": false,
+          "AbyssAssistBuff": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "AbilityUIIcon": {
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_haniya.YH_lihui_character_haniya",
+            "SubPathString": ""
+          },
+          "AbilityUIColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 0.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FF00FF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "UIStackStyleTemplet": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/BufferStack/BPUI_BufferStack_Haniel.BPUI_BufferStack_Haniel_C",
+            "SubPathString": ""
+          },
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": false,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_naniya.YH_UI_shizhuang_big_naniya",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1020"
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Sagiri_tag_0",
+              "SourceString": "增益",
+              "LocalizedString": "增益"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_fuzhu01.YH_UI_icon_Tag_fuzhu01",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Haniel_tag_2",
+              "SourceString": "输出增益",
+              "LocalizedString": "输出增益"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zengyi.YH_UI_icon_Tag_zengyi",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.672443,
+                "G": 0.099899,
+                "B": 0.021219,
+                "A": 1.0,
+                "Hex": "D65928"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          }
+        ],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1021": {
+        "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_021.player_021",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/100/player_021_100.player_021_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_021_256.player_021_256",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_021",
+          "SourceString": "埃德嘉",
+          "LocalizedString": "埃德嘉"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_PURPLE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "ZERO_F_homeplace",
+          "SourceString": "伊波恩古董店",
+          "LocalizedString": "伊波恩古董店"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_003_des",
+          "SourceString": "伊波恩古董店成员",
+          "LocalizedString": "伊波恩古董店成员"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [
+          {
+            "AvatarId": "1021"
+          }
+        ],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": true,
+        "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 0,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "melt_edgar",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "CharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/Player/player_021_edgar.player_021_edgar_C",
+            "SubPathString": ""
+          },
+          "UISimpleCharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_021.PlayerUIShow_021_C",
+            "SubPathString": ""
+          },
+          "PropModifyID": "Edgar_base",
+          "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
+          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
+          "UpgradePackId": "character_Upgrade",
+          "UpgradeModifyPackId": "Edgar_lv",
+          "BreakthroughPackId": "Edgar_Breakthrough",
+          "AwakenCostItem": "Characterawaken_edgar:1",
+          "MaxAwakenLevel": 6,
+          "AwakenIconList": [
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs60.jxcs60",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs54.jxcs54",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs58.jxcs58",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs52.jxcs52",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs59.jxcs59",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs53.jxcs53",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs55.jxcs55",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs49.jxcs49",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs57.jxcs57",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs51.jxcs51",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs56.jxcs56",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs50.jxcs50",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "ForkID": "None",
+          "EquipmentSlotID": "EquipmentSlots_edgar",
+          "EquipBaseplateStaticMesh": {
+            "AssetPathName": "/Game/Environment/NPCprops/Items/Handhelds/SM_Handhelds_Tetris_011.SM_Handhelds_Tetris_011",
+            "SubPathString": ""
+          },
+          "EquipInnerReactionLayerStaticMesh": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "EquipmentHandleBaseLockedEffectIndex": 0,
+          "UIScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "CameraUpHeight": 7.0,
+          "CameraOffsets": -12.0,
+          "ForkMeshOffsets": -5.0,
+          "EquipmentHandMeshOffsets": -14.0,
+          "bIsAutoEquip": false,
+          "AbyssAssistBuff": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "AbilityUIIcon": {
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_aidejia.YH_lihui_character_aidejia",
+            "SubPathString": ""
+          },
+          "AbilityUIColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 0.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FF00FF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "UIStackStyleTemplet": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/BufferStack/BPUI_BufferStack_Edgar.BPUI_BufferStack_Edgar_C",
+            "SubPathString": ""
+          },
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_aidejia.YH_UI_shizhuang_big_aidejia",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1021"
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Adler_tag_0",
+              "SourceString": "生存",
+              "LocalizedString": "生存"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag02.YH_UI_icon_MainTag02",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Jin_tag_1",
+              "SourceString": "治疗",
+              "LocalizedString": "治疗"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhiliao.YH_UI_icon_Tag_zhiliao",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.066626,
+                "G": 0.296138,
+                "B": 0.111932,
+                "A": 1.0,
+                "Hex": "49945E"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          }
+        ],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1023": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_028.player_028",
           "SubPathString": ""
         },
         "ItemIconSmall": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_028x100.player_028x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_028_256.player_028_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1147,29 +2192,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC006_homeplace",
+          "SourceString": "异象管理局禁制机动队四队",
+          "LocalizedString": "异象管理局禁制机动队四队"
         },
         "Description": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_003_des",
-          "SourceString": "伊波恩古董店成员",
-          "LocalizedString": "伊波恩古董店成员"
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC006_007",
+          "SourceString": "在「最不像队长」票选中名列前茅的E.T.D四队队长。",
+          "LocalizedString": "在「最不像队长」票选中名列前茅的E.T.D四队队长。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1023"
+            "AvatarId": "1023"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_Cang",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1270,17 +2321,17 @@
             "Y": 1.0,
             "Z": 1.0
           },
-          "CameraUpHeight": -16.0,
-          "CameraOffsets": 20.0,
-          "ForkMeshOffsets": 28.0,
-          "EquipmentHandMeshOffsets": 20.0,
+          "CameraUpHeight": 45.0,
+          "CameraOffsets": 14.5,
+          "ForkMeshOffsets": 24.0,
+          "EquipmentHandMeshOffsets": 14.5,
           "bIsAutoEquip": false,
           "AbyssAssistBuff": {
             "AssetPathName": "",
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_baizhang.YH_lihui_character_baizhang",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -1297,9 +2348,52 @@
             "AssetPathName": "",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [
+            "pm_0001",
+            "pm_0002"
+          ],
+          "FashionList": [
+            {
+              "FashionID": "Fashion_1023_1",
+              "FashionItemID": "EquipmentUpMaterial_lv3",
+              "FashionIconInviteForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/jiaohu/YH_UI_img_check_in_costume_02.YH_UI_img_check_in_costume_02",
+                "SubPathString": ""
+              },
+              "FashionIconNpcForm": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              },
+              "FashionSmallIcon": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              },
+              "CharacterClass": {
+                "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_011/BP_NPC_011_ACT.BP_NPC_011_ACT_C",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "DefaultFashionID": "Fashion_1023_1",
+          "UnlockLevel": 4,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_baizang.YH_UI_shizhuang_big_baizang",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1023"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -1307,8 +2401,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
-              "SourceString": "<Mainwhite>攻击</>",
-              "LocalizedString": "<Mainwhite>攻击</>"
+              "SourceString": "输出",
+              "LocalizedString": "输出"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -1317,14 +2411,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_1",
-              "SourceString": "<white>主力输出</>",
-              "LocalizedString": "<white>主力输出</>"
+              "SourceString": "主力输出",
+              "LocalizedString": "主力输出"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -1333,14 +2440,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhuli.YH_UI_icon_Tag_zhuli",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_2",
-              "SourceString": "<white>持续伤害</>",
-              "LocalizedString": "<white>持续伤害</>"
+              "SourceString": "持续伤害",
+              "LocalizedString": "持续伤害"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -1349,21 +2469,45 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_chixu.YH_UI_icon_Tag_chixu",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1025": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_012.player_012",
           "SubPathString": ""
         },
         "ItemIconSmall": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_012x100.player_012x100",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/100/player_012_100.player_012_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_012_256.player_012_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1378,29 +2522,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC016_006",
+          "SourceString": "斯特利速递",
+          "LocalizedString": "斯特利速递"
         },
         "Description": {
-          "TableId": "/Game/Text/ST_Player.ST_Player",
-          "Key": "Role_Name_003_des",
-          "SourceString": "伊波恩古董店成员",
-          "LocalizedString": "伊波恩古董店成员"
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC016_007",
+          "SourceString": "爱好制作任务全时间表并严格执行落地的高效快递员。",
+          "LocalizedString": "爱好制作任务全时间表并严格执行落地的高效快递员。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1025"
+            "AvatarId": "1025"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_hathor",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1417,7 +2567,7 @@
           },
           "PropModifyID": "Hathor_base",
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_LAKSHANA",
-          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
+          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
           "UpgradePackId": "character_Upgrade",
           "UpgradeModifyPackId": "Hathor_lv",
           "BreakthroughPackId": "Hathor_Breakthrough",
@@ -1501,17 +2651,17 @@
             "Y": 1.0,
             "Z": 1.0
           },
-          "CameraUpHeight": 22.0,
-          "CameraOffsets": 10.0,
-          "ForkMeshOffsets": 18.0,
-          "EquipmentHandMeshOffsets": 10.0,
+          "CameraUpHeight": 29.0,
+          "CameraOffsets": 1.0,
+          "ForkMeshOffsets": 9.0,
+          "EquipmentHandMeshOffsets": 1.0,
           "bIsAutoEquip": false,
           "AbyssAssistBuff": {
             "AssetPathName": "",
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_hahuosuoer.YH_lihui_character_hahuosuoer",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -1528,9 +2678,28 @@
             "AssetPathName": "/Game/UI/Blueprints/Skill/BufferStack/BPUI_BlockBufferStack_hathor.BPUI_BlockBufferStack_hathor_C",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "/Game/UI/Blueprints/Character/BPUI_CharacterSlotHathor.BPUI_CharacterSlotHathor_C",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": false,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_hasuoer.YH_UI_shizhuang_big_hasuoer",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1025"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -1538,8 +2707,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
-              "SourceString": "<Mainwhite>攻击</>",
-              "LocalizedString": "<Mainwhite>攻击</>"
+              "SourceString": "输出",
+              "LocalizedString": "输出"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -1548,30 +2717,63 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_1",
-              "SourceString": "<white>爆发输出</>",
-              "LocalizedString": "<white>爆发输出</>"
+              "SourceString": "爆发输出",
+              "LocalizedString": "爆发输出"
             },
             "TagBgIcon": {
               "AssetPathName": "",
               "SubPathString": ""
             },
             "TagIcon": {
-              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhuli.YH_UI_icon_Tag_zhuli",
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_baofa.YH_UI_icon_Tag_baofa",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1033": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_015.player_015",
@@ -1579,6 +2781,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_015x100.player_015x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_015_256.player_015_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1593,26 +2799,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC010_homeplace",
+          "SourceString": "伊波恩古董店",
+          "LocalizedString": "伊波恩古董店"
         },
         "Description": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC010_introduction",
+          "SourceString": "令伊波恩众人和街坊邻居感到安心的完美管家。",
+          "LocalizedString": "令伊波恩众人和街坊邻居感到安心的完美管家。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1033"
+            "AvatarId": "1033"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_Adler",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1713,17 +2928,17 @@
             "Y": 1.0,
             "Z": 1.0
           },
-          "CameraUpHeight": 35.0,
-          "CameraOffsets": 15.0,
-          "ForkMeshOffsets": 18.0,
-          "EquipmentHandMeshOffsets": 20.0,
+          "CameraUpHeight": 43.0,
+          "CameraOffsets": 14.0,
+          "ForkMeshOffsets": 23.5,
+          "EquipmentHandMeshOffsets": 14.0,
           "bIsAutoEquip": true,
           "AbyssAssistBuff": {
             "AssetPathName": "",
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_adele.YH_lihui_character_adele",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -1740,9 +2955,28 @@
             "AssetPathName": "/Game/UI/Blueprints/Skill/BufferStack/BPUI_BufferStack_Adler.BPUI_BufferStack_Adler_C",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_adele.YH_UI_shizhuang_big_adele",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1033"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -1750,8 +2984,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Adler_tag_0",
-              "SourceString": "<Mainwhite>生存</>",
-              "LocalizedString": "<Mainwhite>生存</>"
+              "SourceString": "生存",
+              "LocalizedString": "生存"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -1760,14 +2994,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag02.YH_UI_icon_MainTag02",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Adler_tag_1",
-              "SourceString": "<white>护盾</>",
-              "LocalizedString": "<white>护盾</>"
+              "SourceString": "护盾",
+              "LocalizedString": "护盾"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -1776,14 +3023,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_hudun.YH_UI_icon_Tag_hudun",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.124772,
+                "G": 0.14996,
+                "B": 0.854993,
+                "A": 1.0,
+                "Hex": "636CEE"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Adler_tag_2",
-              "SourceString": "<white>持续伤害</>",
-              "LocalizedString": "<white>持续伤害</>"
+              "SourceString": "持续伤害",
+              "LocalizedString": "持续伤害"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -1792,14 +3052,34 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_chixu.YH_UI_icon_Tag_chixu",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1039": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_027.player_027",
@@ -1807,6 +3087,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_027x100.player_027x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_027_256.player_027_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -1821,26 +3105,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC003_homeplace",
+          "SourceString": "异象管理局禁制机动队四队",
+          "LocalizedString": "异象管理局禁制机动队四队"
         },
         "Description": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC003_007",
+          "SourceString": "危险又迷人的E.T.D成员，代表局长令人捉摸不定的择人标准。",
+          "LocalizedString": "危险又迷人的E.T.D成员，代表局长令人捉摸不定的择人标准。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1039"
+            "AvatarId": "1039"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_fadia",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -1941,17 +3234,17 @@
             "Y": 1.0,
             "Z": 1.0
           },
-          "CameraUpHeight": 28.0,
-          "CameraOffsets": 10.0,
-          "ForkMeshOffsets": 18.0,
-          "EquipmentHandMeshOffsets": 0.0,
+          "CameraUpHeight": 36.0,
+          "CameraOffsets": 11.5,
+          "ForkMeshOffsets": 20.0,
+          "EquipmentHandMeshOffsets": 11.5,
           "bIsAutoEquip": false,
           "AbyssAssistBuff": {
             "AssetPathName": "",
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_fadiya.YH_lihui_character_fadiya",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -1968,9 +3261,66 @@
             "AssetPathName": "",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [
+            "fadiya_0001",
+            "fadiya_0002",
+            "fadiya_0003",
+            "fadiya_0004",
+            "fadiya_0005",
+            "fadiya_0006",
+            "fadiya_0007",
+            "fadiya_0008",
+            "fadiya_0009",
+            "fadiya_0010",
+            "fadiya_0011",
+            "fadiya_0012",
+            "fadiya_0013",
+            "fadiya_jh_0001",
+            "fadiya_jh_0002",
+            "fadiya_jh_0003"
+          ],
+          "FashionList": [
+            {
+              "FashionID": "Fashion_1039_nighty",
+              "FashionItemID": "EquipmentUpMaterial_lv3",
+              "FashionIconInviteForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_Character_fadiya.UI_Mask_Fashion_Character_fadiya",
+                "SubPathString": ""
+              },
+              "FashionIconNpcForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_UI_fadiya.UI_Mask_Fashion_UI_fadiya",
+                "SubPathString": ""
+              },
+              "FashionSmallIcon": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/BPUI_CharacterChange.BPUI_CharacterChange",
+                "SubPathString": ""
+              },
+              "CharacterClass": {
+                "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_003/BP_NPC_003_ACT_fashion1.BP_NPC_003_ACT_fashion1_C",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "DefaultFashionID": "Fashion_1039_nighty",
+          "UnlockLevel": 4,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_fadiya.YH_UI_shizhuang_big_fadiya",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "Likeability_002",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1039"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -1978,8 +3328,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Adler_tag_0",
-              "SourceString": "<Mainwhite>生存</>",
-              "LocalizedString": "<Mainwhite>生存</>"
+              "SourceString": "生存",
+              "LocalizedString": "生存"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -1988,14 +3338,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag02.YH_UI_icon_MainTag02",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Fadia_tag_1",
-              "SourceString": "<white>伤害分摊</>",
-              "LocalizedString": "<white>伤害分摊</>"
+              "SourceString": "伤害分摊",
+              "LocalizedString": "伤害分摊"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -2004,37 +3367,45 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_fentan.YH_UI_icon_Tag_fentan",
               "SubPathString": ""
-            }
-          },
-          {
-            "TagText": {
-              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
-              "Key": "Fadia_tag_2",
-              "SourceString": "<white>即瞬环合</>",
-              "LocalizedString": "<white>即瞬环合</>"
             },
-            "TagBgIcon": {
-              "AssetPathName": "",
-              "SubPathString": ""
+            "TagDesc": {
+              "CultureInvariantString": null
             },
-            "TagIcon": {
-              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_huanhe.YH_UI_icon_Tag_huanhe",
-              "SubPathString": ""
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.025187,
+                "G": 0.304987,
+                "B": 0.366253,
+                "A": 1.0,
+                "Hex": "2C96A3"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": true,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1046": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_046.player_046",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_046.player_046",
           "SubPathString": ""
         },
         "ItemIconSmall": {
-          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_046x100.player_046x100",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/100/player_046x100.player_046x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_046_256.player_046_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2049,22 +3420,31 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "ZERO_F_homeplace",
+          "SourceString": "伊波恩古董店",
+          "LocalizedString": "伊波恩古董店"
         },
         "Description": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "ZERO_F_introduction",
+          "SourceString": "迄今唯一一位无法检测出维特海默值的异能者。",
+          "LocalizedString": "迄今唯一一位无法检测出维特海默值的异能者。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": true,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_player",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2165,9 +3545,9 @@
             "Y": 1.0,
             "Z": 1.0
           },
-          "CameraUpHeight": 22.0,
+          "CameraUpHeight": 38.0,
           "CameraOffsets": 12.0,
-          "ForkMeshOffsets": 20.0,
+          "ForkMeshOffsets": 21.0,
           "EquipmentHandMeshOffsets": 12.0,
           "bIsAutoEquip": false,
           "AbyssAssistBuff": {
@@ -2175,7 +3555,7 @@
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_nanzhu.YH_lihui_character_nanzhu",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -2192,9 +3572,28 @@
             "AssetPathName": "",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": false,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_nanzhu.YH_UI_shizhuang_big_nanzhu",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "None"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -2202,8 +3601,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
-              "SourceString": "<Mainwhite>攻击</>",
-              "LocalizedString": "<Mainwhite>攻击</>"
+              "SourceString": "输出",
+              "LocalizedString": "输出"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -2212,30 +3611,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
               "SubPathString": ""
-            }
-          },
-          {
-            "TagText": {
-              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
-              "Key": "Female_tag_1",
-              "SourceString": "<white>爆发输出</>",
-              "LocalizedString": "<white>爆发输出</>"
             },
-            "TagBgIcon": {
-              "AssetPathName": "",
-              "SubPathString": ""
+            "TagDesc": {
+              "CultureInvariantString": null
             },
-            "TagIcon": {
-              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_baofa.YH_UI_icon_Tag_baofa",
-              "SubPathString": ""
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_2",
-              "SourceString": "<white>即瞬环合</>",
-              "LocalizedString": "<white>即瞬环合</>"
+              "SourceString": "即瞬环合",
+              "LocalizedString": "即瞬环合"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -2244,14 +3640,63 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_huanhe.YH_UI_icon_Tag_huanhe",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.597202,
+                "G": 0.072272,
+                "B": 0.223228,
+                "A": 1.0,
+                "Hex": "CB4C82"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Female_tag_1",
+              "SourceString": "爆发输出",
+              "LocalizedString": "爆发输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_baofa.YH_UI_icon_Tag_baofa",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1051": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_009.player_009",
@@ -2259,6 +3704,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_009x100.player_009x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_009_256.player_009_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2273,22 +3722,31 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "ZERO_F_homeplace",
+          "SourceString": "伊波恩古董店",
+          "LocalizedString": "伊波恩古董店"
         },
         "Description": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "ZERO_F_introduction",
+          "SourceString": "迄今唯一一位无法检测出维特海默值的异能者。",
+          "LocalizedString": "迄今唯一一位无法检测出维特海默值的异能者。"
         },
+        "LimitScenes": [],
         "ToolDatas": [],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": true,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_Female",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2389,7 +3847,7 @@
             "Y": 1.0,
             "Z": 1.0
           },
-          "CameraUpHeight": 22.0,
+          "CameraUpHeight": 28.0,
           "CameraOffsets": 0.0,
           "ForkMeshOffsets": 8.0,
           "EquipmentHandMeshOffsets": 0.0,
@@ -2399,7 +3857,7 @@
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_nvzhu.YH_lihui_character_nvzhu",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -2416,9 +3874,28 @@
             "AssetPathName": "",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": false,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_nvzhu.YH_UI_shizhuang_big_nvzhu",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "None"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -2426,8 +3903,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
-              "SourceString": "<Mainwhite>攻击</>",
-              "LocalizedString": "<Mainwhite>攻击</>"
+              "SourceString": "输出",
+              "LocalizedString": "输出"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -2436,30 +3913,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
               "SubPathString": ""
-            }
-          },
-          {
-            "TagText": {
-              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
-              "Key": "Female_tag_1",
-              "SourceString": "<white>爆发输出</>",
-              "LocalizedString": "<white>爆发输出</>"
             },
-            "TagBgIcon": {
-              "AssetPathName": "",
-              "SubPathString": ""
+            "TagDesc": {
+              "CultureInvariantString": null
             },
-            "TagIcon": {
-              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_baofa.YH_UI_icon_Tag_baofa",
-              "SubPathString": ""
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_2",
-              "SourceString": "<white>即瞬环合</>",
-              "LocalizedString": "<white>即瞬环合</>"
+              "SourceString": "即瞬环合",
+              "LocalizedString": "即瞬环合"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -2468,14 +3942,63 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_huanhe.YH_UI_icon_Tag_huanhe",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.597202,
+                "G": 0.072272,
+                "B": 0.223228,
+                "A": 1.0,
+                "Hex": "CB4C82"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Female_tag_1",
+              "SourceString": "爆发输出",
+              "LocalizedString": "爆发输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_baofa.YH_UI_icon_Tag_baofa",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1052": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_013.player_013",
@@ -2483,6 +4006,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_013x100.player_013x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_013_256.player_013_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2497,26 +4024,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC008_homeplace",
+          "SourceString": "伊波恩古董店",
+          "LocalizedString": "伊波恩古董店"
         },
         "Description": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC009_007",
+          "SourceString": "似乎不怎么识货、整天醉醺醺的伊波恩店主。",
+          "LocalizedString": "似乎不怎么识货、整天醉醺醺的伊波恩店主。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1052"
+            "AvatarId": "1052"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_jin",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2533,7 +4069,7 @@
           },
           "PropModifyID": "Jin_base",
           "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
-          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_THREE",
+          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
           "UpgradePackId": "character_Upgrade",
           "UpgradeModifyPackId": "Jin_lv",
           "BreakthroughPackId": "Jin_Breakthrough",
@@ -2617,17 +4153,17 @@
             "Y": 1.0,
             "Z": 1.0
           },
-          "CameraUpHeight": 28.0,
-          "CameraOffsets": 15.0,
-          "ForkMeshOffsets": 23.0,
-          "EquipmentHandMeshOffsets": 15.0,
+          "CameraUpHeight": 38.0,
+          "CameraOffsets": 12.0,
+          "ForkMeshOffsets": 21.0,
+          "EquipmentHandMeshOffsets": 12.0,
           "bIsAutoEquip": false,
           "AbyssAssistBuff": {
             "AssetPathName": "",
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_xun.YH_lihui_character_xun",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -2644,9 +4180,28 @@
             "AssetPathName": "/Game/UI/Blueprints/Skill/BufferStack/BPUI_BlockBufferStack_Xun.BPUI_BlockBufferStack_Xun_C",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "/Game/UI/Blueprints/Character/BPUI_CharacterSlotJinTime.BPUI_CharacterSlotJinTime_C",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": false,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_xun.YH_UI_shizhuang_big_xun",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1029"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -2654,8 +4209,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Sagiri_tag_0",
-              "SourceString": "<Mainwhite>辅助</>",
-              "LocalizedString": "<Mainwhite>辅助</>"
+              "SourceString": "增益",
+              "LocalizedString": "增益"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -2664,30 +4219,56 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_fuzhu01.YH_UI_icon_Tag_fuzhu01",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
-              "Key": "Jin_tag_1",
-              "SourceString": "<white>治疗</>",
-              "LocalizedString": "<white>治疗</>"
+              "Key": "Female_tag_1",
+              "SourceString": "爆发输出",
+              "LocalizedString": "爆发输出"
             },
             "TagBgIcon": {
               "AssetPathName": "",
               "SubPathString": ""
             },
             "TagIcon": {
-              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhiliao.YH_UI_icon_Tag_zhiliao",
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_baofa.YH_UI_icon_Tag_baofa",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Haniel_tag_2",
-              "SourceString": "<white>输出增益</>",
-              "LocalizedString": "<white>输出增益</>"
+              "SourceString": "输出增益",
+              "LocalizedString": "输出增益"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -2696,14 +4277,671 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zengyi.YH_UI_icon_Tag_zengyi",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.672443,
+                "G": 0.099899,
+                "B": 0.021219,
+                "A": 1.0,
+                "Hex": "D65928"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": false
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1054": {
+        "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_005.player_005",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/100/player_005_100.player_005_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_005_256.player_005_256",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_005",
+          "SourceString": "达芙蒂尔",
+          "LocalizedString": "达芙蒂尔"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "CultureInvariantString": null
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "LimitScenes": [],
+        "ToolDatas": [
+          {
+            "AvatarId": "1054"
+          }
+        ],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": true,
+        "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 0,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "melt_daffodill",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "CharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/Player/player_054_daffodill.player_054_daffodill_C",
+            "SubPathString": ""
+          },
+          "UISimpleCharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_054.PlayerUIShow_054_C",
+            "SubPathString": ""
+          },
+          "PropModifyID": "daffodill_base",
+          "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_CHAOS",
+          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_TWO",
+          "UpgradePackId": "character_Upgrade",
+          "UpgradeModifyPackId": "daffodill_lv",
+          "BreakthroughPackId": "daffodill_Breakthrough",
+          "AwakenCostItem": "Characterawaken_daffodill:1",
+          "MaxAwakenLevel": 6,
+          "AwakenIconList": [
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs11.jxcs11",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs5.jxcs5",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs10.jxcs10",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs4.jxcs4",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs7.jxcs7",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs1.jxcs1",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs8.jxcs8",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs2.jxcs2",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs9.jxcs9",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs3.jxcs3",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs12.jxcs12",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs6.jxcs6",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "ForkID": "None",
+          "EquipmentSlotID": "EquipmentSlots_daffodill",
+          "EquipBaseplateStaticMesh": {
+            "AssetPathName": "/Game/Environment/NPCprops/Items/Handhelds/SM_Handhelds_Tetris_022.SM_Handhelds_Tetris_022",
+            "SubPathString": ""
+          },
+          "EquipInnerReactionLayerStaticMesh": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "EquipmentHandleBaseLockedEffectIndex": 0,
+          "UIScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "CameraUpHeight": 36.0,
+          "CameraOffsets": 11.5,
+          "ForkMeshOffsets": 20.0,
+          "EquipmentHandMeshOffsets": 11.5,
+          "bIsAutoEquip": false,
+          "AbyssAssistBuff": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "AbilityUIIcon": {
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_dafudier.YH_lihui_character_dafudier",
+            "SubPathString": ""
+          },
+          "AbilityUIColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 0.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FF00FF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "UIStackStyleTemplet": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/BufferStack/BPUI_BlockBufferStack_Daffodill.BPUI_BlockBufferStack_Daffodill_C",
+            "SubPathString": ""
+          },
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "/Game/UI/Blueprints/Character/BPUI_CharacterSlotDaffodill.BPUI_CharacterSlotDaffodill_C",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": false,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_dafudier.YH_UI_shizhuang_big_dafudier",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1005"
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "lacrimosa_tag_0",
+              "SourceString": "输出",
+              "LocalizedString": "输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Female_tag_1",
+              "SourceString": "爆发输出",
+              "LocalizedString": "爆发输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_baofa.YH_UI_icon_Tag_baofa",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Daffodill_tag_1",
+              "SourceString": "倾陷增益",
+              "LocalizedString": "倾陷增益"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_QingXiantisheng.YH_UI_icon_Tag_QingXiantisheng",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.672443,
+                "G": 0.099899,
+                "B": 0.021219,
+                "A": 1.0,
+                "Hex": "D65928"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          }
+        ],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1055": {
+        "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_104.player_104",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/100/player_104_100.player_104_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_104_256.player_104_256",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_055",
+          "SourceString": "九原",
+          "LocalizedString": "九原"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "CultureInvariantString": null
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "LimitScenes": [],
+        "ToolDatas": [
+          {
+            "AvatarId": "1055"
+          }
+        ],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": false,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": true,
+        "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 0,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "melt_Kuhara",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "CharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/Player/player_055_kuhara.player_055_kuhara_C",
+            "SubPathString": ""
+          },
+          "UISimpleCharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_055.PlayerUIShow_055_C",
+            "SubPathString": ""
+          },
+          "PropModifyID": "Kuhara_base",
+          "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_NATURE",
+          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_ONE",
+          "UpgradePackId": "character_Upgrade",
+          "UpgradeModifyPackId": "Kuhara_lv",
+          "BreakthroughPackId": "Kuhara_Breakthrough",
+          "AwakenCostItem": "Characterawaken_Kuhara:1",
+          "MaxAwakenLevel": 6,
+          "AwakenIconList": [
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs44.jxcs44",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs38.jxcs38",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs46.jxcs46",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs40.jxcs40",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs43.jxcs43",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs37.jxcs37",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs47.jxcs47",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs41.jxcs41",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs48.jxcs48",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs42.jxcs42",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs45.jxcs45",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs39.jxcs39",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "ForkID": "None",
+          "EquipmentSlotID": "EquipmentSlots_kuhara",
+          "EquipBaseplateStaticMesh": {
+            "AssetPathName": "/Game/Environment/NPCprops/Items/Handhelds/SM_Handhelds_Tetris_011.SM_Handhelds_Tetris_011",
+            "SubPathString": ""
+          },
+          "EquipInnerReactionLayerStaticMesh": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "EquipmentHandleBaseLockedEffectIndex": 0,
+          "UIScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "CameraUpHeight": 36.0,
+          "CameraOffsets": 11.5,
+          "ForkMeshOffsets": 20.0,
+          "EquipmentHandMeshOffsets": 11.5,
+          "bIsAutoEquip": false,
+          "AbyssAssistBuff": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "AbilityUIIcon": {
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_jiuyuan.YH_lihui_character_jiuyuan",
+            "SubPathString": ""
+          },
+          "AbilityUIColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 0.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FF00FF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "UIStackStyleTemplet": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/BufferStack/BPUI_BufferStack_Kuhara.BPUI_BufferStack_Kuhara_C",
+            "SubPathString": ""
+          },
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "/Game/UI/Blueprints/Character/BPUI_CharacterSlotKuhara.BPUI_CharacterSlotKuhara_C",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [
+            "jiuyuan_0001",
+            "jiuyuan_0002",
+            "jiuyuan_0003",
+            "jiuyuan_0004",
+            "jiuyuan_0005",
+            "jiuyuan_0006",
+            "jiuyuan_0007",
+            "jiuyuan_0008",
+            "jiuyuan_0009",
+            "jiuyuan_0010",
+            "jiuyuan_0011",
+            "jiuyuan_0012",
+            "jiuyuan_jh_0001",
+            "jiuyuan_jh_0002",
+            "jiuyuan_jh_0003"
+          ],
+          "FashionList": [
+            {
+              "FashionID": "Fashion_1055_nighty",
+              "FashionItemID": "EquipmentUpMaterial_lv3",
+              "FashionIconInviteForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_Character_jiuyuan.UI_Mask_Fashion_Character_jiuyuan",
+                "SubPathString": ""
+              },
+              "FashionIconNpcForm": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/UI_Mask_Fashion_UI_jiuyuan.UI_Mask_Fashion_UI_jiuyuan",
+                "SubPathString": ""
+              },
+              "FashionSmallIcon": {
+                "AssetPathName": "/Game/UI/Blueprints/Room/yaoqing/BPUI_CharacterChange1.BPUI_CharacterChange1",
+                "SubPathString": ""
+              },
+              "CharacterClass": {
+                "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_015/BP_NPC_015_fashion1.BP_NPC_015_fashion1_C",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "DefaultFashionID": "Fashion_1055_nighty",
+          "UnlockLevel": 4,
+          "bTeachingEnable": false,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_jiuyuan.YH_UI_shizhuang_big_jiuyuan",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "Likeability_007",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1014"
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "lacrimosa_tag_0",
+              "SourceString": "输出",
+              "LocalizedString": "输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Female_tag_1",
+              "SourceString": "爆发输出",
+              "LocalizedString": "爆发输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_baofa.YH_UI_icon_Tag_baofa",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "Sagiri_tag_1",
+              "SourceString": "控制",
+              "LocalizedString": "控制"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_kongzhi.YH_UI_icon_Tag_kongzhi",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.187821,
+                "G": 0.187821,
+                "B": 0.191202,
+                "A": 1.0,
+                "Hex": "787879"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          }
+        ],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": true,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       },
       "1056": {
         "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
         "ItemTags": [],
         "ItemIcon": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_004.player_004",
@@ -2711,6 +4949,10 @@
         },
         "ItemIconSmall": {
           "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/player_004x100.player_004x100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_004_256.player_004_256",
           "SubPathString": ""
         },
         "ItemName": {
@@ -2725,29 +4967,35 @@
         "TimeLimit": null,
         "ItemEffectType": "EItemEffectType::NoEffect",
         "UseContext": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC004_homeplace",
+          "SourceString": "异象管理局禁制机动队四队",
+          "LocalizedString": "异象管理局禁制机动队四队"
         },
         "Description": {
-          "Namespace": "",
-          "Key": "F2A2360C4769BE04A37FEF8294F979D0",
-          "SourceString": "性格天然，语言组织能力很差，看起来傻乎乎的且有点迟钝，缺乏常识，生活自理能力很差，经常出现走路碰到玻璃门、被自己的鞋带绊倒等小问题，有着令周围的人不知不觉的就照顾她的天赋，应变能力为零。缺乏干劲，对于出任务完全提不起兴趣，偷懒放水的时候经常被队友抓个正着。被队友吐槽后本着尽快结束尽快休息的原则，下手总是会突然变重，有时候会影响到市民的正常生活，因此是异象管理局接到投诉最多的成员之一。不擅长与人争执，当周围人关系紧张，虽然想要靠自己来让气氛缓和下来，但因为不擅长观察他人的心情，基本上难以收到好的效果。",
-          "LocalizedString": "性格天然，语言组织能力很差，看起来傻乎乎的且有点迟钝，缺乏常识，生活自理能力很差，经常出现走路碰到玻璃门、被自己的鞋带绊倒等小问题，有着令周围的人不知不觉的就照顾她的天赋，应变能力为零。缺乏干劲，对于出任务完全提不起兴趣，偷懒放水的时候经常被队友抓个正着。被队友吐槽后本着尽快结束尽快休息的原则，下手总是会突然变重，有时候会影响到市民的正常生活，因此是异象管理局接到投诉最多的成员之一。不擅长与人争执，当周围人关系紧张，虽然想要靠自己来让气氛缓和下来，但因为不擅长观察他人的心情，基本上难以收到好的效果。"
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "NPC004_introduction",
+          "SourceString": "异象管理局员工后勤报修次数最多记录保持者。",
+          "LocalizedString": "异象管理局员工后勤报修次数最多记录保持者。"
         },
+        "LimitScenes": [],
         "ToolDatas": [
           {
-            "AvatarID": "1004"
+            "AvatarId": "1056"
           }
         ],
         "ItemUseCount": 1,
         "bAutoUseWhenAdd": false,
+        "SellData": [],
         "bDisplayedWhenObtain": false,
         "bUndisplayFirstAddMessageTips": false,
         "bUndisplayCommonAddMessageTips": true,
         "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
         "BagFunctions": 0,
         "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
         "MeltPackID": "melt_lacrimosa",
-        "ActiveBoxItemID": "None",
         "OutputSourceID": "None",
         "ExpandableAttributes": {
           "ExpandedAttributes": []
@@ -2851,14 +5099,14 @@
           "CameraUpHeight": 9.0,
           "CameraOffsets": -10.0,
           "ForkMeshOffsets": 2.0,
-          "EquipmentHandMeshOffsets": 0.0,
+          "EquipmentHandMeshOffsets": -10.0,
           "bIsAutoEquip": false,
           "AbyssAssistBuff": {
             "AssetPathName": "",
             "SubPathString": ""
           },
           "AbilityUIIcon": {
-            "AssetPathName": "/Game/UI/UI/YINeng/YH_yineng_zhaopian01.YH_yineng_zhaopian01",
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_anhunqu.YH_lihui_character_anhunqu",
             "SubPathString": ""
           },
           "AbilityUIColor": {
@@ -2875,9 +5123,28 @@
             "AssetPathName": "",
             "SubPathString": ""
           },
-          "bIsHoldWeapon": false
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": false,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_anhunqu.YH_UI_shizhuang_big_anhunqu",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "None"
         },
-        "SubstituteData": null,
         "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
         "bIsShowAmount": true,
         "PlayerViewTagArray": [
@@ -2885,8 +5152,8 @@
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
-              "SourceString": "<Mainwhite>攻击</>",
-              "LocalizedString": "<Mainwhite>攻击</>"
+              "SourceString": "输出",
+              "LocalizedString": "输出"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -2895,14 +5162,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_1",
-              "SourceString": "<white>主力输出</>",
-              "LocalizedString": "<white>主力输出</>"
+              "SourceString": "主力输出",
+              "LocalizedString": "主力输出"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -2911,14 +5191,27 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhuli.YH_UI_icon_Tag_zhuli",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           },
           {
             "TagText": {
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_2",
-              "SourceString": "<white>持续伤害</>",
-              "LocalizedString": "<white>持续伤害</>"
+              "SourceString": "持续伤害",
+              "LocalizedString": "持续伤害"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -2927,11 +5220,307 @@
             "TagIcon": {
               "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_chixu.YH_UI_icon_Tag_chixu",
               "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.3564,
+                "G": 0.132868,
+                "B": 0.132868,
+                "A": 1.0,
+                "Hex": "A16666"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
             }
           }
         ],
         "bIsLimitAmount": false,
-        "bIsManual": true
+        "bIsManual": false,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
+      },
+      "1073": {
+        "ItemType": "EItemType::ITEM_TYPE_CHARACTER",
+        "ItemClassOverride": null,
+        "ItemTags": [],
+        "ItemIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/200/player_073.player_073",
+          "SubPathString": ""
+        },
+        "ItemIconSmall": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/100/player_073_100.player_073_100",
+          "SubPathString": ""
+        },
+        "ItemIconBig": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarImage/256/player_073_256.player_073_256",
+          "SubPathString": ""
+        },
+        "ItemName": {
+          "TableId": "/Game/Text/ST_Player.ST_Player",
+          "Key": "Role_Name_073",
+          "SourceString": "小吱",
+          "LocalizedString": "小吱"
+        },
+        "MaxAmount": 1,
+        "ItemQuality": "EItemQuality::ITEM_QUALITY_ORANGE",
+        "ItemCD": 0.0,
+        "TimeLimit": null,
+        "ItemEffectType": "EItemEffectType::NoEffect",
+        "UseContext": {
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC026_006",
+          "SourceString": "德沃夏克家族",
+          "LocalizedString": "德沃夏克家族"
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_File.ST_File",
+          "Key": "F_NPC026_007",
+          "SourceString": "虽然看起来有些胆小却是粉爪银行最靠谱的经理。",
+          "LocalizedString": "虽然看起来有些胆小却是粉爪银行最靠谱的经理。"
+        },
+        "LimitScenes": [],
+        "ToolDatas": [
+          {
+            "AvatarId": "1073"
+          }
+        ],
+        "ItemUseCount": 1,
+        "bAutoUseWhenAdd": true,
+        "SellData": [],
+        "bDisplayedWhenObtain": false,
+        "bUndisplayFirstAddMessageTips": false,
+        "bUndisplayCommonAddMessageTips": true,
+        "bUseAddMessageTips": true,
+        "AddMessageTipsIDs": [],
+        "BagFunctions": 0,
+        "CanDestory": false,
+        "bUseSuccessWhenNotDeduct": false,
+        "MeltPackID": "melt_chiichan",
+        "OutputSourceID": "None",
+        "ExpandableAttributes": {
+          "ExpandedAttributes": []
+        },
+        "ExtensionData": null,
+        "ElementData": {
+          "CharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/Player/Player_073_Chiichan.Player_073_Chiichan_C",
+            "SubPathString": ""
+          },
+          "UISimpleCharacterActorClass": {
+            "AssetPathName": "/Game/Blueprints/Character/PlayerUIShow/PlayerUIShow_073.PlayerUIShow_073_C",
+            "SubPathString": ""
+          },
+          "PropModifyID": "chiichan_base",
+          "CharacterElementType": "ECharacterElementType::CHARACTER_ELEMENT_TYPE_COSMOS",
+          "CharacterGroupType": "ECharacterGroupType::CHARACTER_GROUP_TYPE_FOUR",
+          "UpgradePackId": "character_Upgrade",
+          "UpgradeModifyPackId": "chiichan_lv",
+          "BreakthroughPackId": "chiichan_Breakthrough",
+          "AwakenCostItem": "Characterawaken_chiichan:1",
+          "MaxAwakenLevel": 6,
+          "AwakenIconList": [
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs33.jxcs33",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs27.jxcs27",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs31.jxcs31",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs25.jxcs25",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs34.jxcs34",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs28.jxcs28",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs36.jxcs36",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs30.jxcs30",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs35.jxcs35",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs29.jxcs29",
+                "SubPathString": ""
+              }
+            },
+            {
+              "HeadIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs32.jxcs32",
+                "SubPathString": ""
+              },
+              "MaskIcon": {
+                "AssetPathName": "/Game/UI/UI_Icon/Awaken/cs/jxcs26.jxcs26",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "ForkID": "None",
+          "EquipmentSlotID": "EquipmentSlots_chiichan",
+          "EquipBaseplateStaticMesh": {
+            "AssetPathName": "/Game/Environment/NPCprops/Items/Handhelds/SM_Handhelds_Tetris_033.SM_Handhelds_Tetris_033",
+            "SubPathString": ""
+          },
+          "EquipInnerReactionLayerStaticMesh": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "EquipmentHandleBaseLockedEffectIndex": 1,
+          "UIScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "CameraUpHeight": 28.0,
+          "CameraOffsets": 0.0,
+          "ForkMeshOffsets": 8.0,
+          "EquipmentHandMeshOffsets": 0.0,
+          "bIsAutoEquip": false,
+          "AbyssAssistBuff": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "AbilityUIIcon": {
+            "AssetPathName": "/Game/UI/UI/Gacha/YH_lihui_character_xiaozhi.YH_lihui_character_xiaozhi",
+            "SubPathString": ""
+          },
+          "AbilityUIColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 0.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FF00FF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "UIStackStyleTemplet": {
+            "AssetPathName": "/Game/UI/Blueprints/Skill/BufferStack/BPUI_BufferStack_Chiichan.BPUI_BufferStack_Chiichan_C",
+            "SubPathString": ""
+          },
+          "UIExCharacterSlotTemplate": {
+            "AssetPathName": "",
+            "SubPathString": ""
+          },
+          "bIsHoldWeapon": false,
+          "MotionData": [],
+          "FashionList": [],
+          "DefaultFashionID": "None",
+          "UnlockLevel": 0,
+          "bTeachingEnable": true,
+          "CharacterIllustration": {
+            "AssetPathName": "/Game/UI/UI/Appearance/Fashion/2160/YH_UI_shizhuang_big_xiaozhi.YH_UI_shizhuang_big_xiaozhi",
+            "SubPathString": ""
+          },
+          "CharacterTrackId": "None",
+          "TrackOffset": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "LikeabilityID": "1073"
+        },
+        "QuickUseType": "EItemQuickUseType::QuickUse_Disabled",
+        "bIsShowAmount": true,
+        "PlayerViewTagArray": [
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "lacrimosa_tag_0",
+              "SourceString": "输出",
+              "LocalizedString": "输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_MainTag01.YH_UI_icon_MainTag01",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 0.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FF00FF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          },
+          {
+            "TagText": {
+              "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
+              "Key": "lacrimosa_tag_1",
+              "SourceString": "主力输出",
+              "LocalizedString": "主力输出"
+            },
+            "TagBgIcon": {
+              "AssetPathName": "",
+              "SubPathString": ""
+            },
+            "TagIcon": {
+              "AssetPathName": "/Game/UI/UI/player/TAG_Icon/YH_UI_icon_Tag_zhuli.YH_UI_icon_Tag_zhuli",
+              "SubPathString": ""
+            },
+            "TagDesc": {
+              "CultureInvariantString": null
+            },
+            "TagColorBgColor": {
+              "SpecifiedColor": {
+                "R": 0.686686,
+                "G": 0.078187,
+                "B": 0.078187,
+                "A": 1.0,
+                "Hex": "D84F4F"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            }
+          }
+        ],
+        "bIsLimitAmount": false,
+        "bIsManual": true,
+        "bIsInvite": false,
+        "bIsDropActor": false,
+        "DropActorClass": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        }
       }
     }
   }

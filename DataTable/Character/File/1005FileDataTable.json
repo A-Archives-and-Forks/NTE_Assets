@@ -30,6 +30,12 @@
             "CVName": {
               "CultureInvariantString": "Natalie Van Sistine"
             }
+          },
+          {
+            "AudioType": "EAudioCultureType::Audio_Korean",
+            "CVName": {
+              "CultureInvariantString": "이명호"
+            }
           }
         ],
         "Birthday": {
@@ -219,8 +225,8 @@
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC013_weather_002",
-              "SourceString": "下雨了？利用雨水隐蔽身形和气味的话……啧，下意识又……可恶。",
-              "LocalizedString": "下雨了？利用雨水隐蔽身形和气味的话……啧，下意识又……可恶。"
+              "SourceString": "下雨了？利用雨水隐蔽身形和气味的话……",
+              "LocalizedString": "下雨了？利用雨水隐蔽身形和气味的话……"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_weather_002.Play_Vo_Char_NPC013_weather_002",
@@ -399,8 +405,8 @@
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC013_talk_001",
-              "SourceString": "有一种异象会夺走人的记忆，失去了名字的人是逃不出去的，除非你自愿放弃被夺走的一切，换取空茫可悲的自由……要是遇到了，就跑快点儿。为什么会这么清楚？……有过一些渊源罢了。",
-              "LocalizedString": "有一种异象会夺走人的记忆，失去了名字的人是逃不出去的，除非你自愿放弃被夺走的一切，换取空茫可悲的自由……要是遇到了，就跑快点儿。为什么会这么清楚？……有过一些渊源罢了。"
+              "SourceString": "真相往往以谎言作为伪装。异象也好，人也好——大多都是表里不一的。光是「看见」远远不够。认知、觉察、剖析。事物像万花筒般从不同视角展开……才能窥见本质。",
+              "LocalizedString": "真相往往以谎言作为伪装。异象也好，人也好——大多都是表里不一的。光是「看见」远远不够。认知、觉察、剖析。事物像万花筒般从不同视角展开……才能窥见本质。"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_talk_001.Play_Vo_Char_NPC013_talk_001",
@@ -499,8 +505,8 @@
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC013_self_003",
-              "SourceString": "是水仙花的意思。浔说水仙是一种孤高自洁的花，我不觉得跟我有什么相似之处，花都太过娇弱了，不过听说它很好养活。",
-              "LocalizedString": "是水仙花的意思。浔说水仙是一种孤高自洁的花，我不觉得跟我有什么相似之处，花都太过娇弱了，不过听说它很好养活。"
+              "SourceString": "似乎是水仙花的意思。一根枝条上只开一朵，听浔说我家附近的湖心也长着一朵，但我并未见过。如果可以的话，希望你还是喊我「达芙蒂尔」，而不是……嗯。",
+              "LocalizedString": "似乎是水仙花的意思。一根枝条上只开一朵，听浔说我家附近的湖心也长着一朵，但我并未见过。如果可以的话，希望你还是喊我「达芙蒂尔」，而不是……嗯。"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_self_003.Play_Vo_Char_NPC013_self_003",
@@ -533,14 +539,14 @@
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "about_NPC009_002",
-              "SourceString": "关于浔·小水仙",
-              "LocalizedString": "关于浔·小水仙"
+              "SourceString": "关于浔·初遇",
+              "LocalizedString": "关于浔·初遇"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC013_about_002",
-              "SourceString": "咳咳……浔有时候喜欢开玩笑。虽然我并不介意这个称呼，但还请不要这么叫我。",
-              "LocalizedString": "咳咳……浔有时候喜欢开玩笑。虽然我并不介意这个称呼，但还请不要这么叫我。"
+              "SourceString": "初遇时就醉醺醺的，那时只觉得是个奇怪的女人。但不知为何……莫名有种安心与信任感。这也是为什么我会在这吧。",
+              "LocalizedString": "初遇时就醉醺醺的，那时只觉得是个奇怪的女人。但不知为何……莫名有种安心与信任感。这也是为什么我会在这吧。"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_about_002.Play_Vo_Char_NPC013_about_002",
@@ -573,8 +579,8 @@
             "Title": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "about_NPC022",
-              "SourceString": "关于阿多尼斯",
-              "LocalizedString": "关于阿多尼斯"
+              "SourceString": "关于残虹",
+              "LocalizedString": "关于残虹"
             },
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
@@ -643,7 +649,7 @@
               "LocalizedString": "汗水的收获。"
             },
             "AudioEvent": {
-              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_rise_001.Play_Vo_Char_NPC013_rise_001",
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_ug_001.Play_Vo_Char_NPC013_ug_001",
               "SubPathString": ""
             },
             "Conditions": [
@@ -669,7 +675,7 @@
               "LocalizedString": "我，还可以更强。"
             },
             "AudioEvent": {
-              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_rise_002.Play_Vo_Char_NPC013_rise_002",
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_ug_002.Play_Vo_Char_NPC013_ug_002",
               "SubPathString": ""
             },
             "Conditions": [
@@ -695,7 +701,7 @@
               "LocalizedString": "这样就能更好地守护了吧。"
             },
             "AudioEvent": {
-              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_rise_003.Play_Vo_Char_NPC013_rise_003",
+              "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_ug_003.Play_Vo_Char_NPC013_ug_003",
               "SubPathString": ""
             },
             "Conditions": [
@@ -825,8 +831,8 @@
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC013_aoe_003",
-              "SourceString": "Dim life！",
-              "LocalizedString": "Dim life！"
+              "SourceString": "千眼……开。 ",
+              "LocalizedString": "千眼……开。 "
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_aoe_003.Play_Vo_Char_NPC013_aoe_003",
@@ -1045,8 +1051,8 @@
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC013_dead_002",
-              "SourceString": "这就是……刀刃的宿命么……",
-              "LocalizedString": "这就是……刀刃的宿命么……"
+              "SourceString": "如果这副残躯仍有价值……",
+              "LocalizedString": "如果这副残躯仍有价值……"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_dead_002.Play_Vo_Char_NPC013_dead_002",
@@ -1225,8 +1231,8 @@
             "Content": {
               "TableId": "/Game/Text/ST_File.ST_File",
               "Key": "NPC013_deploy_002",
-              "SourceString": "待命",
-              "LocalizedString": "待命"
+              "SourceString": "待命。",
+              "LocalizedString": "待命。"
             },
             "AudioEvent": {
               "AssetPathName": "/Game/WwiseAudio/Events/Voice/Char/NPC013/Play_Vo_Char_NPC013_deploy_002.Play_Vo_Char_NPC013_deploy_002",

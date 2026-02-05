@@ -73,10 +73,7 @@
       },
       "Unknown": {
         "PropName": {
-          "Namespace": "",
-          "Key": "ABA5031B4290C977247FA0A21CB1550E",
-          "SourceString": "未知类",
-          "LocalizedString": "未知类"
+          "CultureInvariantString": null
         },
         "FigureImage": {
           "AssetPathName": "",

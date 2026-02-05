@@ -44,7 +44,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "HPMaxUp": {
         "AttributeText": {
@@ -82,7 +83,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0125
       },
       "AtkBase": {
         "AttributeText": {
@@ -117,7 +119,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "AtkUp": {
         "AttributeText": {
@@ -155,7 +158,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0125
       },
       "DefBase": {
         "AttributeText": {
@@ -190,7 +194,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "DefUp": {
         "AttributeText": {
@@ -228,7 +233,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0175
       },
       "HPMaxAdd": {
         "AttributeText": {
@@ -266,7 +272,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 200.0
       },
       "AtkAdd": {
         "AttributeText": {
@@ -304,7 +311,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 16.0
       },
       "DefAdd": {
         "AttributeText": {
@@ -342,7 +350,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 16.0
       },
       "CritBase": {
         "AttributeText": {
@@ -380,7 +389,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.01
       },
       "CritDamageBase": {
         "AttributeText": {
@@ -418,14 +428,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.02
       },
       "ChargeGetEfficiencyBase": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "CostGainEfficiency",
-          "SourceString": "蓄质速率",
-          "LocalizedString": "蓄质速率"
+          "SourceString": "充能效率",
+          "LocalizedString": "充能效率"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -443,20 +454,21 @@
           "FilterViewName": {
             "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
             "Key": "CostGainEfficiency",
-            "SourceString": "蓄质速率",
-            "LocalizedString": "蓄质速率"
+            "SourceString": "充能效率",
+            "LocalizedString": "充能效率"
           },
           "FilterCondition": 0
         },
         "EquipmentRandomAttributeName": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "CostGainEfficiency_des",
-          "SourceString": "蓄质速率提升{0}",
-          "LocalizedString": "蓄质速率提升{0}"
+          "SourceString": "充能效率提升{0}",
+          "LocalizedString": "充能效率提升{0}"
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.015
       },
       "StrengthMax": {
         "AttributeText": {
@@ -488,14 +500,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "Mag": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "Mag",
-          "SourceString": "原质驱力",
-          "LocalizedString": "原质驱力"
+          "SourceString": "环合强度",
+          "LocalizedString": "环合强度"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -521,16 +534,17 @@
         "AttributeDetail": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "Mag_detail",
-          "SourceString": "原质驱力会提高异能环合的效果。当异能环合触发时，生效的原质驱力取决于参与异能环合的两者数值较高的一方。\r\n当前原质驱力能够让\r\n“创生\"，“黯星”，\"浊燃“造成的伤害提高{0}%。\r\n\"覆纹\"，”浸染“的伤害额外提高{1}%。",
-          "LocalizedString": "原质驱力会提高异能环合的效果。当异能环合触发时，生效的原质驱力取决于参与异能环合的两者数值较高的一方。\r\n当前原质驱力能够让\r\n“创生\"，“黯星”，\"浊燃“造成的伤害提高{0}%。\r\n\"覆纹\"，”浸染“的伤害额外提高{1}%。"
-        }
+          "SourceString": "环合强度会提高异能环合的效果。当异能环合触发时，生效的环合强度取决于参与异能环合的两者最终效果数值较高的一方。\r\n当前环合强度能够让\r\n「创生」、「黯星」、「浊燃」造成的伤害提高{0}%。\r\n「覆纹」、「浸染」的伤害额外提高{1}%。",
+          "LocalizedString": "环合强度会提高异能环合的效果。当异能环合触发时，生效的环合强度取决于参与异能环合的两者最终效果数值较高的一方。\r\n当前环合强度能够让\r\n「创生」、「黯星」、「浊燃」造成的伤害提高{0}%。\r\n「覆纹」、「浸染」的伤害额外提高{1}%。"
+        },
+        "Score": 0.0
       },
       "MagUp": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "Mag",
-          "SourceString": "原质驱力",
-          "LocalizedString": "原质驱力"
+          "SourceString": "环合强度",
+          "LocalizedString": "环合强度"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -553,19 +567,20 @@
         "EquipmentRandomAttributeName": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "Mag_des",
-          "SourceString": "原质驱力增加{0}",
-          "LocalizedString": "原质驱力增加{0}"
+          "SourceString": "环合强度增加{0}",
+          "LocalizedString": "环合强度增加{0}"
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "MagAdd": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "Mag",
-          "SourceString": "原质驱力",
-          "LocalizedString": "原质驱力"
+          "SourceString": "环合强度",
+          "LocalizedString": "环合强度"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -588,19 +603,20 @@
         "EquipmentRandomAttributeName": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "Mag_des",
-          "SourceString": "原质驱力增加{0}",
-          "LocalizedString": "原质驱力增加{0}"
+          "SourceString": "环合强度增加{0}",
+          "LocalizedString": "环合强度增加{0}"
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "MagBase": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "Mag",
-          "SourceString": "原质驱力",
-          "LocalizedString": "原质驱力"
+          "SourceString": "环合强度",
+          "LocalizedString": "环合强度"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -618,20 +634,21 @@
           "FilterViewName": {
             "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
             "Key": "Mag",
-            "SourceString": "原质驱力",
-            "LocalizedString": "原质驱力"
+            "SourceString": "环合强度",
+            "LocalizedString": "环合强度"
           },
           "FilterCondition": 28
         },
         "EquipmentRandomAttributeName": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "Mag_des",
-          "SourceString": "原质驱力增加{0}",
-          "LocalizedString": "原质驱力增加{0}"
+          "SourceString": "环合强度增加{0}",
+          "LocalizedString": "环合强度增加{0}"
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 6.0
       },
       "UnbalIntensity": {
         "AttributeText": {
@@ -666,7 +683,8 @@
           "Key": "Unbal_detail",
           "SourceString": "倾陷强度可以提升倾陷伤害。(倾陷伤害由小队成员共同影响，每个角色的倾陷强度只影响自身部分)\r\n当前该角色倾陷伤害提升{0}%",
           "LocalizedString": "倾陷强度可以提升倾陷伤害。(倾陷伤害由小队成员共同影响，每个角色的倾陷强度只影响自身部分)\r\n当前该角色倾陷伤害提升{0}%"
-        }
+        },
+        "Score": 0.0
       },
       "UnbalIntensityBase": {
         "AttributeText": {
@@ -704,7 +722,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 6.0
       },
       "UnbalIntensityUp": {
         "AttributeText": {
@@ -739,7 +758,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "UnbalIntensityAdd": {
         "AttributeText": {
@@ -774,7 +794,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "HealUp": {
         "AttributeText": {
@@ -809,7 +830,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "HealBeUp": {
         "AttributeText": {
@@ -841,7 +863,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "DefIgnore": {
         "AttributeText": {
@@ -873,7 +896,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "TenacityMax": {
         "AttributeText": {
@@ -905,7 +929,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "TenacityDestroyEfficiency": {
         "AttributeText": {
@@ -937,7 +962,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "TenacityAntiDestroyEfficiency": {
         "AttributeText": {
@@ -969,14 +995,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "DamageUpGeneralBase": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageUpGeneral",
-          "SourceString": "通用伤害加成",
-          "LocalizedString": "通用伤害加成"
+          "SourceString": "通用伤害增强",
+          "LocalizedString": "通用伤害增强"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -994,8 +1021,8 @@
           "FilterViewName": {
             "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
             "Key": "DamageUpGeneral",
-            "SourceString": "通用伤害加成",
-            "LocalizedString": "通用伤害加成"
+            "SourceString": "通用伤害增强",
+            "LocalizedString": "通用伤害增强"
           },
           "FilterCondition": 20
         },
@@ -1007,14 +1034,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.01
       },
       "DamageUpCosmosBase": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageUpCosmos",
-          "SourceString": "光系伤害加成",
-          "LocalizedString": "光系伤害加成"
+          "SourceString": "光属性异能伤害增强",
+          "LocalizedString": "光属性异能伤害增强"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1032,8 +1060,8 @@
           "FilterViewName": {
             "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
             "Key": "DamageUpCosmos",
-            "SourceString": "光系伤害加成",
-            "LocalizedString": "光系伤害加成"
+            "SourceString": "光属性异能伤害增强",
+            "LocalizedString": "光属性异能伤害增强"
           },
           "FilterCondition": 8
         },
@@ -1042,14 +1070,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0125
       },
       "DamageUpNatureBase": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageUpNature",
-          "SourceString": "灵系伤害加成",
-          "LocalizedString": "灵系伤害加成"
+          "SourceString": "灵属性异能伤害增强",
+          "LocalizedString": "灵属性异能伤害增强"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1067,8 +1096,8 @@
           "FilterViewName": {
             "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
             "Key": "DamageUpNature",
-            "SourceString": "灵系伤害加成",
-            "LocalizedString": "灵系伤害加成"
+            "SourceString": "灵属性异能伤害增强",
+            "LocalizedString": "灵属性异能伤害增强"
           },
           "FilterCondition": 8
         },
@@ -1077,14 +1106,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0125
       },
       "DamageUpIncantationBase": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageUpIncantation",
-          "SourceString": "咒系伤害加成",
-          "LocalizedString": "咒系伤害加成"
+          "SourceString": "咒属性异能伤害增强",
+          "LocalizedString": "咒属性异能伤害增强"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1102,8 +1132,8 @@
           "FilterViewName": {
             "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
             "Key": "DamageUpIncantation",
-            "SourceString": "咒系伤害加成",
-            "LocalizedString": "咒系伤害加成"
+            "SourceString": "咒属性异能伤害增强",
+            "LocalizedString": "咒属性异能伤害增强"
           },
           "FilterCondition": 8
         },
@@ -1112,14 +1142,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0125
       },
       "DamageUpChaosBase": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageUpChaos",
-          "SourceString": "暗系伤害加成",
-          "LocalizedString": "暗系伤害加成"
+          "SourceString": "暗属性异能伤害增强",
+          "LocalizedString": "暗属性异能伤害增强"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1137,8 +1168,8 @@
           "FilterViewName": {
             "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
             "Key": "DamageUpChaos",
-            "SourceString": "暗系伤害加成",
-            "LocalizedString": "暗系伤害加成"
+            "SourceString": "暗属性异能伤害增强",
+            "LocalizedString": "暗属性异能伤害增强"
           },
           "FilterCondition": 8
         },
@@ -1147,14 +1178,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0125
       },
       "DamageUpPsycheBase": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageUpPsyche",
-          "SourceString": "魂系伤害加成",
-          "LocalizedString": "魂系伤害加成"
+          "SourceString": "魂属性异能伤害增强",
+          "LocalizedString": "魂属性异能伤害增强"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1172,8 +1204,8 @@
           "FilterViewName": {
             "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
             "Key": "DamageUpPsyche",
-            "SourceString": "魂系伤害加成",
-            "LocalizedString": "魂系伤害加成"
+            "SourceString": "魂属性异能伤害增强",
+            "LocalizedString": "魂属性异能伤害增强"
           },
           "FilterCondition": 8
         },
@@ -1182,14 +1214,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0125
       },
       "DamageUpLakshanaBase": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageUpLakshana",
-          "SourceString": "相系伤害加成",
-          "LocalizedString": "相系伤害加成"
+          "SourceString": "相属性异能伤害增强",
+          "LocalizedString": "相属性异能伤害增强"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1207,8 +1240,8 @@
           "FilterViewName": {
             "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
             "Key": "DamageUpLakshana",
-            "SourceString": "相系伤害加成",
-            "LocalizedString": "相系伤害加成"
+            "SourceString": "相属性异能伤害增强",
+            "LocalizedString": "相属性异能伤害增强"
           },
           "FilterCondition": 8
         },
@@ -1217,14 +1250,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0125
       },
       "DamageUpPsychicallyBase": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageUpPsychically",
-          "SourceString": "潜意伤害加成",
-          "LocalizedString": "潜意伤害加成"
+          "SourceString": "心灵伤害增强",
+          "LocalizedString": "心灵伤害增强"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1242,8 +1276,8 @@
           "FilterViewName": {
             "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
             "Key": "DamageUpPsychically",
-            "SourceString": "潜意伤害加成",
-            "LocalizedString": "潜意伤害加成"
+            "SourceString": "心灵伤害增强",
+            "LocalizedString": "心灵伤害增强"
           },
           "FilterCondition": 8
         },
@@ -1252,14 +1286,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "DamageResistCosmos": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageResistCosmos",
-          "SourceString": "光系伤害抗性",
-          "LocalizedString": "光系伤害抗性"
+          "SourceString": "光属性异能伤害抗性",
+          "LocalizedString": "光属性异能伤害抗性"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1284,14 +1319,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "DamageResistNature": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageResistNature",
-          "SourceString": "灵系伤害抗性",
-          "LocalizedString": "灵系伤害抗性"
+          "SourceString": "灵属性异能伤害抗性",
+          "LocalizedString": "灵属性异能伤害抗性"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1316,14 +1352,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "DamageResistIncantation": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageResistIncantation",
-          "SourceString": "咒系伤害抗性",
-          "LocalizedString": "咒系伤害抗性"
+          "SourceString": "咒属性异能伤害抗性",
+          "LocalizedString": "咒属性异能伤害抗性"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1348,14 +1385,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "DamageResistChaos": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageResistChaos",
-          "SourceString": "暗系伤害抗性",
-          "LocalizedString": "暗系伤害抗性"
+          "SourceString": "暗属性异能伤害抗性",
+          "LocalizedString": "暗属性异能伤害抗性"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1380,14 +1418,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "DamageResistPsyche": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageResistPsyche",
-          "SourceString": "魂系伤害抗性",
-          "LocalizedString": "魂系伤害抗性"
+          "SourceString": "魂属性异能伤害抗性",
+          "LocalizedString": "魂属性异能伤害抗性"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1412,14 +1451,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "DamageResistLakshana": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageResistLakshana",
-          "SourceString": "相系伤害抗性",
-          "LocalizedString": "相系伤害抗性"
+          "SourceString": "相属性异能伤害抗性",
+          "LocalizedString": "相属性异能伤害抗性"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1444,14 +1484,15 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "DamageResistPsychically": {
         "AttributeText": {
           "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
           "Key": "DamageResistPsychically",
-          "SourceString": "潜意伤害抗性",
-          "LocalizedString": "潜意伤害抗性"
+          "SourceString": "心灵伤害抗性",
+          "LocalizedString": "心灵伤害抗性"
         },
         "FinalAttributeText": {
           "CultureInvariantString": null
@@ -1476,7 +1517,8 @@
         },
         "AttributeDetail": {
           "CultureInvariantString": null
-        }
+        },
+        "Score": 0.0
       },
       "Comfort": {
         "AttributeText": {
@@ -1511,7 +1553,8 @@
           "Key": "Home_1_Comfort_D",
           "SourceString": "每6小时回复：{0}",
           "LocalizedString": "每6小时回复：{0}"
-        }
+        },
+        "Score": 0.0
       },
       "Fortune": {
         "AttributeText": {
@@ -1542,11 +1585,12 @@
           "CultureInvariantString": null
         },
         "AttributeDetail": {
-          "Namespace": "",
-          "Key": "F442FF184000C734F40EE7B8CACB17B0",
-          "SourceString": "{0}%",
-          "LocalizedString": "{0}%"
-        }
+          "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
+          "Key": "Home_2_Fortune_D",
+          "SourceString": "经营加成：{0}",
+          "LocalizedString": "经营加成：{0}"
+        },
+        "Score": 0.0
       },
       "Love": {
         "AttributeText": {
@@ -1577,11 +1621,12 @@
           "CultureInvariantString": null
         },
         "AttributeDetail": {
-          "Namespace": "",
-          "Key": "53D7A72B4933C3ED31D751A3AC6AB3A0",
-          "SourceString": "{0}%",
-          "LocalizedString": "{0}%"
-        }
+          "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
+          "Key": "Home_3_Love_D",
+          "SourceString": "羁绊效率：{0}",
+          "LocalizedString": "羁绊效率：{0}"
+        },
+        "Score": 0.0
       },
       "Collect": {
         "AttributeText": {
@@ -1612,11 +1657,144 @@
           "CultureInvariantString": null
         },
         "AttributeDetail": {
-          "Namespace": "",
-          "Key": "DD532AC1435864C815133C91851A7CA8",
-          "SourceString": "{0}",
-          "LocalizedString": "{0}"
-        }
+          "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
+          "Key": "Home_4_Collect_D",
+          "SourceString": "收藏值：{0}",
+          "LocalizedString": "收藏值：{0}"
+        },
+        "Score": 0.0
+      },
+      "ReactionGuangLingDamageUp": {
+        "AttributeText": {
+          "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
+          "Key": "ReactionGuangLingDamageUp",
+          "SourceString": "创生伤害增强",
+          "LocalizedString": "创生伤害增强"
+        },
+        "FinalAttributeText": {
+          "CultureInvariantString": null
+        },
+        "bShowOutside": false,
+        "bShowInner": false,
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Attribute/Icon_attri_resistance_hurt_mind_.Icon_attri_resistance_hurt_mind_",
+          "SubPathString": ""
+        },
+        "AttributeType": "EAttributeType::AT_UPGRADE",
+        "AttributeName": "ReactionGuangLingDamageUp",
+        "AttributeFilterData": {
+          "FilterViewName": {
+            "CultureInvariantString": null
+          },
+          "FilterCondition": 0
+        },
+        "EquipmentRandomAttributeName": {
+          "CultureInvariantString": null
+        },
+        "AttributeDetail": {
+          "CultureInvariantString": null
+        },
+        "Score": 0.0
+      },
+      "ReactionZhouAnDamageUp": {
+        "AttributeText": {
+          "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
+          "Key": "ReactionZhouAnDamageUp",
+          "SourceString": "浊燃伤害增强",
+          "LocalizedString": "浊燃伤害增强"
+        },
+        "FinalAttributeText": {
+          "CultureInvariantString": null
+        },
+        "bShowOutside": false,
+        "bShowInner": false,
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Attribute/Icon_attri_resistance_hurt_mind_.Icon_attri_resistance_hurt_mind_",
+          "SubPathString": ""
+        },
+        "AttributeType": "EAttributeType::AT_UPGRADE",
+        "AttributeName": "ReactionZhouAnDamageUp",
+        "AttributeFilterData": {
+          "FilterViewName": {
+            "CultureInvariantString": null
+          },
+          "FilterCondition": 0
+        },
+        "EquipmentRandomAttributeName": {
+          "CultureInvariantString": null
+        },
+        "AttributeDetail": {
+          "CultureInvariantString": null
+        },
+        "Score": 0.0
+      },
+      "ReactionAnHunDamageUp": {
+        "AttributeText": {
+          "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
+          "Key": "ReactionAnHunDamageUp",
+          "SourceString": "黯星伤害增强",
+          "LocalizedString": "黯星伤害增强"
+        },
+        "FinalAttributeText": {
+          "CultureInvariantString": null
+        },
+        "bShowOutside": false,
+        "bShowInner": false,
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Attribute/Icon_attri_resistance_hurt_mind_.Icon_attri_resistance_hurt_mind_",
+          "SubPathString": ""
+        },
+        "AttributeType": "EAttributeType::AT_UPGRADE",
+        "AttributeName": "ReactionAnHunDamageUp",
+        "AttributeFilterData": {
+          "FilterViewName": {
+            "CultureInvariantString": null
+          },
+          "FilterCondition": 0
+        },
+        "EquipmentRandomAttributeName": {
+          "CultureInvariantString": null
+        },
+        "AttributeDetail": {
+          "CultureInvariantString": null
+        },
+        "Score": 0.0
+      },
+      "ReactionGeneralDamageUp": {
+        "AttributeText": {
+          "TableId": "/Game/DataTable/PackData/ModifyData/ST_Attribute.ST_Attribute",
+          "Key": "ReactionGeneralDamageUp",
+          "SourceString": "环合伤害增强",
+          "LocalizedString": "环合伤害增强"
+        },
+        "FinalAttributeText": {
+          "CultureInvariantString": null
+        },
+        "bShowOutside": false,
+        "bShowInner": false,
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/UI/UI_Icon/Attribute/Icon_attri_resistance_hurt_mind_.Icon_attri_resistance_hurt_mind_",
+          "SubPathString": ""
+        },
+        "AttributeType": "EAttributeType::AT_UPGRADE",
+        "AttributeName": "ReactionGeneralDamageUp",
+        "AttributeFilterData": {
+          "FilterViewName": {
+            "CultureInvariantString": null
+          },
+          "FilterCondition": 0
+        },
+        "EquipmentRandomAttributeName": {
+          "CultureInvariantString": null
+        },
+        "AttributeDetail": {
+          "CultureInvariantString": null
+        },
+        "Score": 0.0
       }
     }
   }

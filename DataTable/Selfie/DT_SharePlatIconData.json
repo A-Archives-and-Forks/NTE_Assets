@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SharePlatIconData",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'SharePlatIconData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "0": {
+        "IconResource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Share/YH_UI_Share_PlatForm_Icon_wx.YH_UI_Share_PlatForm_Icon_wx",
+          "SubPathString": ""
+        },
+        "bMainlandIsShow": false,
+        "bGlobalIsShow": false,
+        "bIWPlayIsShow": false,
+        "Desc": ""
+      },
+      "1": {
+        "IconResource": {
+          "AssetPathName": "/Game/Environment/Building/Interior/Antiquestore/Build_Yiboen/Textures/01.01",
+          "SubPathString": ""
+        },
+        "bMainlandIsShow": false,
+        "bGlobalIsShow": false,
+        "bIWPlayIsShow": false,
+        "Desc": ""
+      },
+      "2": {
+        "IconResource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Share/YH_UI_Share_PlatForm_Icon_qq.YH_UI_Share_PlatForm_Icon_qq",
+          "SubPathString": ""
+        },
+        "bMainlandIsShow": true,
+        "bGlobalIsShow": false,
+        "bIWPlayIsShow": false,
+        "Desc": ""
+      },
+      "3": {
+        "IconResource": {
+          "AssetPathName": "/Game/Environment/Building/Interior/Antiquestore/Build_Yiboen/Textures/01.01",
+          "SubPathString": ""
+        },
+        "bMainlandIsShow": false,
+        "bGlobalIsShow": false,
+        "bIWPlayIsShow": false,
+        "Desc": ""
+      },
+      "4": {
+        "IconResource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Share/YH_UI_Share_PlatForm_Icon_wb.YH_UI_Share_PlatForm_Icon_wb",
+          "SubPathString": ""
+        },
+        "bMainlandIsShow": true,
+        "bGlobalIsShow": false,
+        "bIWPlayIsShow": false,
+        "Desc": ""
+      },
+      "5": {
+        "IconResource": {
+          "AssetPathName": "/Game/UI/UI/selfie/2.2",
+          "SubPathString": ""
+        },
+        "bMainlandIsShow": false,
+        "bGlobalIsShow": false,
+        "bIWPlayIsShow": false,
+        "Desc": ""
+      },
+      "6": {
+        "IconResource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Share/YH_UI_Share_PlatForm_Icon_fb.YH_UI_Share_PlatForm_Icon_fb",
+          "SubPathString": ""
+        },
+        "bMainlandIsShow": false,
+        "bGlobalIsShow": true,
+        "bIWPlayIsShow": true,
+        "Desc": ""
+      },
+      "8": {
+        "IconResource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Share/YH_UI_Share_PlatForm_Icon_ins.YH_UI_Share_PlatForm_Icon_ins",
+          "SubPathString": ""
+        },
+        "bMainlandIsShow": false,
+        "bGlobalIsShow": true,
+        "bIWPlayIsShow": true,
+        "Desc": ""
+      },
+      "9": {
+        "IconResource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Share/YH_UI_Share_PlatForm_Icon_x.YH_UI_Share_PlatForm_Icon_x",
+          "SubPathString": ""
+        },
+        "bMainlandIsShow": false,
+        "bGlobalIsShow": true,
+        "bIWPlayIsShow": true,
+        "Desc": ""
+      },
+      "12": {
+        "IconResource": {
+          "AssetPathName": "/Game/UI/UI/selfie/Share/YH_UI_Share_PlatForm_Icon_tiktok.YH_UI_Share_PlatForm_Icon_tiktok",
+          "SubPathString": ""
+        },
+        "bMainlandIsShow": false,
+        "bGlobalIsShow": true,
+        "bIWPlayIsShow": true,
+        "Desc": ""
+      }
+    }
+  }
+]

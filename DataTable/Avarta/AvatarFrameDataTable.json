@@ -177,7 +177,7 @@
         "bAutoUnlock": false,
         "bNeedMatchSex": false,
         "BigImage": {
-          "AssetPathName": "",
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/UI_IMG_Frame_1019.UI_IMG_Frame_1019",
           "SubPathString": ""
         },
         "Icon": {
@@ -536,6 +536,68 @@
           "Key": "Avatar_004",
           "SourceString": "角色羁遇奖励",
           "LocalizedString": "角色羁遇奖励"
+        }
+      },
+      "Frame_1073": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Universal_frame_1073_name",
+          "SourceString": "如露如电",
+          "LocalizedString": "如露如电"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "bNeedMatchSex": false,
+        "BigImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/UI_IMG_Frame_1073.UI_IMG_Frame_1073",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/UI/UI_Icon/item_100/UI_Icon_Frame_1073_100.UI_Icon_Frame_1073_100",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Avatar_004",
+          "SourceString": "角色羁遇奖励",
+          "LocalizedString": "角色羁遇奖励"
+        },
+        "UnlockDescription": {
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "Avatar_004",
+          "SourceString": "角色羁遇奖励",
+          "LocalizedString": "角色羁遇奖励"
+        }
+      },
+      "Combat_Frame_01": {
+        "Name": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Combat_Frame_01_name",
+          "SourceString": "光阴拓片",
+          "LocalizedString": "光阴拓片"
+        },
+        "bIsDefault": false,
+        "bAutoUnlock": false,
+        "bNeedMatchSex": false,
+        "BigImage": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Combat_Frame_01.Combat_Frame_01",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/UI/UI_Icon/AvatarFrame/Combat_Frame_01.Combat_Frame_01",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Text/ST_Item.ST_Item",
+          "Key": "Combat_Frame_01_desc",
+          "SourceString": "「过去」和「现在」，在此重叠。",
+          "LocalizedString": "「过去」和「现在」，在此重叠。"
+        },
+        "UnlockDescription": {
+          "TableId": "/Game/Text/UI/ST_LyyUI.ST_LyyUI",
+          "Key": "Combat_Avatar_01_obtain",
+          "SourceString": "「环期赏令」奖励",
+          "LocalizedString": "「环期赏令」奖励"
         }
       }
     }

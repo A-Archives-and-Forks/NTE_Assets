@@ -29,8 +29,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Mismo040_Level1_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level1.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level1.Buff_Mismo040_Level1_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -39,8 +39,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star1_des",
-              "SourceString": "「不言不知秋」期间，触发「呪」字可提升<NumGreen>30%</>白藏下次释放技能的伤害，可叠加。触发「詈」字可缩短白藏技能冷却<NumGreen>5</>秒时长，可叠加（若无技能处于冷却状态，则下次使用时生效）。",
-              "LocalizedString": "「不言不知秋」期间，触发「呪」字可提升<NumGreen>30%</>白藏下次释放技能的伤害，可叠加。触发「詈」字可缩短白藏技能冷却<NumGreen>5</>秒时长，可叠加（若无技能处于冷却状态，则下次使用时生效）。"
+              "SourceString": "「判予秋」期间，触发「噤」字可提升<NumGreen>30%</>白藏下次释放技能的伤害，可叠加。触发「詈」字可缩短白藏技能冷却<NumGreen>4</>秒时长，可叠加（若无技能处于冷却状态，则下次使用时生效）。",
+              "LocalizedString": "「判予秋」期间，触发「噤」字可提升<NumGreen>30%</>白藏下次释放技能的伤害，可叠加。触发「詈」字可缩短白藏技能冷却<NumGreen>4</>秒时长，可叠加（若无技能处于冷却状态，则下次使用时生效）。"
             }
           },
           {
@@ -59,8 +59,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Mismo040_Level2_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level2.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level2.Buff_Mismo040_Level2_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -89,8 +89,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Mismo040_Level3_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level3.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level3.Buff_Mismo040_Level3_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -119,8 +119,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Mismo040_Level4_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level4.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level4.Buff_Mismo040_Level4_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -129,8 +129,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star4_des",
-              "SourceString": "当任意<NumGreen>1</>个言灵字被消耗时，白藏额外恢复<NumGreen>2.5%</>的最大生命值。",
-              "LocalizedString": "当任意<NumGreen>1</>个言灵字被消耗时，白藏额外恢复<NumGreen>2.5%</>的最大生命值。"
+              "SourceString": "「判予秋」期间，当任意<NumGreen>1</>个言灵字被触发时，白藏额外恢复<NumGreen>5%</>的最大生命值。",
+              "LocalizedString": "「判予秋」期间，当任意<NumGreen>1</>个言灵字被触发时，白藏额外恢复<NumGreen>5%</>的最大生命值。"
             }
           },
           {
@@ -149,8 +149,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Mismo040_Level5_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level5.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level5.Buff_Mismo040_Level5_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -159,8 +159,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star5_des",
-              "SourceString": "尚未结束。「不言不知秋」的持续时间提升至<NumGreen>20</>秒。",
-              "LocalizedString": "尚未结束。「不言不知秋」的持续时间提升至<NumGreen>20</>秒。"
+              "SourceString": "尚未结束。「判予秋」的持续时间提升至<NumGreen>16</>秒。",
+              "LocalizedString": "尚未结束。「判予秋」的持续时间提升至<NumGreen>16</>秒。"
             }
           },
           {
@@ -179,8 +179,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Mismo040_Level6_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level6.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level6.Buff_Mismo040_Level6_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -189,8 +189,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_star6_des",
-              "SourceString": "「不言不知秋」期间，白藏的暴击率提升<NumGreen>30%</>。",
-              "LocalizedString": "「不言不知秋」期间，白藏的暴击率提升<NumGreen>30%</>。"
+              "SourceString": "「判予秋」期间，白藏的暴击率提升<NumGreen>30%</>。",
+              "LocalizedString": "「判予秋」期间，白藏的暴击率提升<NumGreen>30%</>。"
             }
           },
           {
@@ -224,8 +224,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_starExtra1_des",
-              "SourceString": "「言行合一」、「不吝赐教」、「不言不知秋」的技能等级提升<NumGreen>1</>级。",
-              "LocalizedString": "「言行合一」、「不吝赐教」、「不言不知秋」的技能等级提升<NumGreen>1</>级。"
+              "SourceString": "「言行合一」、「不吝赐教」、「判予秋」的技能等级提升<NumGreen>1</>级。",
+              "LocalizedString": "「言行合一」、「不吝赐教」、「判予秋」的技能等级提升<NumGreen>1</>级。"
             }
           },
           {
@@ -244,8 +244,8 @@
             "ModifyDataList": [
               {
                 "Buff": {
-                  "ObjectName": "BlueprintGeneratedClass'Buff_Mismo040_Level6_extra_C'",
-                  "ObjectPath": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level6_extra.0"
+                  "AssetPathName": "/Game/Blueprints/Abilities/Player/Ability_040_Mismo/Upgrade/Buff_Mismo040_Level6_extra.Buff_Mismo040_Level6_extra_C",
+                  "SubPathString": ""
                 },
                 "bReliveNeedAddAgain": false
               }
@@ -254,8 +254,8 @@
             "Desc": {
               "TableId": "/Game/Text/PlayerSkillDes/Cang_SkillDes.Cang_SkillDes",
               "Key": "GA_Cang_starExtra2_des",
-              "SourceString": "偶尔展现队长的庇护力。「不言不知秋」期间，领域内的所有队伍成员获得<NumGreen>20%</>的攻击力加成，并均可触发「即刻斩杀」效果。",
-              "LocalizedString": "偶尔展现队长的庇护力。「不言不知秋」期间，领域内的所有队伍成员获得<NumGreen>20%</>的攻击力加成，并均可触发「即刻斩杀」效果。"
+              "SourceString": "偶尔展现队长的庇护力。「判予秋」期间，领域内的所有队伍成员获得<NumGreen>20%</>的攻击力加成，并均可触发「即刻斩杀」效果。",
+              "LocalizedString": "偶尔展现队长的庇护力。「判予秋」期间，领域内的所有队伍成员获得<NumGreen>20%</>的攻击力加成，并均可触发「即刻斩杀」效果。"
             }
           }
         ]

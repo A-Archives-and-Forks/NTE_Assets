@@ -81,8 +81,19 @@
         "ConditionArray": [],
         "ModifyData": [
           {
-            "PropName": "ShieldEfficiency",
+            "PropName": "DefUp",
             "PropValue": 0.15,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Shield_4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "ShieldEfficiency",
+            "PropValue": 0.2,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -103,8 +114,19 @@
         "ConditionArray": [],
         "ModifyData": [
           {
-            "PropName": "HealUp",
+            "PropName": "HPMaxUp",
             "PropValue": 0.1,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "Heal_4": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "HealUp",
+            "PropValue": 0.2,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -114,8 +136,8 @@
         "ConditionArray": [],
         "ModifyData": [
           {
-            "PropName": "MagBase",
-            "PropValue": 48.0,
+            "PropName": "HPMaxUp",
+            "PropValue": 0.1,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }

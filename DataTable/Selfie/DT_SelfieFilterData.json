@@ -1,0 +1,418 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SelfieFilterData",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'HTSelfieFilterConfig'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "1": {
+        "LUTTexture": null,
+        "DefaultColorGradingIntensity": 0.5,
+        "MinColorGradingIntensity": 0.0,
+        "MaxColorGradingIntensity": 1.0,
+        "DefaultLutStrength": 0.5,
+        "MinLutStrength": 0.0,
+        "MaxLutStrength": 1.0,
+        "SelfieFilterDataArray": [
+          {
+            "Value": true,
+            "PropertyName": "bOverride_ColorGamma"
+          },
+          {
+            "Value": {
+              "X": 2.0,
+              "Y": 2.0,
+              "Z": 2.0,
+              "W": 0.5
+            },
+            "PropertyName": "ColorSaturation"
+          },
+          {
+            "Value": 0.0,
+            "PropertyName": "None"
+          }
+        ],
+        "FilterIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Filter/default.default",
+          "SubPathString": ""
+        },
+        "TextName": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "Selfie_076",
+          "SourceString": "默认",
+          "LocalizedString": "默认"
+        },
+        "TextTitle": {
+          "CultureInvariantString": null
+        },
+        "bIsDefalut": true
+      },
+      "2": {
+        "LUTTexture": {
+          "ObjectName": "Texture2D'B_Magic_Raw'",
+          "ObjectPath": "/Game/UI/UI/selfie/Filter/Luts/B_Magic_Raw.0"
+        },
+        "DefaultColorGradingIntensity": 0.5,
+        "MinColorGradingIntensity": 0.0,
+        "MaxColorGradingIntensity": 1.0,
+        "DefaultLutStrength": 0.5,
+        "MinLutStrength": 0.0,
+        "MaxLutStrength": 1.0,
+        "SelfieFilterDataArray": [
+          {
+            "Value": true,
+            "PropertyName": "bOverride_ColorGamma"
+          },
+          {
+            "Value": {
+              "X": 2.0,
+              "Y": 2.0,
+              "Z": 2.0,
+              "W": 0.5
+            },
+            "PropertyName": "ColorSaturation"
+          },
+          {
+            "Value": 0.0,
+            "PropertyName": "None"
+          }
+        ],
+        "FilterIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Filter/B_Magic_Raw.B_Magic_Raw",
+          "SubPathString": ""
+        },
+        "TextName": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "Selfie_091",
+          "SourceString": "山岚",
+          "LocalizedString": "山岚"
+        },
+        "TextTitle": {
+          "CultureInvariantString": null
+        },
+        "bIsDefalut": false
+      },
+      "3": {
+        "LUTTexture": {
+          "ObjectName": "Texture2D'Boudoir_ALT'",
+          "ObjectPath": "/Game/UI/UI/selfie/Filter/Luts/Boudoir_ALT.0"
+        },
+        "DefaultColorGradingIntensity": 0.5,
+        "MinColorGradingIntensity": 0.0,
+        "MaxColorGradingIntensity": 1.0,
+        "DefaultLutStrength": 0.5,
+        "MinLutStrength": 0.0,
+        "MaxLutStrength": 1.0,
+        "SelfieFilterDataArray": [
+          {
+            "Value": true,
+            "PropertyName": "bOverride_ColorGamma"
+          },
+          {
+            "Value": {
+              "X": 2.0,
+              "Y": 2.0,
+              "Z": 2.0,
+              "W": 0.5
+            },
+            "PropertyName": "ColorSaturation"
+          },
+          {
+            "Value": 0.0,
+            "PropertyName": "None"
+          }
+        ],
+        "FilterIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Filter/Boudoir_ALT.Boudoir_ALT",
+          "SubPathString": ""
+        },
+        "TextName": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "Selfie_092",
+          "SourceString": "鲜果",
+          "LocalizedString": "鲜果"
+        },
+        "TextTitle": {
+          "CultureInvariantString": null
+        },
+        "bIsDefalut": false
+      },
+      "4": {
+        "LUTTexture": {
+          "ObjectName": "Texture2D'Chrysotype'",
+          "ObjectPath": "/Game/UI/UI/selfie/Filter/Luts/Chrysotype.0"
+        },
+        "DefaultColorGradingIntensity": 0.5,
+        "MinColorGradingIntensity": 0.0,
+        "MaxColorGradingIntensity": 1.0,
+        "DefaultLutStrength": 0.5,
+        "MinLutStrength": 0.0,
+        "MaxLutStrength": 1.0,
+        "SelfieFilterDataArray": [
+          {
+            "Value": true,
+            "PropertyName": "bOverride_ColorGamma"
+          },
+          {
+            "Value": {
+              "X": 2.0,
+              "Y": 2.0,
+              "Z": 2.0,
+              "W": 0.5
+            },
+            "PropertyName": "ColorSaturation"
+          },
+          {
+            "Value": 0.0,
+            "PropertyName": "None"
+          }
+        ],
+        "FilterIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Filter/Chrysotype.Chrysotype",
+          "SubPathString": ""
+        },
+        "TextName": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "Selfie_093",
+          "SourceString": "旧影",
+          "LocalizedString": "旧影"
+        },
+        "TextTitle": {
+          "CultureInvariantString": null
+        },
+        "bIsDefalut": false
+      },
+      "5": {
+        "LUTTexture": {
+          "ObjectName": "Texture2D'Copper_Gravure'",
+          "ObjectPath": "/Game/UI/UI/selfie/Filter/Luts/Copper_Gravure.0"
+        },
+        "DefaultColorGradingIntensity": 0.5,
+        "MinColorGradingIntensity": 0.0,
+        "MaxColorGradingIntensity": 1.0,
+        "DefaultLutStrength": 0.5,
+        "MinLutStrength": 0.0,
+        "MaxLutStrength": 1.0,
+        "SelfieFilterDataArray": [
+          {
+            "Value": true,
+            "PropertyName": "bOverride_ColorGamma"
+          },
+          {
+            "Value": {
+              "X": 2.0,
+              "Y": 2.0,
+              "Z": 2.0,
+              "W": 0.5
+            },
+            "PropertyName": "ColorSaturation"
+          },
+          {
+            "Value": 0.0,
+            "PropertyName": "None"
+          }
+        ],
+        "FilterIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Filter/Copper_Gravure.Copper_Gravure",
+          "SubPathString": ""
+        },
+        "TextName": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "Selfie_094",
+          "SourceString": "黄昏",
+          "LocalizedString": "黄昏"
+        },
+        "TextTitle": {
+          "CultureInvariantString": null
+        },
+        "bIsDefalut": false
+      },
+      "6": {
+        "LUTTexture": {
+          "ObjectName": "Texture2D'Fall_Colors'",
+          "ObjectPath": "/Game/UI/UI/selfie/Filter/Luts/Fall_Colors.0"
+        },
+        "DefaultColorGradingIntensity": 0.5,
+        "MinColorGradingIntensity": 0.0,
+        "MaxColorGradingIntensity": 1.0,
+        "DefaultLutStrength": 0.5,
+        "MinLutStrength": 0.0,
+        "MaxLutStrength": 1.0,
+        "SelfieFilterDataArray": [
+          {
+            "Value": true,
+            "PropertyName": "bOverride_ColorGamma"
+          },
+          {
+            "Value": {
+              "X": 2.0,
+              "Y": 2.0,
+              "Z": 2.0,
+              "W": 0.5
+            },
+            "PropertyName": "ColorSaturation"
+          },
+          {
+            "Value": 0.0,
+            "PropertyName": "None"
+          }
+        ],
+        "FilterIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Filter/FallColor.FallColor",
+          "SubPathString": ""
+        },
+        "TextName": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "Selfie_095",
+          "SourceString": "晨曦",
+          "LocalizedString": "晨曦"
+        },
+        "TextTitle": {
+          "CultureInvariantString": null
+        },
+        "bIsDefalut": false
+      },
+      "7": {
+        "LUTTexture": {
+          "ObjectName": "Texture2D'IL_D3200'",
+          "ObjectPath": "/Game/UI/UI/selfie/Filter/Luts/IL_D3200.0"
+        },
+        "DefaultColorGradingIntensity": 0.5,
+        "MinColorGradingIntensity": 0.0,
+        "MaxColorGradingIntensity": 1.0,
+        "DefaultLutStrength": 0.5,
+        "MinLutStrength": 0.0,
+        "MaxLutStrength": 1.0,
+        "SelfieFilterDataArray": [
+          {
+            "Value": true,
+            "PropertyName": "bOverride_ColorGamma"
+          },
+          {
+            "Value": {
+              "X": 2.0,
+              "Y": 2.0,
+              "Z": 2.0,
+              "W": 0.5
+            },
+            "PropertyName": "ColorSaturation"
+          },
+          {
+            "Value": 0.0,
+            "PropertyName": "None"
+          }
+        ],
+        "FilterIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Filter/IL_D3200.IL_D3200",
+          "SubPathString": ""
+        },
+        "TextName": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "Selfie_096",
+          "SourceString": "默剧",
+          "LocalizedString": "默剧"
+        },
+        "TextTitle": {
+          "CultureInvariantString": null
+        },
+        "bIsDefalut": false
+      },
+      "8": {
+        "LUTTexture": {
+          "ObjectName": "Texture2D'Late_Sunset'",
+          "ObjectPath": "/Game/UI/UI/selfie/Filter/Luts/Late_Sunset.0"
+        },
+        "DefaultColorGradingIntensity": 0.5,
+        "MinColorGradingIntensity": 0.0,
+        "MaxColorGradingIntensity": 1.0,
+        "DefaultLutStrength": 0.5,
+        "MinLutStrength": 0.0,
+        "MaxLutStrength": 1.0,
+        "SelfieFilterDataArray": [
+          {
+            "Value": true,
+            "PropertyName": "bOverride_ColorGamma"
+          },
+          {
+            "Value": {
+              "X": 2.0,
+              "Y": 2.0,
+              "Z": 2.0,
+              "W": 0.5
+            },
+            "PropertyName": "ColorSaturation"
+          },
+          {
+            "Value": 0.0,
+            "PropertyName": "None"
+          }
+        ],
+        "FilterIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Filter/LateSunSet.LateSunSet",
+          "SubPathString": ""
+        },
+        "TextName": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "Selfie_097",
+          "SourceString": "蓝调",
+          "LocalizedString": "蓝调"
+        },
+        "TextTitle": {
+          "CultureInvariantString": null
+        },
+        "bIsDefalut": false
+      },
+      "9": {
+        "LUTTexture": {
+          "ObjectName": "Texture2D'Lith_Print'",
+          "ObjectPath": "/Game/UI/UI/selfie/Filter/Luts/Lith_Print.0"
+        },
+        "DefaultColorGradingIntensity": 0.5,
+        "MinColorGradingIntensity": 0.0,
+        "MaxColorGradingIntensity": 1.0,
+        "DefaultLutStrength": 0.5,
+        "MinLutStrength": 0.0,
+        "MaxLutStrength": 1.0,
+        "SelfieFilterDataArray": [
+          {
+            "Value": true,
+            "PropertyName": "bOverride_ColorGamma"
+          },
+          {
+            "Value": {
+              "X": 2.0,
+              "Y": 2.0,
+              "Z": 2.0,
+              "W": 0.5
+            },
+            "PropertyName": "ColorSaturation"
+          },
+          {
+            "Value": 0.0,
+            "PropertyName": "None"
+          }
+        ],
+        "FilterIcon": {
+          "AssetPathName": "/Game/UI/UI/selfie/Filter/Lith_Print.Lith_Print",
+          "SubPathString": ""
+        },
+        "TextName": {
+          "TableId": "/Game/Text/ST_UI_J.ST_UI_J",
+          "Key": "Selfie_098",
+          "SourceString": "春樱",
+          "LocalizedString": "春樱"
+        },
+        "TextTitle": {
+          "CultureInvariantString": null
+        },
+        "bIsDefalut": false
+      }
+    }
+  }
+]

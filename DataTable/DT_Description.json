@@ -15,18 +15,12 @@
         "UIClass": "Description",
         "Comment": "",
         "Title": {
-          "Namespace": "",
-          "Key": "8A128B1541E827950C8CF18AF4293C5A",
-          "SourceString": "测试文本",
-          "LocalizedString": "测试文本"
+          "CultureInvariantString": "测试文本"
         },
         "Content": {
           "PageData": [],
           "Desc": {
-            "Namespace": "",
-            "Key": "606C2FD4469B5361861EBA863C191D77",
-            "SourceString": "测试测试测试测试",
-            "LocalizedString": "测试测试测试测试"
+            "CultureInvariantString": "测试测试测试测试"
           }
         },
         "ShowBackground": true,
@@ -37,10 +31,7 @@
         "UIClass": "Description_Right",
         "Comment": "",
         "Title": {
-          "Namespace": "",
-          "Key": "076BF3644E1AD77A338F03A5720BBC10",
-          "SourceString": "一个宝物",
-          "LocalizedString": "一个宝物"
+          "CultureInvariantString": "一个宝物"
         },
         "Content": {
           "PageData": [],
@@ -61,22 +52,13 @@
         "Content": {
           "Page": [
             {
-              "Namespace": "",
-              "Key": "7B3B5D634FDE40137AD21A9C11345EB7",
-              "SourceString": "十多个农行卡发福哦啊阿克苏交甲方的交际费开课啦角色都家好滴哦考拉会死屌丝的及哦啊的阿萨德寒假快乐沙发和玉佛我大范围我我登记恐龙将",
-              "LocalizedString": "十多个农行卡发福哦啊阿克苏交甲方的交际费开课啦角色都家好滴哦考拉会死屌丝的及哦啊的阿萨德寒假快乐沙发和玉佛我大范围我我登记恐龙将"
+              "CultureInvariantString": "十多个农行卡发福哦啊阿克苏交甲方的交际费开课啦角色都家好滴哦考拉会死屌丝的及哦啊的阿萨德寒假快乐沙发和玉佛我大范围我我登记恐龙将"
             },
             {
-              "Namespace": "",
-              "Key": "EAA36B7C4D79CF9BA8BCA68770313EA0",
-              "SourceString": "思安hiOA是哦否hiOA松岛枫iOS啊捡地欧弟是哈稍等哈解散公会搭嘎UI",
-              "LocalizedString": "思安hiOA是哦否hiOA松岛枫iOS啊捡地欧弟是哈稍等哈解散公会搭嘎UI"
+              "CultureInvariantString": "思安hiOA是哦否hiOA松岛枫iOS啊捡地欧弟是哈稍等哈解散公会搭嘎UI"
             },
             {
-              "Namespace": "",
-              "Key": "58D7F2A54A1A68FF80981CAEFA5449EB",
-              "SourceString": "考拉水电费社交啊看到附近噢is啊捡反动派祭扫批发价搜家里肯撒娇东安街搜批发价哦啊破伤风接口萨卡佛萨芬看恐龙将搜集奋斗帕金森佛p",
-              "LocalizedString": "考拉水电费社交啊看到附近噢is啊捡反动派祭扫批发价搜家里肯撒娇东安街搜批发价哦啊破伤风接口萨卡佛萨芬看恐龙将搜集奋斗帕金森佛p"
+              "CultureInvariantString": "考拉水电费社交啊看到附近噢is啊捡反动派祭扫批发价搜家里肯撒娇东安街搜批发价哦啊破伤风接口萨卡佛萨芬看恐龙将搜集奋斗帕金森佛p"
             }
           ],
           "Sign": {
@@ -96,10 +78,7 @@
         "Content": {
           "Page": [
             {
-              "Namespace": "",
-              "Key": "2EEF20BC43AB8A549D17BCBF69DE242E",
-              "SourceString": "黑底白字测试文本",
-              "LocalizedString": "黑底白字测试文本"
+              "CultureInvariantString": "黑底白字测试文本"
             }
           ],
           "Sign": {
@@ -119,10 +98,7 @@
         "Content": {
           "Page": [
             {
-              "Namespace": "",
-              "Key": "6A064298417D9F349FBD43AA9D618230",
-              "SourceString": "啊啊啊啊啊啊啊啊啊啊啊",
-              "LocalizedString": "啊啊啊啊啊啊啊啊啊啊啊"
+              "CultureInvariantString": "啊啊啊啊啊啊啊啊啊啊啊"
             }
           ],
           "Sign": {
@@ -209,8 +185,8 @@
             {
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DMP01_01_0008",
-              "SourceString": "第一次交互：闻一下\r\n你想起了小时候那片野草莓地——也许你的童年根本没有这个地方，但是这个香味就是让你想到了，那个无忧无虑，散发这酸甜味的平凡午后。\r\n\r\n第二次交互：闻一下\r\n是深夜仍泛着莹莹微光的屏幕，是永远停滞的红灯，是胀痛的双腿和血肉摩擦的水泡，疲倦是最沉重最轻浮的，散发着咸涩味。\r\n\r\n第三次交互：深呼吸\r\n你从来没有闻过这么难闻的气味，像是过期很久却没什么变化的月饼放进麻辣香锅的调料中，加入了芥末酱油和巧克力翻炒，出锅时又加上了葱姜蒜调味和一整瓶橘子汽水。",
-              "LocalizedString": "第一次交互：闻一下\r\n你想起了小时候那片野草莓地——也许你的童年根本没有这个地方，但是这个香味就是让你想到了，那个无忧无虑，散发这酸甜味的平凡午后。\r\n\r\n第二次交互：闻一下\r\n是深夜仍泛着莹莹微光的屏幕，是永远停滞的红灯，是胀痛的双腿和血肉摩擦的水泡，疲倦是最沉重最轻浮的，散发着咸涩味。\r\n\r\n第三次交互：深呼吸\r\n你从来没有闻过这么难闻的气味，像是过期很久却没什么变化的月饼放进麻辣香锅的调料中，加入了芥末酱油和巧克力翻炒，出锅时又加上了葱姜蒜调味和一整瓶橘子汽水。"
+              "SourceString": "第一次交互：闻一下\r\n你想起了小时候那片野草莓地——也许你的童年根本没有这个地方，但是这个香味就是让你想到了，那个无忧无虑，散发着酸甜味的平凡午后。\r\n\r\n第二次交互：闻一下\r\n是深夜仍泛着莹莹微光的屏幕，是永远停滞的红灯，是胀痛的双腿和血肉摩擦的水泡，疲倦是最沉重最轻浮的，散发着咸涩味。\r\n\r\n第三次交互：深呼吸\r\n你从来没有闻过这么难闻的气味，像是过期很久却没什么变化的月饼放进麻辣香锅的调料中，加入了芥末酱油和巧克力翻炒，出锅时又加上了葱姜蒜调味和一整瓶橘子汽水。",
+              "LocalizedString": "第一次交互：闻一下\r\n你想起了小时候那片野草莓地——也许你的童年根本没有这个地方，但是这个香味就是让你想到了，那个无忧无虑，散发着酸甜味的平凡午后。\r\n\r\n第二次交互：闻一下\r\n是深夜仍泛着莹莹微光的屏幕，是永远停滞的红灯，是胀痛的双腿和血肉摩擦的水泡，疲倦是最沉重最轻浮的，散发着咸涩味。\r\n\r\n第三次交互：深呼吸\r\n你从来没有闻过这么难闻的气味，像是过期很久却没什么变化的月饼放进麻辣香锅的调料中，加入了芥末酱油和巧克力翻炒，出锅时又加上了葱姜蒜调味和一整瓶橘子汽水。"
             }
           ],
           "Sign": {
@@ -596,10 +572,34 @@
             }
           ],
           "Desc": {
-            "Namespace": "",
-            "Key": "3E26AF8F48D3FFAC4D1F6683C59A32C9",
-            "SourceString": "ddddddd",
-            "LocalizedString": "ddddddd"
+            "CultureInvariantString": "ddddddd"
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "S111600": {
+        "UIClass": "Description_Photo",
+        "Comment": "赛车手车照片",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "PageData": [
+            {
+              "FemaleImage": {
+                "AssetPathName": "/Game/Blueprints/Level/Quest/CY/S111601/S111600_carphoto_new.S111600_carphoto_new",
+                "SubPathString": ""
+              },
+              "MaleImage": {
+                "AssetPathName": "/Game/Blueprints/Level/Quest/CY/S111601/S111600_carphoto_new.S111600_carphoto_new",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "Desc": {
+            "CultureInvariantString": "ddddddd"
           }
         },
         "ShowBackground": true,
@@ -626,10 +626,7 @@
             }
           ],
           "Desc": {
-            "Namespace": "",
-            "Key": "3E26AF8F48D3FFAC4D1F6683C59A32C9",
-            "SourceString": "ddddddd",
-            "LocalizedString": "ddddddd"
+            "CultureInvariantString": "ddddddd"
           }
         },
         "ShowBackground": true,
@@ -672,10 +669,7 @@
         "Content": {
           "Page": [
             {
-              "Namespace": "",
-              "Key": "D57C0ADE47EEF7AD63C867B4AB8AFC7A",
-              "SourceString": "睡觉镜头，时间从中午到傍晚",
-              "LocalizedString": "睡觉镜头，时间从中午到傍晚"
+              "CultureInvariantString": "睡觉镜头，时间从中午到傍晚"
             }
           ],
           "Sign": {
@@ -691,9 +685,9 @@
         "Comment": "",
         "Title": {
           "Namespace": "",
-          "Key": "811F314B4AFDCBF1FD445FBCE7FA1AD3",
-          "SourceString": "一张照片",
-          "LocalizedString": "一张照片"
+          "Key": "D1C5680B4673BB521BCCE8B9D7397744",
+          "SourceString": "<!>一张照片",
+          "LocalizedString": "<!>一张照片"
         },
         "Content": {
           "PageData": [
@@ -709,10 +703,7 @@
             }
           ],
           "Desc": {
-            "Namespace": "",
-            "Key": "D58541D341F46A66E00E3B8837193AA7",
-            "SourceString": "信息介绍",
-            "LocalizedString": "信息介绍"
+            "CultureInvariantString": "<!>信息介绍"
           }
         },
         "ShowBackground": true,
@@ -1749,7 +1740,7 @@
         "AutoCloseTime": 2.0
       },
       "K110321_3": {
-        "UIClass": "Letter_Black",
+        "UIClass": "Letter_Black2",
         "Comment": "三次交互后黑屏",
         "Title": {
           "CultureInvariantString": null
@@ -1907,9 +1898,9 @@
           "Page": [
             {
               "TableId": "/Game/Text/ST_Description.ST_Description",
-              "Key": "DMP_01_0017_title",
-              "SourceString": "用心标注过的药膳书籍",
-              "LocalizedString": "用心标注过的药膳书籍"
+              "Key": "DMP_01_0017",
+              "SourceString": "……\r\n龙眼干 10g\r\n枸杞 10g\r\n红枣 6颗\r\n桂圆干 6颗\r\n蜂蜜 （少放）\r\n龙眼干、枸杞、红枣、桂圆洗净备用。\r\n将所有食材放入锅中，加入适量水。\r\n煮沸后，转小火炖煮30分钟。\r\n加入少量蜂蜜。\r\n……\r\n大米 100g\r\n枸杞 15g\r\n红枣 6颗\r\n桂圆干 8颗\r\n冰糖 适量\r\n大米洗净，枸杞、红枣、桂圆干清洗干净。\r\n将所有食材放入锅中，加入适量清水。\r\n开火煮沸后转小火煮至粥变浓稠，最后加入冰糖，搅拌均匀，直到冰糖完全融化。\r\n少糖。\r\n……",
+              "LocalizedString": "……\r\n龙眼干 10g\r\n枸杞 10g\r\n红枣 6颗\r\n桂圆干 6颗\r\n蜂蜜 （少放）\r\n龙眼干、枸杞、红枣、桂圆洗净备用。\r\n将所有食材放入锅中，加入适量水。\r\n煮沸后，转小火炖煮30分钟。\r\n加入少量蜂蜜。\r\n……\r\n大米 100g\r\n枸杞 15g\r\n红枣 6颗\r\n桂圆干 8颗\r\n冰糖 适量\r\n大米洗净，枸杞、红枣、桂圆干清洗干净。\r\n将所有食材放入锅中，加入适量清水。\r\n开火煮沸后转小火煮至粥变浓稠，最后加入冰糖，搅拌均匀，直到冰糖完全融化。\r\n少糖。\r\n……"
             }
           ],
           "Sign": {
@@ -2064,8 +2055,8 @@
             {
               "TableId": "/Game/Text/ST_Description.ST_Description",
               "Key": "DSU01_08_0004",
-              "SourceString": "SOS！如果你是异象猎人，请来帮我！\r\n\r\n我是一名涂鸦艺术家，近期饱受异象「涂鸦怪」折磨，我所有的作品墙全被它胡乱涂鸦破坏了！无论修复多少次，第二天那丑陋的图案又会出现……天黑，天亮，天黑，天亮……我已经记不清多少个小时没阖眼了。\r\n\r\n因为这个「涂鸦怪」，我近期的创作已经完全停滞了，入不敷出。但我不会让你白忙活，你可以来我家，拿走一切您看得上的、我的作品。我还可以去您家里现场涂鸦作画，用我唯一擅长的，来回报你……\r\n\r\n我就住在卷叶榕大道的橡子公寓2层，拜托了，来泯除那该死的「涂鸦怪」",
-              "LocalizedString": "SOS！如果你是异象猎人，请来帮我！\r\n\r\n我是一名涂鸦艺术家，近期饱受异象「涂鸦怪」折磨，我所有的作品墙全被它胡乱涂鸦破坏了！无论修复多少次，第二天那丑陋的图案又会出现……天黑，天亮，天黑，天亮……我已经记不清多少个小时没阖眼了。\r\n\r\n因为这个「涂鸦怪」，我近期的创作已经完全停滞了，入不敷出。但我不会让你白忙活，你可以来我家，拿走一切您看得上的、我的作品。我还可以去您家里现场涂鸦作画，用我唯一擅长的，来回报你……\r\n\r\n我就住在卷叶榕大道的橡子公寓2层，拜托了，来泯除那该死的「涂鸦怪」"
+              "SourceString": "SOS！如果你是异象猎人，请来帮我！\r\n\r\n我是一名涂鸦艺术家，近期饱受异象「涂鸦怪」折磨，我所有的作品墙全被它胡乱涂鸦破坏了！无论修复多少次，第二天那丑陋的图案又会出现……天黑，天亮，天黑，天亮……我已经记不清多少个小时没阖眼了。\r\n\r\n因为这个「涂鸦怪」，我近期的创作已经完全停滞了，入不敷出。但我不会让你白忙活，你可以来我家，拿走一切您看得上的、我的作品。我还可以去您家里现场涂鸦作画，用我唯一擅长的，来回报你……\r\n\r\n我就住在卷叶榕大道的橡子公寓3层，拜托了，来泯除那该死的「涂鸦怪」",
+              "LocalizedString": "SOS！如果你是异象猎人，请来帮我！\r\n\r\n我是一名涂鸦艺术家，近期饱受异象「涂鸦怪」折磨，我所有的作品墙全被它胡乱涂鸦破坏了！无论修复多少次，第二天那丑陋的图案又会出现……天黑，天亮，天黑，天亮……我已经记不清多少个小时没阖眼了。\r\n\r\n因为这个「涂鸦怪」，我近期的创作已经完全停滞了，入不敷出。但我不会让你白忙活，你可以来我家，拿走一切您看得上的、我的作品。我还可以去您家里现场涂鸦作画，用我唯一擅长的，来回报你……\r\n\r\n我就住在卷叶榕大道的橡子公寓3层，拜托了，来泯除那该死的「涂鸦怪」"
             }
           ],
           "Sign": {
@@ -3152,10 +3143,7 @@
             }
           ],
           "Desc": {
-            "Namespace": "",
-            "Key": "D58541D341F46A66E00E3B8837193AA7",
-            "SourceString": "信息介绍",
-            "LocalizedString": "信息介绍"
+            "CultureInvariantString": "信息介绍"
           }
         },
         "ShowBackground": true,
@@ -3521,10 +3509,7 @@
             }
           ],
           "Sign": {
-            "TableId": "/Game/Text/ST_WorldDescription.ST_WorldDescription",
-            "Key": "SW_Int_Bs_124_003",
-            "SourceString": "小朋友，还是不要想着逃过我的眼睛比较好。不过，写得挺有意思的，下次找个听得懂歧骸语的孩子来直接问我吧！只要肯陪我聊天，想知道什么都可以告诉你们哦！",
-            "LocalizedString": "小朋友，还是不要想着逃过我的眼睛比较好。不过，写得挺有意思的，下次找个听得懂歧骸语的孩子来直接问我吧！只要肯陪我聊天，想知道什么都可以告诉你们哦！"
+            "CultureInvariantString": null
           }
         },
         "ShowBackground": true,
@@ -3834,6 +3819,1036 @@
         "ShowBackground": true,
         "Justify": "ETextJustify::Left",
         "AutoCloseTime": 0.0
+      },
+      "LampShop_Story2_S111300": {
+        "UIClass": "Letter_Black2",
+        "Comment": "照明商店2通用黑屏",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 1.5
+      },
+      "s111134_snow_pic": {
+        "UIClass": "Description",
+        "Comment": "",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "PageData": [
+            {
+              "FemaleImage": {
+                "AssetPathName": "/Game/Blueprints/Level/Quest/WXY/Xueren_Sidequest/tex_s111100/Xueren_s111100_01_description.Xueren_s111100_01_description",
+                "SubPathString": ""
+              },
+              "MaleImage": {
+                "AssetPathName": "/Game/Blueprints/Level/Quest/WXY/Xueren_Sidequest/tex_s111100/Xueren_s111100_01_description.Xueren_s111100_01_description",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "Desc": {
+            "TableId": "/Game/Text/ST_Description.ST_Description",
+            "Key": "SU029_LastPhoto_01",
+            "SourceString": "清脆的声音穿透记忆的帷幕，在耳边再度响起——\r\n「客户！帕要给你一个夏天都吃不完的冰淇淋！」\r\n「无穷无尽的冰淇淋！」\r\n「像一个世界那么大的冰淇淋！帕噜噜噜噜噜……」",
+            "LocalizedString": "清脆的声音穿透记忆的帷幕，在耳边再度响起——\r\n「客户！帕要给你一个夏天都吃不完的冰淇淋！」\r\n「无穷无尽的冰淇淋！」\r\n「像一个世界那么大的冰淇淋！帕噜噜噜噜噜……」"
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Center",
+        "AutoCloseTime": 0.0
+      },
+      "s111216_blackscreen": {
+        "UIClass": "Letter_Black",
+        "Comment": "",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Quest.ST_Quest",
+              "Key": "s111217_01_BlackScreen",
+              "SourceString": "回到帕蒂的住宅后",
+              "LocalizedString": "回到帕蒂的住宅后"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 2.5
+      },
+      "k111507_BlackScreen": {
+        "UIClass": "Letter_Black",
+        "Comment": "买东西后黑屏",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_SideQuest_wxy.ST_SideQuest_wxy",
+              "Key": "k111507_BlackScreen",
+              "SourceString": "购买爆米花",
+              "LocalizedString": "购买爆米花"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 4.0
+      },
+      "s111800": {
+        "UIClass": "Letter",
+        "Comment": "阿空的笔记本",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "DSU036_01_0001",
+              "SourceString": "比例 面粉3 水1 碎蟹1 啤酒？ \r\n牡蛎（可考虑） 碎蚯蚓（湖边挖）\r\n买花园铲、破壁机 勿忘\r\n\r\n女儿生日 勿忘勿忘勿忘\r\n鱼竿？\r\n眼镜？\r\n鲫鱼抱枕√\r\n\r\n协会团建，新菜式\r\n……",
+              "LocalizedString": "比例 面粉3 水1 碎蟹1 啤酒？ \r\n牡蛎（可考虑） 碎蚯蚓（湖边挖）\r\n买花园铲、破壁机 勿忘\r\n\r\n女儿生日 勿忘勿忘勿忘\r\n鱼竿？\r\n眼镜？\r\n鲫鱼抱枕√\r\n\r\n协会团建，新菜式\r\n……"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "DunnerBook": {
+        "UIClass": "Letter",
+        "Comment": "讨债人名簿",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "Namespace": "",
+              "Key": "0927077F4578C08F77A1888620E33C6E",
+              "SourceString": "<!>Doloris 0",
+              "LocalizedString": "<!>Doloris 0"
+            },
+            {
+              "Namespace": "",
+              "Key": "95AE845B456E9C205AE8848AB99272E8",
+              "SourceString": "<!>Bella 0",
+              "LocalizedString": "<!>Bella 0"
+            },
+            {
+              "Namespace": "",
+              "Key": "4FE22512467261C765BA4FB3B4638D13",
+              "SourceString": "<!>Trisha 0",
+              "LocalizedString": "<!>Trisha 0"
+            },
+            {
+              "Namespace": "",
+              "Key": "A24B3981487BA9E044B37584E0E21ACB",
+              "SourceString": "<!>Elliot 0",
+              "LocalizedString": "<!>Elliot 0"
+            },
+            {
+              "Namespace": "",
+              "Key": "AAA673F34B005721BE6036867AC8EB99",
+              "SourceString": "<!>Albert 0",
+              "LocalizedString": "<!>Albert 0"
+            },
+            {
+              "Namespace": "",
+              "Key": "3A21B68743DAD27E91DFF0BD00B94D0E",
+              "SourceString": "<!>Yvette 0",
+              "LocalizedString": "<!>Yvette 0"
+            },
+            {
+              "Namespace": "",
+              "Key": "3ED826184F60D8DDB21841A4D4B6E9C2",
+              "SourceString": "<!>Erving 0",
+              "LocalizedString": "<!>Erving 0"
+            },
+            {
+              "Namespace": "",
+              "Key": "C7D13D3A455EBD413361D497C44CBD87",
+              "SourceString": "<!>Renee  -20088",
+              "LocalizedString": "<!>Renee  -20088"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "DunnerGetDoll_1": {
+        "UIClass": "Description_PhotoEx",
+        "Comment": "讨债人捉迷藏表现",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "PageData": [
+            {
+              "FemaleImage": {
+                "AssetPathName": "/Game/Blueprints/Level/Quest/SLY/Dunner/TempSequence/Tex/DunnerDoll_.DunnerDoll_",
+                "SubPathString": ""
+              },
+              "MaleImage": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "Desc": {
+            "CultureInvariantString": "信息介绍"
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "DunnerGetDoll_3": {
+        "UIClass": "Description_PhotoEx",
+        "Comment": "讨债人捉迷藏表现",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "PageData": [
+            {
+              "FemaleImage": {
+                "AssetPathName": "/Game/Blueprints/Level/Quest/SLY/Dunner/TempSequence/Tex/DunnerDoll_3.DunnerDoll_3",
+                "SubPathString": ""
+              },
+              "MaleImage": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "Desc": {
+            "CultureInvariantString": "信息介绍"
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "DunnerGetDoll_6": {
+        "UIClass": "Description_PhotoEx",
+        "Comment": "讨债人捉迷藏表现",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "PageData": [
+            {
+              "FemaleImage": {
+                "AssetPathName": "/Game/Blueprints/Level/Quest/SLY/Dunner/TempSequence/Tex/DunnerDoll6.DunnerDoll6",
+                "SubPathString": ""
+              },
+              "MaleImage": {
+                "AssetPathName": "",
+                "SubPathString": ""
+              }
+            }
+          ],
+          "Desc": {
+            "CultureInvariantString": "信息介绍"
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "S111300_BlackScreen_2S": {
+        "UIClass": "Letter_Black2",
+        "Comment": "照明商店2黑屏-2s",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 1.5
+      },
+      "Hospital_ElecNote": {
+        "UIClass": "Letter",
+        "Comment": "医院提示-配电室",
+        "Title": {
+          "TableId": "/Game/Text/ST_Description.ST_Description",
+          "Key": "Hospital_ElecNote_Title",
+          "SourceString": "紧急电力恢复简易手册",
+          "LocalizedString": "紧急电力恢复简易手册"
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_ElecNote",
+              "SourceString": "……\r\n为防止备用发电机过载，配电室内设置了分级送电，恢复供电时需按照优先级顺序操作……\r\n（手写的字迹）一般用不到分级送电，跳闸了按顺序全掰回来就行。\r\n不清楚配电箱归属的话：进门右转，从里到外一排排检查，每一排顺序是从左到右。\r\n\r\n*另外！不管什么情况！不许把开着的电闸拉掉！！！",
+              "LocalizedString": "……\r\n为防止备用发电机过载，配电室内设置了分级送电，恢复供电时需按照优先级顺序操作……\r\n（手写的字迹）一般用不到分级送电，跳闸了按顺序全掰回来就行。\r\n不清楚配电箱归属的话：进门右转，从里到外一排排检查，每一排顺序是从左到右。\r\n\r\n*另外！不管什么情况！不许把开着的电闸拉掉！！！"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_ShadowRoom_1": {
+        "UIClass": "Letter",
+        "Comment": "医院提示-影病房1",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_ShadowRoom_1",
+              "SourceString": "[录音开始]\r\n患者：到底是怎么回事？我只是睡了一觉，他们怎么都不见了？\r\n护士：那几位患者只是被转移到了临时观察诊室，您不必惊慌。\r\n患者：为什么会在半夜两点转移？也太奇怪了吧，怪吓人的……\r\n护士：……嗯，好，明白。\r\n护士：抱歉，看来我们昨晚打扰到您休息了。关于这个，我们的护士长想和您亲自道个歉，有茶点相赠。请跟我来。\r\n患者：噢，好的……\r\n[录音结束]",
+              "LocalizedString": "[录音开始]\r\n患者：到底是怎么回事？我只是睡了一觉，他们怎么都不见了？\r\n护士：那几位患者只是被转移到了临时观察诊室，您不必惊慌。\r\n患者：为什么会在半夜两点转移？也太奇怪了吧，怪吓人的……\r\n护士：……嗯，好，明白。\r\n护士：抱歉，看来我们昨晚打扰到您休息了。关于这个，我们的护士长想和您亲自道个歉，有茶点相赠。请跟我来。\r\n患者：噢，好的……\r\n[录音结束]"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_ShadowRoom_2": {
+        "UIClass": "Letter",
+        "Comment": "医院提示-影病房2",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_ShadowRoom_2",
+              "SourceString": "一张皱巴巴的纸条：观众离场，音乐重奏，舞会开始。",
+              "LocalizedString": "一张皱巴巴的纸条：观众离场，音乐重奏，舞会开始。"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Interact_Box_simple_prison_dailylist": {
+        "UIClass": "HTCharacterInfoMenu_L",
+        "Comment": "",
+        "Title": {
+          "TableId": "/Game/Text/ST_WorldDescription.ST_WorldDescription",
+          "Key": "SW_Interact_Box_simple_Prison_dailylist_01",
+          "SourceString": "海特洛市治安拘留所每日作息制度",
+          "LocalizedString": "海特洛市治安拘留所每日作息制度"
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_WorldDescription.ST_WorldDescription",
+              "Key": "SW_Interact_Box_simple_Prison_dailylist_02",
+              "SourceString": "上午 8:00 – 11:00 \r\n活动区域：监室\r\n在押人员应在个人监室内整理内务，不得离开监室。\r\n\r\n午餐 11:00 – 13:00 \r\n活动区域：食堂\r\n在押人员依序领取午餐，并于食堂内用餐。午餐时段内不得离开食堂。\r\n\r\n下午 13:00 – 17:00 \r\n活动区域：操场\r\n放风时段内，可在操场与连通走廊区域内自由活动，不得私自返回监舍楼。\r\n\r\n夜间 17:00 – 22:00 \r\n活动区域：监舍楼内\r\n宵禁时段内，监舍楼大门封闭，禁止出入。22:00前，所有在押人员应返回各自监室休息，不得交谈、走动。\r\n\r\n羁押期限最后一日就寝后，次日上午办理解除羁押手续。\r\n\r\n附注\r\n每日作息安排依照固定时序执行，不得擅自滞留或跨区活动。\r\n如需申请参与劳动，请向值班管教报告。\r\n如需申请缴纳罚金、提前结束羁押，请向值班管教提出。\r\n违反作息制度者将依规处理。\r\n\r\n—— 海特洛市治安拘留所管理科 印发 ——",
+              "LocalizedString": "上午 8:00 – 11:00 \r\n活动区域：监室\r\n在押人员应在个人监室内整理内务，不得离开监室。\r\n\r\n午餐 11:00 – 13:00 \r\n活动区域：食堂\r\n在押人员依序领取午餐，并于食堂内用餐。午餐时段内不得离开食堂。\r\n\r\n下午 13:00 – 17:00 \r\n活动区域：操场\r\n放风时段内，可在操场与连通走廊区域内自由活动，不得私自返回监舍楼。\r\n\r\n夜间 17:00 – 22:00 \r\n活动区域：监舍楼内\r\n宵禁时段内，监舍楼大门封闭，禁止出入。22:00前，所有在押人员应返回各自监室休息，不得交谈、走动。\r\n\r\n羁押期限最后一日就寝后，次日上午办理解除羁押手续。\r\n\r\n附注\r\n每日作息安排依照固定时序执行，不得擅自滞留或跨区活动。\r\n如需申请参与劳动，请向值班管教报告。\r\n如需申请缴纳罚金、提前结束羁押，请向值班管教提出。\r\n违反作息制度者将依规处理。\r\n\r\n—— 海特洛市治安拘留所管理科 印发 ——"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_WaterRoom_1": {
+        "UIClass": "Letter",
+        "Comment": "医院提示-水病房1",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_WaterRoom_1",
+              "SourceString": "（写在病历本上的潦草字迹）\r\n他们肯定盯上了我的箱子！我早就知道！\r\n每天夜里他的鞋跟在外面、在墙上、在天花板上，一直走来走去，滴答滴答，哗哗啦啦……\r\n他们拖地的时候还往地面上倒水，想淹没我的箱子，让它短路坏掉！\r\n还有摄像头！他们每天都在往我的房里藏摄像头！他们想拍下我藏钥匙的地方！\r\n他们想偷走我的箱子，拿走我的病历，我的药，我的名字，我的命……我的……\r\n……我还有什么……我还有什么？！",
+              "LocalizedString": "（写在病历本上的潦草字迹）\r\n他们肯定盯上了我的箱子！我早就知道！\r\n每天夜里他的鞋跟在外面、在墙上、在天花板上，一直走来走去，滴答滴答，哗哗啦啦……\r\n他们拖地的时候还往地面上倒水，想淹没我的箱子，让它短路坏掉！\r\n还有摄像头！他们每天都在往我的房里藏摄像头！他们想拍下我藏钥匙的地方！\r\n他们想偷走我的箱子，拿走我的病历，我的药，我的名字，我的命……我的……\r\n……我还有什么……我还有什么？！"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_WaterRoom_2": {
+        "UIClass": "Letter",
+        "Comment": "医院提示-水病房2",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_WaterRoom_2",
+              "SourceString": "我能感觉到，它很渴，它需要浇灌，它需要一个水潭，一个漆黑的湖泊……\r\n我能看见，它在倒影中望着我，它与我重叠，邀我过去，但我伸手，它又消失不见……\r\n它在我身体里，我们将同时得到解脱。",
+              "LocalizedString": "我能感觉到，它很渴，它需要浇灌，它需要一个水潭，一个漆黑的湖泊……\r\n我能看见，它在倒影中望着我，它与我重叠，邀我过去，但我伸手，它又消失不见……\r\n它在我身体里，我们将同时得到解脱。"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Patient_Final": {
+        "UIClass": "Letter",
+        "Comment": "医院提示-钥匙病房",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Patient_Final",
+              "SourceString": "？：有护士向我汇报，最近出现了钥匙丢失的情况，不知道你有没有头绪。\r\n？：……\r\n？：如无必要，我不太喜欢采取太强硬的措施。说吧，它在哪里？\r\n？：它不在我这……\r\n？：是吗……这个柜子，之前好像不是这样摆放的吧。\r\n？：……！\r\n？：你的一切行动，我们都看在眼里……希望你能够有一些身为实验品的自觉。我只说一遍。",
+              "LocalizedString": "？：有护士向我汇报，最近出现了钥匙丢失的情况，不知道你有没有头绪。\r\n？：……\r\n？：如无必要，我不太喜欢采取太强硬的措施。说吧，它在哪里？\r\n？：它不在我这……\r\n？：是吗……这个柜子，之前好像不是这样摆放的吧。\r\n？：……！\r\n？：你的一切行动，我们都看在眼里……希望你能够有一些身为实验品的自觉。我只说一遍。"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_01": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-1",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_01",
+              "SourceString": "——冷山医院 转诊申请记录——\r\n\r\n患者姓名：███\r\n病患编号：AN05\r\n转出科室：皮肤科\r\n拟转至科室：涉异病症科\r\n申请时间：██年█月2日 19:39\r\n诊疗简况：\r\n患者3日前因「无明显诱因出现体表瘙痒、灼痛感」入院。经皮肤科查体，未见原发疹，可见散在抓痕、血痂，系患者搔抓所致。\r\n\r\n转诊说明：\r\n观察期间，患者出现明显焦虑情绪及异常行为，其坚持用绷带自行紧缚患处，拒绝摘下，并对光、声刺激极其敏感。\r\n目前无法排除是否为异象影响引发的精神心理疾病或神经系统器质性问题，特申请贵科室协助诊治，以期明确根本病因。\r\n————————————————————————\r\n申请状态：已接收\r\n接收科室：涉异病症科\r\n接收医师：V███",
+              "LocalizedString": "——冷山医院 转诊申请记录——\r\n\r\n患者姓名：███\r\n病患编号：AN05\r\n转出科室：皮肤科\r\n拟转至科室：涉异病症科\r\n申请时间：██年█月2日 19:39\r\n诊疗简况：\r\n患者3日前因「无明显诱因出现体表瘙痒、灼痛感」入院。经皮肤科查体，未见原发疹，可见散在抓痕、血痂，系患者搔抓所致。\r\n\r\n转诊说明：\r\n观察期间，患者出现明显焦虑情绪及异常行为，其坚持用绷带自行紧缚患处，拒绝摘下，并对光、声刺激极其敏感。\r\n目前无法排除是否为异象影响引发的精神心理疾病或神经系统器质性问题，特申请贵科室协助诊治，以期明确根本病因。\r\n————————————————————————\r\n申请状态：已接收\r\n接收科室：涉异病症科\r\n接收医师：V███"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_02": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-2",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_02",
+              "SourceString": "██/█/4  21:52\r\n很古怪的症状，除了病人自己挠出来的痕迹，什么都没有。\r\n██/█/4  21:55\r\n我还以为你接了个烧伤病人，那家伙都快被绷带裹满了。\r\n██/█/4  21:55\r\n是患者自己绑的绷带，他一直说「有看不见的火在身上烧」，只有缠上绷带才能减轻灼痛感。我怀疑要么是心理疾病，要么是没见过的的涉异病症。\r\n██/█/4  21:57\r\n真邪门。要我帮你启动多学科会诊吗？\r\n██/█/4  21:57\r\n是。您来牵头的话就省事多了，N主任。\r\n██/█/4  21:59\r\n小问题，我先把初诊结论同步给中心实验室和病理科。病症有命名吗？\r\n██/█/4  21:59\r\n暂定为「隐火症」。\r\n██/█/4  22:02\r\n好的。我最近抽不开身，既然病人是你接手，这次就由你代我们科室出面了，V。\r\n██/█/4  22:02\r\n院里又派您伺候大人物了？\r\n██/█/4  22:09\r\n唉……早点习惯吧。",
+              "LocalizedString": "██/█/4  21:52\r\n很古怪的症状，除了病人自己挠出来的痕迹，什么都没有。\r\n██/█/4  21:55\r\n我还以为你接了个烧伤病人，那家伙都快被绷带裹满了。\r\n██/█/4  21:55\r\n是患者自己绑的绷带，他一直说「有看不见的火在身上烧」，只有缠上绷带才能减轻灼痛感。我怀疑要么是心理疾病，要么是没见过的的涉异病症。\r\n██/█/4  21:57\r\n真邪门。要我帮你启动多学科会诊吗？\r\n██/█/4  21:57\r\n是。您来牵头的话就省事多了，N主任。\r\n██/█/4  21:59\r\n小问题，我先把初诊结论同步给中心实验室和病理科。病症有命名吗？\r\n██/█/4  21:59\r\n暂定为「隐火症」。\r\n██/█/4  22:02\r\n好的。我最近抽不开身，既然病人是你接手，这次就由你代我们科室出面了，V。\r\n██/█/4  22:02\r\n院里又派您伺候大人物了？\r\n██/█/4  22:09\r\n唉……早点习惯吧。"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_03": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-3",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_03",
+              "SourceString": "……\r\n██/█/5  17:03\r\n手术中止；\r\n发生严重事故，患者术中苏醒，并███；\r\n推测原因为██试图摘取捆缚患者肢体的绷带。\r\n……\r\n██/█/5  22:37\r\n已转移AN05的陪护及诊疗人员至观察病区。\r\n……\r\n██/█/6  01:24\r\n已将全体感染者转移至隔离病区，共计█人。\r\n已发布院内紧急通告。",
+              "LocalizedString": "……\r\n██/█/5  17:03\r\n手术中止；\r\n发生严重事故，患者术中苏醒，并███；\r\n推测原因为██试图摘取捆缚患者肢体的绷带。\r\n……\r\n██/█/5  22:37\r\n已转移AN05的陪护及诊疗人员至观察病区。\r\n……\r\n██/█/6  01:24\r\n已将全体感染者转移至隔离病区，共计█人。\r\n已发布院内紧急通告。"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_04": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-4",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_04",
+              "SourceString": "致██：\r\n……\r\n真是闻所未闻……我们错怪那个麻醉师了，但谁想得到，一个全身麻醉的人，会因为被摘了手臂上的绷带而醒来？这些异病真是毫无道理可言。至于那个可怜的麻醉师，他也已经变成给自己缠绷带的怪人了……好在，他们起码还是人。\r\n我不知道V的手术室到底发生了什么，我不清楚它是怎么传染的，我怀疑这不该被理解为病症，而是一种诅咒……如果看到一群拿着绷带往自己身上缠的疯子，谁都会这么想。\r\n但不幸中的万幸，V那家伙虽然受了伤，但没有感染——应该没有，只是每天看上去像丢了魂似的。他每天都在用镇定剂，我不知道这个可怜人在手术室里经历了什么，我只庆幸他还能派上用场，不然的话，恐怕得轮到我去接手这一群可怕的怪物了。\r\n等院里的封锁解除，我得挑个地方好好休个假……不如就去海特洛，如何？\r\nN\r\n██/█/11  20:13",
+              "LocalizedString": "致██：\r\n……\r\n真是闻所未闻……我们错怪那个麻醉师了，但谁想得到，一个全身麻醉的人，会因为被摘了手臂上的绷带而醒来？这些异病真是毫无道理可言。至于那个可怜的麻醉师，他也已经变成给自己缠绷带的怪人了……好在，他们起码还是人。\r\n我不知道V的手术室到底发生了什么，我不清楚它是怎么传染的，我怀疑这不该被理解为病症，而是一种诅咒……如果看到一群拿着绷带往自己身上缠的疯子，谁都会这么想。\r\n但不幸中的万幸，V那家伙虽然受了伤，但没有感染——应该没有，只是每天看上去像丢了魂似的。他每天都在用镇定剂，我不知道这个可怜人在手术室里经历了什么，我只庆幸他还能派上用场，不然的话，恐怕得轮到我去接手这一群可怕的怪物了。\r\n等院里的封锁解除，我得挑个地方好好休个假……不如就去海特洛，如何？\r\nN\r\n██/█/11  20:13"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_05": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-5",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_05",
+              "SourceString": "现以涉异病症科成员身份，冒昧呈报我科主治医师V███的紧急事态：\r\n经观察，其本人已呈现「隐火症」体征，但借助超剂量精神药物掩盖、隐瞒感染事实；且在其利用诊疗职权，对多名「隐火症」患者进行超剂量的违规用药，部分患者已出现强烈的不良反应与自伤行为。\r\n上述行为已对我科医疗安全构成直接威胁，存在重大风险。\r\n事态紧急，恳请您立即介入调查，并对V及其它失控患者采取隔离与控制措施！\r\n即日密呈\r\n██/█/15  23:59",
+              "LocalizedString": "现以涉异病症科成员身份，冒昧呈报我科主治医师V███的紧急事态：\r\n经观察，其本人已呈现「隐火症」体征，但借助超剂量精神药物掩盖、隐瞒感染事实；且在其利用诊疗职权，对多名「隐火症」患者进行超剂量的违规用药，部分患者已出现强烈的不良反应与自伤行为。\r\n上述行为已对我科医疗安全构成直接威胁，存在重大风险。\r\n事态紧急，恳请您立即介入调查，并对V及其它失控患者采取隔离与控制措施！\r\n即日密呈\r\n██/█/15  23:59"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_06": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-6",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_06",
+              "SourceString": "[录音开始]\r\n？：这批药已经备案过了，还请尽快。\r\n？：又这么大剂量？你们养的都是些什么怪物……\r\n？：不该问的别问。\r\n？：……喏，你点点，看有没有漏的。\r\n？：嗯，没有问题。\r\n？：话说V医生，你怎么从来不叫护士来取药？每次都是你这张苦瓜脸，我都看厌了……\r\n？：这座医院的护士……哼。\r\n？：嗯？怎么，你和护理部闹翻了？\r\n？：不，没什么。\r\n？：哎！这就走了？真没意思……\r\n[录音结束]\r\n————————————\r\n汇报：\r\n已确认，V所申请药物为本次实验所需，剂量略超出规划，但在合理范围内。\r\nV的忠诚度有待进一步观察，或许已对监视有所察觉，需更换更隐蔽的方式。\r\n将确保实验进行，请您放心。\r\nJ",
+              "LocalizedString": "[录音开始]\r\n？：这批药已经备案过了，还请尽快。\r\n？：又这么大剂量？你们养的都是些什么怪物……\r\n？：不该问的别问。\r\n？：……喏，你点点，看有没有漏的。\r\n？：嗯，没有问题。\r\n？：话说V医生，你怎么从来不叫护士来取药？每次都是你这张苦瓜脸，我都看厌了……\r\n？：这座医院的护士……哼。\r\n？：嗯？怎么，你和护理部闹翻了？\r\n？：不，没什么。\r\n？：哎！这就走了？真没意思……\r\n[录音结束]\r\n————————————\r\n汇报：\r\n已确认，V所申请药物为本次实验所需，剂量略超出规划，但在合理范围内。\r\nV的忠诚度有待进一步观察，或许已对监视有所察觉，需更换更隐蔽的方式。\r\n将确保实验进行，请您放心。\r\nJ"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_07": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-7",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_07",
+              "SourceString": "现以涉异病症科成员身份，呈报我科室主治医师V███的紧急事态：\r\n经观察，其本人已呈现「隐火症」体征，但借助超剂量精神药物掩盖、隐瞒感染事实；且在工作过程中利用职权，对多名「隐火症」患者进行超剂量、违规用药，部分患者已出现强烈的不良反应与自伤行为。\r\n上述行为已对我科医疗安全构成直接威胁，存在重大风险。\r\n事态紧急，恳请您立即介入调查，并对V及其它失控患者采取隔离与控制措施！\r\n即日密呈\r\n██/█/15  23:59",
+              "LocalizedString": "现以涉异病症科成员身份，呈报我科室主治医师V███的紧急事态：\r\n经观察，其本人已呈现「隐火症」体征，但借助超剂量精神药物掩盖、隐瞒感染事实；且在工作过程中利用职权，对多名「隐火症」患者进行超剂量、违规用药，部分患者已出现强烈的不良反应与自伤行为。\r\n上述行为已对我科医疗安全构成直接威胁，存在重大风险。\r\n事态紧急，恳请您立即介入调查，并对V及其它失控患者采取隔离与控制措施！\r\n即日密呈\r\n██/█/15  23:59"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_08": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-8",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_08",
+              "SourceString": "工作日志：\r\n能不能麻烦安保科或者护理科注意下，别让203病房那个绑绷带的疯子靠近水阀？我们为他花了好多维修费了！\r\n回复：\r\n已知悉。该病患存在精神障碍，会间歇性出现躯体被火焰灼烧的幻觉，因此对水存在特殊依存心理，每日需要对自己的手臂、躯干进行长时间冲洗，否则会出现破坏行为。\r\n护理部已安排专员监管，确保其行动处于可控范围。\r\nJ",
+              "LocalizedString": "工作日志：\r\n能不能麻烦安保科或者护理科注意下，别让203病房那个绑绷带的疯子靠近水阀？我们为他花了好多维修费了！\r\n回复：\r\n已知悉。该病患存在精神障碍，会间歇性出现躯体被火焰灼烧的幻觉，因此对水存在特殊依存心理，每日需要对自己的手臂、躯干进行长时间冲洗，否则会出现破坏行为。\r\n护理部已安排专员监管，确保其行动处于可控范围。\r\nJ"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_09": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-9",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_09",
+              "SourceString": "事故处理简报\r\n██/█/13\r\n于今日凌晨00:46 - 02:00期间，编号05、06、07等多个实验品擅自离开所属病房，并试图逃逸，涉事个体被发现后进行了暴力反抗，导致三名安保人员受伤。护理部应急小组介入后，于02:10前控制所有逃逸实验品。\r\n初步讯问表明，本次组织性外逃的核心策动者为05、06、07。且三者均与实验员V存在密切联系，现已剥夺V实验权限及通讯权限，等待进一步审查，其所属项目将由N实验员全权接管。\r\n本次事故中，实验品与核心资产未受损失，已对相关责任人启动问责。请家主放心。\r\n\r\n*此外，实验员V在监禁期间出现间歇性自伤行为，并申领绷带用于伤口包扎。判断无隐患，已批准。\r\n\r\n护理部 J",
+              "LocalizedString": "事故处理简报\r\n██/█/13\r\n于今日凌晨00:46 - 02:00期间，编号05、06、07等多个实验品擅自离开所属病房，并试图逃逸，涉事个体被发现后进行了暴力反抗，导致三名安保人员受伤。护理部应急小组介入后，于02:10前控制所有逃逸实验品。\r\n初步讯问表明，本次组织性外逃的核心策动者为05、06、07。且三者均与实验员V存在密切联系，现已剥夺V实验权限及通讯权限，等待进一步审查，其所属项目将由N实验员全权接管。\r\n本次事故中，实验品与核心资产未受损失，已对相关责任人启动问责。请家主放心。\r\n\r\n*此外，实验员V在监禁期间出现间歇性自伤行为，并申领绷带用于伤口包扎。判断无隐患，已批准。\r\n\r\n护理部 J"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_10": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-10",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_10",
+              "SourceString": "——紧急通讯——\r\n没有时间进行详细记录，仅对核心损失作简报。\r\n异象「泅鬼」逃逸，系人为释放。由于水阀系统遭蓄意破坏，造成院内大面积浸水，其行动范围及影响力扩大，已无法控制；\r\n异象「闪影」逃逸，疑似与实验品07发生结合；\r\n实验员V：失踪。\r\n实验品03：失踪。所属房间严重损毁，水阀被摧毁。\r\n实验品07：已确认其特性——在脱离光照环境时具备逃逸能力。当前已失控。\r\n其它实验品：失踪。\r\n此外，医院内出现大量由绷带组成的未知歧骸，并表露出极强的攻击性。\r\n\r\n实验项目████已被迫中止，当前判断，冷山医院已不具备继续作为研究设施的功能。护理部将执行弃置协议，行动目标转为掩护施特林家族资产的转移与保全。\r\n未能保全冷山医院是我部门的失职，本次行动，护理部将不惜一切代价。\r\n██/█/16\r\n J",
+              "LocalizedString": "——紧急通讯——\r\n没有时间进行详细记录，仅对核心损失作简报。\r\n异象「泅鬼」逃逸，系人为释放。由于水阀系统遭蓄意破坏，造成院内大面积浸水，其行动范围及影响力扩大，已无法控制；\r\n异象「闪影」逃逸，疑似与实验品07发生结合；\r\n实验员V：失踪。\r\n实验品03：失踪。所属房间严重损毁，水阀被摧毁。\r\n实验品07：已确认其特性——在脱离光照环境时具备逃逸能力。当前已失控。\r\n其它实验品：失踪。\r\n此外，医院内出现大量由绷带组成的未知歧骸，并表露出极强的攻击性。\r\n\r\n实验项目████已被迫中止，当前判断，冷山医院已不具备继续作为研究设施的功能。护理部将执行弃置协议，行动目标转为掩护施特林家族资产的转移与保全。\r\n未能保全冷山医院是我部门的失职，本次行动，护理部将不惜一切代价。\r\n██/█/16\r\n J"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_11": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-11",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_11",
+              "SourceString": "日志\r\n\r\n「闪影」有较高医学应用研究价值，但目前尚未确认该异象赋予物体性质的机理，以及是否能够对生命体、异象产生类似的影响。得空用谜皮鬼进行一次实验。\r\n至于「泅鬼」……目前无头绪，不理解院里接收异象的那群疯子是出于什么心理，才会把这么危险的异象带回院里，这玩意要是放在淡水湖，说不定能有V级异象的破坏力。\r\nN主任似乎搭上了个大客户，院长特批了一笔资金，为他们建立了一个专项研究小组，也不知道他们是对什么异象疗法感兴趣。\r\n但愿是个好差事。\r\n\r\nV\r\n██/█/09  ",
+              "LocalizedString": "日志\r\n\r\n「闪影」有较高医学应用研究价值，但目前尚未确认该异象赋予物体性质的机理，以及是否能够对生命体、异象产生类似的影响。得空用谜皮鬼进行一次实验。\r\n至于「泅鬼」……目前无头绪，不理解院里接收异象的那群疯子是出于什么心理，才会把这么危险的异象带回院里，这玩意要是放在淡水湖，说不定能有V级异象的破坏力。\r\nN主任似乎搭上了个大客户，院长特批了一笔资金，为他们建立了一个专项研究小组，也不知道他们是对什么异象疗法感兴趣。\r\n但愿是个好差事。\r\n\r\nV\r\n██/█/09  "
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_12": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-12",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_12",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_13": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-13",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_13",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_14": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-14",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_14",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_15": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-15",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_15",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_16": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-16",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_16",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_17": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-17",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_17",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_18": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-18",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_18",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_19": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-19",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_19",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_20": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-20",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_20",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_21": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-21",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_21",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_Clue_22": {
+        "UIClass": "Letter",
+        "Comment": "医院线索-22",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_Clue_22",
+              "SourceString": " <!>线索-三测不上",
+              "LocalizedString": " <!>线索-三测不上"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "nanali_act_hide": {
+        "UIClass": "Letter_Black",
+        "Comment": "",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_WorldDescription.ST_WorldDescription",
+              "Key": "SW_nanali_act_hide",
+              "SourceString": "娜娜莉已经悄悄藏好，在某个角落屏息凝神了。",
+              "LocalizedString": "娜娜莉已经悄悄藏好，在某个角落屏息凝神了。"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 2.0
+      },
+      "Hospital_2F_RecordShadow": {
+        "UIClass": "Letter",
+        "Comment": "值班记录-影",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_2F_RecordShadow",
+              "SourceString": "——夜班巡查须知——\r\n请巡查病房时，请在开灯、关灯状态下各进行一次观测；\r\n若发现物体或人在两次观测中存在不一致，请立即通知护理部。",
+              "LocalizedString": "——夜班巡查须知——\r\n请巡查病房时，请在开灯、关灯状态下各进行一次观测；\r\n若发现物体或人在两次观测中存在不一致，请立即通知护理部。"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "Hospital_2F_RecordWater": {
+        "UIClass": "Letter",
+        "Comment": "值班记录-水",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": {
+          "Page": [
+            {
+              "TableId": "/Game/Text/ST_Description.ST_Description",
+              "Key": "Hospital_2F_RecordWater",
+              "SourceString": "——夜班巡查须知——\r\n如发现大面积浸水现象，请勿在水中逗留；\r\n若观测到水中存在不明黑影，请立即通知护理部。",
+              "LocalizedString": "——夜班巡查须知——\r\n如发现大面积浸水现象，请勿在水中逗留；\r\n若观测到水中存在不明黑影，请立即通知护理部。"
+            }
+          ],
+          "Sign": {
+            "CultureInvariantString": null
+          }
+        },
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Left",
+        "AutoCloseTime": 0.0
+      },
+      "L110133_Black": {
+        "UIClass": "Letter_Black_Nomouse",
+        "Comment": "",
+        "Title": {
+          "CultureInvariantString": null
+        },
+        "Content": null,
+        "ShowBackground": true,
+        "Justify": "ETextJustify::Center",
+        "AutoCloseTime": 3.0
       }
     }
   }

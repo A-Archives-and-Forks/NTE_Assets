@@ -13,15 +13,10 @@
     "Rows": {
       "FD_001": {
         "UnlockRacerID": "Racer001_01",
-        "TrackID": "Track_haoyou_01",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_01.UI_YH_Racing_Fleet_Icon_01",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_01.UI_YH_Racing_Fleet_Icon_01",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_01",
+          "Track_haoyou_01_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_01A",
@@ -43,7 +38,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_01A",
+          "SourceString": "通关星期日车队第1关坂本",
+          "LocalizedString": "通关星期日车队第1关坂本"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -54,15 +52,10 @@
       },
       "FD_001A": {
         "UnlockRacerID": "Racer001_03",
-        "TrackID": "Track_haoyou_01A",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_01.UI_YH_Racing_Fleet_Icon_01",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_01.UI_YH_Racing_Fleet_Icon_01",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_01A",
+          "Track_haoyou_01A_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_01B",
@@ -84,7 +77,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_01B",
+          "SourceString": "通关星期日车队第3关伊藤",
+          "LocalizedString": "通关星期日车队第3关伊藤"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -95,15 +91,10 @@
       },
       "FD_002": {
         "UnlockRacerID": "Racer002_01",
-        "TrackID": "Track_haoyou_02",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_02.UI_YH_Racing_Fleet_Icon_02",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_02.UI_YH_Racing_Fleet_Icon_02",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_02",
+          "Track_haoyou_02_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_02",
@@ -125,7 +116,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_02",
+          "SourceString": "通关月光海岸车队第1关莫妮卡",
+          "LocalizedString": "通关月光海岸车队第1关莫妮卡"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -136,15 +130,10 @@
       },
       "FD_002A": {
         "UnlockRacerID": "Racer002_02",
-        "TrackID": "Track_haoyou_02A",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_02.UI_YH_Racing_Fleet_Icon_02",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_02.UI_YH_Racing_Fleet_Icon_02",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_02A",
+          "Track_haoyou_02A_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_02A",
@@ -166,7 +155,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_02A",
+          "SourceString": "通关月光海岸车队第2关安妮",
+          "LocalizedString": "通关月光海岸车队第2关安妮"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -177,15 +169,10 @@
       },
       "FD_002B": {
         "UnlockRacerID": "Racer002_03",
-        "TrackID": "Track_haoyou_02B",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_02.UI_YH_Racing_Fleet_Icon_02",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_02.UI_YH_Racing_Fleet_Icon_02",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_02B",
+          "Track_haoyou_02B_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_02B",
@@ -207,7 +194,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_02B",
+          "SourceString": "通关月光海岸车队第3关瓦伦蒂娜",
+          "LocalizedString": "通关月光海岸车队第3关瓦伦蒂娜"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -218,15 +208,10 @@
       },
       "FD_003": {
         "UnlockRacerID": "Racer003_01",
-        "TrackID": "Track_haoyou_03",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_03.UI_YH_Racing_Fleet_Icon_03",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_03.UI_YH_Racing_Fleet_Icon_03",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_03",
+          "Track_haoyou_03_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_03",
@@ -248,7 +233,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_03",
+          "SourceString": "通关全速前进！车队第1关梅丽",
+          "LocalizedString": "通关全速前进！车队第1关梅丽"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -259,15 +247,9 @@
       },
       "FD_003B": {
         "UnlockRacerID": "Racer003_02",
-        "TrackID": "Track_haoyou_03B",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_03.UI_YH_Racing_Fleet_Icon_03",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_03.UI_YH_Racing_Fleet_Icon_03",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_03B"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_03B",
@@ -289,7 +271,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_03B",
+          "SourceString": "通关全速前进！车队第2关海伦",
+          "LocalizedString": "通关全速前进！车队第2关海伦"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -300,15 +285,10 @@
       },
       "FD_004": {
         "UnlockRacerID": "Racer004_01",
-        "TrackID": "Track_haoyou_04",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_04.UI_YH_Racing_Fleet_Icon_04",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_04.UI_YH_Racing_Fleet_Icon_04",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_04",
+          "Track_haoyou_04_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_04",
@@ -330,7 +310,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_04",
+          "SourceString": "通关子午线车队第1关秋叶",
+          "LocalizedString": "通关子午线车队第1关秋叶"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -341,15 +324,10 @@
       },
       "FD_004B": {
         "UnlockRacerID": "Racer004_03",
-        "TrackID": "Track_haoyou_04B",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_04.UI_YH_Racing_Fleet_Icon_04",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_04.UI_YH_Racing_Fleet_Icon_04",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_04B",
+          "Track_haoyou_04B_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_04BA",
@@ -371,7 +349,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_04B",
+          "SourceString": "通关子午线车队第3关泊海",
+          "LocalizedString": "通关子午线车队第3关泊海"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -382,15 +363,10 @@
       },
       "FD_004A": {
         "UnlockRacerID": "Racer004_03",
-        "TrackID": "Track_haoyou_04A",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_04.UI_YH_Racing_Fleet_Icon_04",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_04.UI_YH_Racing_Fleet_Icon_04",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_04A",
+          "Track_haoyou_04A_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_04BB",
@@ -412,7 +388,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_04B",
+          "SourceString": "通关子午线车队第3关泊海",
+          "LocalizedString": "通关子午线车队第3关泊海"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -423,15 +402,10 @@
       },
       "FD_005": {
         "UnlockRacerID": "Racer005_01",
-        "TrackID": "Track_haoyou_05",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_05.UI_YH_Racing_Fleet_Icon_05",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_05.UI_YH_Racing_Fleet_Icon_05",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_05",
+          "Track_haoyou_05_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_05",
@@ -453,7 +427,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_05",
+          "SourceString": "通关追风车队第1关汤米",
+          "LocalizedString": "通关追风车队第1关汤米"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
@@ -464,15 +441,10 @@
       },
       "FD_006": {
         "UnlockRacerID": "Racer006_01",
-        "TrackID": "Track_haoyou_06",
-        "LockedTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_06.UI_YH_Racing_Fleet_Icon_06",
-          "SubPathString": ""
-        },
-        "UnlockTrackIconImage": {
-          "AssetPathName": "/Game/UI/UI/RaceCar/Fleet/UI_YH_Racing_Fleet_Icon_06.UI_YH_Racing_Fleet_Icon_06",
-          "SubPathString": ""
-        },
+        "DirectionTracks": [
+          "Track_haoyou_06",
+          "Track_haoyou_06_R"
+        ],
         "TrackName": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",
           "Key": "UI_Race_Track_06",
@@ -494,7 +466,10 @@
           "SubPathString": ""
         },
         "UnlockConditionText": {
-          "CultureInvariantString": null
+          "TableId": "/Game/Text/ST_Ui.ST_Ui",
+          "Key": "UI_Race_Track_TS_06",
+          "SourceString": "通关无冕车队第1关平陆",
+          "LocalizedString": "通关无冕车队第1关平陆"
         },
         "LockedStateTipsText": {
           "TableId": "/Game/Text/ST_Ui.ST_Ui",

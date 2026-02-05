@@ -110,6 +110,66 @@
           "Effect5",
           "Effect6"
         ]
+      },
+      "TrialAwaken1052": {
+        "EffectIDList": [
+          "Effect1",
+          "Effect2",
+          "Effect3",
+          "Effect4",
+          "Effect5",
+          "Effect6"
+        ]
+      },
+      "TrialAwaken1055": {
+        "EffectIDList": [
+          "Effect1",
+          "Effect2",
+          "Effect3",
+          "Effect4",
+          "Effect5",
+          "Effect6"
+        ]
+      },
+      "TrialAwaken1020": {
+        "EffectIDList": [
+          "Effect1",
+          "Effect2",
+          "Effect3",
+          "Effect4",
+          "Effect5",
+          "Effect6"
+        ]
+      },
+      "TrialAwaken1054": {
+        "EffectIDList": [
+          "Effect1",
+          "Effect2",
+          "Effect3",
+          "Effect4",
+          "Effect5",
+          "Effect6"
+        ]
+      },
+      "TrialAwaken1021": {
+        "EffectIDList": [
+          "Effect1",
+          "Effect2",
+          "Effect3",
+          "Effect4",
+          "Effect5",
+          "Effect6"
+        ]
+      },
+      "TrialAwaken1073": {
+        "EffectIDList": [
+          "Effect1",
+          "Effect2",
+          "Effect3",
+          "Effect4",
+          "Effect5",
+          "Effect6"
+        ]
       }
     }
   }

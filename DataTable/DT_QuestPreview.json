@@ -1,0 +1,60 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_QuestPreview",
+    "Class": "UScriptClass'DataTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'QuestPreviewData'",
+        "ObjectPath": "/Script/HTGame"
+      }
+    },
+    "Rows": {
+      "q110101": {
+        "ShowConditionRange": [
+          {
+            "Level": 6
+          },
+          {
+            "QuestId": "None",
+            "EndQuestID": "q110101"
+          }
+        ]
+      },
+      "L110001_F": {
+        "ShowConditionRange": [
+          {
+            "Level": 10
+          },
+          {
+            "QuestId": "None",
+            "EndQuestID": "L110001_F"
+          }
+        ]
+      },
+      "L110101": {
+        "ShowConditionRange": [
+          {
+            "Level": 15
+          },
+          {
+            "QuestId": "None",
+            "EndQuestID": "L110101"
+          }
+        ]
+      },
+      "L110201_F": {
+        "ShowConditionRange": [
+          {
+            "Level": 15
+          },
+          {
+            "QuestId": "None",
+            "EndQuestID": "L110201_F"
+          }
+        ]
+      }
+    }
+  }
+]

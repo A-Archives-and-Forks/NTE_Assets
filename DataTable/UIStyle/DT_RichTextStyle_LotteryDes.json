@@ -301,11 +301,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.035601,
-              "G": 1.0,
-              "B": 0.491021,
+              "R": 0.0,
+              "G": 0.60383,
+              "B": 0.760417,
               "A": 1.0,
-              "Hex": "35FFBA"
+              "Hex": "00CCE2"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -559,11 +559,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.863157,
-              "G": 0.033105,
-              "B": 0.921582,
+              "R": 0.799103,
+              "G": 0.049707,
+              "B": 0.508881,
               "A": 1.0,
-              "Hex": "EF33F6"
+              "Hex": "E73FBD"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -817,11 +817,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 1.0,
-              "G": 0.423268,
-              "B": 0.043735,
+              "R": 0.982251,
+              "G": 0.462077,
+              "B": 0.003347,
               "A": 1.0,
-              "Hex": "FFAE3B"
+              "Hex": "FDB50B"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -1075,11 +1075,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.887923,
-              "G": 0.155926,
-              "B": 0.246201,
+              "R": 0.610496,
+              "G": 0.049707,
+              "B": 0.025187,
               "A": 1.0,
-              "Hex": "F26E88"
+              "Hex": "CD3F2C"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },

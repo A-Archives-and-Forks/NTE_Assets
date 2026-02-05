@@ -78,6 +78,23 @@
           "A": 1.0,
           "Hex": "14FF7E"
         }
+      },
+      "RacePassedNavigationPath": {
+        "LineWidget": {
+          "AssetPathName": "/Game/UI/Blueprints/MiniMap/BPUW_MiniMapNavigationPathLine_3.BPUW_MiniMapNavigationPathLine_3_C",
+          "SubPathString": ""
+        },
+        "ZOrder": 1,
+        "Thinkness": 8.0,
+        "DashLength": 26.0,
+        "GapLength": 10.0,
+        "Color": {
+          "R": 1.0,
+          "G": 0.076461,
+          "B": 0.084577,
+          "A": 1.0,
+          "Hex": "FF4E52"
+        }
       }
     }
   }

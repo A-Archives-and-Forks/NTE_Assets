@@ -130,6 +130,23 @@
           "Y": 0.0
         }
       },
+      "City01_008": {
+        "AreaTitle": {
+          "TableId": "/Game/Text/Minimap/ST_MapAreaDetails.ST_MapAreaDetails",
+          "Key": "Map_Area008",
+          "SourceString": "拘留所",
+          "LocalizedString": "拘留所"
+        },
+        "AreaPriority": 0,
+        "AreaParticleAsset": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FieldOfViewSize": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
       "City01_coffee_200": {
         "AreaTitle": {
           "TableId": "/Game/Text/ST_QuestDisplayMapNameDetail.ST_QuestDisplayMapNameDetail",

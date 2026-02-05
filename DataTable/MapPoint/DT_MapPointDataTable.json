@@ -1500,9 +1500,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": -33684.0,
-            "Y": -20360.0,
-            "Z": -8317.0
+            "X": -33155.36,
+            "Y": -19317.014,
+            "Z": -8238.028
           },
           "Scale3D": {
             "X": 1.0,
@@ -1561,7 +1561,32 @@
           }
         }
       },
-      "BigWorld_to_Museum": {
+      "BigWorld_to_Museum_Story1": {
+        "Comment": "",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 26304.25,
+            "Y": 121270.94,
+            "Z": 7225.7563
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "BigWorld_to_Museum_Story2": {
         "Comment": "",
         "BelongsLevel": "XL_map_bigworld_test",
         "PointTransform": {
@@ -1675,9 +1700,9 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": 27816.514,
-            "Y": 42996.945,
-            "Z": 45286.39
+            "X": 24956.41,
+            "Y": 43424.414,
+            "Z": 52765.027
           },
           "Scale3D": {
             "X": 1.0,
@@ -1700,9 +1725,159 @@
             "SizeSquared": 1.0
           },
           "Translation": {
-            "X": 22828.762,
-            "Y": 43338.36,
-            "Z": 7899.982
+            "X": 24962.996,
+            "Y": 43431.59,
+            "Z": 7878.1685
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "YiGuanju0FtoYiGuanju2F": {
+        "Comment": "",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 3839.0,
+            "Y": 264261.0,
+            "Z": -14811.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "YiGuanju2Fto0F": {
+        "Comment": "",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 3991.616,
+            "Y": 272386.62,
+            "Z": 7962.3784
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "PlayerLoft_to_BigWorld": {
+        "Comment": "",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -172626.92,
+            "Y": 118809.84,
+            "Z": 7167.448
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "PlayerLoft1F_to_Elevator": {
+        "Comment": "",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -174531.58,
+            "Y": 119271.83,
+            "Z": 7209.3047
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "Elevator_to_PlayerLoft5F": {
+        "Comment": "",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -174627.27,
+            "Y": 119349.98,
+            "Z": 10709.992
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        }
+      },
+      "PlayerLoft5F_to_Elevator": {
+        "Comment": "",
+        "BelongsLevel": "XL_map_bigworld_test",
+        "PointTransform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -174139.47,
+            "Y": 119721.66,
+            "Z": 10709.992
           },
           "Scale3D": {
             "X": 1.0,

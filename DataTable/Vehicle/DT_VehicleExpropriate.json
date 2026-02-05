@@ -12,39 +12,51 @@
     },
     "Rows": {
       "Vehicle002": {
-        "ExpropriateSuccessRate": 0.1,
+        "ExpropriateSuccessRate": 0.5,
         "DriverGetOffRate": 1.0
       },
       "Vehicle003": {
-        "ExpropriateSuccessRate": 0.25,
+        "ExpropriateSuccessRate": 0.6,
         "DriverGetOffRate": 0.7
       },
       "Vehicle004": {
-        "ExpropriateSuccessRate": 0.1,
+        "ExpropriateSuccessRate": 0.5,
         "DriverGetOffRate": 1.0
       },
       "Vehicle006": {
-        "ExpropriateSuccessRate": 0.5,
+        "ExpropriateSuccessRate": 0.8,
         "DriverGetOffRate": 0.5
       },
       "Vehicle007": {
-        "ExpropriateSuccessRate": 0.5,
+        "ExpropriateSuccessRate": 0.8,
         "DriverGetOffRate": 0.5
       },
       "Vehicle007c": {
-        "ExpropriateSuccessRate": 0.5,
-        "DriverGetOffRate": 0.5
+        "ExpropriateSuccessRate": 0.7,
+        "DriverGetOffRate": 0.7
       },
       "Vehicle008": {
-        "ExpropriateSuccessRate": 0.5,
+        "ExpropriateSuccessRate": 0.8,
         "DriverGetOffRate": 0.5
       },
       "Vehicle009": {
-        "ExpropriateSuccessRate": 0.5,
+        "ExpropriateSuccessRate": 0.8,
         "DriverGetOffRate": 0.5
       },
       "Vehicle009a": {
-        "ExpropriateSuccessRate": 0.5,
+        "ExpropriateSuccessRate": 0.8,
+        "DriverGetOffRate": 0.5
+      },
+      "Vehicle007a": {
+        "ExpropriateSuccessRate": 0.8,
+        "DriverGetOffRate": 0.5
+      },
+      "Vehicle018": {
+        "ExpropriateSuccessRate": 0.8,
+        "DriverGetOffRate": 0.5
+      },
+      "Vehicle020": {
+        "ExpropriateSuccessRate": 0.6,
         "DriverGetOffRate": 0.5
       }
     }

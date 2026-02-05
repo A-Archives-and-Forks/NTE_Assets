@@ -103,7 +103,8 @@
           "OceanChaseBoss_BattleManager_Unload",
           "OceanChaseBoss_BattleField_Load",
           "OceanChaseBoss_BattleField_Unload",
-          "OceanChaseBoss_OutsideManager_Load"
+          "OceanChaseBoss_OutsideManager_Load",
+          "OceanChaseBoss_BattleField_OnlyLoad"
         ]
       },
       "Vision_BuildingDrawing": {
@@ -111,6 +112,73 @@
           "Vision_BuildingDrawing_BlueDrawing",
           "Vision_BuildingDrawing_OrangeDrawing",
           "Vision_BuildingDrawing_01"
+        ]
+      },
+      "Museum_Lamp02": {
+        "YaHaHaIDs": [
+          "Yahaha_Mu_Lamp_02_InNer",
+          "Yahaha_Mu_Lamp_02_OutNer"
+        ]
+      },
+      "PrisonEscape01_brick": {
+        "YaHaHaIDs": [
+          "PrisonEscape01_brick01",
+          "PrisonEscape01_brick02",
+          "PrisonEscape01_brick03",
+          "PrisonEscape01_brick04",
+          "PrisonEscape01_brick05",
+          "PrisonEscape01_brick06",
+          "PrisonEscape01_brick07",
+          "PrisonEscape01_brick08",
+          "PrisonEscape01_brick09",
+          "PrisonEscape01_brick10"
+        ]
+      },
+      "Hospital_Ending": {
+        "YaHaHaIDs": [
+          "Hospital_Ending_1",
+          "Hospital_Ending_2",
+          "Hospital_Ending_3",
+          "Hospital_Ending_4",
+          "Hospital_Ending_5",
+          "Hospital_Ending_6"
+        ]
+      },
+      "Hospital_Pickup": {
+        "YaHaHaIDs": [
+          "Hospital_Ending_Clue01",
+          "Hospital_Ending_Clue02",
+          "Hospital_Ending_Clue03",
+          "Hospital_Ending_Clue04",
+          "Hospital_Ending_Clue05",
+          "Hospital_Ending_Clue06",
+          "Hospital_Ending_Clue07",
+          "Hospital_Ending_Clue08",
+          "Hospital_Ending_Clue09",
+          "Hospital_Ending_Clue10",
+          "Hospital_Ending_Clue11",
+          "Hospital_Ending_Clue12",
+          "Hospital_Ending_Clue13",
+          "Hospital_Ending_Clue14",
+          "Hospital_Ending_Clue15",
+          "Hospital_Ending_Clue16",
+          "Hospital_Ending_Clue17",
+          "Hospital_Ending_Clue18",
+          "Hospital_Ending_Clue19",
+          "Hospital_Ending_Clue20",
+          "Hospital_Ending_Clue21",
+          "Hospital_Ending_Clue22",
+          "Hospital_Pickup_1FKey1",
+          "Hospital_Pickup_1FKey2",
+          "Hospital_Pickup_2FKey1",
+          "Hospital_Pickup_2FKey2",
+          "Hospital_Pickup_2FKey3",
+          "Hospital_Pickup_2FKey4",
+          "Hospital_Pickup_Smoke1",
+          "Hospital_Pickup_Smoke2",
+          "Hospital_Pickup_Smoke3",
+          "Hospital_Pickup_Smoke4",
+          "Hospital_Pickup_Smoke5"
         ]
       }
     }

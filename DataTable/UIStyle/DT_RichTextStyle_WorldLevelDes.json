@@ -34,7 +34,7 @@
               }
             },
             "TypefaceFontName": "Default",
-            "Size": 23.0,
+            "Size": 20.0,
             "LetterSpacing": 0,
             "SkewAmount": 0.0,
             "bForceMonospaced": false,
@@ -43,11 +43,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.226966,
-              "G": 0.226966,
-              "B": 0.226966,
+              "R": 0.205079,
+              "G": 0.205079,
+              "B": 0.205079,
               "A": 1.0,
-              "Hex": "838383"
+              "Hex": "7D7D7D"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -301,11 +301,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.651406,
-              "G": 0.304987,
-              "B": 0.076185,
+              "R": 0.982251,
+              "G": 0.107023,
+              "B": 0.000607,
               "A": 1.0,
-              "Hex": "D3964E"
+              "Hex": "FD5C02"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },
@@ -549,8 +549,8 @@
                 "Hex": "000000"
               }
             },
-            "TypefaceFontName": "Default",
-            "Size": 23.0,
+            "TypefaceFontName": "Blod",
+            "Size": 20.0,
             "LetterSpacing": 0,
             "SkewAmount": 0.0,
             "bForceMonospaced": false,
@@ -559,11 +559,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.004777,
-              "G": 0.004777,
-              "B": 0.004777,
+              "R": 0.030713,
+              "G": 0.027321,
+              "B": 0.029557,
               "A": 1.0,
-              "Hex": "0F0F0F"
+              "Hex": "312E30"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },

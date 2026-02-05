@@ -187,11 +187,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 60.0
+            "Value": 48.0
           },
           {
             "Time": 5.0,
-            "Value": 96.0
+            "Value": 84.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -203,11 +203,15 @@
         "Keys": [
           {
             "Time": 1.0,
+            "Value": 0.1
+          },
+          {
+            "Time": 2.0,
             "Value": 0.12
           },
           {
             "Time": 5.0,
-            "Value": 0.2
+            "Value": 0.18
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -219,11 +223,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
+            "Value": 0.18
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.21
           },
           {
             "Time": 5.0,
-            "Value": 0.32
+            "Value": 0.3
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -267,11 +275,15 @@
         "Keys": [
           {
             "Time": 1.0,
+            "Value": 0.1
+          },
+          {
+            "Time": 2.0,
             "Value": 0.12
           },
           {
             "Time": 5.0,
-            "Value": 0.2
+            "Value": 0.18
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -283,11 +295,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 6.0
+            "Value": 10.0
           },
           {
             "Time": 5.0,
-            "Value": 10.0
+            "Value": 18.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -363,15 +375,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.025
+            "Value": 0.02
           },
           {
             "Time": 4.0,
-            "Value": 0.037
+            "Value": 0.032
           },
           {
             "Time": 5.0,
-            "Value": 0.04
+            "Value": 0.036
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -463,15 +475,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.25
+            "Value": 0.2
           },
           {
             "Time": 2.0,
-            "Value": 0.28
+            "Value": 0.24
           },
           {
             "Time": 5.0,
-            "Value": 0.4
+            "Value": 0.36
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -483,15 +495,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.25
+            "Value": 0.2
           },
           {
             "Time": 2.0,
-            "Value": 0.28
+            "Value": 0.24
           },
           {
             "Time": 5.0,
-            "Value": 0.4
+            "Value": 0.36
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -879,15 +891,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
+            "Value": 0.18
           },
           {
-            "Time": 4.0,
-            "Value": 0.35
+            "Time": 2.0,
+            "Value": 0.21
           },
           {
             "Time": 5.0,
-            "Value": 0.4
+            "Value": 0.3
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -902,12 +914,8 @@
             "Value": 0.1
           },
           {
-            "Time": 4.0,
-            "Value": 0.175
-          },
-          {
             "Time": 5.0,
-            "Value": 0.2
+            "Value": 0.16
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -935,11 +943,7 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.05
-          },
-          {
-            "Time": 4.0,
-            "Value": 0.0875
+            "Value": 0.06
           },
           {
             "Time": 5.0,
@@ -971,19 +975,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.16
-          },
-          {
-            "Time": 2.0,
-            "Value": 0.2
-          },
-          {
-            "Time": 3.0,
-            "Value": 0.24
+            "Value": 0.12
           },
           {
             "Time": 5.0,
-            "Value": 0.32
+            "Value": 0.2
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1030,12 +1026,12 @@
             "Value": 0.3
           },
           {
-            "Time": 4.0,
-            "Value": 0.525
+            "Time": 2.0,
+            "Value": 0.35
           },
           {
             "Time": 5.0,
-            "Value": 0.6
+            "Value": 0.5
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1047,11 +1043,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 2.0
+            "Value": 6.0
           },
           {
             "Time": 5.0,
-            "Value": 4.0
+            "Value": 10.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1095,11 +1091,15 @@
         "Keys": [
           {
             "Time": 1.0,
+            "Value": 0.1
+          },
+          {
+            "Time": 2.0,
             "Value": 0.12
           },
           {
             "Time": 5.0,
-            "Value": 0.2
+            "Value": 0.18
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1143,11 +1143,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 40.0
+            "Value": 60.0
           },
           {
             "Time": 5.0,
-            "Value": 64.0
+            "Value": 84.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1191,15 +1191,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.15
+            "Value": 0.12
           },
           {
             "Time": 4.0,
-            "Value": 0.21
+            "Value": 0.15
           },
           {
             "Time": 5.0,
-            "Value": 0.24
+            "Value": 0.16
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1275,7 +1275,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.1
+            "Value": 0.12
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.15
           },
           {
             "Time": 5.0,
@@ -1291,19 +1295,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.3
-          },
-          {
-            "Time": 2.0,
-            "Value": 0.34
-          },
-          {
-            "Time": 4.0,
-            "Value": 0.44
+            "Value": 0.26
           },
           {
             "Time": 5.0,
-            "Value": 0.48
+            "Value": 0.46
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1347,7 +1343,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.1
+            "Value": 0.12
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.15
           },
           {
             "Time": 5.0,
@@ -1366,16 +1366,8 @@
             "Value": 0.24
           },
           {
-            "Time": 3.0,
-            "Value": 0.36
-          },
-          {
-            "Time": 4.0,
-            "Value": 0.42
-          },
-          {
             "Time": 5.0,
-            "Value": 0.48
+            "Value": 0.4
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1387,19 +1379,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.16
+            "Value": 0.18
           },
           {
             "Time": 2.0,
-            "Value": 0.2
-          },
-          {
-            "Time": 3.0,
-            "Value": 0.24
+            "Value": 0.21
           },
           {
             "Time": 5.0,
-            "Value": 0.32
+            "Value": 0.3
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1411,19 +1399,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.32
+            "Value": 0.36
           },
           {
             "Time": 2.0,
-            "Value": 0.4
-          },
-          {
-            "Time": 3.0,
-            "Value": 0.48
+            "Value": 0.42
           },
           {
             "Time": 5.0,
-            "Value": 0.64
+            "Value": 0.6
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1435,19 +1419,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.16
+            "Value": 0.15
           },
           {
-            "Time": 2.0,
-            "Value": 0.2
-          },
-          {
-            "Time": 3.0,
-            "Value": 0.24
+            "Time": 4.0,
+            "Value": 0.2625
           },
           {
             "Time": 5.0,
-            "Value": 0.32
+            "Value": 0.3
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1459,19 +1439,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.16
+            "Value": 0.15
           },
           {
-            "Time": 2.0,
-            "Value": 0.2
-          },
-          {
-            "Time": 3.0,
-            "Value": 0.24
+            "Time": 4.0,
+            "Value": 0.2625
           },
           {
             "Time": 5.0,
-            "Value": 0.32
+            "Value": 0.3
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1678,56 +1654,12 @@
         "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
         "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
       },
-      "buff_mamen_AtkUp": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
-        "Keys": [
-          {
-            "Time": 1.0,
-            "Value": 0.05
-          },
-          {
-            "Time": 4.0,
-            "Value": 0.0875
-          },
-          {
-            "Time": 5.0,
-            "Value": 0.1
-          }
-        ],
-        "DefaultValue": 3.4028235E+38,
-        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
-        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
-      },
-      "buff_mamen_MaxAtkUp": {
-        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
-        "Keys": [
-          {
-            "Time": 1.0,
-            "Value": 0.8
-          },
-          {
-            "Time": 4.0,
-            "Value": 1.4
-          },
-          {
-            "Time": 5.0,
-            "Value": 1.6
-          }
-        ],
-        "DefaultValue": 3.4028235E+38,
-        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
-        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
-      },
       "buff_Nakipeda_Hp": {
         "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
-          },
-          {
-            "Time": 4.0,
-            "Value": 0.35
+            "Value": 0.24
           },
           {
             "Time": 5.0,
@@ -1851,23 +1783,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.3
-          },
-          {
-            "Time": 2.0,
-            "Value": 0.38
-          },
-          {
-            "Time": 3.0,
-            "Value": 0.45
-          },
-          {
-            "Time": 4.0,
-            "Value": 0.53
+            "Value": 0.225
           },
           {
             "Time": 5.0,
-            "Value": 0.6
+            "Value": 0.375
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1883,15 +1803,11 @@
           },
           {
             "Time": 2.0,
-            "Value": 0.18
-          },
-          {
-            "Time": 4.0,
-            "Value": 0.26
+            "Value": 0.175
           },
           {
             "Time": 5.0,
-            "Value": 0.3
+            "Value": 0.25
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1903,15 +1819,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.25
-          },
-          {
-            "Time": 2.0,
-            "Value": 0.32
+            "Value": 0.2
           },
           {
             "Time": 5.0,
-            "Value": 0.5
+            "Value": 0.32
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1923,15 +1835,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
+            "Value": 0.1
           },
           {
-            "Time": 4.0,
-            "Value": 0.35
+            "Time": 2.0,
+            "Value": 0.12
           },
           {
             "Time": 5.0,
-            "Value": 0.4
+            "Value": 0.18
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1959,11 +1871,11 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 80.0
+            "Value": 70.0
           },
           {
             "Time": 5.0,
-            "Value": 128.0
+            "Value": 126.0
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1975,11 +1887,15 @@
         "Keys": [
           {
             "Time": 1.0,
+            "Value": 0.1
+          },
+          {
+            "Time": 2.0,
             "Value": 0.12
           },
           {
             "Time": 5.0,
-            "Value": 0.2
+            "Value": 0.18
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -1991,11 +1907,15 @@
         "Keys": [
           {
             "Time": 1.0,
+            "Value": 0.1
+          },
+          {
+            "Time": 2.0,
             "Value": 0.12
           },
           {
             "Time": 5.0,
-            "Value": 0.2
+            "Value": 0.18
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2027,7 +1947,7 @@
           },
           {
             "Time": 5.0,
-            "Value": 0.32
+            "Value": 0.35
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2111,11 +2031,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
+            "Value": 0.1
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.12
           },
           {
             "Time": 5.0,
-            "Value": 0.32
+            "Value": 0.18
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2127,11 +2051,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
+            "Value": 0.1
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.12
           },
           {
             "Time": 5.0,
-            "Value": 0.32
+            "Value": 0.18
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2143,11 +2071,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
+            "Value": 0.1
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.12
           },
           {
             "Time": 5.0,
-            "Value": 0.32
+            "Value": 0.18
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2159,11 +2091,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
+            "Value": 0.18
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.21
           },
           {
             "Time": 5.0,
-            "Value": 0.32
+            "Value": 0.3
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2175,15 +2111,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
+            "Value": 0.15
           },
           {
-            "Time": 4.0,
-            "Value": 0.35
+            "Time": 2.0,
+            "Value": 0.175
           },
           {
             "Time": 5.0,
-            "Value": 0.4
+            "Value": 0.25
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2195,15 +2131,15 @@
         "Keys": [
           {
             "Time": 1.0,
-            "Value": 0.2
+            "Value": 0.15
           },
           {
-            "Time": 4.0,
-            "Value": 0.35
+            "Time": 2.0,
+            "Value": 0.175
           },
           {
             "Time": 5.0,
-            "Value": 0.4
+            "Value": 0.25
           }
         ],
         "DefaultValue": 3.4028235E+38,
@@ -2240,6 +2176,842 @@
           {
             "Time": 5.0,
             "Value": 25.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Time_AtkUp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.16
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.2
+          },
+          {
+            "Time": 3.0,
+            "Value": 0.24
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.32
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Time_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 1.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 1.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Time_CritDamageUp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.03
+          },
+          {
+            "Time": 3.0,
+            "Value": 0.045
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.0525
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.06
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Time_DefIgnore": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.12
+          },
+          {
+            "Time": 3.0,
+            "Value": 0.18
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.21
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.24
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Rose_AtkUp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.14
+          },
+          {
+            "Time": 3.0,
+            "Value": 0.21
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.28
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Rose_CritDamageUp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.06
+          },
+          {
+            "Time": 3.0,
+            "Value": 0.09
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.105
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.12
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Rose_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 3.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 3.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Rose_UnbalTime": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 3.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 3.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BitGame2_AtkUp1": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.1
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.14
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BitGame2_AtkUp2": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.02
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.029
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.032
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BitGame2_DamageUpPsycheBase1": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.12
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.2
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BitGame2_DamageUpPsycheBase2": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.02
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.029
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.032
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BlackBook2_Unbal": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 60.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 88.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BlackBook2_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 20.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 20.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BlackBook2_CD2": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 5.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 5.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BlackBook2_DamageUpChaosBase": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.2
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.24
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.36
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BlackBook2_SkillDamage": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 2.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 3.2
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_PoliceRat_SkillDamage": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 1.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 2.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BoxingCandy_Up": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.22
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.38
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BoxingCandy_Up2": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.28
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.46
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.52
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_KnightCandy_CritDamageUp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.04
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.064
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.072
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_KnightCandy_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 10.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_ThiefCandy_Up": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.08
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.128
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.144
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_ThiefCandy_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 10.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_MotorCandy_AtkUp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.05
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.06
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.09
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_MotorCandy_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 1.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 1.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BlastCandy_AtkUp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.25
+          },
+          {
+            "Time": 3.0,
+            "Value": 0.35
+          },
+          {
+            "Time": 4.0,
+            "Value": 0.4
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.45
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BlastCandy_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 10.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Crowbar_Unbal": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 90.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 162.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Crowbar_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 10.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Castle_HealUp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.12
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.2
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Castle_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 10.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 10.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Butterfly_DamageUpNatureBase": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.15
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.175
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.25
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Butterfly_attachedup": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.1
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.15
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Butterfly_attachedup2": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.2
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.3
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Butterfly_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 6.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 6.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_NestBird_CD1": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 20.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 20.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_NestBird_CD2": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 30.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 30.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_NestBird_down": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": -0.18
+          },
+          {
+            "Time": 2.0,
+            "Value": -0.21
+          },
+          {
+            "Time": 5.0,
+            "Value": -0.3
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Whale_AtkUp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.12
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.2
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Whale_Up": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.12
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.2
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Whale_Hp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.3
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.3
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Whale_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 30.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 30.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Rat_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 60.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 60.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_Time_DefIgnore_Dur": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 3.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 3.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_BitGame2_CD": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 2.0
+          },
+          {
+            "Time": 5.0,
+            "Value": 2.0
+          }
+        ],
+        "DefaultValue": 3.4028235E+38,
+        "PreInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant",
+        "PostInfinityExtrap": "ERichCurveExtrapolation::RCCE_Constant"
+      },
+      "buff_mamen_CosmosUp": {
+        "InterpMode": "ERichCurveInterpMode::RCIM_Linear",
+        "Keys": [
+          {
+            "Time": 1.0,
+            "Value": 0.025
+          },
+          {
+            "Time": 2.0,
+            "Value": 0.03
+          },
+          {
+            "Time": 5.0,
+            "Value": 0.045
           }
         ],
         "DefaultValue": 3.4028235E+38,

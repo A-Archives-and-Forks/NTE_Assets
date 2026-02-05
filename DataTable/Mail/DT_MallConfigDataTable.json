@@ -11,78 +11,164 @@
       }
     },
     "Rows": {
-      "1": {
-        "ShopID": "None",
-        "ShopList": [],
-        "RedPointType": "None",
-        "bIsHide": true,
-        "ContentIndex": 1
+      "MallShop": {
+        "ShopIDList": [
+          "MallShop"
+        ],
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/BPUI_MallShop.BPUI_MallShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": false,
+        "bIsCashShop": true,
+        "TycoonID": "None"
       },
-      "2": {
-        "ShopID": "MallShop",
-        "ShopList": [],
-        "RedPointType": "Redpoint.Menu.Mall.Mall",
-        "bIsHide": true,
-        "ContentIndex": 1
-      },
-      "3": {
-        "ShopID": "raffle",
-        "ShopList": [],
-        "RedPointType": "Redpoint.Menu.Mall.Lottery",
-        "bIsHide": true,
-        "ContentIndex": 1
+      "Raffle": {
+        "ShopIDList": [
+          "Raffle"
+        ],
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/BPUI_MallShop.BPUI_MallShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": false,
+        "bIsCashShop": false,
+        "TycoonID": "None"
       },
       "FonsLimitTimeShop1": {
-        "ShopID": "FonsLimitTimeShop1",
-        "ShopList": [],
-        "RedPointType": "None",
-        "bIsHide": false,
-        "ContentIndex": 4
+        "ShopIDList": [
+          "FonsLimitTimeShop1"
+        ],
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/LimitTime/BPUI_FonsLimitTimeShop.BPUI_FonsLimitTimeShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": true,
+        "bIsCashShop": false,
+        "TycoonID": "FonsShop01"
       },
-      "4": {
-        "ShopID": "AnnulithGiftShop",
-        "ShopList": [],
-        "RedPointType": "None",
-        "bIsHide": true,
-        "ContentIndex": 1
+      "AnnulithGiftShop": {
+        "ShopIDList": [
+          "AnnulithGiftShop"
+        ],
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/BPUI_MallShop.BPUI_MallShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": false,
+        "bIsCashShop": false,
+        "TycoonID": "None"
       },
-      "5": {
-        "ShopID": "RiftcrystalGiftShop",
-        "ShopList": [],
-        "RedPointType": "None",
-        "bIsHide": true,
-        "ContentIndex": 1
+      "RiftcrystalGiftShop": {
+        "ShopIDList": [
+          "RiftcrystalGiftShop"
+        ],
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/BPUI_MallShop.BPUI_MallShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": false,
+        "bIsCashShop": false,
+        "TycoonID": "None"
       },
-      "6": {
-        "ShopID": "ItemShop",
-        "ShopList": [],
-        "RedPointType": "None",
-        "bIsHide": false,
-        "ContentIndex": 1
-      },
-      "7": {
-        "ShopID": "None",
-        "ShopList": [],
-        "RedPointType": "None",
-        "bIsHide": true,
-        "ContentIndex": 2
+      "Appearance": {
+        "ShopIDList": [
+          "FashionShop",
+          "GlideShop",
+          "VehicleSkinShop"
+        ],
+        "RedpointType": "Redpoint.Menu.Mall.Appearance",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Appearance/BPUI_AppearanceShop.BPUI_AppearanceShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": true,
+        "bIsCashShop": false,
+        "TycoonID": "None"
       },
       "ForkShop": {
-        "ShopID": "None",
-        "ShopList": [],
-        "RedPointType": "None",
-        "bIsHide": false,
-        "ContentIndex": 3
+        "ShopIDList": [
+          "ForkShop",
+          "ForkExchangeShop"
+        ],
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Fork/BPUI_ForkShop.BPUI_ForkShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": true,
+        "bIsCashShop": false,
+        "TycoonID": "None"
       },
       "MultiShop1": {
-        "ShopID": "None",
-        "ShopList": [
+        "ShopIDList": [
           "WarpPieceShop",
-          "LostPieceShop"
+          "LostPieceShop",
+          "ItemShop"
         ],
-        "RedPointType": "None",
-        "bIsHide": false,
-        "ContentIndex": 5
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/BPUI_MultiShop.BPUI_MultiShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": true,
+        "bIsCashShop": false,
+        "TycoonID": "None"
+      },
+      "RechargeShop": {
+        "ShopIDList": [],
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/BPUI_RechargeShop.BPUI_RechargeShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": true,
+        "bIsCashShop": true,
+        "TycoonID": "None"
+      },
+      "MonthCard": {
+        "ShopIDList": [],
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/BPUI_RecommendShop.BPUI_RecommendShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": true,
+        "bIsCashShop": true,
+        "TycoonID": "None"
+      },
+      "GiftShop": {
+        "ShopIDList": [
+          "GameBackendGiftShop",
+          "GiftShop"
+        ],
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/BPUI_GiftShop.BPUI_GiftShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": true,
+        "bIsCashShop": true,
+        "TycoonID": "Gift"
+      },
+      "GameShop": {
+        "ShopIDList": [
+          "Advvisionshop",
+          "AbyssShop"
+        ],
+        "RedpointType": "None",
+        "ShopUIClass": {
+          "AssetPathName": "/Game/UI/Blueprints/Shop/BPUI_MultiShop.BPUI_MultiShop_C",
+          "SubPathString": ""
+        },
+        "bIsShow": true,
+        "bIsCashShop": false,
+        "TycoonID": "None"
       }
     }
   }

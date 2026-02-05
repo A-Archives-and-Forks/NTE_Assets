@@ -14,19 +14,42 @@
       "FonsLimitTimeShop1": {
         "StartTime": {
           "Year": 2025,
-          "Month": 5,
-          "Day": 27,
+          "Month": 12,
+          "Day": 24,
           "Hour": 0,
           "minute": 0,
-          "second": 0
+          "Second": 0
         },
         "EndTime": {
-          "Year": 2025,
-          "Month": 8,
-          "Day": 6,
+          "Year": 2026,
+          "Month": 2,
+          "Day": 20,
+          "Hour": 23,
+          "minute": 59,
+          "Second": 59
+        },
+        "GoodIDs": [
+          "FonsLimitTimeShop1_002",
+          "FonsLimitTimeShop1_003",
+          "FonsLimitTimeShop1_004"
+        ]
+      },
+      "NewRow": {
+        "StartTime": {
+          "Year": 2026,
+          "Month": 2,
+          "Day": 21,
           "Hour": 0,
           "minute": 0,
-          "second": 0
+          "Second": 0
+        },
+        "EndTime": {
+          "Year": 2026,
+          "Month": 3,
+          "Day": 18,
+          "Hour": 23,
+          "minute": 59,
+          "Second": 59
         },
         "GoodIDs": [
           "FonsLimitTimeShop1_002",

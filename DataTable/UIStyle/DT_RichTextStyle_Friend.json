@@ -301,11 +301,11 @@
           },
           "ColorAndOpacity": {
             "SpecifiedColor": {
-              "R": 0.038204,
-              "G": 0.042311,
-              "B": 0.057805,
+              "R": 0.215861,
+              "G": 0.215861,
+              "B": 0.223228,
               "A": 1.0,
-              "Hex": "373A44"
+              "Hex": "808082"
             },
             "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
           },

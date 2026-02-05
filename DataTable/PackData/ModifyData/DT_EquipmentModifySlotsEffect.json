@@ -27,7 +27,7 @@
         "ModifyData": [
           {
             "PropName": "CritBase",
-            "PropValue": 0.08,
+            "PropValue": 0.075,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -38,7 +38,7 @@
         "ModifyData": [
           {
             "PropName": "DamageUpIncantationBase",
-            "PropValue": 0.08,
+            "PropValue": 0.09,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -49,7 +49,7 @@
         "ModifyData": [
           {
             "PropName": "CritBase",
-            "PropValue": 0.05,
+            "PropValue": 0.06,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }
@@ -103,7 +103,7 @@
         "ConditionArray": [],
         "ModifyData": [
           {
-            "PropName": "HPMaxUp",
+            "PropName": "DamageUpCosmosBase",
             "PropValue": 0.1,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
@@ -138,6 +138,50 @@
           {
             "PropName": "CritBase",
             "PropValue": 0.08,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "SlotsEffect_kuhara": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "CritBase",
+            "PropValue": 0.06,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "SlotsEffect_edgar": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "HPMaxUp",
+            "PropValue": 0.1,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "SlotsEffect_daffodill": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "DamageUpChaosBase",
+            "PropValue": 0.1,
+            "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
+            "SortKey": 0
+          }
+        ]
+      },
+      "SlotsEffect_chiichan": {
+        "ConditionArray": [],
+        "ModifyData": [
+          {
+            "PropName": "DamageUpCosmosBase",
+            "PropValue": 0.1,
             "ModifierOp": "EModifyModOp::MODIFY_MODOP_ADDITIVE",
             "SortKey": 0
           }

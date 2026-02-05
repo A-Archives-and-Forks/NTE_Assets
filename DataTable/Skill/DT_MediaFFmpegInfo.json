@@ -341,6 +341,36 @@
         "FeedBackEffectID": "None",
         "MediaIntroduceArray": []
       },
+      "EdgarUltraSkill": {
+        "Path": {
+          "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Skill/EdgarUltraSkill.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": false,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
       "q110001": {
         "Path": {
           "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Story/HM_U00C00_01.mp4"
@@ -376,7 +406,7 @@
           "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Story/HM_U00C00_03.mp4"
         },
         "UIZOrder": 0,
-        "bShowBlack": false,
+        "bShowBlack": true,
         "bShowSkipButton": false,
         "bNeedSex": true,
         "bCanDisableInSettings": false,
@@ -441,7 +471,7 @@
         "bNeedSex": true,
         "bCanDisableInSettings": false,
         "StringTableID": "Sequence",
-        "InOutTime": 1.0,
+        "InOutTime": 0.6,
         "PlaySound": {
           "AssetPathName": "/Game/WwiseAudio/Events/CG/Guide/HM_U00C00_06/Play_Sfx_Music_CG_HM_U00C00_06.Play_Sfx_Music_CG_HM_U00C00_06",
           "SubPathString": ""
@@ -501,7 +531,7 @@
         "bNeedSex": true,
         "bCanDisableInSettings": false,
         "StringTableID": "Sequence",
-        "InOutTime": 0.6,
+        "InOutTime": 3.0,
         "PlaySound": {
           "AssetPathName": "/Game/WwiseAudio/Events/CG/Guide/HM_U00C00_09/Play_Sfx_Music_CG_HM_U00C00_09.Play_Sfx_Music_CG_HM_U00C00_09",
           "SubPathString": ""
@@ -1216,7 +1246,7 @@
           "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Story/HM_cang01_003.mp4"
         },
         "UIZOrder": 0,
-        "bShowBlack": false,
+        "bShowBlack": true,
         "bShowSkipButton": true,
         "bNeedSex": true,
         "bCanDisableInSettings": false,
@@ -2308,7 +2338,7 @@
         "FeedBackEffectID": "None",
         "MediaIntroduceArray": [
           {
-            "StartTime": 187250,
+            "StartTime": 195000,
             "MediaInfoClassID": "Video_weeks"
           }
         ]
@@ -2384,6 +2414,636 @@
         "bCanDisableInSettings": false,
         "StringTableID": "None",
         "InOutTime": 0.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "PrisonStart": {
+        "Path": {
+          "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Story/Prison_Start.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": true,
+        "bShowSkipButton": true,
+        "bNeedSex": false,
+        "bCanDisableInSettings": false,
+        "StringTableID": "Sequence",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/World/Prison_Start/Play_Sfx_CG_SE_Prison_Start.Play_Sfx_CG_SE_Prison_Start",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/World/Prison_Start/Stop_Sfx_CG_SE_Prison_Start.Stop_Sfx_CG_SE_Prison_Start",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "SE_World_Abyss_FirstEntry": {
+        "Path": {
+          "FilePath": "../../../Projects/HT/Content/Movies/FFMpeg/Void/SE_Abyss_Train.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": true,
+        "StringTableID": "None",
+        "InOutTime": 0.66,
+        "PlaySound": {
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/World/SE_Abyss_all/Play_Sfx_Music_CG_SE_Abyss_all.Play_Sfx_Music_CG_SE_Abyss_all",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "/Game/WwiseAudio/Events/CG/World/SE_Abyss_all/Stop_Sfx_Music_CG_SE_Abyss_all.Stop_Sfx_Music_CG_SE_Abyss_all",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "bohe_qs": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/bohe/bohe_qs.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": false,
+        "bNeedSex": false,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": 0.66,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "bohe_bkb": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/bohe/bohe_bkb.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "bohe_cq": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/bohe/bohe_cq.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "bohe_cr": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/bohe/bohe_cr.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "bohe_wbhl": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/bohe/bohe_wbhl.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "bohe_yb": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/bohe/bohe_yb.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "bohe_zp": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/bohe/bohe_zp.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "nanali_bkb": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/nanali/nanali_bkb.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "nanali_cq": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/nanali/nanali_cq.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "nanali_cr": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/nanali/nanali_cr.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "nanali_qs": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/nanali/nanali_qs.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "nanali_yb": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/nanali/nanali_yb.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "nanali_zmc": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/nanali/nanali_zmc.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "jiuyuan_bkb": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/jiuyuan/jiuyuan_bkb.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "jiuyuan_qs": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/jiuyuan/jiuyuan_qs.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "jiuyuan_yb": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/jiuyuan/jiuyuan_yb.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "fadiya_bkb": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/fadiya/fadiya_bkb.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "fadiya_qs": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/fadiya/fadiya_qs.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
+        "PlaySound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopSound": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "PlayVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "StopVoice": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "FeedBackEffectID": "None",
+        "MediaIntroduceArray": []
+      },
+      "fadiya_yb": {
+        "Path": {
+          "FilePath": "./Movies/FFMpeg/RoomInvite/fadiya/fadiya_yb.mp4"
+        },
+        "UIZOrder": 0,
+        "bShowBlack": false,
+        "bShowSkipButton": true,
+        "bNeedSex": true,
+        "bCanDisableInSettings": false,
+        "StringTableID": "None",
+        "InOutTime": -1.0,
         "PlaySound": {
           "AssetPathName": "",
           "SubPathString": ""
