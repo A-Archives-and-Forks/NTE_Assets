@@ -24,7 +24,8 @@
         "Bagel_Post_Floor_Content2": "<!>2楼内容",
         "Bagel_Post_Floor_Reply1": "<!>1楼回复内容1",
         "Bagel_Post_Content2": "<!>帖子内容1内容1帖子内容1帖内容1帖子内容1帖子内容1帖子内容1",
-        "Bagel_Forbid": "<!>该用户因被举报过多，账号已暂时封禁发帖权限"
+        "Bagel_Forbid": "<!>该用户因被举报过多，账号已暂时封禁发帖权限",
+        "Bagel_net": "abtps://bagel.htr"
       },
       "KeysToMetaData": {}
     }

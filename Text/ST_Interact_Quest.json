@@ -85,7 +85,22 @@
         "interact_076": "安抚「理性」",
         "interact_077": "前往「月亮狗之夜」",
         "interact_078": "登台",
-        "interact_079": "清理"
+        "interact_079": "清理",
+        "interact_080": "等待日出",
+        "interact_081": "回应",
+        "interact_empty": " ",
+        "interact_082": "开灯",
+        "interact_083": "接听",
+        "interact_084": "询问",
+        "interact_085": "加水",
+        "interact_086": "捡起",
+        "interact_087": "前往1层",
+        "interact_088": "前往3层",
+        "interact_089": "前往顶层",
+        "interact_090": "安抚",
+        "interact_091": "紧急制动",
+        "interact_092": "钓鱼",
+        "interact_093": "拍摄"
       },
       "KeysToMetaData": {}
     }

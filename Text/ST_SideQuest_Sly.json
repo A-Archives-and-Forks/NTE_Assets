@@ -102,7 +102,7 @@
         "S110832_ObjDes_None": "与<blue>袋先生</>交谈",
         "S110833_QuestName": "袋先生的安排",
         "S110833_QuestPanel": "袋先生会将讲解课程安排妥当，现在只需等待通知就好。",
-        "S110833_ObjDes_None": "等待<blue>30分钟</>课程安排通知",
+        "S110833_ObjDes_None": "等待<blue>片刻</>课程安排通知",
         "S110834_QuestName": "课程通知",
         "S110834_QuestPanel": "袋先生发来了讲解课程的相关通知，查阅一下具体安排吧。",
         "S110834_ObjDes_None": "查看<blue>课程邀约</>",
@@ -175,7 +175,7 @@
         "S110830（skip）_ObjDes_1": "S110830（skip）_ObjDes_1",
         "S110831_ObjDes_1": "前往<blue>异象管理局</>申请「车票」",
         "S110832_ObjDes_1": "与<blue>袋先生</>交谈",
-        "S110833_ObjDes_1": "等待<blue>30分钟</>课程安排通知",
+        "S110833_ObjDes_1": "等待<blue>片刻</>课程安排通知",
         "S110834_ObjDes_1": "查看<blue>课程邀约</>",
         "S110835_ObjDes_1": "前往<blue>车站</>参与课程",
         "S110836_ObjDes_1": "前往<blue>异象管理局</>参加笔试",
@@ -188,7 +188,10 @@
         "S110843_ObjDes_1": "查看<blue>通知</>",
         "S110844_ObjDes_1": "前往<blue>车站</>领取「车票」",
         "S110846_ObjDes_1": "S110846_ObjDes_1",
-        "S110847_ObjDes_1": "S110847_ObjDes_1"
+        "S110847_ObjDes_1": "S110847_ObjDes_1",
+        "S110834_1_QuestName": "再次前往异象车站",
+        "S110834_1_ObjDes_1": "返回异象车站",
+        "S110834_1_QuestPanel": "返回异象车站"
       },
       "KeysToMetaData": {}
     }

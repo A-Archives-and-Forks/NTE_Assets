@@ -61,7 +61,10 @@
         "ui_edit_playerinfolist_041": "公开车辆",
         "ui_edit_playerinfolist_042": "公开角色",
         "ui_edit_playerinfolist_043": "更改名称后，72小时内无法再次更改",
-        "ui_edit_avatarframe_001": "默认头像框"
+        "ui_edit_avatarframe_001": "默认头像框",
+        "ui_editbusinesscard_001": "默认名片",
+        "ui_editbusinesscard_002": "默认获取",
+        "ui_editbusinesscard_003": "使用中"
       },
       "KeysToMetaData": {}
     }

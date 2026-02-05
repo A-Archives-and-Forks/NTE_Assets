@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_UI_N",
+    "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "StringTable": {
+      "TableNamespace": "ST_UI_N",
+      "KeysToEntries": {
+        "Newbie_Subtitle": "[目标是成为全海特洛市最强的异象猎人！]",
+        "Newbie_Title": "猎人手札",
+        "MonsterManual_Boss": "首领",
+        "MonsterManual_WeeklyBoss": "强敌",
+        "MonsterManual_Elite": "精英",
+        "MonsterManual_Normal": "普通",
+        "Multi_Vision_Support": "支持多人模式",
+        "Multi_Vision_Unsupport": "不支持多人模式"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

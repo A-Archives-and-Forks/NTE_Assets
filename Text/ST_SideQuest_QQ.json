@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_SideQuest_QQ",
+    "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "StringTable": {
+      "TableNamespace": "ST_SideQuest_QQ",
+      "KeysToEntries": {
+        "WJ1016_Inster": "等候列车",
+        "WJ104301_dec": "与<blue>九原</>对话",
+        "WJ101601_1_dec": "与<blue>薄荷</>一起等待",
+        "WJ102102_dec": "寻找<blue>空的桌位</>",
+        "BP_WJ102102_Int": "等候安魂曲",
+        "SUW_TBS_WA024_ZW": "当~当~当~当当当~当~",
+        "WLSD_NPC_013_WJ1035_A_002": "店长将洗好的照片交给我们",
+        "WLSD_NPC_006_WJ019_Player_006": "叫醒他",
+        "Adl_ZJ": "常日",
+        "Nnl_ZJ": "老大巡视中",
+        "Adj_ZJ": "知识获取中",
+        "Zw_ZJ": "不是乖孩子！",
+        "Bh_ZJ": "此间百味事",
+        "Y_ZJ": "1",
+        "Bc_ZJ": "闲游幸会",
+        "Ahq_ZJ": "都市随想曲",
+        "Fdy_ZJ": "甜蜜的毒药",
+        "X_ZJ": "半日闲",
+        "Dfde_ZJ": "湖中的小水仙",
+        "Hse_ZJ": "行程外的时间",
+        "Hny_ZJ": "与你分享的一日",
+        "Jy_ZJ": "非预期会面"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

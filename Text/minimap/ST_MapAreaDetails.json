@@ -70,7 +70,17 @@
         "Map_SubArea00504": "海角广场",
         "Map_SubArea00505": "海角巨蛋",
         "Map_City01": "海特洛市",
-        "Map_Area00413": "伊亚大道"
+        "Map_Area00413": "伊亚大道",
+        "Map_Area000_NoFormat": "M10区",
+        "Map_Area001_NoFormat": "桥间地",
+        "Map_Area002_NoFormat": "未闻浦 ",
+        "Map_Area003_NoFormat": "绘空町",
+        "Map_Area004_NoFormat": "米格尔区",
+        "Map_Area005_NoFormat": "新赫兰德区",
+        "Map_Area006": "半港区",
+        "Map_Area007": "噗咔乐园",
+        "Map_Area008": "拘留所",
+        "Map_Area009": "向阳岛"
       },
       "KeysToMetaData": {}
     }

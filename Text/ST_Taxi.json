@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Taxi",
+    "Class": "UScriptClass'StringTable'",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "StringTable": {
+      "TableNamespace": "ST_QuestActor",
+      "KeysToEntries": {
+        "Taxi_QuestName": "雨燕出行",
+        "Taxi_Toguest": "前往乘客上车点",
+        "Taxi_Totarget": "前往乘客目的地",
+        "Taxi_remind_01": "请驾驶自己的载具接取乘客",
+        "Taxi_remind_02": "请驾驶合适的载具接取乘客"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]
