@@ -13225,6 +13225,39 @@
         "TransformLoadingData": null,
         "TransferWithVehicle": false,
         "bDisablePlayVoice": true
+      },
+      "NPF_SubWayProtect": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.026176948,
+            "W": 0.99965733,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 4280.0,
+            "Y": 246600.0,
+            "Z": 31846.936
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "BelongLevelName": "XL_map_bigworld_test",
+        "CameraRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "bKeepPlayerRotation": true,
+        "TransformLoadingData": null,
+        "TransferWithVehicle": false,
+        "bDisablePlayVoice": true
       }
     }
   }

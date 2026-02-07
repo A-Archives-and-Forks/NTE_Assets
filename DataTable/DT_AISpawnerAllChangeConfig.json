@@ -21,7 +21,6 @@
                   "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_001/BP_NPC_001.BP_NPC_001_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": null,
                 "Count": 1,
                 "SpawnTransformPointsOverride": [
                   {
@@ -89,7 +88,6 @@
                   "AssetPathName": "/Game/Blueprints/Character/NPC/NPC_002/BP_NPC_002.BP_NPC_002_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": null,
                 "Count": 1,
                 "SpawnTransformPointsOverride": [
                   {

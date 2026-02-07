@@ -1316,6 +1316,94 @@
             "OptionData": "zh-CN",
             "LimitOptionData": [],
             "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_zh_hant",
+              "SourceString": "繁體中文",
+              "LocalizedString": "繁體中文"
+            },
+            "OptionData": "zh-Hant",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_en",
+              "SourceString": "English",
+              "LocalizedString": "English"
+            },
+            "OptionData": "en",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_ja_jp",
+              "SourceString": "日本語",
+              "LocalizedString": "日本語"
+            },
+            "OptionData": "ja",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_ko_kr",
+              "SourceString": "한국어",
+              "LocalizedString": "한국어"
+            },
+            "OptionData": "ko",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_de",
+              "SourceString": "Deutsch",
+              "LocalizedString": "Deutsch"
+            },
+            "OptionData": "de",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_fr",
+              "SourceString": "Français",
+              "LocalizedString": "Français"
+            },
+            "OptionData": "fr",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_ru",
+              "SourceString": "Русский",
+              "LocalizedString": "Русский"
+            },
+            "OptionData": "ru",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
+          },
+          {
+            "OptionShowName": {
+              "TableId": "/Game/Text/ST_Ui.ST_Ui",
+              "Key": "setting_es",
+              "SourceString": "Español",
+              "LocalizedString": "Español"
+            },
+            "OptionData": "es",
+            "LimitOptionData": [],
+            "OptionInstancedData": null
           }
         ],
         "DefaultOptionIndex": 0

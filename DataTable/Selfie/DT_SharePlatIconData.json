@@ -77,8 +77,8 @@
           "SubPathString": ""
         },
         "bMainlandIsShow": false,
-        "bGlobalIsShow": true,
-        "bIWPlayIsShow": true,
+        "bGlobalIsShow": false,
+        "bIWPlayIsShow": false,
         "Desc": ""
       },
       "8": {
@@ -107,8 +107,8 @@
           "SubPathString": ""
         },
         "bMainlandIsShow": false,
-        "bGlobalIsShow": true,
-        "bIWPlayIsShow": true,
+        "bGlobalIsShow": false,
+        "bIWPlayIsShow": false,
         "Desc": ""
       }
     }

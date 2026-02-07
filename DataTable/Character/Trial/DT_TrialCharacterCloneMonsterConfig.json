@@ -21,7 +21,6 @@
                   "AssetPathName": "/Game/Blueprints/Character/Monster/mon_14/ResourceClone/mon_14_World_BP_Gold_Lv1.mon_14_World_BP_Gold_Lv1_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": null,
                 "Count": 1,
                 "SpawnTransformPointsOverride": [
                   {
@@ -78,7 +77,6 @@
                   "AssetPathName": "/Game/Blueprints/Character/Monster/mon_14/ResourceClone/mon_14_World_BP_Gold_Lv1.mon_14_World_BP_Gold_Lv1_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": null,
                 "Count": 2,
                 "SpawnTransformPointsOverride": [
                   {
@@ -170,7 +168,6 @@
                   "AssetPathName": "/Game/Blueprints/Character/Monster/mon_01/AttackTest.AttackTest_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": null,
                 "Count": 1,
                 "SpawnTransformPointsOverride": [
                   {
@@ -238,7 +235,6 @@
                   "AssetPathName": "/Game/Blueprints/Character/Monster/mon_01/Trial/mon_01_var_green_BP_Trial.mon_01_var_green_BP_Trial_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": null,
                 "Count": 1,
                 "SpawnTransformPointsOverride": [
                   {
@@ -309,7 +305,6 @@
                   "AssetPathName": "/Game/Blueprints/Character/Monster/mon_01/Trial/mon_01_BP_Trial.mon_01_BP_Trial_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": null,
                 "Count": 1,
                 "SpawnTransformPointsOverride": [
                   {
@@ -380,7 +375,6 @@
                   "AssetPathName": "/Game/Blueprints/Character/Monster/mon_01/Trial/mon_01_BP_Trial.mon_01_BP_Trial_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": null,
                 "Count": 3,
                 "SpawnTransformPointsOverride": [
                   {
@@ -490,7 +484,6 @@
                   "AssetPathName": "/Game/Blueprints/Character/Monster/mon_01/AttackTest.AttackTest_C",
                   "SubPathString": ""
                 },
-                "AITemplateCache": null,
                 "Count": 1,
                 "SpawnTransformPointsOverride": [
                   {

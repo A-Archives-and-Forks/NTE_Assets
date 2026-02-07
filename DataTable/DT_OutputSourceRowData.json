@@ -3909,6 +3909,16 @@
         "SourceArray": [
           "Prison_Explored"
         ]
+      },
+      "Furniture_Ornament_046_leisure": {
+        "SourceArray": [
+          "Shop_030_04_01"
+        ]
+      },
+      "Furniture_Ornament_047_leisure": {
+        "SourceArray": [
+          "Shop_030_04_01"
+        ]
       }
     }
   }

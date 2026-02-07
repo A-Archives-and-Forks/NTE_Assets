@@ -964,7 +964,7 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "Tajiduo",
+        "LikeabilityID": "None",
         "LivingEmojiMaterial": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -1468,7 +1468,7 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "Tajiduo",
+        "LikeabilityID": "None",
         "LivingEmojiMaterial": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -1513,7 +1513,7 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "Tajiduo",
+        "LikeabilityID": "None",
         "LivingEmojiMaterial": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -1558,7 +1558,7 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "Tajiduo",
+        "LikeabilityID": "None",
         "LivingEmojiMaterial": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -2225,7 +2225,7 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "Tajiduo",
+        "LikeabilityID": "None",
         "LivingEmojiMaterial": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -2270,7 +2270,7 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::Notice",
-        "LikeabilityID": "Tajiduo",
+        "LikeabilityID": "None",
         "LivingEmojiMaterial": {
           "AssetPathName": "",
           "SubPathString": ""
@@ -2851,7 +2851,7 @@
         "PustGameTimeHour": 8,
         "ChatPushTime": 0.0,
         "ChatNoticeType": "ELikeabilityChatNoticeType::None",
-        "LikeabilityID": "Tajiduo",
+        "LikeabilityID": "None",
         "LivingEmojiMaterial": {
           "AssetPathName": "",
           "SubPathString": ""

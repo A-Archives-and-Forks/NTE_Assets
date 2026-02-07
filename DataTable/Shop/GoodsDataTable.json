@@ -120549,6 +120549,174 @@
         "CityShopExtensionData": null,
         "GoodTagType": "EGoodTagType::None"
       },
+      "Shop_030_04_00": {
+        "OwnerShopID": "Shop_030_04_01",
+        "ItemID": "Furniture_Ornament_046_leisure",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 2,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 999,
+        "LimitAmount": 999,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::Weekly",
+        "CurrencyID": "Fons",
+        "Price": 30000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "OffStartTime": {
+          "Year": 0,
+          "Month": 0,
+          "Day": 0,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "OffEndTime": {
+          "Year": 0,
+          "Month": 0,
+          "Day": 0,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "OverseaOffStartTime": {
+          "Year": 0,
+          "Month": 0,
+          "Day": 0,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "OverseaOffEndTime": {
+          "Year": 0,
+          "Month": 0,
+          "Day": 0,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "UnLockID": "None",
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "LimitStartTime": {
+          "Year": -1,
+          "Month": -1,
+          "Day": -1,
+          "Hour": -1,
+          "minute": -1,
+          "Second": -1
+        },
+        "LimitEndTime": {
+          "Year": -1,
+          "Month": -1,
+          "Day": -1,
+          "Hour": -1,
+          "minute": -1,
+          "Second": -1
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None"
+      },
+      "Shop_030_04_001": {
+        "OwnerShopID": "Shop_030_04_01",
+        "ItemID": "Furniture_Ornament_047_leisure",
+        "ItemName": {
+          "CultureInvariantString": null
+        },
+        "GoodSortLevel": 2,
+        "ShowItemID": "None",
+        "MixAmount": 1,
+        "MaxAmount": 999,
+        "LimitAmount": 999,
+        "LimitsFunctionAmount": [],
+        "RefreshType": "EShopRefresh::Weekly",
+        "CurrencyID": "Fons",
+        "Price": 30000,
+        "PriceType": "PriceShowType::Cost",
+        "LimitText": {
+          "CultureInvariantString": null
+        },
+        "bUseOff": false,
+        "OffPrice": 1,
+        "OffTagBg": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "OffText": {
+          "CultureInvariantString": null
+        },
+        "OffStartTime": {
+          "Year": 0,
+          "Month": 0,
+          "Day": 0,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "OffEndTime": {
+          "Year": 0,
+          "Month": 0,
+          "Day": 0,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "OverseaOffStartTime": {
+          "Year": 0,
+          "Month": 0,
+          "Day": 0,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "OverseaOffEndTime": {
+          "Year": 0,
+          "Month": 0,
+          "Day": 0,
+          "Hour": 0,
+          "minute": 0,
+          "Second": 0
+        },
+        "UnLockID": "None",
+        "lockHide": false,
+        "NeedTrackQuestList": [],
+        "SellOutHide": false,
+        "LimitStartTime": {
+          "Year": -1,
+          "Month": -1,
+          "Day": -1,
+          "Hour": -1,
+          "minute": -1,
+          "Second": -1
+        },
+        "LimitEndTime": {
+          "Year": -1,
+          "Month": -1,
+          "Day": -1,
+          "Hour": -1,
+          "minute": -1,
+          "Second": -1
+        },
+        "LimitEdition": "LimitEditionGoodType::None",
+        "CityShopExtensionData": null,
+        "GoodTagType": "EGoodTagType::None"
+      },
       "Shop_030_04_01": {
         "OwnerShopID": "Shop_030_04_01",
         "ItemID": "Furniture_Ornament_050",

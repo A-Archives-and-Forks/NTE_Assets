@@ -26279,10 +26279,19 @@
         "SequenceId": "droplist_DIceLimite",
         "HiddenCounts": false,
         "SequenceWeight": 1.0,
-        "ModifyNum": 6,
+        "ModifyNum": 4,
         "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
       },
       "drop_combat_levelup_2": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_DIceNormal",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 2,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
+      },
+      "drop_combat_levelup_3": {
         "MinLevel": 0,
         "MaxLevel": 100,
         "SequenceId": "droplist_bp_weaponbox_01",
@@ -26291,7 +26300,7 @@
         "ModifyNum": 1,
         "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
       },
-      "drop_combat_levelup_3": {
+      "drop_combat_levelup_4": {
         "MinLevel": 0,
         "MaxLevel": 100,
         "SequenceId": "droplist_Equipment_OrangeTicket",
@@ -26300,7 +26309,7 @@
         "ModifyNum": 960,
         "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
       },
-      "drop_combat_levelup_4": {
+      "drop_combat_levelup_5": {
         "MinLevel": 0,
         "MaxLevel": 100,
         "SequenceId": "droplist_SpecialGift_letter",
@@ -26309,7 +26318,7 @@
         "ModifyNum": 1,
         "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
       },
-      "drop_combat_levelup_5": {
+      "drop_combat_levelup_6": {
         "MinLevel": 0,
         "MaxLevel": 100,
         "SequenceId": "droplist_SpecialGift_Conch",
@@ -26318,7 +26327,7 @@
         "ModifyNum": 10,
         "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
       },
-      "drop_combat_levelup_6": {
+      "drop_combat_levelup_7": {
         "MinLevel": 0,
         "MaxLevel": 100,
         "SequenceId": "droplist_Stamina",
@@ -26327,25 +26336,7 @@
         "ModifyNum": 6,
         "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
       },
-      "drop_combat_levelup_7": {
-        "MinLevel": 0,
-        "MaxLevel": 100,
-        "SequenceId": "droplist_skillbreakbox_01",
-        "HiddenCounts": false,
-        "SequenceWeight": 1.0,
-        "ModifyNum": 16,
-        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
-      },
       "drop_combat_levelup_8": {
-        "MinLevel": 0,
-        "MaxLevel": 100,
-        "SequenceId": "droplist_Upgaradebox_02",
-        "HiddenCounts": false,
-        "SequenceWeight": 1.0,
-        "ModifyNum": 18,
-        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
-      },
-      "drop_combat_levelup_9": {
         "MinLevel": 0,
         "MaxLevel": 100,
         "SequenceId": "droplist_Fons",
@@ -26354,7 +26345,25 @@
         "ModifyNum": 320000,
         "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
       },
+      "drop_combat_levelup_9": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_skillbreakbox_01",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 16,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
+      },
       "drop_combat_levelup_10": {
+        "MinLevel": 0,
+        "MaxLevel": 100,
+        "SequenceId": "droplist_Upgaradebox_02",
+        "HiddenCounts": false,
+        "SequenceWeight": 1.0,
+        "ModifyNum": 18,
+        "DropGroupLevelType": "EDropGroupLevelType::DROPGROUPLEVELTYPE_CHARACTERLEVEL"
+      },
+      "drop_combat_levelup_11": {
         "MinLevel": 0,
         "MaxLevel": 100,
         "SequenceId": "droplist_gold",
