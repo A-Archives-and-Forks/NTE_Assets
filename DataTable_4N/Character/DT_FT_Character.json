@@ -32,7 +32,7 @@
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_019",
           "SourceString": "薄荷",
-          "LocalizedString": "薄荷"
+          "LocalizedString": "Mint"
         },
         "MaxAmount": 1,
         "bUseMaxAmountLimitID": false,
@@ -51,13 +51,13 @@
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "NPC001_homeplace",
           "SourceString": "异象管理局收容二组",
-          "LocalizedString": "异象管理局收容二组"
+          "LocalizedString": "Bureau of Anomaly Control, CSU-2"
         },
         "Description": {
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "NPC001_introduction",
           "SourceString": "如果能有评定，应该会是收容组内「被异象骗最多次」的人。",
-          "LocalizedString": "如果能有评定，应该会是收容组内「被异象骗最多次」的人。"
+          "LocalizedString": "If there was such a ranking, I'd probably hold the record for \"Most Times Tricked by Anomalies\" in the Containment Units…"
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -98,13 +98,13 @@
               "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg.ST_IntroduceMsg",
               "Key": "MainUI_Prologue_Mint_00001",
               "SourceString": "唔，空间又发生改变了……",
-              "LocalizedString": "唔，空间又发生改变了……"
+              "LocalizedString": "Ugh, the space is changing again…"
             },
             {
               "TableId": "/Game/Text/IntroduceMsg/ST_IntroduceMsg.ST_IntroduceMsg",
               "Key": "MainUI_Prologue_Mint_00006",
               "SourceString": "嗯！我也闻到了！",
-              "LocalizedString": "嗯！我也闻到了！"
+              "LocalizedString": "Yeah! I can smell it too!"
             }
           ],
           "CharacterActorClass": {
@@ -238,7 +238,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
               "SourceString": "输出",
-              "LocalizedString": "输出"
+              "LocalizedString": "Damage"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -267,7 +267,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_1",
               "SourceString": "主力输出",
-              "LocalizedString": "主力输出"
+              "LocalizedString": "Main DPS"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -336,7 +336,7 @@
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_009",
           "SourceString": "「零」",
-          "LocalizedString": "「零」"
+          "LocalizedString": "Zero"
         },
         "MaxAmount": 1,
         "bUseMaxAmountLimitID": false,
@@ -355,13 +355,13 @@
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "ZERO_F_homeplace",
           "SourceString": "伊波恩古董店",
-          "LocalizedString": "伊波恩古董店"
+          "LocalizedString": "Eibon Antique Shop"
         },
         "Description": {
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "ZERO_F_introduction",
           "SourceString": "迄今唯一一位无法检测出维特海默值的异能者。",
-          "LocalizedString": "迄今唯一一位无法检测出维特海默值的异能者。"
+          "LocalizedString": "The only esper in history without a detectable Wertheimer Index."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -524,7 +524,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
               "SourceString": "输出",
-              "LocalizedString": "输出"
+              "LocalizedString": "Damage"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -553,7 +553,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_2",
               "SourceString": "即瞬环合",
-              "LocalizedString": "即瞬环合"
+              "LocalizedString": "Instant Cycle"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -582,7 +582,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_1",
               "SourceString": "爆发输出",
-              "LocalizedString": "爆发输出"
+              "LocalizedString": "Burst DPS"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -651,7 +651,7 @@
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_009",
           "SourceString": "「零」",
-          "LocalizedString": "「零」"
+          "LocalizedString": "Zero"
         },
         "MaxAmount": 1,
         "bUseMaxAmountLimitID": false,
@@ -670,13 +670,13 @@
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "ZERO_F_homeplace",
           "SourceString": "伊波恩古董店",
-          "LocalizedString": "伊波恩古董店"
+          "LocalizedString": "Eibon Antique Shop"
         },
         "Description": {
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "ZERO_F_introduction",
           "SourceString": "迄今唯一一位无法检测出维特海默值的异能者。",
-          "LocalizedString": "迄今唯一一位无法检测出维特海默值的异能者。"
+          "LocalizedString": "The only esper in history without a detectable Wertheimer Index."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -839,7 +839,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
               "SourceString": "输出",
-              "LocalizedString": "输出"
+              "LocalizedString": "Damage"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -868,7 +868,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_2",
               "SourceString": "即瞬环合",
-              "LocalizedString": "即瞬环合"
+              "LocalizedString": "Instant Cycle"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -897,7 +897,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_1",
               "SourceString": "爆发输出",
-              "LocalizedString": "爆发输出"
+              "LocalizedString": "Burst DPS"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -966,7 +966,7 @@
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_075",
           "SourceString": "伊洛伊",
-          "LocalizedString": "伊洛伊"
+          "LocalizedString": "Iroi"
         },
         "MaxAmount": 1,
         "bUseMaxAmountLimitID": false,
@@ -985,13 +985,13 @@
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "F_NPC026_006",
           "SourceString": "德沃夏克家族",
-          "LocalizedString": "德沃夏克家族"
+          "LocalizedString": "Dvořák Family"
         },
         "Description": {
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "F_NPC026_007",
           "SourceString": "虽然看起来有些胆小却是粉爪银行最靠谱的经理。",
-          "LocalizedString": "虽然看起来有些胆小却是粉爪银行最靠谱的经理。"
+          "LocalizedString": "Though she may seem a bit timid, she's the Pink Paws Bank's most dependable manager."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1164,7 +1164,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
               "SourceString": "输出",
-              "LocalizedString": "输出"
+              "LocalizedString": "Damage"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -1193,7 +1193,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_2",
               "SourceString": "即瞬环合",
-              "LocalizedString": "即瞬环合"
+              "LocalizedString": "Instant Cycle"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -1222,7 +1222,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_1",
               "SourceString": "爆发输出",
-              "LocalizedString": "爆发输出"
+              "LocalizedString": "Burst DPS"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -1291,7 +1291,7 @@
           "TableId": "/Game/Text/ST_Player.ST_Player",
           "Key": "Role_Name_076",
           "SourceString": "真红",
-          "LocalizedString": "真红"
+          "LocalizedString": "Crimson"
         },
         "MaxAmount": 1,
         "bUseMaxAmountLimitID": false,
@@ -1310,13 +1310,13 @@
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "ZERO_F_homeplace",
           "SourceString": "伊波恩古董店",
-          "LocalizedString": "伊波恩古董店"
+          "LocalizedString": "Eibon Antique Shop"
         },
         "Description": {
           "TableId": "/Game/Text/ST_File.ST_File",
           "Key": "ZERO_F_introduction",
           "SourceString": "迄今唯一一位无法检测出维特海默值的异能者。",
-          "LocalizedString": "迄今唯一一位无法检测出维特海默值的异能者。"
+          "LocalizedString": "The only esper in history without a detectable Wertheimer Index."
         },
         "LimitScenes": [],
         "ToolDatas": [],
@@ -1555,7 +1555,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "lacrimosa_tag_0",
               "SourceString": "输出",
-              "LocalizedString": "输出"
+              "LocalizedString": "Damage"
             },
             "TagBgIcon": {
               "AssetPathName": "/Game/UI/UI/player/YH_UI_icon_TagBG.YH_UI_icon_TagBG",
@@ -1584,7 +1584,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_2",
               "SourceString": "即瞬环合",
-              "LocalizedString": "即瞬环合"
+              "LocalizedString": "Instant Cycle"
             },
             "TagBgIcon": {
               "AssetPathName": "",
@@ -1613,7 +1613,7 @@
               "TableId": "/Game/Text/ST_CharacterTag.ST_CharacterTag",
               "Key": "Female_tag_1",
               "SourceString": "爆发输出",
-              "LocalizedString": "爆发输出"
+              "LocalizedString": "Burst DPS"
             },
             "TagBgIcon": {
               "AssetPathName": "",
